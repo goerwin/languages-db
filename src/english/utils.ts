@@ -40,7 +40,7 @@ interface EntryPrefix {
 function parseMdDictionary(
   mdContent: string,
   prefixes: EntryPrefix[] = []
-): { frontMatter?: string; entries: Entry[] } {
+): { frontMatter?: string | undefined; entries: Entry[] } {
   const frontMatterMatch = mdContent.match(/^---\s*([\s\S]*?)\s*---/);
   const frontMatterEndIndex = frontMatterMatch?.[0].length ?? 0;
   const frontMatter = frontMatterMatch?.[1];
@@ -61,7 +61,7 @@ function parseMdDictionary(
     if (header) {
       const title = header[1];
 
-      if (seenTitles.has(title))
+      if (!title || seenTitles.has(title))
         throw new Error(`Duplicate title header "${title}", at line ${idx}`);
 
       seenTitles.add(title);
@@ -92,9 +92,9 @@ function parseMdDictionary(
     const [, prefix, value] = match;
     const config = prefixes.find((p) => p.name === prefix);
 
-    if (!config)
+    if (!config || !prefix || !value)
       throw new Error(
-        `Unknown prefix "${prefix}" in title "${currentEntry.title}", at line ${idx}`
+        `Unknown prefix/value "${prefix}"/"${value}" in title "${currentEntry.title}", at line ${idx}`
       );
 
     if (config.unique) {
@@ -131,7 +131,10 @@ function parseMdDictionary(
  * @returns true if the entries array is valid
  * @throws if the entries array is invalid
  */
-function validateEntries(entries: Entry[], prefixes: EntryPrefix[]): true {
+export function validateEntries(
+  entries: Entry[],
+  prefixes: EntryPrefix[]
+): true {
   const seenTitles = new Set<string>();
 
   entries.forEach((entry, idx) => {
@@ -183,8 +186,7 @@ function validateEntries(entries: Entry[], prefixes: EntryPrefix[]): true {
   return true;
 }
 
-export type Level = 'beg' | 'mid' | 'adv';
-export type CategoryId =
+type CategoryId =
   | 'additive'
   | 'contrastive'
   | 'consequential'
@@ -194,9 +196,9 @@ export type CategoryId =
   | 'apposition'
   | 'summative';
 
-export interface Connector {
+interface Connector {
   word: string;
-  lvl: Level;
+  lvl: 'beg' | 'mid' | 'adv';
   subcategory?: string;
   example: string;
   tip?: string;
@@ -211,7 +213,6 @@ export interface Category {
   /** What question does this category answer? */
   question: string;
   subcategories?: string[];
-  connectors: Connector[];
 }
 
 /**
@@ -222,30 +223,68 @@ export interface Category {
  * @throws if content is invalid
  */
 function validateConnectors(content: string): Entry[] {
-  const connectorsConfig = {
+  const connectorsConfig: {
+    levels: Connector['lvl'][];
+    positions: Connector['position'][];
+    categories: Category[];
+  } = {
     levels: ['beg', 'mid', 'adv'],
     positions: ['start', 'middle', 'end', 'flexible'],
     categories: [
-      { id: 'additive', subcategories: ['equative', 'reinforcing'] },
+      {
+        id: 'additive',
+        name: 'Additive',
+        description: 'Used to add information or reinforce a point',
+        question: 'What else? What more?',
+        subcategories: ['equative', 'reinforcing'],
+      },
       {
         id: 'contrastive',
+        name: 'Contrastive',
+        description: 'Used to show contrast, opposition, or unexpected results',
+        question: "But what about? What's different? What's surprising?",
         subcategories: ['antithetic', 'concessive', 'replacive'],
       },
       {
         id: 'consequential',
+        name: 'Consequential',
+        description: 'Used to show cause, effect, reason, or condition',
+        question: 'Why? So what? What happened as a result?',
         subcategories: ['causative', 'resultive', 'conditional'],
       },
       {
         id: 'sequential',
+        name: 'Sequential',
+        description: 'Used to organize ideas in time or logical order',
+        question: "When? In what order? What's next?",
         subcategories: ['ordering', 'timing', 'transitional'],
       },
       {
         id: 'clarification',
+        name: 'Clarification',
+        description: 'Used to explain, emphasize, or strengthen arguments',
+        question: 'What do you mean exactly? Is this important?',
         subcategories: ['emphasizing', 'corroborative', 'generalization'],
       },
-      { id: 'comparison' },
-      { id: 'apposition', subcategories: ['exemplification', 'restatement'] },
-      { id: 'summative' },
+      {
+        id: 'comparison',
+        name: 'Comparison',
+        description: 'Used to show similarities between ideas',
+        question: "How is this similar? What's the same?",
+      },
+      {
+        id: 'apposition',
+        name: 'Apposition',
+        description: 'Used to give examples or restate in different words',
+        question: 'Can you give an example? What do you mean?',
+        subcategories: ['exemplification', 'restatement'],
+      },
+      {
+        id: 'summative',
+        name: 'Summative',
+        description: 'Used to summarize, conclude, or wrap up ideas',
+        question: "So what's the bottom line? To wrap up?",
+      },
     ],
   };
 
@@ -263,11 +302,11 @@ function validateConnectors(content: string): Entry[] {
     const { cat, subcat, lvl, pos, title } = entry;
 
     // Validate level
-    if (!connectorsConfig.levels.includes(lvl as string))
+    if (!connectorsConfig.levels.some((level) => level === lvl))
       throw new Error(`Entry "${title}": invalid lvl "${lvl}"`);
 
     // Validate position
-    if (!connectorsConfig.positions.includes(pos as string))
+    if (!connectorsConfig.positions.some((position) => position === pos))
       throw new Error(`Entry "${title}": invalid pos "${pos}"`);
 
     // Validate category
