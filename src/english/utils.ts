@@ -1,24 +1,3 @@
-import fs from 'node:fs/promises';
-
-const adjectivesMd = await fs.readFile('../english-adjectives.md', 'utf-8');
-const adjectives = parseMdDictionary(adjectivesMd, [
-  { name: 'pho', unique: true, required: true },
-  { name: 'def', unique: true, required: true },
-  { name: 'eg', unique: false, required: true },
-]);
-
-const commonIdiomsMd = await fs.readFile(
-  '../english-common-idioms.md',
-  'utf-8'
-);
-const commonIdioms = parseMdDictionary(commonIdiomsMd, [
-  { name: 'def', unique: true, required: true },
-  { name: 'eg', unique: false, required: true },
-]);
-
-const connectorsMd = await fs.readFile('../english-connectors.md', 'utf-8');
-const connectors = validateConnectors(connectorsMd);
-
 interface Entry {
   title: string;
   [x: string]: string | string[];
@@ -30,17 +9,20 @@ interface EntryPrefix {
   required?: boolean;
 }
 
+type ValidatorReturn = { frontMatter?: string | undefined; entries: Entry[] };
+
 /**
  * Parses markdown content and converts it to an array of entries
  *
  * @param mdContent - the markdown content
  * @param prefixes - prefixes allowed for each entry
  * @returns an array of entries
+ * @throws if the content is invalid
  */
-function parseMdDictionary(
+export function validateMdEntries(
   mdContent: string,
-  prefixes: EntryPrefix[] = []
-): { frontMatter?: string | undefined; entries: Entry[] } {
+  prefixes: readonly EntryPrefix[] = []
+): ValidatorReturn {
   const frontMatterMatch = mdContent.match(/^---\s*([\s\S]*?)\s*---/);
   const frontMatterEndIndex = frontMatterMatch?.[0].length ?? 0;
   const frontMatter = frontMatterMatch?.[1];
@@ -90,6 +72,7 @@ function parseMdDictionary(
       throw new Error(`Invalid line format: "${line}", at line ${idx}`);
 
     const [, prefix, value] = match;
+
     const config = prefixes.find((p) => p.name === prefix);
 
     if (!config || !prefix || !value)
@@ -206,7 +189,7 @@ interface Connector {
   position: 'start' | 'middle' | 'end' | 'flexible';
 }
 
-export interface Category {
+interface Category {
   id: CategoryId;
   name: string;
   description: string;
@@ -222,7 +205,7 @@ export interface Category {
  * @returns valid connectors
  * @throws if content is invalid
  */
-function validateConnectors(content: string): Entry[] {
+export function validateConnectors(content: string): ValidatorReturn {
   const connectorsConfig: {
     levels: Connector['lvl'][];
     positions: Connector['position'][];
@@ -288,7 +271,7 @@ function validateConnectors(content: string): Entry[] {
     ],
   };
 
-  const { entries } = parseMdDictionary(content, [
+  const { frontMatter, entries } = validateMdEntries(content, [
     { name: 'cat', unique: true, required: true },
     { name: 'subcat', unique: true },
     { name: 'lvl', unique: true, required: true },
@@ -326,5 +309,5 @@ function validateConnectors(content: string): Entry[] {
     }
   });
 
-  return entries;
+  return { frontMatter, entries };
 }
