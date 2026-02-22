@@ -24,6 +24,7 @@
     "exactOptionalPropertyTypes": true,
 
     "allowImportingTsExtensions": true,
+    "noEmit": true,
 
     // Style Options
     // "noImplicitReturns": true,
