@@ -1,11 +1,11 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { validateConnectors, validateMdEntries } from './english/utils.ts';
+import { validateConnectors, validateMdEntries } from '../src/english/utils.ts';
 
 (
   [
     [
-      path.resolve(import.meta.dirname, './english/adjectives.md'),
+      path.resolve(import.meta.dirname, '../src/english/assets/adjectives.md'),
       validateMdEntries,
       [
         { name: 'pho', unique: true, required: true },
@@ -14,7 +14,7 @@ import { validateConnectors, validateMdEntries } from './english/utils.ts';
       ],
     ],
     [
-      path.resolve(import.meta.dirname, './english/common-idioms.md'),
+      path.resolve(import.meta.dirname, '../src/english/assets/common-idioms.md'),
       validateMdEntries,
       [
         { name: 'def', unique: true, required: true },
@@ -22,7 +22,7 @@ import { validateConnectors, validateMdEntries } from './english/utils.ts';
       ],
     ],
     [
-      path.resolve(import.meta.dirname, './english/connectors.md'),
+      path.resolve(import.meta.dirname, '../src/english/assets/connectors.md'),
       validateConnectors,
     ],
   ] as const
