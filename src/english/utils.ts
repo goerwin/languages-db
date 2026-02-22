@@ -12,7 +12,14 @@ interface EntryPrefix {
 type ValidatorReturn = { frontMatter?: string | undefined; entries: Entry[] };
 
 /**
- * Parses markdown content and converts it to an array of entries
+ * Validates and parses markdown content and converts it to an array of entries.
+ *
+ * It ensures that:
+ * - There's at most one frontMatter section, delimited by ---[frontMatter]---
+ * - Resulting `Entry[]` array are unique by "title" property
+ * - Prefixes options where `unique` is false or unset will be array of options
+ * - Prefixes options where `unique` is true, will guarantee at most 1 of them exist
+ * - Prefixes options where `required` is true, will ensure the entry contains that property
  *
  * @param mdContent - the markdown content
  * @param prefixes - prefixes allowed for each entry
