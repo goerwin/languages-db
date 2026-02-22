@@ -9,7 +9,7 @@ import { validateConnectors, validateMdEntries } from '../src/english/utils.ts';
       validateMdEntries,
       [
         { name: 'pho', unique: true, required: true },
-        { name: 'def', unique: true, required: true },
+        { name: 'def', unique: false, required: true },
         { name: 'eg', unique: false, required: true },
       ],
     ],
@@ -17,7 +17,7 @@ import { validateConnectors, validateMdEntries } from '../src/english/utils.ts';
       path.resolve(import.meta.dirname, '../src/english/assets/common-idioms.md'),
       validateMdEntries,
       [
-        { name: 'def', unique: true, required: true },
+        { name: 'def', unique: false, required: true },
         { name: 'eg', unique: false, required: true },
       ],
     ],

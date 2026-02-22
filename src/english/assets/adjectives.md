@@ -5949,7 +5949,8 @@ eg: Political views
 
 pho: /pʊr/
 def: Lacking money or of low quality
-eg: Poor conditions
+def: lacking sufficient money to live at a standard considered comfortable or normal in a society
+eg: People who were too poor to afford a telephone
 eg: A poor decision
 
 # popular

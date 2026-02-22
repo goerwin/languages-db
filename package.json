@@ -4,9 +4,9 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "prebuild": "npx rimraf dist && node scripts/validate.ts",
+    "prebuild": "npx rimraf dist",
     "build": "for lang in src/*/; do mkdir -p dist/$(basename $lang) && cp -R \"$lang/assets/\"* \"dist/$(basename $lang)/\"; done",
-    "test": "vitest run"
+    "test": "node scripts/validate.ts && vitest run"
   },
   "keywords": [],
   "author": "",
