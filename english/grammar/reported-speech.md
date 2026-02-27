@@ -1,5 +1,6 @@
 ---
 title: English Reported Speech
+description: How to report what someone said in English, covering tense changes, pronoun shifts, time/place adjustments, questions, commands, and reporting verbs
 ---
 
 # statements

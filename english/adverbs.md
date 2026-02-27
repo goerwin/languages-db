@@ -1,5 +1,6 @@
 ---
 title: English Common Adverbs
+description: Common English adverbs covering frequency, manner, degree, time, place, and attitude, with phonetic pronunciation, definitions, and example sentences
 ---
 
 # abroad

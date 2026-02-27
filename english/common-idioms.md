@@ -1,5 +1,6 @@
 ---
 title: English Common Idioms
+description: Widely used English idiomatic expressions with definitions and example sentences showing how they are used in everyday conversation
 ---
 
 # Bite the bullet

@@ -1,5 +1,6 @@
 ---
 title: English Relative Clauses
+description: Defining and non-defining relative clauses in English, covering who, whom, which, that, whose, where, when, and pronoun omission rules
 ---
 
 # defining relative clauses

@@ -1,5 +1,6 @@
 ---
 title: English Connectors
+description: English linking words and connectors organized by category and level, used to join ideas and create cohesive sentences
 ---
 
 # and
