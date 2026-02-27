@@ -41,8 +41,8 @@ eg: He checked the accuracy of his calculations
 
 pho: /əˈtʃiːv.mənt/
 def: A thing done successfully, typically by effort, courage, or skill
-eg: Winning the award was her greatest achievement
-eg: The team celebrated their achievement
+eg: Winning the award was her greatest achievement after years of persistence
+eg: Landing on the moon remains one of humanity’s most remarkable achievements
 
 # acknowledgment
 
@@ -181,8 +181,8 @@ eg: We honor our ancestors at this festival
 
 pho: /ˈæŋ.ɡər/
 def: A strong feeling of displeasure or hostility
-eg: He could not hide his anger at the decision
-eg: She felt a surge of anger
+eg: He could not hide his anger when the decision was reversed without any explanation
+eg: She felt a sudden surge of anger when she realized she had been deliberately misled
 
 # anguish
 
@@ -202,8 +202,8 @@ eg: The company marked its 50th anniversary
 
 pho: /əˈnaʊns.mənt/
 def: A public or formal statement about a fact or intention
-eg: The announcement was made at noon
-eg: We await the announcement of the winner
+eg: The CEO made a surprise announcement that the company would be relocating its headquarters
+eg: We eagerly await the announcement of the winner at the end of the ceremony
 
 # anxiety
 
@@ -286,8 +286,8 @@ eg: We made arrangements for the meeting
 
 pho: /ˈær.ə.ɡəns/
 def: The quality of being arrogant; an exaggerated sense of one's importance
-eg: His arrogance made him unpopular
-eg: She was put off by his arrogance
+eg: His arrogance in dismissing others’ ideas made him deeply unpopular among his colleagues
+eg: She was put off by his arrogance — he spoke as if no one else in the room had any expertise
 
 # aspect
 
@@ -342,8 +342,8 @@ eg: He had a strong attachment to his hometown
 
 pho: /əˈtempt/
 def: An effort to achieve or complete something
-eg: She made an attempt to climb the mountain
-eg: The attempt failed
+eg: She made a brave attempt to climb the mountain despite the harsh weather conditions
+eg: Their first attempt to launch the rocket failed due to a last-minute technical fault
 
 # attendance
 
@@ -482,8 +482,8 @@ eg: We need to eliminate bias from the hiring process
 
 pho: /blɪs/
 def: Perfect happiness; great joy
-eg: They lived in marital bliss
-eg: Ignorance is bliss
+eg: Lying in the hammock by the lake on a quiet afternoon was pure bliss
+eg: They spent their honeymoon in marital bliss, away from the stresses of everyday life
 
 # blueprint
 
@@ -671,8 +671,8 @@ eg: A coalition of groups opposed the plan
 
 pho: /kəʊˈɪn.sɪ.dəns/
 def: A remarkable concurrence of events without apparent causal connection
-eg: It was pure coincidence that we met
-eg: What a strange coincidence
+eg: It was pure coincidence that we met at the airport — we had booked the same flight without knowing
+eg: Running into him twice in one day seemed like more than just coincidence
 
 # collaboration
 
@@ -755,8 +755,8 @@ eg: She developed complications after surgery
 
 pho: /ˈkɒm.prə.maɪz/
 def: An agreement reached by each side making concessions
-eg: We reached a compromise on the terms
-eg: Compromise is sometimes necessary
+eg: After hours of negotiation, both parties reached a compromise on the payment terms
+eg: A good compromise leaves neither side completely satisfied, but both sides able to move forward
 
 # concentration
 
@@ -811,8 +811,8 @@ eg: The annual conference brings together experts
 
 pho: /ˈkɒn.fɪ.dəns/
 def: The feeling of self-assurance; the belief that something will happen
-eg: She spoke with confidence
-eg: I have confidence in your ability
+eg: She answered every question with confidence, impressing the entire interview panel
+eg: I have full confidence in your ability to lead the team through this difficult transition
 
 # confirmation
 
@@ -832,8 +832,8 @@ eg: The region has been in conflict for years
 
 pho: /ˈkɒn.ʃəns/
 def: A moral sense of right and wrong
-eg: His conscience troubled him
-eg: She acted according to her conscience
+eg: His conscience troubled him for weeks after he failed to report what he had witnessed
+eg: She acted according to her conscience, refusing the promotion because it required relocating the team overseas
 
 # consciousness
 
@@ -902,8 +902,8 @@ eg: She held him in contempt
 
 pho: /ˈkɒn.tekst/
 def: The circumstances that form the setting for an event or idea
-eg: You need to consider the context
-eg: The quote was taken out of context
+eg: The decision made little sense without knowing the political context in which it was taken
+eg: The quote was taken out of context — the speaker had been arguing the exact opposite
 
 # contradiction
 
@@ -1021,22 +1021,22 @@ eg: The child's curiosity was boundless
 
 pho: /ˈded.laɪn/
 def: The latest time or date by which something should be completed
-eg: The deadline is next Friday
-eg: We're working to meet the deadline
+eg: The submission deadline is next Friday, so the team has been working overtime all week
+eg: Missing the deadline would mean losing the contract, so no one left the office early
 
 # debate
 
 pho: /dɪˈbeɪt/
 def: A formal discussion on a particular matter; argument or discussion
-eg: The debate was televised
-eg: There is much debate about the issue
+eg: The televised debate between the two candidates attracted over ten million viewers
+eg: There is ongoing debate among scientists about the long-term effects of the treatment
 
 # debt
 
 pho: /det/
 def: Something, typically money, that is owed
-eg: The company is in debt
-eg: He paid off his debts
+eg: The company accumulated so much debt during the pandemic that it had to sell several assets
+eg: After five years of careful budgeting, she finally paid off all her student debts
 
 # decade
 
@@ -1049,8 +1049,8 @@ eg: The last decade saw many changes
 
 pho: /dɪˈklaɪn/
 def: A gradual and continuous loss of strength or quality
-eg: The industry is in decline
-eg: There has been a decline in sales
+eg: The coal industry has been in steady decline since the shift to renewable energy accelerated
+eg: There has been a sharp decline in sales following the recall of the flagship product
 
 # dedication
 
@@ -1217,8 +1217,8 @@ eg: She graduated with distinction
 
 pho: /daɪˈvɜː.sə.ti/
 def: The state of being diverse; variety
-eg: The company values diversity
-eg: The region has great biodiversity
+eg: The company actively promotes diversity by recruiting talent from different backgrounds and cultures
+eg: The Amazon rainforest is home to a remarkable diversity of plant and animal species
 
 # doctrine
 
@@ -1329,15 +1329,15 @@ eg: Empathy is essential in healthcare
 
 pho: /ɪnˈdev.ər/
 def: An attempt to achieve a goal; a serious effort
-eg: The endeavor was successful
-eg: We wish you success in your endeavors
+eg: Building a community garden from scratch was a rewarding endeavor that brought neighbors together
+eg: We wish you every success in your future endeavors, whatever path you choose to take
 
 # endurance
 
 pho: /ɪnˈdjʊə.rəns/
 def: The ability to endure an unpleasant or difficult process
-eg: Marathon running requires endurance
-eg: The endurance of the human spirit
+eg: Completing the ultramarathon required extraordinary physical endurance and mental discipline
+eg: The endurance of the human spirit in the face of adversity has inspired countless stories throughout history
 
 # enthusiasm
 
@@ -1364,8 +1364,8 @@ eg: Obesity has reached epidemic proportions
 
 pho: /ɪˈkwɒl.ə.ti/
 def: The state of being equal in terms of rights, status, or opportunity
-eg: We fight for equality for all
-eg: Gender equality is a goal
+eg: Civil rights movements around the world have fought for equality before the law for all people
+eg: Gender equality in the workplace means equal pay and equal opportunities for advancement
 
 # equilibrium
 
@@ -1448,8 +1448,8 @@ eg: The excerpt was published in the magazine
 
 pho: /ɪkˈses/
 def: An amount that is more than necessary; lack of moderation
-eg: The excess was returned
-eg: He drank to excess
+eg: Any excess material left over after the construction was returned to the supplier for a refund
+eg: Years of eating and drinking to excess eventually took a serious toll on his health
 
 # exclusion
 
@@ -1567,8 +1567,8 @@ eg: A faction opposed the leadership
 
 pho: /ˈfeɪ.ljər/
 def: Lack of success; the omission of expected action
-eg: The project ended in failure
-eg: His failure to appear was noted
+eg: The product launch ended in failure after a series of preventable errors derailed the rollout
+eg: His failure to appear at the disciplinary hearing was noted and held against him
 
 # faith
 
@@ -1588,8 +1588,8 @@ eg: It's a common fallacy that more is better
 
 pho: /feɪm/
 def: The state of being known by many people
-eg: She achieved fame at a young age
-eg: Fame came with a price
+eg: She achieved international fame at a young age after her debut novel became a bestseller
+eg: Fame brought recognition, but it also came with a loss of privacy she never expected
 
 # famine
 
@@ -1657,7 +1657,7 @@ eg: Add a fraction of salt
 # framework
 
 pho: /ˈfreɪm.wɜːk/
-def: An essential supporting structure; a basic framework
+def: An essential supporting structure; a system of rules or ideas used as a basis for something
 eg: We need a legal framework for this
 eg: The framework of the theory is sound
 
@@ -1742,15 +1742,15 @@ eg: The donation was a generous gesture
 
 pho: /ˈɡʌv.ə.nəns/
 def: The action or manner of governing
-eg: Corporate governance has improved
-eg: Good governance is essential
+eg: Corporate governance improved significantly after shareholders demanded greater transparency
+eg: Good governance requires clear accountability, fair laws, and institutions that serve the public interest
 
 # gratitude
 
 pho: /ˈɡræt.ɪ.tjuːd/
 def: The quality of being thankful
-eg: I would like to express my gratitude
-eg: She felt deep gratitude for their help
+eg: He wrote a heartfelt letter to express his gratitude to the team that had supported him through recovery
+eg: She felt deep gratitude for their help during the most difficult period of her life
 
 # gravity
 
@@ -1840,8 +1840,8 @@ eg: There's a hierarchy of needs
 
 pho: /ˈhaɪ.laɪt/
 def: An outstanding part of an event; the best part
-eg: The highlight of the trip was the museum
-eg: She highlighted the key points
+eg: The highlight of the entire trip was the visit to the ancient ruins at dawn
+eg: The awards ceremony was the highlight of the evening, drawing applause from the entire audience
 
 # hindrance
 
@@ -1875,8 +1875,8 @@ eg: Acts of humanity in times of war
 
 pho: /hjuːˈmɪl.ə.ti/
 def: The quality of having a modest view of one's importance
-eg: She accepted the award with humility
-eg: Humility is a virtue
+eg: She accepted the award with humility, thanking her team rather than taking personal credit
+eg: The greatest leaders often combine confidence with humility — they know what they don’t know
 
 # hypothesis
 
@@ -1952,8 +1952,8 @@ eg: The index of consumer confidence rose
 
 pho: /ˌɪn.dɪˈkeɪ.ʃən/
 def: A sign or piece of information that suggests something
-eg: There are indications of improvement
-eg: Early indication suggests success
+eg: There are clear indications of improvement in the patient’s condition since the treatment began
+eg: Early indications suggest the new policy is having the intended effect on crime rates
 
 # inequality
 
@@ -2127,22 +2127,22 @@ eg: His intuition proved correct
 
 pho: /ˈɪn.vən.tər.i/
 def: A complete list of items; the stock of goods
-eg: We need to take inventory
-eg: The inventory is low
+eg: At the end of every quarter, staff take inventory to reconcile stock with sales records
+eg: The inventory was dangerously low after the supply chain disruptions caused by the strike
 
 # investigation
 
 pho: /ɪnˌves.tɪˈɡeɪ.ʃən/
 def: The action of investigating something
-eg: The investigation is ongoing
-eg: A full investigation was launched
+eg: The investigation into the data breach is ongoing and could take several months to complete
+eg: A full investigation was launched after allegations of financial misconduct surfaced in the press
 
 # investment
 
 pho: /ɪnˈvest.mənt/
 def: The action of investing money; a thing worth buying
-eg: The investment paid off
-eg: Education is a good investment
+eg: The long-term investment in renewable energy finally paid off when electricity costs dropped significantly
+eg: Education is arguably the most reliable investment a person can make in their own future
 
 # irony
 
@@ -2197,8 +2197,8 @@ eg: She provided justification for her actions
 
 pho: /ˈnɒl.ɪdʒ/
 def: Facts, information, and skills acquired through experience
-eg: Knowledge is power
-eg: She has extensive knowledge of the subject
+eg: A deep knowledge of history can help us avoid repeating the mistakes of the past
+eg: She has extensive knowledge of molecular biology, making her one of the best candidates for the role
 
 # landmark
 
@@ -2337,8 +2337,8 @@ eg: We underestimated the magnitude of the problem
 
 pho: /ˈmeɪn.striːm/
 def: The ideas, attitudes, or activities that are regarded as normal
-eg: The band went mainstream
-eg: Mainstream media covered the story
+eg: What was once considered alternative music has now entered the mainstream
+eg: Mainstream media largely ignored the story until it went viral on social platforms
 
 # maintenance
 
@@ -2386,8 +2386,8 @@ eg: The bond reaches maturity in ten years
 
 pho: /ˈmek.ə.nɪ.zəm/
 def: A system of parts working together; a natural or established process
-eg: The mechanism is simple
-eg: We need a mechanism for resolving disputes
+eg: The locking mechanism in the safe was so complex that even a locksmith struggled to open it
+eg: We need a clear mechanism for resolving disputes before they escalate into legal action
 
 # mediation
 
@@ -2498,15 +2498,15 @@ eg: A period of mourning was observed
 
 pho: /ˈnær.ə.tɪv/
 def: A spoken or written account of connected events; a story
-eg: The narrative was compelling
-eg: We need to change the narrative
+eg: The documentary presented a compelling narrative about the impact of climate change on coastal communities
+eg: Politicians often try to change the narrative when things are not going in their favor
 
 # necessity
 
 pho: /nəˈses.ə.ti/
 def: The state or fact of being required; something essential
-eg: Necessity is the mother of invention
-eg: Food is a basic necessity
+eg: Clean water is an absolute necessity that millions of people around the world still lack access to
+eg: Food, shelter, and warmth are the basic necessities of human survival
 
 # neglect
 
@@ -2631,8 +2631,8 @@ eg: Leaving is not an option
 
 pho: /ɔːˈdiːl/
 def: A painful or horrific experience
-eg: The trial was an ordeal
-eg: She survived the ordeal
+eg: The weeks-long trial was a grueling ordeal for the entire family, who had to relive traumatic events daily
+eg: She described the experience as the worst ordeal of her life but said it made her stronger
 
 # orientation
 
@@ -2659,8 +2659,8 @@ eg: The outbreak of war was unexpected
 
 pho: /ˈaʊt.kʌm/
 def: The way a thing turns out; a consequence
-eg: The outcome of the election was close
-eg: We await the outcome
+eg: The outcome of the election was so close that a recount was ordered in three districts
+eg: The doctors were cautious about predicting the outcome of the experimental treatment
 
 # outline
 
@@ -2687,8 +2687,8 @@ eg: The computer's output was displayed
 
 pho: /ˈaʊt.reɪdʒ/
 def: An extremely strong reaction of anger or shock
-eg: The decision caused outrage
-eg: She expressed her outrage
+eg: The decision to close the hospital caused widespread outrage among residents who had relied on it for decades
+eg: She expressed her outrage in an open letter that quickly spread across social media
 
 # oversight
 
@@ -2722,8 +2722,8 @@ eg: We encourage participation
 
 pho: /ˈpɑːt.nə.ʃɪp/
 def: The state of being a partner; an association of two or more parties
-eg: They formed a partnership
-eg: The partnership was successful
+eg: The two tech companies formed a strategic partnership to develop artificial intelligence solutions together
+eg: Their creative partnership produced some of the most celebrated films of the decade
 
 # passion
 
@@ -2736,8 +2736,8 @@ eg: Music is his passion
 
 pho: /ˈpeɪ.ʃəns/
 def: The capacity to accept delay or trouble without becoming annoyed
-eg: She has the patience of a saint
-eg: Patience is a virtue
+eg: She has the patience of a saint — she spent hours explaining the same concept without ever losing her temper
+eg: Restoring old furniture requires patience and attention to detail that not everyone possesses
 
 # pattern
 
@@ -2764,8 +2764,8 @@ eg: Her perception of the situation was accurate
 
 pho: /pəˈsɪs.təns/
 def: The fact of continuing in an opinion or course of action despite difficulty
-eg: Her persistence paid off
-eg: Success requires persistence
+eg: Her persistence finally paid off after she applied to the same job for the third time and got hired
+eg: Despite repeated rejections, his persistence in submitting his manuscript eventually led to publication
 
 # perspective
 
@@ -2799,8 +2799,8 @@ eg: We must address their plight
 
 pho: /ˈpɒl.ə.si/
 def: A course of action adopted by a government or organization
-eg: The company has a strict policy
-eg: Foreign policy has changed
+eg: The company has a strict zero-tolerance policy on workplace harassment that applies to all staff levels
+eg: Foreign policy shifted dramatically after the election of a new administration with different priorities
 
 # portion
 
@@ -2848,8 +2848,8 @@ eg: She spoke with precision
 
 pho: /prɪˈdɪk.ə.mənt/
 def: A difficult or unpleasant situation
-eg: We are in a predicament
-eg: She found a way out of her predicament
+eg: Losing both her job and apartment on the same day left her in a truly difficult predicament
+eg: She found a creative way out of her predicament by negotiating a payment plan with her creditors
 
 # preference
 
@@ -2876,8 +2876,8 @@ eg: The business operates from these premises
 
 pho: /ˈprez.əns/
 def: The state of being present; a person's bearing
-eg: Her presence was felt
-eg: He has a commanding presence
+eg: Even when she said nothing, her presence in the room commanded attention from everyone there
+eg: The general had such a commanding presence that soldiers instinctively straightened up when he walked in
 
 # preservation
 
@@ -2925,15 +2925,15 @@ eg: It was a privilege to meet her
 
 pho: /prəˈsiː.dʒər/
 def: An established or official way of doing something
-eg: Follow the correct procedure
-eg: The procedure is straightforward
+eg: Everyone must follow the correct procedure when handling biohazardous material in the laboratory
+eg: The surgical procedure is straightforward but requires the patient to remain still throughout
 
 # productivity
 
 pho: /ˌprɒd.ʌkˈtɪv.ə.ti/
 def: The state of being productive; efficiency
-eg: Productivity has increased
-eg: We need to improve productivity
+eg: Productivity in the factory increased by thirty percent after the introduction of automated systems
+eg: The manager introduced flexible working hours in an effort to improve employee productivity and wellbeing
 
 # proficiency
 
@@ -3002,15 +3002,15 @@ eg: They were in pursuit of the suspect
 
 pho: /ˌræʃ.əˈnɑːl/
 def: A set of reasons for a course of action
-eg: She explained the rationale
-eg: The rationale was sound
+eg: She took time to explain the rationale behind the restructuring to ease the team’s concerns
+eg: The rationale for the decision was sound, but the timing was widely criticized
 
 # realm
 
 pho: /relm/
 def: A kingdom; a field or domain
-eg: The realm of possibility
-eg: In the realm of science
+eg: The idea may seem unusual, but it’s not beyond the realm of possibility
+eg: Discoveries in the realm of science have transformed how we understand the universe
 
 # rebellion
 
@@ -3023,8 +3023,8 @@ eg: Teenage rebellion is common
 
 pho: /rɪˈseʃ.ən/
 def: A period of temporary economic decline
-eg: The country entered a recession
-eg: The recession affected many
+eg: The country entered a recession after months of declining exports and rising unemployment
+eg: The recession of 2008 affected millions of families who lost their homes or jobs
 
 # recognition
 
@@ -3037,15 +3037,15 @@ eg: There was no recognition between them
 
 pho: /ˌrek.ə.menˈdeɪ.ʃən/
 def: A suggestion or proposal; a formal suggestion
-eg: I have a recommendation for you
-eg: The committee made a recommendation
+eg: Her doctor had a clear recommendation: reduce stress and increase physical activity
+eg: The independent committee made a formal recommendation to reform the sentencing guidelines
 
 # reconciliation
 
 pho: /ˌrek.ən.sɪl.iˈeɪ.ʃən/
 def: The restoration of friendly relations
-eg: The reconciliation between the two families
-eg: We seek reconciliation
+eg: The reconciliation between the two families came years after the dispute over the inheritance
+eg: The peace talks were described as the first step toward genuine reconciliation between the two sides
 
 # recovery
 
@@ -3058,8 +3058,8 @@ eg: She made a full recovery
 
 pho: /rɪˈdʌn.dən.si/
 def: The state of being no longer needed; repetition
-eg: He was made redundant
-eg: The redundancy in the system
+eg: He was made redundant after the company merged with a larger rival and eliminated duplicate roles
+eg: The built-in redundancy in the system ensures it keeps running even if one component fails
 
 # reference
 
@@ -3100,15 +3100,15 @@ eg: A new regime took power
 
 pho: /ˌreɡ.jʊˈleɪ.ʃən/
 def: A rule or directive made by an authority
-eg: The regulation was enforced
-eg: Government regulations apply
+eg: The new regulation was strictly enforced, with heavy fines for businesses that failed to comply
+eg: Government regulations on food safety exist to protect consumers from contaminated or mislabeled products
 
 # reinforcement
 
 pho: /ˌriː.ɪnˈfɔːs.mənt/
 def: The action of strengthening; additional troops or equipment
-eg: Positive reinforcement works well
-eg: The reinforcements arrived
+eg: Positive reinforcement works well in training — rewarding desired behavior encourages it to be repeated
+eg: The reinforcements arrived just in time to prevent the town from falling to the advancing forces
 
 # relevance
 
@@ -3121,8 +3121,8 @@ eg: I question the relevance of this
 
 pho: /rɪˈlʌk.təns/
 def: Unwillingness to do something
-eg: She agreed with reluctance
-eg: His reluctance was evident
+eg: She agreed with obvious reluctance, making it clear she was only doing so to avoid further conflict
+eg: His reluctance to share information with the rest of the team slowed the entire project down
 
 # remedy
 
@@ -3135,15 +3135,15 @@ eg: The court ordered a remedy
 
 pho: /rɪˈmɔːs/
 def: Deep regret or guilt for a wrong committed
-eg: He felt deep remorse
-eg: She showed no remorse
+eg: He felt deep remorse after realizing his careless words had caused his friend significant pain
+eg: The judge was particularly disturbed that the defendant showed no remorse throughout the trial
 
 # reputation
 
 pho: /ˌrep.jʊˈteɪ.ʃən/
 def: The beliefs or opinions generally held about someone
-eg: She has a good reputation
-eg: The company's reputation suffered
+eg: She has earned an excellent reputation in the field through years of rigorous and ethical research
+eg: The company’s reputation suffered irreparable damage after the safety scandal became public
 
 # requirement
 
@@ -3163,8 +3163,8 @@ eg: Years of resentment built up
 
 pho: /rɪˈzɪl.i.əns/
 def: The capacity to recover quickly from difficulties
-eg: Her resilience is admirable
-eg: The economy showed resilience
+eg: Her resilience in bouncing back after losing everything in the fire was nothing short of admirable
+eg: Despite the global downturn, the local economy showed remarkable resilience and recovered within a year
 
 # resolution
 
@@ -3205,8 +3205,8 @@ eg: The retention of information
 
 pho: /ˌrev.əˈleɪ.ʃən/
 def: A surprising disclosure; the divine disclosure of something
-eg: The revelation shocked everyone
-eg: It was a revelation to her
+eg: The revelation that the company had been falsifying financial reports shocked shareholders and regulators alike
+eg: Traveling abroad was a revelation to her — it opened her eyes to how differently people live their lives
 
 # revenue
 
@@ -3240,8 +3240,8 @@ eg: There is fierce rivalry in the market
 
 pho: /ˈsæk.rɪ.faɪs/
 def: An act of giving up something valued; an offering to a deity
-eg: She made many sacrifices for her family
-eg: The sacrifice was accepted
+eg: She made many personal sacrifices for her family, giving up her career to care for her aging parents
+eg: The soldiers’ sacrifice is honored every year at the national memorial ceremony
 
 # sanction
 
@@ -3254,8 +3254,8 @@ eg: The committee gave its sanction
 
 pho: /ˌsæt.ɪsˈfæk.ʃən/
 def: Fulfillment of one's wishes or needs
-eg: She expressed her satisfaction
-eg: Job satisfaction is important
+eg: She expressed her satisfaction with the outcome, saying the settlement was fair to all parties involved
+eg: Job satisfaction often matters more to employees than salary — feeling valued makes a real difference
 
 # scarcity
 
@@ -3268,8 +3268,8 @@ eg: The scarcity of resources
 
 pho: /sɪˈnɑː.ri.əʊ/
 def: A postulated sequence of events; a setting
-eg: In the worst-case scenario
-eg: We planned for various scenarios
+eg: In the worst-case scenario, the project could be delayed by up to six months due to the funding gap
+eg: Emergency teams planned for various scenarios so they could respond quickly regardless of what happened
 
 # scope
 
@@ -3324,15 +3324,15 @@ eg: The water shortage worsened
 
 pho: /sɪɡˈnɪf.ɪ.kəns/
 def: The quality of being significant; importance
-eg: The significance of the discovery
-eg: We understand the significance
+eg: The significance of the discovery was not fully appreciated until years after it was first published
+eg: The team seemed to underestimate the significance of the error until the consequences became clear
 
 # simplicity
 
 pho: /sɪmˈplɪs.ə.ti/
 def: The quality or condition of being simple
-eg: The simplicity of the design
-eg: She appreciated the simplicity
+eg: The simplicity of the design was what made it so appealing — clean lines, no clutter
+eg: She appreciated the simplicity of the approach, which avoided unnecessary complexity and confusion
 
 # skepticism
 
@@ -3359,8 +3359,8 @@ eg: The solitude of the mountains
 
 pho: /səˌfɪs.tɪˈkeɪ.ʃən/
 def: The quality of being sophisticated
-eg: The sophistication of the system
-eg: She has great sophistication
+eg: The sophistication of the new surveillance system far exceeded anything the police had used before
+eg: She handled the delicate diplomatic situation with a level of sophistication that impressed everyone present
 
 # speculation
 
@@ -3373,8 +3373,8 @@ eg: Property speculation drove prices up
 
 pho: /stəˈbɪl.ə.ti/
 def: The state of being stable
-eg: Political stability is essential
-eg: The stability of the economy
+eg: Political stability is essential for attracting foreign investment and sustained economic growth
+eg: The stability of the economy depends on sound fiscal policy and public confidence in institutions
 
 # standard
 
@@ -3401,8 +3401,8 @@ eg: External stimulus triggers response
 
 pho: /ˈstræt.ə.dʒi/
 def: A plan of action designed to achieve a goal
-eg: We need a new strategy
-eg: The strategy was successful
+eg: We need a new marketing strategy — the current approach is not reaching younger audiences effectively
+eg: The military strategy was so successful that it became a case study in tactical innovation
 
 # structure
 
@@ -3415,8 +3415,8 @@ eg: The building's structure is sound
 
 pho: /ˈsʌb.stəns/
 def: A particular kind of matter; the real physical matter
-eg: The substance was identified
-eg: There was no substance to the claim
+eg: The unknown substance was identified in the laboratory as a highly concentrated industrial solvent
+eg: After further investigation, there was found to be no substance whatsoever to the allegations
 
 # succession
 
@@ -3443,15 +3443,15 @@ eg: Electronic surveillance was used
 
 pho: /səˌsteɪ.nəˈbɪl.ə.ti/
 def: The ability to be maintained at a certain rate
-eg: Environmental sustainability
-eg: The sustainability of the project
+eg: Environmental sustainability means using natural resources in ways that can be maintained long term
+eg: Investors questioned the financial sustainability of the project, given its heavy reliance on public funding
 
 # sympathy
 
 pho: /ˈsɪm.pə.θi/
 def: Feelings of pity and sorrow for someone else's misfortune
-eg: She expressed her sympathy
-eg: We have sympathy for the victims
+eg: She expressed her heartfelt sympathy to the bereaved family with a handwritten note and flowers
+eg: We have enormous sympathy for the victims of the disaster and are doing everything we can to help
 
 # tactic
 
@@ -3520,22 +3520,22 @@ eg: Financial transactions are recorded
 
 pho: /ˌtræns.fəˈmeɪ.ʃən/
 def: A thorough or dramatic change
-eg: The transformation was remarkable
-eg: Economic transformation took decades
+eg: The transformation of the abandoned warehouse into a thriving arts center was nothing short of remarkable
+eg: The economic transformation of the country from a closed to an open market took decades of careful reform
 
 # transition
 
 pho: /trænˈzɪʃ.ən/
 def: The process of changing from one state to another
-eg: The transition was smooth
-eg: We are in transition
+eg: The transition from school to full-time employment can be challenging for many young graduates
+eg: The organization is currently in transition — moving from a traditional hierarchy to a flat team structure
 
 # transparency
 
 pho: /trænsˈpær.ən.si/
 def: The quality of being transparent; openness
-eg: Government transparency is essential
-eg: The transparency of the process
+eg: Government transparency is essential for maintaining public trust and reducing the risk of corruption
+eg: The transparency of the selection process was questioned after details of the decision were withheld
 
 # trend
 
@@ -3555,15 +3555,15 @@ eg: We pay tribute to the fallen
 
 pho: /ˈtraɪ.ʌmf/
 def: A great victory or achievement
-eg: The triumph of good over evil
-eg: It was a personal triumph
+eg: The story depicts the ultimate triumph of courage and justice over cruelty and oppression
+eg: Finishing the race despite her injury was an incredible personal triumph that brought her to tears
 
 # turmoil
 
 pho: /ˈtɜː.mɔɪl/
 def: A state of great disturbance or confusion
-eg: The country was in turmoil
-eg: Political turmoil followed
+eg: The country descended into economic turmoil after the currency collapsed and inflation soared overnight
+eg: Political turmoil followed the sudden resignation of the prime minister, leaving parliament in deadlock
 
 # turnover
 
@@ -3583,15 +3583,15 @@ eg: Economic uncertainty persists
 
 pho: /ˌʌn.dəˈteɪ.kɪŋ/
 def: A formal pledge; a task or project
-eg: It was a major undertaking
-eg: She gave an undertaking to comply
+eg: Building the new highway through the mountains was a massive engineering undertaking that took five years
+eg: She gave a formal undertaking to comply with all the conditions set by the regulatory authority
 
 # unity
 
 pho: /ˈjuː.nə.ti/
 def: The state of being united
-eg: National unity is important
-eg: We must work in unity
+eg: National unity was crucial in the aftermath of the disaster, as communities came together to rebuild
+eg: The only way to overcome this challenge is if we work in unity rather than pursuing individual agendas
 
 # upheaval
 
@@ -3604,15 +3604,15 @@ eg: The upheaval was traumatic
 
 pho: /ˈɜː.dʒən.si/
 def: Importance requiring swift action
-eg: There is urgency to the matter
-eg: She spoke with urgency
+eg: The growing number of cases gave a new urgency to the development of an effective treatment
+eg: She spoke with urgency, warning that unless action was taken immediately, the opportunity would be lost
 
 # utility
 
 pho: /juːˈtɪl.ə.ti/
 def: The state of being useful; a public service
-eg: The utility of the tool
-eg: The utilities were cut off
+eg: The utility of the app became apparent only after users started relying on it for daily navigation
+eg: After failing to pay the bills for three months, the utilities were cut off by the provider
 
 # validity
 
@@ -3632,15 +3632,15 @@ eg: The outcome depends on several variables
 
 pho: /ˈven.tʃər/
 def: A risky or daring journey or undertaking
-eg: The business venture failed
-eg: It was a joint venture
+eg: The business venture failed within the first year due to poor planning and an underestimated market
+eg: The two firms entered into a joint venture to develop and market the new technology together
 
 # verdict
 
 pho: /ˈvɜː.dɪkt/
 def: A decision on a disputed issue; a jury's decision
-eg: The verdict was guilty
-eg: We await the verdict
+eg: After two weeks of deliberation, the jury returned a guilty verdict on all three counts
+eg: The entire country seemed to hold its breath as they awaited the verdict in the high-profile corruption trial
 
 # versatility
 
@@ -3660,8 +3660,8 @@ eg: He was charged with a violation
 
 pho: /ˈvɜː.tjuː/
 def: Behavior showing high moral standards; a good quality
-eg: Patience is a virtue
-eg: The virtue of the approach
+eg: One undeniable virtue of the new leader was her ability to listen before making any judgments
+eg: The virtue of the approach lies in its simplicity — it requires minimal resources and produces reliable results
 
 # visibility
 
@@ -3681,8 +3681,8 @@ eg: The leader had a clear vision
 
 pho: /ˌvʌl.nər.əˈbɪl.ə.ti/
 def: The quality of being vulnerable
-eg: The vulnerability of the system
-eg: She showed her vulnerability
+eg: The vulnerability of the system was exposed when hackers successfully accessed thousands of user accounts
+eg: She showed her vulnerability in the interview, admitting that the experience had deeply affected her
 
 # warfare
 
@@ -3709,22 +3709,22 @@ eg: She works in social welfare
 
 pho: /ˈwɪz.dəm/
 def: The quality of having experience and good judgment
-eg: She spoke with wisdom
-eg: Conventional wisdom says otherwise
+eg: She spoke with the wisdom that comes from decades of experience navigating complex international negotiations
+eg: Conventional wisdom says you should invest early, but conventional wisdom is not always right
 
 # workforce
 
 pho: /ˈwɜːk.fɔːs/
 def: The people engaged in or available for work
-eg: The workforce has grown
-eg: A skilled workforce is essential
+eg: The workforce has grown by fifteen percent since the company expanded into three new markets
+eg: A skilled and well-motivated workforce is one of the most valuable assets any organization can have
 
 # yield
 
 pho: /jiːld/
 def: The amount produced; the income from an investment
-eg: The yield from the harvest
-eg: Bond yields have fallen
+eg: This year’s yield from the harvest was lower than expected due to the prolonged drought
+eg: Bond yields have fallen sharply as investors moved money into safer assets amid market uncertainty
 
 # zeal
 

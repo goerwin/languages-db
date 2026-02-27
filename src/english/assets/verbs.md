@@ -40,9 +40,10 @@ eg: The company acquired three smaller competitors
 # adjust
 
 pho: /əˈdʒʌst/
-def: To change something slightly to make it fit or work better
-eg: You need to adjust the settings on your phone
-eg: He adjusted his schedule to accommodate the meeting
+def: To change something slightly to make it fit, work better, or suit new conditions
+def: To adapt to a new situation or environment
+eg: The technician adjusted the settings on the machine to improve its performance
+eg: It took her several months to adjust to life in a new country
 
 # admit
 
@@ -90,8 +91,8 @@ eg: I apologize for any inconvenience this may cause
 
 pho: /əˈpiːl/
 def: To make a serious or urgent request
-eg: The charity appealed for donations after the disaster
-eg: Her case will appeal to the Supreme Court
+eg: The charity appealed for donations after the disaster left thousands of families homeless
+eg: Her lawyers decided to appeal the conviction to the Supreme Court
 
 # apply
 
@@ -125,8 +126,9 @@ eg: Her parents approved of her choice of career
 
 pho: /ˈɑːr.ɡjuː/
 def: To speak angrily to someone because you disagree with them
-eg: They argued about money constantly
-eg: She argued that the policy was unfair
+def: To present reasons in support of a view or position
+eg: They argued bitterly about money until one of them finally walked out
+eg: She argued convincingly that the policy would harm the most vulnerable communities
 
 # arise
 
@@ -209,8 +211,9 @@ eg: Several countries have banned the chemical
 
 pho: /ber/
 def: To tolerate or endure something difficult
-eg: I can't bear the thought of losing her
-eg: The tree bears fruit in autumn
+def: To carry, hold, or produce something
+eg: I can't bear the thought of losing her after everything we’ve been through together
+eg: The mango tree bears fruit twice a year in tropical climates
 
 # beat
 
@@ -377,8 +380,8 @@ eg: The photograph captured the beauty of the sunset
 
 pho: /ˈsel.ə.breɪt/
 def: To show that an event or occasion is important by doing something special
-eg: We celebrated her birthday with a surprise party
-eg: The team celebrated their victory
+eg: We celebrated her birthday with a surprise party and a homemade dinner that she will never forget
+eg: The team celebrated their unexpected victory by parading through the streets for hours
 
 # challenge
 
@@ -405,8 +408,8 @@ eg: She felt cheated out of her inheritance
 
 pho: /kleɪm/
 def: To say that something is true without proof
-eg: He claimed he had never seen her before
-eg: She filed a claim for damages with the insurance company
+eg: He claimed he had never seen her before, despite witnesses placing them together at the scene
+eg: She claimed damages from the company after proving they had violated the safety regulations
 
 # clarify
 
@@ -517,8 +520,8 @@ eg: The report concluded that changes were needed
 
 pho: /kənˈdʌkt/
 def: To organize and perform a particular activity
-eg: The professor conducted the experiment
-eg: The orchestra conducted by a famous maestro
+eg: The professor conducted the experiment under strict laboratory conditions to ensure accurate results
+eg: A famous maestro conducted the orchestra through a breathtaking performance of Beethoven’s Ninth
 
 # confess
 
@@ -656,9 +659,10 @@ eg: They corresponded by email for years
 # count
 
 pho: /kaʊnt/
-def: To say numbers in order or calculate total
-eg: Count to ten before you respond
-eg: Every vote counts in this election
+def: To say numbers in order; to calculate how many there are
+def: To matter or be of importance
+eg: The instructor told the students to count to ten in order to practice pronunciation
+eg: Every vote counts in this election — even a single ballot could determine the outcome
 
 # crash
 
@@ -845,16 +849,16 @@ eg: She detected a note of sarcasm in his voice
 # determine
 
 pho: /dɪˈtɜːr.mɪn/
-def: To discover the facts about something
-eg: The investigation will determine what happened
-eg: She was determined to succeed
+def: To discover the facts about something; to decide or settle something
+eg: The investigation will determine exactly what caused the accident
+eg: The jury must determine whether the evidence is sufficient to convict
 
 # develop
 
 pho: /dɪˈvel.əp/
-def: To grow or cause to grow
-eg: The child developed quickly
-eg: The company is developing a new product
+def: To grow or change into a more advanced state; to create something new over time
+eg: The child developed language skills remarkably quickly, speaking full sentences before age two
+eg: The company has been developing a new product line aimed at the healthcare market
 
 # devote
 
@@ -930,8 +934,8 @@ eg: The company distributes products nationwide
 
 pho: /dɪˈstɜːrb/
 def: To interrupt someone or make them worried
-eg: Sorry to disturb you
-eg: The news disturbed everyone
+eg: The loud music from the neighboring apartment was disturbing her concentration
+eg: The news of the accident deeply disturbed everyone who had known him personally
 
 # divide
 
@@ -1035,8 +1039,8 @@ eg: The new policy will be enforced strictly
 
 pho: /ɪnˈɡeɪdʒ/
 def: To participate or become involved in something
-eg: She engaged in the debate
-eg: The company engaged a consultant
+eg: She engaged in a lively debate with colleagues about the best approach to take
+eg: The company engaged a specialist consultant to review its cybersecurity infrastructure
 
 # enhance
 
@@ -1119,15 +1123,17 @@ eg: The price excludes tax
 
 pho: /ˈek.sə.kjuːt/
 def: To kill someone as a legal punishment
-eg: The prisoner was executed at dawn
-eg: She executed the plan perfectly
+def: To carry out a plan, task, or action
+eg: The prisoner was executed at dawn after his final appeal was rejected by the court
+eg: She executed the plan perfectly, coordinating every detail without a single mistake
 
 # exercise
 
 pho: /ˈek.sər.saɪz/
-def: To do physical activity to stay healthy
-eg: You should exercise regularly
-eg: She exercised her right to vote
+def: To do physical activity to stay healthy or improve fitness
+def: To use a right, skill, or authority
+eg: Doctors recommend that adults exercise for at least thirty minutes five days a week
+eg: She exercised her right to vote in every election since she turned eighteen
 
 # exhibit
 
@@ -1349,9 +1355,10 @@ eg: Who is funding this project?
 # furnish
 
 pho: /ˈfɜːr.nɪʃ/
-def: To provide furniture for a room
-eg: They furnished the apartment beautifully
-eg: The report furnished all the details
+def: To provide furniture or fittings for a room
+def: To supply someone with something needed
+eg: They furnished the apartment beautifully, choosing a mix of modern and vintage pieces
+eg: The report furnished all the details investigators needed to proceed with the case
 
 # gain
 
@@ -1700,8 +1707,8 @@ eg: The law limits the speed to 55 mph
 
 pho: /ˈlɪŋ.ɡər/
 def: To stay somewhere longer than necessary
-eg: She lingered after the party
-eg: The smell lingered in the room
+eg: She lingered after the party, talking to the host long after the other guests had left
+eg: The smell of paint lingered in the room for days even after all the windows had been opened
 
 # locate
 
@@ -1756,8 +1763,8 @@ eg: They're trying to mend their relationship
 
 pho: /ˈmen.ʃən/
 def: To refer to something briefly
-eg: She mentioned your name
-eg: Don't mention it; it was nothing
+eg: She casually mentioned your name during our conversation, which is how I knew you two had met
+eg: He mentioned in passing that the project deadline had been moved forward by two weeks
 
 # merge
 
@@ -1945,8 +1952,8 @@ eg: She participated in the marathon
 
 pho: /pɔːz/
 def: To stop temporarily
-eg: He paused before answering
-eg: Let's pause for a moment
+eg: He paused for a long moment before answering, choosing his words very carefully
+eg: The speaker paused to let the gravity of the announcement sink in before continuing
 
 # perceive
 
@@ -2008,8 +2015,8 @@ eg: We had to postpone our vacation
 
 pho: /pɔːr/
 def: To make a liquid flow from a container
-eg: She poured the tea
-eg: Rain poured down all night
+eg: She poured the tea into the cups and set them on the table while everyone found a seat
+eg: Rain poured down all night, flooding several low-lying roads and causing disruption to morning commutes
 
 # praise
 
@@ -2092,8 +2099,8 @@ eg: She proposed to him last night
 
 pho: /ˈprɑː.spər/
 def: To be successful and grow
-eg: The business prospered
-eg: The region prospered under peace
+eg: The business prospered after the new manager restructured the sales team and opened two new locations
+eg: The region prospered under decades of peace, with literacy rates and living standards rising steadily
 
 # protect
 
@@ -2175,9 +2182,10 @@ eg: She quit smoking five years ago
 # quote
 
 pho: /kwoʊt/
-def: To repeat someone's exact words
-eg: She quoted from the report
-eg: Can you quote me a price?
+def: To repeat someone's exact words or write a passage from a source
+def: To state a price for something
+eg: She quoted directly from the report to support her argument
+eg: The contractor quoted a price of ten thousand dollars to complete the renovation
 
 # react
 
@@ -2231,9 +2239,10 @@ eg: The price was reduced by twenty percent
 # reflect
 
 pho: /rɪˈflekt/
-def: To show or express something
-eg: Her actions reflect her values
-eg: He reflected on his past mistakes
+def: To throw back light, heat, or sound without absorbing it; to show or express something
+def: To think carefully about something
+eg: Her actions clearly reflect her deeply held values and sense of fairness
+eg: He spent the evening quietly reflecting on his past mistakes and what he could have done differently
 
 # refuse
 
@@ -2736,8 +2745,8 @@ eg: The business suffered losses
 
 pho: /səɡˈdʒest/
 def: To put forward an idea for consideration
-eg: I suggest we leave early
-eg: The data suggests a link
+eg: I suggest we leave early to avoid the worst of the rush-hour traffic
+eg: The data suggests a strong link between sleep deprivation and reduced cognitive performance
 
 # summarize
 
@@ -2764,8 +2773,8 @@ eg: The evidence supports his claim
 
 pho: /səˈpoʊz/
 def: To think that something is likely true
-eg: I suppose you're right
-eg: Let's suppose that happens
+eg: I suppose his refusal to attend was a sign that he disagreed with the decision
+eg: Let’s suppose the experiment fails — what would be our backup plan?
 
 # surpass
 
@@ -2854,9 +2863,10 @@ eg: Critics targeted the government
 # tend
 
 pho: /tend/
-def: To be likely to behave in a particular way
-eg: She tends to be late
-eg: He tended the garden daily
+def: To be likely to behave or exist in a particular way; to have a tendency
+def: To take care of or look after someone or something
+eg: She tends to be late when she has a lot on her mind
+eg: He tended the garden daily, pruning roses and watering the vegetable patches with care
 
 # terminate
 
@@ -2953,8 +2963,8 @@ eg: Events unfolded quickly
 
 pho: /juːˈnaɪt/
 def: To join together
-eg: The two parties united
-eg: The crisis united the nation
+eg: The two rival parties united behind a single candidate to oppose the incumbent
+eg: The tragedy united the nation in grief and solidarity in a way that few events had before
 
 # update
 
@@ -2967,8 +2977,8 @@ eg: The software was updated last week
 
 pho: /ɜːrdʒ/
 def: To strongly advise someone to do something
-eg: She urged him to see a doctor
-eg: I urge you to reconsider
+eg: She urged him to see a doctor after noticing that the cough had persisted for over two weeks
+eg: The UN urged member states to reduce carbon emissions before the crisis became irreversible
 
 # utilize
 
@@ -3030,8 +3040,8 @@ eg: The action violated human rights
 
 pho: /ˌvɑː.lənˈtɪr/
 def: To offer to do something without being paid
-eg: She volunteered at the hospital
-eg: He volunteered to help
+eg: She volunteered at the hospital every Saturday, providing companionship to elderly patients
+eg: He volunteered to lead the project even though it meant working through the holiday period
 
 # wander
 
@@ -3078,9 +3088,10 @@ eg: The wind whispered through the trees
 # withdraw
 
 pho: /wɪðˈdrɔː/
-def: To take money out of a bank account
-eg: She withdrew cash from the ATM
-eg: The army withdrew from the region
+def: To take money out of a bank account or savings
+def: To move back or retreat; to remove oneself from a situation
+eg: She withdrew cash from the ATM before leaving for the airport
+eg: The army withdrew from the region after suffering heavy losses in the offensive
 
 # withstand
 
@@ -3121,19 +3132,20 @@ eg: Her words wounded him deeply
 
 pho: /ræp/
 def: To cover something with paper or cloth
-eg: She wrapped the gift
-eg: Wrap the leftovers in foil
+eg: She carefully wrapped the gift in bright paper and added a bow before placing it under the tree
+eg: The chef showed us how to wrap the leftovers tightly in foil to keep them fresh overnight
 
 # yield
 
 pho: /jiːld/
-def: To produce or provide something
-eg: The investment yielded high returns
-eg: She yielded to his demands
+def: To produce or provide a result or profit
+def: To give way under pressure or to someone else’s wishes
+eg: The investment yielded surprisingly high returns over the first three years
+eg: After hours of negotiation, she finally yielded to his demands and agreed to the revised terms
 
 # yell
 
 pho: /jel/
 def: To shout loudly
-eg: He yelled for help
-eg: Don't yell at the children
+eg: He yelled for help from the bottom of the ravine, but no one seemed to hear him
+eg: She yelled across the crowded room to get her friend’s attention before they lost each other
