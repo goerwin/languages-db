@@ -42,8 +42,8 @@ eg: She felt much better afterwards
 
 pho: /əˈhed/
 def: In front; in advance; toward the future
-eg: Look ahead and plan for the future
-eg: We need to book the venue ahead of time
+eg: She always thinks ahead, anticipating problems before they arise
+eg: We need to book the venue ahead of time or all the good dates will be taken
 
 # almost
 
@@ -91,8 +91,8 @@ eg: I can't find my keys anywhere
 
 pho: /əˈper.ənt.li/
 def: According to what you have heard or read; seemingly
-eg: Apparently, the meeting has been postponed
-eg: She's apparently very talented
+eg: Apparently, the meeting has been postponed because the director is traveling
+eg: He’s apparently been living abroad for the past three years, though no one seems to know exactly where
 
 # automatically
 
@@ -147,8 +147,8 @@ eg: Let me explain briefly what happened
 
 pho: /ˈker.fəl.i/
 def: With great attention to avoid harm or error
-eg: Handle the glass carefully
-eg: Read the instructions carefully before starting
+eg: The surgeon carefully removed the fragment without damaging the surrounding tissue
+eg: She read the contract carefully before signing, making sure she understood every clause
 
 # certainly
 
@@ -161,8 +161,8 @@ eg: She certainly knows what she's doing
 
 pho: /ˈkloʊs.li/
 def: With little space between; with careful attention
-eg: The two events are closely related
-eg: Watch closely and you'll see the difference
+eg: The two events are closely related — one directly triggered the other
+eg: The detective studied the scene closely before drawing any conclusions
 
 # completely
 
@@ -301,8 +301,8 @@ eg: She finally decided to quit her job
 
 pho: /ˈfɝːm.li/
 def: In a strong or steady way
-eg: She firmly believes in equality
-eg: Hold the handle firmly
+eg: She firmly believes in equality and refuses to compromise on that principle
+eg: He gripped the railing firmly as the boat rocked back and forth in the rough sea
 
 # fortunately
 
@@ -322,8 +322,8 @@ eg: The building was formerly a school
 
 pho: /ˈfræŋk.li/
 def: In an honest and direct way
-eg: Frankly, I don't think it will work
-eg: To speak frankly, I'm disappointed
+eg: Frankly, I don’t think the proposal is strong enough to convince the board
+eg: She told him frankly that his performance had not met the expectations of the role
 
 # frequently
 
@@ -336,8 +336,8 @@ eg: This problem occurs frequently
 
 pho: /ˈdʒen.t̬li/
 def: In a soft or mild way
-eg: She gently closed the door
-eg: Handle the baby gently
+eg: She gently closed the door so as not to wake her sleeping daughter
+eg: The nurse gently cleaned the wound, making sure the patient felt as little pain as possible
 
 # hard
 
@@ -364,8 +364,8 @@ eg: I hardly ever go to the movies
 
 pho: /hɪr/
 def: In, at, or to this place
-eg: Come here and sit down
-eg: I've been here for an hour
+eg: She pointed to the chair and said, "You can sit here if you’d like"
+eg: I’ve been here for an hour already and they still haven’t called my name
 
 # honestly
 
@@ -378,22 +378,22 @@ eg: She spoke honestly about her feelings
 
 pho: /ˈhoʊp.fəl.i/
 def: In a hopeful way; it is hoped that
-eg: Hopefully, the weather will be nice
-eg: She looked at him hopefully
+eg: Hopefully, the new treatment will reduce the symptoms enough for him to return to work
+eg: She looked at him hopefully, waiting to hear whether her application had been successful
 
 # ideally
 
 pho: /aɪˈdiː.ə.li/
 def: In a perfect or best possible way
-eg: Ideally, we'd finish by Friday
-eg: Ideally, everyone would participate
+eg: Ideally, we’d finish the renovation by Friday, but realistically it could take another week
+eg: Ideally, candidates should have at least three years of experience in a similar role
 
 # immediately
 
 pho: /ɪˈmiː.di.ət.li/
 def: At once; without delay
-eg: Please respond immediately
-eg: She left immediately after the call
+eg: The fire alarm went off and everyone immediately evacuated the building
+eg: She left the office immediately after the call, saying it was a family emergency
 
 # incredibly
 
@@ -483,8 +483,8 @@ eg: Naturally, I was disappointed
 
 pho: /ˈnɪr.li/
 def: Almost; not quite
-eg: We're nearly there
-eg: It took nearly two hours
+eg: We’re nearly finished with the report — just the conclusion left to write
+eg: It took nearly two hours to get through security at the airport
 
 # nearby
 
@@ -518,8 +518,8 @@ eg: We're getting nowhere with this discussion
 
 pho: /naʊ/
 def: At the present time; immediately
-eg: I need to leave now
-eg: What are you doing now?
+eg: The server is down and we need to fix it now before the system goes live
+eg: She realized now that she should have listened to the warning months earlier
 
 # nowadays
 
@@ -532,8 +532,8 @@ eg: People travel more nowadays
 
 pho: /ˈɑːb.vi.əs.li/
 def: In a way that is easy to see or understand
-eg: Obviously, we need to try harder
-eg: She was obviously upset
+eg: Obviously, launching the product without proper testing was a mistake
+eg: She was obviously upset by the outcome but tried to hide it in front of the clients
 
 # occasionally
 
@@ -574,8 +574,8 @@ eg: He patiently explained the rules
 
 pho: /pɚˈhæps/
 def: Maybe; possibly
-eg: Perhaps we should leave early
-eg: Perhaps I was wrong
+eg: Perhaps we should leave early to avoid the traffic that builds up after five
+eg: She began to wonder if perhaps she had misread the situation all along
 
 # permanently
 
@@ -602,8 +602,8 @@ eg: He asked politely for directions
 
 pho: /ˈpɑː.sə.bli/
 def: Perhaps; maybe
-eg: Could you possibly help me?
-eg: It's possibly the best restaurant in town
+eg: The doctor said it could possibly take six months before he fully recovers
+eg: It’s possibly the best restaurant in town — the reviews have been outstanding
 
 # pretty
 
@@ -616,8 +616,8 @@ eg: I'm pretty sure she said Tuesday
 
 pho: /prɪˈzuː.mə.bli/
 def: Used to say what you think is likely true
-eg: Presumably, they'll arrive by noon
-eg: He's presumably at home
+eg: Presumably, they’ll arrive by noon given that they left three hours ago
+eg: The lights are on, so he’s presumably still at home and hasn’t gone out yet
 
 # previously
 
@@ -658,8 +658,8 @@ eg: The situation changed quickly
 
 pho: /ˈkwaɪ.ət.li/
 def: With little or no sound
-eg: Please speak quietly in the library
-eg: She quietly closed the door
+eg: He spoke quietly so as not to disturb the others who were still working
+eg: She quietly closed the door behind her and tiptoed down the hallway
 
 # quite
 
@@ -735,8 +735,8 @@ eg: She was rudely interrupted
 
 pho: /ˈsɪr.i.əs.li/
 def: In a serious manner; used for emphasis
-eg: Take this seriously
-eg: Seriously, you need to see a doctor
+eg: The situation is deteriorating and needs to be taken seriously by the whole team
+eg: Seriously, you need to see a doctor — those symptoms have been going on for too long
 
 # shortly
 
@@ -777,8 +777,8 @@ eg: The room is slightly too warm
 
 pho: /ˈsloʊ.li/
 def: At a low speed; not quickly
-eg: Drive slowly in the rain
-eg: She slowly opened the door
+eg: He drove slowly through the narrow village streets, mindful of the children playing nearby
+eg: She slowly opened the door to the room, unsure of what she would find inside
 
 # softly
 
@@ -819,8 +819,8 @@ eg: She suddenly started crying
 
 pho: /səˈpoʊ.zɪd.li/
 def: According to what is generally thought or said
-eg: He's supposedly an expert
-eg: The document was supposedly lost
+eg: He’s supposedly an expert in the field, but his answers today raised a lot of doubts
+eg: The document was supposedly lost, but it turned up in a filing cabinet three years later
 
 # surprisingly
 
@@ -854,22 +854,22 @@ eg: First mix the flour, then add the eggs
 
 pho: /ðer/
 def: In, at, or to that place
-eg: Put the book over there
-eg: I've never been there before
+eg: She pointed to the empty chair and said, "You can put your bag right there"
+eg: I’ve never been there before, but everything I’ve heard suggests it’s a beautiful city
 
 # thoroughly
 
 pho: /ˈθɝː.ə.li/
 def: Completely; in a careful and detailed way
-eg: Clean the kitchen thoroughly
-eg: She thoroughly enjoyed the performance
+eg: The inspector thoroughly examined every room in the building before signing off
+eg: She thoroughly enjoyed the performance — it was even better than she had hoped
 
 # tightly
 
 pho: /ˈtaɪt.li/
 def: In a firm or close way
-eg: Hold on tightly
-eg: The lid was screwed on tightly
+eg: She held on tightly to the railing as the boat lurched in the rough water
+eg: The lid was screwed on so tightly that she had to use a cloth to get a better grip
 
 # too
 
@@ -896,8 +896,8 @@ eg: Typically, these meetings last an hour
 
 pho: /ˈʌl.tə.mət.li/
 def: In the end; finally
-eg: Ultimately, the decision is yours
-eg: We ultimately succeeded
+eg: Ultimately, the decision is yours — no one can make it for you
+eg: After years of setbacks and disappointments, they ultimately succeeded in bringing the product to market
 
 # unfortunately
 
@@ -945,15 +945,15 @@ eg: She usually takes the bus to work
 
 pho: /ˈver.i/
 def: To a high degree; extremely
-eg: The movie was very good
-eg: I'm very tired
+eg: The conditions on the mountain were very dangerous, and the guide recommended turning back
+eg: She was very grateful for their support during what had been an incredibly difficult year
 
 # well
 
 pho: /wel/
 def: In a good or satisfactory way; thoroughly
-eg: She sings very well
-eg: I know him well
+eg: She sings remarkably well for someone who has never had formal training
+eg: I know him well enough to tell when something is bothering him, even when he insists he’s fine
 
 # yet
 

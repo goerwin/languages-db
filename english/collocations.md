@@ -390,8 +390,8 @@ eg: She finally got a chance to prove herself
 # get in touch
 
 def: To make contact with someone
-eg: Please get in touch if you have any questions
-eg: I'll get in touch with you next week
+eg: He got in touch with his old professor to ask for a letter of recommendation
+eg: I’ll get in touch with the supplier next week to confirm the delivery schedule
 
 # get into trouble
 
@@ -558,8 +558,8 @@ eg: Parents often have high expectations for their children
 # high priority
 
 def: Something that is very important and needs attention first
-eg: Safety is a high priority for the company
-eg: This project has high priority
+eg: Safety is a high priority for the company, which is why every employee receives extensive training
+eg: The new hospital expansion is a high priority for the regional government this year
 
 # high profile
 
@@ -660,8 +660,8 @@ eg: We need to keep an eye on our expenses
 # keep calm
 
 def: To remain peaceful and not panic
-eg: Keep calm and carry on
-eg: It's important to keep calm in an emergency
+eg: The paramedic kept calm throughout the rescue operation and directed others with quiet authority
+eg: It’s important to keep calm in an emergency — panicking only makes the situation worse
 
 # keep control
 
@@ -672,8 +672,8 @@ eg: She struggled to keep control of the class
 # keep in mind
 
 def: To remember or consider something
-eg: Keep in mind that the store closes at six
-eg: We need to keep in mind the budget constraints
+eg: You should keep in mind that the store closes at six on weekdays, so plan accordingly
+eg: The team needs to keep in mind the strict budget constraints when selecting a venue
 
 # keep pace
 
@@ -720,8 +720,8 @@ eg: The rainy weather put everyone in low spirits
 # low standards
 
 def: Lenient or poor criteria for quality
-eg: The restaurant has low standards for hygiene
-eg: We should not have low standards for ourselves
+eg: The restaurant was shut down because it had consistently low standards for hygiene
+eg: The investors were disappointed by what they saw as low standards in the company’s reporting
 
 # make a complaint
 
@@ -732,8 +732,8 @@ eg: Customers can make a complaint by calling the hotline
 # make a decision
 
 def: To choose between options
-eg: We need to make a decision by Friday
-eg: It was a difficult decision to make
+eg: We need to make a decision by Friday or the contract will go to another company
+eg: After weeks of deliberation, the board finally made a decision to move the headquarters overseas
 
 # make a difference
 
@@ -816,8 +816,8 @@ eg: The instructions don't make sense
 # make sure
 
 def: To verify or ensure that something happens
-eg: Make sure you lock the door when you leave
-eg: I'll make sure he gets the message
+eg: Before leaving the lab, researchers must make sure all the equipment is properly shut down
+eg: I’ll make sure he gets the message before the end of the business day
 
 # make a living
 
@@ -882,8 +882,8 @@ eg: It's perfectly clear that she's not interested
 # perfectly fine
 
 def: Completely okay or satisfactory
-eg: The food was perfectly fine
-eg: I'm perfectly fine, thank you
+eg: The food was perfectly fine — nothing spectacular, but fresh and reasonably priced
+eg: The updated design is perfectly fine for the project’s purposes and doesn’t need further revision
 
 # perfectly normal
 
@@ -1008,8 +1008,8 @@ eg: The children take a bath every night
 # take a break
 
 def: To pause from activity to rest
-eg: Let's take a break and get some coffee
-eg: You've been working too long—take a break
+eg: Let’s take a break and get some coffee before continuing with the second half of the presentation
+eg: She decided to take a break from social media for a month to improve her mental wellbeing
 
 # take a chance
 
@@ -1104,8 +1104,8 @@ eg: Someone needs to take responsibility for this project
 # take time
 
 def: To require a period of time
-eg: Learning a language takes time
-eg: Good things take time
+eg: Learning a language properly takes time and consistent daily practice over months or years
+eg: Building trust with a client takes time, but it’s worth the investment in the long run
 
 # take turns
 
@@ -1122,8 +1122,8 @@ eg: Information is now widely available online
 # widely known
 
 def: Recognized by many people
-eg: She is widely known for her charity work
-eg: The fact is widely known
+eg: She is widely known for her charity work in communities affected by natural disasters
+eg: It’s widely known that regular sleep has a significant impact on cognitive performance
 
 # widely recognized
 
