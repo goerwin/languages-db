@@ -21,8 +21,8 @@ eg: Tourism accounts for most of the island's income
 
 cat: adjective + preposition
 def: Feeling fear about something or someone
-eg: She's afraid of flying, so she always takes the train
-eg: Don't be afraid of making mistakes; that's how you learn
+eg: She’s afraid of flying, so she always takes the train when traveling within Europe
+eg: Many students are afraid of asking questions in case they appear foolish
 
 # agree on
 
@@ -49,8 +49,8 @@ eg: She aimed at the target and fired
 
 cat: verb + preposition
 def: To try to achieve or reach something
-eg: We're aiming for a June release date
-eg: Aim for the stars and you might reach the moon
+eg: We’re aiming for a June release date to coincide with the summer campaign
+eg: The team is aiming for a top-three finish in the national championships
 
 # allergic to
 
@@ -84,8 +84,8 @@ eg: He's still angry about losing the game
 
 cat: adjective + preposition
 def: Feeling strong displeasure directed at someone or something
-eg: Don't be angry at me; it wasn't my fault
-eg: She was angry at the delay
+eg: He was angry at himself for making such an obvious error in the final round
+eg: She was angry at the unexpected delay that caused her to miss the connecting flight
 
 # angry with
 
@@ -105,8 +105,8 @@ eg: I'm annoyed about having to work on Saturday
 
 cat: adjective + preposition
 def: Slightly angry or irritated with someone
-eg: She's annoyed with her roommate for leaving a mess
-eg: Don't be annoyed with me; I'm trying to help
+eg: She’s annoyed with her roommate for repeatedly leaving dishes in the sink
+eg: He was annoyed with the contractor for failing to finish the work by the agreed date
 
 # answer to
 
@@ -126,15 +126,15 @@ eg: He felt anxious about the exam results
 
 cat: verb + preposition
 def: To express regret for something one has done
-eg: I apologize for the inconvenience
-eg: She apologized for being late
+eg: The airline apologized for the inconvenience caused by the three-hour delay
+eg: She apologized for being late to the meeting, explaining that her train had broken down
 
 # apologize to
 
 cat: verb + preposition
 def: To express regret directly to someone
-eg: You need to apologize to your sister
-eg: He apologized to the whole team for his mistake
+eg: She realized she needed to apologize to her colleague for the harsh comment she had made
+eg: He apologized to the whole team for the error that had set the project back by a week
 
 # apply for
 
@@ -196,8 +196,8 @@ eg: She's ashamed of her poor grades
 
 cat: verb + preposition
 def: To request something from someone
-eg: Don't hesitate to ask for help if you need it
-eg: He asked for a raise but was denied
+eg: She wasn’t sure how to ask for more time without seeming unprepared
+eg: He asked for a raise after demonstrating a consistent improvement in his results
 
 # associated with
 
@@ -217,8 +217,8 @@ eg: We need to change our attitude toward failure
 
 cat: adjective + preposition
 def: Having knowledge or consciousness of something
-eg: Are you aware of the new policy?
-eg: She wasn't aware of the danger
+eg: All staff must be made aware of the new data protection policy before next month
+eg: She wasn’t aware of the danger until it was almost too late to take action
 
 # bad at
 
@@ -273,8 +273,8 @@ eg: What's the benefit of waiting?
 
 cat: verb + preposition
 def: To hold responsible for something bad
-eg: Don't blame me for your mistakes
-eg: He was blamed for the project's failure
+eg: It’s easy to blame others for mistakes, but the team needed to find a solution instead
+eg: He was blamed for the project’s failure, even though several factors were beyond his control
 
 # bored with
 
@@ -329,15 +329,15 @@ eg: Would you care for some tea?
 
 cat: adjective + preposition
 def: Cautious or attentive regarding something
-eg: Be careful about what you say in the meeting
-eg: She's careful about her diet
+eg: He was careful about what he said in public after the misquote went viral
+eg: She’s very careful about her diet and reads every ingredient label before buying
 
 # careful with
 
 cat: adjective + preposition
 def: Cautious when handling or dealing with something
-eg: Be careful with that vase; it's fragile
-eg: You need to be careful with your spending
+eg: The movers were careful with the antique furniture, wrapping each piece individually
+eg: She learned to be more careful with her spending after running into debt in her first year
 
 # cause of
 
@@ -350,8 +350,8 @@ eg: Stress is often the cause of health problems
 
 cat: adjective + preposition
 def: Having no doubt regarding something
-eg: I'm not certain about the exact date
-eg: Are you certain about your decision?
+eg: I’m not certain about the exact date, but I believe it was sometime in March
+eg: Before proceeding, the team needed to be certain about every assumption in the model
 
 # certain of
 
@@ -392,8 +392,8 @@ eg: She's very close to her grandmother
 
 cat: verb + preposition
 def: To originate from a place or source
-eg: Where do you come from?
-eg: This tradition comes from ancient times
+eg: He moved to the city at eighteen, but he comes from a small rural town in the south
+eg: This tradition comes from ancient times when the harvest was celebrated with a communal feast
 
 # committed to
 
@@ -427,8 +427,8 @@ eg: She's always complaining about the weather
 
 cat: verb + preposition
 def: To focus one's attention on something
-eg: Please concentrate on your work
-eg: I need to concentrate on passing this exam
+eg: With so many distractions, it was difficult to concentrate on the task for more than ten minutes
+eg: She decided to concentrate on one project at a time rather than spreading herself too thin
 
 # concerned about
 
@@ -532,8 +532,8 @@ eg: She's learning to cope with her illness
 
 cat: verb + preposition
 def: To rely on or expect something from someone
-eg: You can count on me to help
-eg: Don't count on the weather being nice
+eg: The manager knew she could count on him to deliver results even under pressure
+eg: Don’t count on the weather being nice — bring a jacket just in case
 
 # crazy about
 
@@ -574,8 +574,8 @@ eg: There was damage to his reputation
 
 cat: verb + preposition
 def: To handle, manage, or take action regarding something
-eg: I'll deal with this problem myself
-eg: The book deals with important social issues
+eg: She had to deal with the client complaint promptly before it escalated further
+eg: The novel deals with important social issues including inequality and identity
 
 # decide on
 
@@ -945,8 +945,8 @@ eg: She's very fond of her grandchildren
 
 cat: verb + preposition
 def: To stop feeling angry or resentful toward someone for something
-eg: I forgive you for what you said
-eg: Can you ever forgive me for forgetting?
+eg: She struggled to forgive him for breaking his promise, but eventually managed to move on
+eg: He wrote a heartfelt letter to apologize and asked if she could forgive him for the mistake
 
 # frightened of
 
@@ -1022,22 +1022,22 @@ eg: She felt guilty of neglecting her duties
 
 cat: verb + preposition
 def: To occur or take place; to affect someone by chance
-eg: What happened to you?
-eg: I happened to see her at the store
+eg: No one could explain what had happened to the missing funds after the audit
+eg: I happened to see her at the store and we ended up talking for over an hour
 
 # happy about
 
 cat: adjective + preposition
 def: Pleased regarding something
-eg: I'm happy about the news
-eg: She wasn't happy about the change
+eg: I’m really happy about the news of their engagement — they make such a great couple
+eg: She wasn’t happy about the change to the schedule and said it inconvenienced everyone
 
 # happy with
 
 cat: adjective + preposition
 def: Satisfied with something
-eg: Are you happy with the result?
-eg: He's not happy with his salary
+eg: The client was happy with the final design and approved it without any revisions
+eg: He’s not happy with his salary and has started looking at other opportunities
 
 # harmful to
 
@@ -1050,15 +1050,15 @@ eg: The chemical is harmful to the environment
 
 cat: verb + preposition
 def: To learn about something through others
-eg: I heard about the accident
-eg: Have you heard about the new policy?
+eg: I heard about the accident on the news and was relieved to know no one was seriously hurt
+eg: She hadn’t heard about the new policy until her manager mentioned it at the meeting
 
 # hear from
 
 cat: verb + preposition
 def: To receive communication from someone
-eg: I haven't heard from him in weeks
-eg: We look forward to hearing from you
+eg: I haven’t heard from him in weeks, which is unusual — he normally replies straight away
+eg: She was delighted to hear from her old university friend after nearly a decade of no contact
 
 # hopeful about
 
@@ -1071,8 +1071,8 @@ eg: She's hopeful about finding a job
 
 cat: verb + preposition
 def: To want and expect something to happen
-eg: We're hoping for good weather
-eg: I hope for the best
+eg: We’re hoping for good weather on the day of the outdoor ceremony next Saturday
+eg: Despite the setbacks, the team continued to hope for a breakthrough before the deadline
 
 # impact on
 
@@ -1183,8 +1183,8 @@ eg: I'm not keen on the idea
 
 cat: adjective + preposition
 def: Treating someone with care and consideration
-eg: Please be kind to animals
-eg: She's always kind to strangers
+eg: The volunteers were incredibly kind to the patients, visiting every day to keep them company
+eg: She’s always kind to strangers, which is one of the things people admire most about her
 
 # know about
 
@@ -1225,8 +1225,8 @@ eg: We laughed at the joke
 
 cat: verb + preposition
 def: To gain knowledge or wisdom from something
-eg: We can learn from our mistakes
-eg: She learned from her mother
+eg: The most important thing after a failure is to learn from it and do better next time
+eg: She learned a great deal from her mentor, who had decades of experience in the field
 
 # limit to
 
@@ -1253,8 +1253,8 @@ eg: The offer is limited to new customers
 
 cat: verb + preposition
 def: To pay attention to sound or what someone says
-eg: Listen to the music
-eg: You should listen to your doctor
+eg: She put on her headphones and listened to the music for the rest of the journey
+eg: He ignored the advice and refused to listen to his doctor about reducing his stress levels
 
 # long for
 
@@ -1267,8 +1267,8 @@ eg: She longed for a different life
 
 cat: verb + preposition
 def: To direct one's gaze toward something
-eg: Look at the sunset
-eg: Can you look at this document?
+eg: They stopped at the top of the hill to look at the sunset spreading across the valley
+eg: She asked her colleague to look at the document before she sent it to the client
 
 # look for
 
@@ -1302,8 +1302,8 @@ eg: He's mad about football
 
 cat: adjective + preposition
 def: Angry with someone
-eg: She's mad at her brother
-eg: Don't be mad at me
+eg: She was mad at her brother for telling their parents about the incident without asking her first
+eg: He was still mad at the referee for the penalty that had cost them the match
 
 # married to
 
@@ -1337,8 +1337,8 @@ eg: She's new to the job
 
 cat: adjective + preposition
 def: Pleasant or kind toward someone
-eg: Be nice to your sister
-eg: Everyone was nice to me
+eg: Even though the customer was rude, the staff remained nice to them and stayed professional
+eg: Everyone was nice to her on her first day, which helped ease the anxiety of starting a new job
 
 # nice about
 
@@ -1351,8 +1351,8 @@ eg: He wasn't very nice about my suggestion
 
 cat: verb + preposition
 def: To oppose or disagree with something
-eg: I object to this proposal
-eg: She objected to the way she was treated
+eg: Several members of the committee objected to the proposal on both ethical and financial grounds
+eg: She formally objected to the way she was treated and requested a meeting with HR
 
 # obsessed with
 
@@ -1365,8 +1365,8 @@ eg: She's obsessed with cleanliness
 
 cat: verb + preposition
 def: To come into one's mind
-eg: It never occurred to me to ask
-eg: A thought occurred to her
+eg: It never occurred to me to ask whether the contract was still valid after the merger
+eg: While reviewing the data, a possible explanation suddenly occurred to her
 
 # opposed to
 
@@ -1414,8 +1414,8 @@ eg: He's passionate about music
 
 cat: adjective + preposition
 def: Able to wait or tolerate delay without becoming annoyed
-eg: You need to be patient with children
-eg: She's very patient with difficult customers
+eg: Working with young learners requires you to be patient with them as they build confidence
+eg: She’s remarkably patient with difficult customers, never letting frustration show
 
 # pay for
 
@@ -1435,8 +1435,8 @@ eg: We received payment for our services
 
 cat: noun + preposition
 def: Authorization to do something
-eg: You need permission for that
-eg: We're still waiting for permission for the project
+eg: The builders needed written permission for the extension before they could begin work
+eg: We’re still waiting for permission for the project from the planning committee
 
 # pleased with
 
@@ -1449,15 +1449,15 @@ eg: She was pleased with her performance
 
 cat: verb + preposition
 def: To direct attention toward something with a finger or gesture
-eg: Don't point at people
-eg: She pointed at the map
+eg: The guide pointed at the distant mountain and explained the route they would take
+eg: She pointed at the relevant section on the map to show where the shelter was located
 
 # polite to
 
 cat: adjective + preposition
 def: Showing good manners toward someone
-eg: Always be polite to customers
-eg: He was polite to everyone
+eg: Staff are trained to be polite to customers, even when facing difficult situations
+eg: Despite feeling exhausted, he was polite to everyone who approached him at the event
 
 # popular with
 
@@ -1561,29 +1561,29 @@ eg: She was puzzled by the instructions
 
 cat: verb + preposition
 def: To respond to something
-eg: How did she react to the news?
-eg: The market reacted to the announcement
+eg: The students reacted to the news with a mixture of relief and disbelief
+eg: The market reacted to the announcement with an immediate rise in share prices
 
 # reaction to
 
 cat: noun + preposition
 def: A response to something that happens
-eg: Her reaction to the news was surprising
-eg: What was his reaction to the proposal?
+eg: Her reaction to the news was one of quiet shock rather than the outburst anyone expected
+eg: The board’s reaction to the proposal was far more positive than the team had anticipated
 
 # ready for
 
 cat: adjective + preposition
 def: Prepared for something
-eg: Are you ready for the test?
-eg: The team is ready for the championship
+eg: She had studied for weeks and felt genuinely ready for the test this time
+eg: After months of intense preparation, the team was finally ready for the championship
 
 # reason for
 
 cat: noun + preposition
 def: An explanation or cause of something
-eg: What's the reason for the delay?
-eg: There's no reason for concern
+eg: The manager provided no reason for the sudden change in the project timeline
+eg: The doctor confirmed there was no reason for concern after reviewing the test results
 
 # recover from
 
@@ -1652,8 +1652,8 @@ eg: This place reminds me of home
 
 cat: verb + preposition
 def: To depend on or trust someone or something
-eg: You can rely on me
-eg: We rely on public transport
+eg: The whole department knows they can rely on her to meet every deadline without fail
+eg: Many residents in the city rely on public transport to get to work each morning
 
 # reply to
 
@@ -1680,8 +1680,8 @@ eg: She has a reputation for being strict
 
 cat: noun + preposition
 def: Admiration or regard for someone or something
-eg: I have great respect for her work
-eg: Show respect for your elders
+eg: I have great respect for her work and the way she handles complex situations with such composure
+eg: The culture of the organization was built on mutual respect for every individual’s contribution
 
 # respond to
 
@@ -1736,8 +1736,8 @@ eg: Is there room for one more?
 
 cat: adjective + preposition
 def: Impolite or disrespectful toward someone
-eg: Don't be rude to the waiter
-eg: He was rude to his teacher
+eg: She was shocked when the customer was rude to the waiter for no apparent reason
+eg: He was rude to his teacher and had to apologize in front of the whole class the next day
 
 # safe from
 
@@ -1771,8 +1771,8 @@ eg: I've been searching for my keys
 
 cat: adjective + preposition
 def: Reacting strongly to something; considerate of others' feelings
-eg: She's sensitive to criticism
-eg: Be sensitive to their needs
+eg: She’s sensitive to criticism and tends to withdraw when feedback feels too blunt
+eg: A good leader needs to be sensitive to the needs of the team, especially during stressful times
 
 # sensitive about
 
@@ -1785,8 +1785,8 @@ eg: She's sensitive about her age
 
 cat: adjective + preposition
 def: Sincere and committed to something
-eg: Are you serious about this relationship?
-eg: He's serious about losing weight
+eg: If you’re serious about this relationship, you need to be honest about your expectations
+eg: He’s serious about losing weight and has been tracking his meals and workouts for months
 
 # short of
 
@@ -1855,8 +1855,8 @@ eg: She spent hours on the project
 
 cat: verb + preposition
 def: To look fixedly at something
-eg: Don't stare at people
-eg: He stared at the screen in disbelief
+eg: It’s considered impolite to stare at people, even in a casual public setting
+eg: He stared at the screen in disbelief as the final score appeared
 
 # succeed in
 
@@ -1932,15 +1932,15 @@ eg: The police were suspicious of the stranger
 
 cat: verb + preposition
 def: To discuss or mention something
-eg: Let's talk about your plans
-eg: What are you talking about?
+eg: They sat down to talk about her plans for the next five years over a long dinner
+eg: The two colleagues spent the entire lunch break talking about the upcoming restructure
 
 # talk to
 
 cat: verb + preposition
 def: To have a conversation with someone
-eg: I need to talk to you
-eg: She talked to her doctor about the pain
+eg: He finally found the courage to talk to his manager about the problem he’d been avoiding
+eg: She talked to her doctor about the persistent pain and was referred to a specialist
 
 # taste of
 
@@ -1974,8 +1974,8 @@ eg: The child was terrified of the dog
 
 cat: verb + preposition
 def: To express gratitude to someone for something
-eg: Thank you for your help
-eg: I thanked her for the gift
+eg: She wrote a handwritten note to thank them for their help during such a difficult time
+eg: He thanked her for the gift and said it had been exactly what he needed
 
 # thankful for
 
@@ -1988,8 +1988,8 @@ eg: We're thankful for good health
 
 cat: verb + preposition
 def: To consider or reflect on something
-eg: I need to think about it
-eg: What are you thinking about?
+eg: She asked for a few days to think about the offer before giving a definitive answer
+eg: He lay awake thinking about the argument and how he could have handled it differently
 
 # think of
 
@@ -2058,22 +2058,22 @@ eg: I volunteered for the committee
 
 cat: verb + preposition
 def: To cast a ballot in favor of someone or something
-eg: I'm going to vote for the incumbent
-eg: Who did you vote for?
+eg: Many first-time voters were unsure whether to vote for the incumbent or the challenger
+eg: She encouraged her friends to vote for candidates who prioritized environmental policy
 
 # wait for
 
 cat: verb + preposition
 def: To stay in a place until someone or something arrives
-eg: I've been waiting for you
-eg: We're waiting for the bus
+eg: She had been waiting for a response for over two weeks when the email finally arrived
+eg: A small crowd was waiting for the bus in the rain, checking their phones for updates
 
 # warn about
 
 cat: verb + preposition
 def: To inform someone of a danger or problem
-eg: I warned you about him
-eg: The sign warns about the steep cliff
+eg: The financial advisor had warned them about the risks months before the market crashed
+eg: A sign at the top of the trail warns hikers about the steep cliff on the descent
 
 # warn against
 
@@ -2086,8 +2086,8 @@ eg: I warn against taking that route
 
 cat: verb + preposition
 def: To want or hope for something
-eg: I wish for world peace
-eg: She wished for good weather
+eg: If you could wish for anything, what would it be?
+eg: She wished for good weather on the day of the outdoor ceremony, and fortunately she got it
 
 # wonder about
 
@@ -2107,12 +2107,12 @@ eg: She's worried about her son
 
 cat: verb + preposition
 def: To feel anxious about something
-eg: Don't worry about it
-eg: She worries about everything
+eg: He tends to worry about things that are completely outside his control
+eg: She worries about everything — the finances, the children, the future — and rarely relaxes
 
 # wrong about
 
 cat: adjective + preposition
 def: Incorrect regarding something
-eg: I was wrong about the date
-eg: You're wrong about that
+eg: She admitted she had been wrong about the deadline and apologized for the confusion it caused
+eg: It turned out he was completely wrong about the cause, which surprised everyone on the team

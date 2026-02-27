@@ -81,15 +81,15 @@ tip: "Affect" is usually a verb (to influence). "Effect" is usually a noun (the 
 
 pho: /ɔl ˈrɛdi/
 def: Everyone or everything is prepared
-eg: The team was all ready to start the game
-eg: Are you all ready for the trip?
+eg: The team was all ready to start the game and waiting nervously in the locker room
+eg: By seven in the morning, the hikers were all ready with their packs and boots on
 
 ## already
 
 pho: /ɔlˈrɛdi/
 def: By or before a specified time; so soon
-eg: I've already finished my homework
-eg: Is it noon already?
+eg: I’ve already finished my homework, so I have some free time this evening
+eg: By the time they arrived, the food was already cold and the guests had gone home
 
 tip: "All ready" = fully prepared (two words). "Already" = by this time (one word, adverb).
 
@@ -99,8 +99,8 @@ tip: "All ready" = fully prepared (two words). "Already" = by this time (one wor
 
 pho: /ɔl təˈɡɛðər/
 def: Everyone or everything in one place or at once
-eg: The family was all together for the holidays
-eg: Let's sing all together now
+eg: The family was all together for the holidays for the first time in three years
+eg: For once, they worked all together on the project and finished it ahead of schedule
 
 ## altogether
 
@@ -232,15 +232,15 @@ tip: You borrow FROM someone. You lend TO someone. The borrower receives; the le
 
 pho: /brɛθ/
 def: The air taken in or expelled from the lungs (noun)
-eg: Take a deep breath and relax
-eg: He was out of breath after running
+eg: She paused to take a deep breath before walking into the interview room
+eg: He was so out of breath after the sprint that he had to stop and bend over for a minute
 
 ## breathe
 
 pho: /brið/
 def: To take air into and expel from the lungs (verb)
-eg: Breathe slowly and count to ten
-eg: It's hard to breathe at high altitudes
+eg: The instructor told the students to breathe slowly and focus on each movement
+eg: At high altitude, the thin air made it difficult to breathe, and everyone moved more slowly
 
 tip: "Breath" is the noun (ends with -th, like "death"). "Breathe" is the verb (has an E, so you can "breathe easily").
 
@@ -250,15 +250,15 @@ tip: "Breath" is the noun (ends with -th, like "death"). "Breathe" is the verb (
 
 pho: /brɪŋ/
 def: To carry or convey toward the speaker
-eg: Please bring your books to class tomorrow
-eg: Don't forget to bring a gift to the party
+eg: She asked him to bring his laptop when he came over so they could watch a film together
+eg: Don’t forget to bring a gift to the party — they specifically asked for no flowers
 
 ## take
 
 pho: /teɪk/
 def: To carry or convey away from the speaker
-eg: Take this package to the post office
-eg: I'll take the kids to school this morning
+eg: He volunteered to take the package to the post office on his way to work
+eg: She offered to take the kids to school so her partner could attend the early meeting
 
 tip: "Bring" = toward the speaker (bring it here). "Take" = away from the speaker (take it there).
 
@@ -606,8 +606,8 @@ eg: The company announced its new product
 
 pho: /ɪts/
 def: It is or it has (contraction)
-eg: It's a beautiful day
-eg: It's been a long time since we met
+eg: It’s remarkable how quickly the technology has changed over the past decade
+eg: It’s been three years since they last saw each other, yet the conversation picked up instantly
 
 tip: "Its" = possessive (like his, hers). "It's" = it is or it has. If you can say "it is," use "it's."
 
@@ -660,8 +660,8 @@ eg: The dog got loose from its leash
 
 pho: /luz/
 def: To be deprived of; to fail to win
-eg: Don't lose your keys
-eg: I hope we don't lose the game
+eg: She put her passport in her bag so she wouldn’t lose it at the airport
+eg: The team could not afford to lose the final game after coming so far in the tournament
 
 tip: "Loose" = not tight (loose = loose). "Lose" = misplace or fail (lose the 'o' when you lose something).
 
@@ -714,8 +714,8 @@ eg: A period of calm preceded the storm
 
 pho: /proʊˈsid/
 def: To continue or go forward
-eg: Please proceed with your presentation
-eg: We will proceed to the next item on the agenda
+eg: Once the opening remarks were finished, she was invited to proceed with her presentation
+eg: The committee agreed to proceed to the next item on the agenda without further debate
 
 tip: "Precede" = come before (pre- = before). "Proceed" = go forward (pro- = forward).
 
@@ -743,8 +743,8 @@ tip: "Principal" = main or school head (your "pal" the principal). "Principle" =
 
 pho: /reɪz/
 def: To lift up; to increase; to bring up (transitive; needs an object)
-eg: Raise your hand if you have a question
-eg: They raised three children
+eg: Students are expected to raise their hand before speaking during the discussion
+eg: She raised three children largely on her own after her husband passed away unexpectedly
 
 ## rise
 
@@ -865,8 +865,8 @@ tip: "To" = direction or infinitive. "Too" = also or excessively (has an extra O
 
 pho: /ˈwɛðər/
 def: The state of the atmosphere (rain, sun, etc.)
-eg: The weather is nice today
-eg: We can't control the weather
+eg: The weather turned stormy midway through the hike, forcing the group to take shelter
+eg: She checked the weather forecast every morning before deciding whether to cycle to work
 
 ## whether
 

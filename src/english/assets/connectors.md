@@ -115,14 +115,14 @@ pos: start
 
 cat: additive
 lvl: adv
-eg: Along with the report, please send the data
+eg: Along with the report, she sent a detailed breakdown of the quarterly figures
 pos: flexible
 
 # not to mention
 
 cat: additive
 lvl: adv
-eg: Not to mention the legal implications
+eg: The cost was enormous, not to mention the legal implications that followed
 pos: start
 subcat: reinforcing
 
@@ -456,7 +456,7 @@ subcat: causative
 
 cat: consequential
 lvl: mid
-eg: For this reason, I declined
+eg: For this reason, the committee decided to postpone the vote
 pos: start
 subcat: resultive
 
@@ -464,7 +464,7 @@ subcat: resultive
 
 cat: consequential
 lvl: mid
-eg: That's why I'm here
+eg: The data was inconclusive, and that’s why we need to run the test again
 pos: start
 subcat: resultive
 
@@ -512,7 +512,7 @@ subcat: resultive
 
 cat: consequential
 lvl: adv
-eg: Thereby reducing the costs significantly
+eg: We simplified the process, thereby reducing the costs significantly
 pos: middle
 subcat: resultive
 
@@ -536,7 +536,7 @@ subcat: causative
 
 cat: consequential
 lvl: adv
-eg: Supposing it works, what then
+eg: Supposing it works, what happens next?
 pos: start
 subcat: conditional
 
@@ -544,7 +544,7 @@ subcat: conditional
 
 cat: consequential
 lvl: adv
-eg: Assuming that you're right, we should..
+eg: Assuming that you're right, we should revise the entire strategy
 pos: start
 subcat: conditional
 
@@ -608,7 +608,7 @@ subcat: ordering
 
 cat: sequential
 lvl: beg
-eg: Before we start, any questions
+eg: Before we start, does anyone have questions about the agenda?
 pos: start
 subcat: timing
 
@@ -664,7 +664,7 @@ subcat: ordering
 
 cat: sequential
 lvl: mid
-eg: To start with, the basics
+eg: To start with, let’s review the results from last quarter
 pos: start
 subcat: ordering
 
@@ -680,7 +680,7 @@ subcat: timing
 
 cat: sequential
 lvl: mid
-eg: Meanwhile, in another part of town..
+eg: Meanwhile, in another part of town, the rescue operation was still underway
 pos: start
 subcat: timing
 
@@ -728,7 +728,7 @@ subcat: timing
 
 cat: sequential
 lvl: mid
-eg: By the way, did you hear about...
+eg: By the way, did you hear that they're closing the old library?
 pos: start
 subcat: transitional
 tip: Used to introduce a side topic
@@ -745,7 +745,7 @@ subcat: transitional
 
 cat: sequential
 lvl: mid
-eg: Speaking of which, how's your project
+eg: Speaking of which, how’s your project coming along?
 pos: start
 subcat: transitional
 
@@ -924,7 +924,7 @@ subcat: generalization
 
 cat: clarification
 lvl: mid
-eg: Mainly, I wanted to thank you
+eg: Mainly, the report focused on cost reduction and process efficiency
 pos: start
 subcat: emphasizing
 
@@ -964,7 +964,7 @@ subcat: corroborative
 
 cat: clarification
 lvl: adv
-eg: It goes without saying that safety comes first
+eg: It goes without saying that safety comes first when working on a construction site
 pos: start
 subcat: corroborative
 
@@ -1034,7 +1034,7 @@ syn: in the same way
 
 cat: comparison
 lvl: mid
-eg: Likewise, we should consider...
+eg: Likewise, the second approach has its own limitations
 pos: start
 
 # in the same way
@@ -1105,7 +1105,7 @@ tip: Formal/literary usage
 
 cat: apposition
 lvl: beg
-eg: For example, consider the case of...
+eg: For example, consider the case of electric vehicles in urban transport
 pos: start
 subcat: exemplification
 
@@ -1171,7 +1171,7 @@ syn: i.e.
 
 cat: apposition
 lvl: mid
-eg: The capital, that is, London
+eg: The capital, that is, London, is also the most populous city in the country
 pos: middle
 subcat: restatement
 
