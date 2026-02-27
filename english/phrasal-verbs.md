@@ -32,6 +32,10 @@ eg: His social media account blew up after the viral video
 
 # Break down
 
+def: To separate something into parts; to analyze or explain in detail
+eg: The accountant broke down the costs so everyone could see exactly where the money was going
+eg: Let me break down the argument into three key points to make it easier to follow
+
 def: To stop functioning (a machine, vehicle, etc.)
 eg: Our car broke down on the highway, and we had to call a tow truck
 eg: The printer broke down right before the big presentation
@@ -79,8 +83,8 @@ eg: He's brushing up on his math skills for the entrance exam
 # Calm down
 
 def: To become less upset, excited, or agitated, or to make someone feel that way
-eg: Just calm down and tell me what happened
-eg: It took him a while to calm down after the argument
+eg: She took several deep breaths to calm down before responding to the email
+eg: It took him a while to calm down after the heated argument with his manager
 
 # Carry on
 
@@ -117,8 +121,8 @@ eg: You should check out the view from the rooftop—it's amazing
 # Cheer up
 
 def: To become happier or to make someone happier
-eg: Cheer up! Things will get better soon
-eg: I bought her flowers to try to cheer her up
+eg: He told a few jokes to cheer up his friend, who had been quiet all evening
+eg: I bought her flowers to try to cheer her up after the disappointment of not getting the role
 
 # Clean up
 
@@ -309,8 +313,8 @@ eg: I'm trying to give up caffeine, but it's not easy
 # Go ahead
 
 def: To proceed or to give someone permission to do something
-eg: If you want to start without me, go ahead
-eg: The manager gave us the go-ahead to launch the project
+eg: The board reviewed the proposal and finally gave them the go-ahead to proceed with construction
+eg: I told him to go ahead and order the equipment once the budget was confirmed
 
 # Go on
 
@@ -441,8 +445,8 @@ eg: Don't look down on others just because they have less money
 # Look forward to
 
 def: To feel excited and pleased about something that is going to happen
-eg: I'm really looking forward to the weekend
-eg: She's looking forward to starting her new job
+eg: I’m really looking forward to the conference — there are some fascinating speakers on the program
+eg: She’s been looking forward to starting her new job for weeks and can’t stop talking about it
 
 # Look into
 
@@ -491,8 +495,8 @@ eg: The waiter mixed up our orders and brought the wrong dishes
 # Move on
 
 def: To stop dwelling on something and progress forward
-eg: It's time to move on and focus on the future
-eg: After the breakup, it took him a long time to move on
+eg: She decided it was time to move on from her old job and look for something more challenging
+eg: After the breakup, it took him a long time to move on — every song seemed to remind him of her
 
 # Open up
 
@@ -709,8 +713,8 @@ eg: He stepped down as chairman due to health reasons
 # Stick to
 
 def: To continue doing something without changing; to follow a plan or decision
-eg: I'm trying to stick to a healthy diet this year
-eg: Stick to the plan and everything will work out
+eg: I’m trying to stick to a healthy diet this year, which means resisting office birthday cake
+eg: Despite pressure from investors to expand quickly, the founders stuck to their original plan
 
 # Switch off / Switch on
 
@@ -757,8 +761,8 @@ eg: This project is taking up all of my free time
 # Think over
 
 def: To consider something carefully before making a decision
-eg: I need a few days to think it over before I give you my answer
-eg: Think it over and let me know what you decide
+eg: She asked for a few days to think over the job offer before giving her final answer
+eg: He thought it over carefully and decided that accepting the compromise was the right move
 
 # Throw away / Throw out
 
@@ -795,8 +799,8 @@ eg: He turned on the computer and started working
 # Turn out
 
 def: To happen in a particular way; to have a specific result
-eg: The party turned out to be a huge success
-eg: Don't worry—everything will turn out fine in the end
+eg: The party turned out to be a huge success, with over two hundred guests attending
+eg: The experiment turned out exactly as the researchers had hoped, confirming their hypothesis
 
 # Turn up
 
@@ -859,8 +863,8 @@ eg: I try to work out at the gym at least three times a week
 eg: She works out every morning before going to the office
 
 def: To have a good or satisfactory result
-eg: Don't worry—things will work out in the end
-eg: The arrangement worked out well for everyone involved
+eg: The new team structure worked out far better than anyone had expected after the initial tension
+eg: The arrangement worked out well for everyone involved — both parties got what they needed
 
 def: To solve or figure something out
 eg: We need to work out the details before signing the contract
