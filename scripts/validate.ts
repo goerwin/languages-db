@@ -8,13 +8,34 @@ import { validateConnectors, validateMdEntries } from '../src/english/utils.ts';
       path.resolve(import.meta.dirname, '../src/english/assets/adjectives.md'),
       validateMdEntries,
       [
-        { name: 'pho', unique: true, required: true },
         { name: 'def', unique: false, required: true },
+        { name: 'pho', unique: true, required: true },
         { name: 'eg', unique: false, required: true },
       ],
     ],
     [
-      path.resolve(import.meta.dirname, '../src/english/assets/common-idioms.md'),
+      path.resolve(import.meta.dirname, '../src/english/assets/verbs.md'),
+      validateMdEntries,
+      [
+        { name: 'def', unique: false, required: true },
+        { name: 'pho', unique: true, required: true },
+        { name: 'eg', unique: false, required: true },
+      ],
+    ],
+    [
+      path.resolve(import.meta.dirname, '../src/english/assets/nouns.md'),
+      validateMdEntries,
+      [
+        { name: 'def', unique: false, required: true },
+        { name: 'pho', unique: true, required: true },
+        { name: 'eg', unique: false, required: true },
+      ],
+    ],
+    [
+      path.resolve(
+        import.meta.dirname,
+        '../src/english/assets/common-idioms.md'
+      ),
       validateMdEntries,
       [
         { name: 'def', unique: false, required: true },
