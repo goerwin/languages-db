@@ -1,5 +1,6 @@
 ---
 title: English Tenses
+description: All 12 English tenses plus "going to" future, with structures, usage rules, examples, and time markers for each
 ---
 
 # present simple

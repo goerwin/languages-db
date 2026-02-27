@@ -1,5 +1,6 @@
 ---
 title: English Gerunds and Infinitives
+description: When to use gerunds (-ing) and infinitives (to + verb) in English, including verb lists, meaning changes, and common mistakes
 ---
 
 # what is a gerund

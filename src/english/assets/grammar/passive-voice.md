@@ -1,5 +1,6 @@
 ---
 title: English Passive Voice
+description: How to form and use the passive voice across all tenses and modals, including when to use it, active-to-passive transformations, and common mistakes
 ---
 
 # present simple passive

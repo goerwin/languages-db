@@ -1,5 +1,6 @@
 ---
 title: English Common Nouns
+description: Common English nouns with a focus on abstract and intermediate-to-advanced vocabulary, including phonetic pronunciation, definitions, and example sentences
 ---
 
 # absence

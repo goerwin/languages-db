@@ -1,5 +1,6 @@
 ---
 title: English Quantifiers
+description: English quantifiers such as some, any, much, many, few, little, and more, with usage rules for countable and uncountable nouns
 ---
 
 # some

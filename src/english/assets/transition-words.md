@@ -1,5 +1,6 @@
 ---
 title: English Transition Words and Phrases
+description: Advanced transition words and phrases for conversation, writing, and presentations, organized by function such as contrast, emphasis, concession, and result
 ---
 
 # a case in point

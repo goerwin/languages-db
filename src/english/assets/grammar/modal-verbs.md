@@ -1,5 +1,6 @@
 ---
 title: English Modal Verbs
+description: All English modal verbs with their meanings, structures, and usage, including comparisons between similar modals
 ---
 
 # can

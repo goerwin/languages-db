@@ -1,5 +1,6 @@
 ---
 title: English Common Verbs
+description: A comprehensive list of common English verbs with phonetic pronunciation, definitions, and example sentences, focusing on intermediate-to-advanced vocabulary
 ---
 
 # abandon

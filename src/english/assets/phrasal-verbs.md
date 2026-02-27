@@ -1,5 +1,6 @@
 ---
 title: English Common Phrasal Verbs
+description: Frequently used English phrasal verbs with definitions and example sentences, including verbs with multiple meanings
 ---
 
 # Back up

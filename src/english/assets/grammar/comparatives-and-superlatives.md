@@ -1,5 +1,6 @@
 ---
 title: English Comparatives and Superlatives
+description: How to form and use comparatives and superlatives in English, covering regular and irregular forms, modifiers, and common structures
 ---
 
 # forming comparatives

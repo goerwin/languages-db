@@ -1,5 +1,6 @@
 ---
 title: English Conditionals
+description: All English conditional types from zero to third, including mixed conditionals, unless, and wish/if only structures
 ---
 
 # zero conditional

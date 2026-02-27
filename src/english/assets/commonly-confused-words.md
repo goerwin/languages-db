@@ -1,5 +1,6 @@
 ---
 title: English Commonly Confused Words
+description: Pairs and groups of English words that are often mixed up, with clear definitions, examples, and memory tips to tell them apart
 ---
 
 # accept / except

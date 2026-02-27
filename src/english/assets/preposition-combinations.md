@@ -1,5 +1,6 @@
 ---
 title: English Preposition Combinations
+description: Common adjective + preposition, verb + preposition, and noun + preposition combinations that are essential for sounding natural in English
 ---
 
 # access to

@@ -1,5 +1,6 @@
 ---
 title: English Question Tags
+description: How to form and use question tags in English, covering all auxiliaries, special cases, intonation, and common mistakes
 ---
 
 # basic rule

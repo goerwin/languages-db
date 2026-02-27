@@ -1,5 +1,6 @@
 ---
 title: English Adjectives
+description: A comprehensive list of common English adjectives with phonetic pronunciation, definitions, and example sentences
 ---
 
 # abandoned

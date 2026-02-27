@@ -1,5 +1,6 @@
 ---
 title: English Articles
+description: Rules for using a, an, the, and zero article in English, with usage explanations, examples, and common mistakes
 ---
 
 # a

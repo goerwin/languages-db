@@ -1,5 +1,6 @@
 ---
 title: English Subject-Verb Agreement
+description: Rules for matching subjects with the correct verb form in English, covering compound subjects, collective nouns, indefinite pronouns, and tricky cases
 ---
 
 # basic rule

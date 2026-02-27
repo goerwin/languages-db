@@ -1,5 +1,6 @@
 ---
 title: English Common Collocations
+description: Natural word combinations that frequently occur together in English, covering verb + noun, adjective + noun, and adverb + adjective pairings
 ---
 
 # break a habit
