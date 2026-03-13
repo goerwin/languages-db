@@ -7,36 +7,36 @@ description: A comprehensive list of common English verbs with phonetic pronunci
 
 pho: /əˈbæn.dən/
 def: To leave a place, thing, or person permanently, usually because it is impossible or unsafe to stay
-eg: The crew abandoned the sinking ship
-eg: She abandoned her plans to study abroad due to financial constraints
+eg: The crew abandoned the sinking ship after the captain gave the order, scrambling into lifeboats as the vessel tilted dangerously in the storm
+eg: She abandoned her plans to study abroad due to financial constraints, but she's now taking online courses from international universities instead
 
 # abolish
 
 pho: /əˈbɑː.lɪʃ/
 def: To officially end a law, system, or institution
-eg: The country abolished the death penalty in 1990
-eg: They voted to abolish the outdated policy
+eg: The country abolished the death penalty in 1990 after decades of debate and pressure from human rights organizations across Europe
+eg: Activists are campaigning to abolish the outdated policy that discriminates against workers with disabilities and limits their employment opportunities
 
 # accomplish
 
 pho: /əˈkʌm.plɪʃ/
 def: To succeed in doing or completing something
-eg: She accomplished her goal of running a marathon
-eg: The team accomplished the project ahead of schedule
+eg: She accomplished her goal of running a marathon after six months of training, crossing the finish line in just under four hours on a crisp autumn morning
+eg: The team accomplished the project ahead of schedule by working collaboratively, communicating daily, and eliminating unnecessary meetings that had slowed previous initiatives
 
 # achieve
 
 pho: /əˈtʃiːv/
 def: To successfully reach a goal or result through effort
-eg: He achieved his dream of becoming a doctor
-eg: The company achieved record profits this quarter
+eg: He achieved his dream of becoming a doctor after twelve years of education, including four years of medical school and three years of residency at a teaching hospital
+eg: The company achieved record profits this quarter by expanding into emerging markets and launching three innovative products that addressed unmet customer needs
 
 # acquire
 
 pho: /əˈkwaɪər/
 def: To obtain or gain something
-eg: She acquired a taste for classical music
-eg: The company acquired three smaller competitors
+eg: She acquired a taste for classical music during her year in Vienna, attending weekly concerts at the Musikverein and studying the compositions of Mozart and Beethoven
+eg: The company acquired three smaller competitors last year, strategically expanding its market share and gaining access to proprietary technologies that strengthened its product portfolio
 
 # adjust
 
@@ -50,43 +50,43 @@ eg: It took her several months to adjust to life in a new country
 
 pho: /ədˈmɪt/
 def: To confess or acknowledge something to be true
-eg: She admitted she had made a mistake
-eg: He finally admitted his feelings for her
+eg: She admitted she had made a mistake during the audit, taking full responsibility for the oversight and presenting a detailed plan to prevent similar errors in the future
+eg: After weeks of denial, he finally admitted his feelings for her during a quiet walk along the beach, confessing that he had been in love since the day they met
 
 # afford
 
 pho: /əˈfɔːrd/
 def: To have enough money or time to do something
-eg: We can't afford to buy a new car right now
-eg: She couldn't afford to waste any more time
+eg: We can't afford to buy a new car right now because we're saving for a down payment on a house and paying off student loans from our graduate degrees
+eg: She couldn't afford to waste any more time on projects that didn't align with her long-term career goals, so she declined the offer politely and moved forward
 
 # allow
 
 pho: /əˈlaʊ/
 def: To permit or give permission for something
-eg: Smoking is not allowed in this building
-eg: Her parents allowed her to stay out late
+eg: Smoking is not allowed in this building, but there are designated areas outside on the north and south terraces where employees can take breaks
+eg: Her parents allowed her to stay out late on weekends during her final year of high school, trusting her to make responsible decisions and prioritize her academic commitments
 
 # announce
 
 pho: /əˈnaʊns/
 def: To make something known publicly or formally
-eg: The company announced its new product launch
-eg: They announced their engagement at the party
+eg: The company announced its new product launch during the annual technology conference, revealing features that industry analysts had been speculating about for months
+eg: They announced their engagement at the family gathering on Christmas Eve, surprising everyone who had been subtly asking about their relationship status for years
 
 # anticipate
 
 pho: /ænˈtɪs.ɪ.peɪt/
 def: To expect or look forward to something
-eg: We anticipate a large turnout for the event
-eg: She anticipated his objections and prepared responses
+eg: We anticipate a large turnout for the event because the speaker is a bestselling author and the topic addresses concerns that affect thousands of families in our community
+eg: She anticipated his objections and prepared responses backed by data, case studies, and testimonials from other departments that had already implemented the proposed changes successfully
 
 # apologize
 
 pho: /əˈpɑː.lə.dʒaɪz/
 def: To say you are sorry for something you have done
-eg: He apologized for being late
-eg: I apologize for any inconvenience this may cause
+eg: He apologized for being late to the wedding rehearsal, explaining that his flight had been delayed due to severe weather conditions in the Midwest
+eg: I apologize for any inconvenience this may cause, and I want to assure you that we're working around the clock to resolve the issue and restore normal service
 
 # appeal
 
@@ -99,29 +99,29 @@ eg: Her lawyers decided to appeal the conviction to the Supreme Court
 
 pho: /əˈplaɪ/
 def: To make a formal request for something such as a job
-eg: She applied for the position last week
-eg: You need to apply the cream twice daily
+eg: She applied for the position last week after seeing the posting on LinkedIn, attaching her resume and a cover letter highlighting her seven years of relevant industry experience
+eg: You need to apply the cream twice daily, once in the morning before makeup and again at night after cleansing, for at least six weeks to see noticeable improvement
 
 # appreciate
 
 pho: /əˈpriː.ʃi.eɪt/
 def: To recognize the value or quality of something
-eg: I appreciate your help with this project
-eg: The property has appreciated significantly in value
+eg: I appreciate your help with this project, especially the extra hours you dedicated to researching the market trends and preparing the detailed financial projections
+eg: The property has appreciated significantly in value over the past decade because the neighborhood has undergone gentrification and new schools have opened nearby
 
 # approach
 
 pho: /əˈproʊtʃ/
 def: To come near or nearer to something in distance or time
-eg: Winter is approaching quickly
-eg: We need to approach this problem differently
+eg: Winter is approaching quickly this year, with temperatures dropping below freezing earlier than meteorologists had predicted based on historical climate data for the region
+eg: We need to approach this problem differently because the traditional methods have failed to address the root causes and have only provided temporary relief at best
 
 # approve
 
 pho: /əˈpruːv/
 def: To officially agree to or accept something
-eg: The board approved the budget proposal
-eg: Her parents approved of her choice of career
+eg: The board approved the budget proposal after three hours of deliberation, though several members expressed concerns about the allocations for marketing and executive compensation
+eg: Her parents approved of her choice of career, relieved that she had found a stable profession that aligned with her values and offered opportunities for advancement
 
 # argue
 
@@ -135,78 +135,78 @@ eg: She argued convincingly that the policy would harm the most vulnerable commu
 
 pho: /əˈraɪz/
 def: To happen or begin to exist
-eg: A problem arose during the meeting
-eg: The opportunity arose when her colleague resigned
+eg: A problem arose during the meeting when the projector failed and we realized the backup equipment hadn't been tested before the presentation to the board
+eg: The opportunity arose when her colleague resigned unexpectedly, allowing her to apply for the senior position she had been preparing for over the past two years
 
 # arrange
 
 pho: /əˈreɪndʒ/
 def: To plan or organize something
-eg: She arranged the flowers in a vase
-eg: We need to arrange a time to meet
+eg: She arranged the flowers in a vase according to color and height, creating an elegant centerpiece that impressed all the guests at the dinner party
+eg: We need to arrange a time to meet that works for everyone, so please share your availability for next week and I'll send out a calendar invitation
 
 # assign
 
 pho: /əˈsaɪn/
 def: To give someone a particular job or task
-eg: The teacher assigned homework for the weekend
-eg: He was assigned to the marketing department
+eg: The teacher assigned homework for the weekend, reminding students that the essay was due Monday morning and late submissions would lose ten percent per day
+eg: He was assigned to the marketing department after completing his rotation through sales, where his analytical skills and creativity had impressed senior management
 
 # assist
 
 pho: /əˈsɪst/
 def: To help someone do something
-eg: Can you assist me with these bags?
-eg: The software assists users in managing their finances
+eg: Can you assist me with these bags? They're heavier than they look and I'm trying to keep my coffee from spilling all over the lobby floor
+eg: The software assists users in managing their finances by automatically categorizing transactions, generating monthly reports, and alerting them to unusual spending patterns
 
 # assume
 
 pho: /əˈsuːm/
 def: To accept something as true without proof
-eg: Don't assume I know what you're talking about
-eg: She will assume the role of director next month
+eg: Don't assume I know what you're talking about—please explain the technical details so I can understand the implications for our project timeline
+eg: She will assume the role of director next month after completing her transition period with the outgoing team and meeting with all department heads
 
 # attach
 
 pho: /əˈtætʃ/
 def: To fasten or join one thing to another
-eg: Please attach your resume to the application
-eg: The blame was attached to the wrong person
+eg: Please attach your resume to the application before submitting it, and make sure the file is in PDF format so the formatting doesn't change when we open it
+eg: The blame was attached to the wrong person because the real culprit had carefully covered their tracks and manipulated the evidence to mislead investigators
 
 # attempt
 
 pho: /əˈtempt/
 def: To try to do something, especially something difficult
-eg: He attempted to climb the mountain
-eg: She made several attempts to contact him
+eg: He attempted to climb the mountain despite warnings about severe weather conditions, but he turned back just below the summit when visibility dropped to zero
+eg: She made several attempts to contact him throughout the day, leaving voicemails and sending emails before finally reaching him through his assistant late in the evening
 
 # attend
 
 pho: /əˈtend/
 def: To be present at an event or place
-eg: Over 500 people attended the conference
-eg: She attends classes at the university
+eg: Over 500 people attended the conference this year, representing thirty countries and including keynote speakers from leading technology companies and research institutions
+eg: She attends classes at the university three days a week while working part-time at a local nonprofit organization that focuses on environmental education for children
 
 # attract
 
 pho: /əˈtrækt/
 def: To cause someone or something to come toward you
-eg: The bright colors attract butterflies
-eg: The new policy attracted criticism from both sides
+eg: The bright colors and sweet fragrance of the flowers attract butterflies and bees, creating a vibrant ecosystem in the botanical garden's butterfly conservatory
+eg: The new policy attracted criticism from both sides of the political spectrum, with conservatives arguing it was too expensive and progressives saying it didn't go far enough
 
 # avoid
 
 pho: /əˈvɔɪd/
 def: To stay away from someone or something
-eg: He avoided eye contact during the conversation
-eg: Try to avoid making the same mistake again
+eg: He avoided eye contact during the conversation because he felt guilty about forgetting their anniversary and hadn't yet figured out how to apologize sincerely
+eg: Try to avoid making the same mistake again by double-checking your calculations and asking a colleague to review your work before submitting the final report
 
 # ban
 
 pho: /bæn/
 def: To officially forbid something
-eg: The school banned cell phones in classrooms
-eg: Several countries have banned the chemical
+eg: The school banned cell phones in classrooms after teachers reported that students were distracted by notifications and were using devices to cheat during exams
+eg: Several countries have banned the chemical after studies linked it to respiratory problems in children and environmental damage to freshwater ecosystems in agricultural regions
 
 # bear
 
@@ -220,106 +220,106 @@ eg: The mango tree bears fruit twice a year in tropical climates
 
 pho: /biːt/
 def: To defeat someone in a competition
-eg: Our team beat the champions last night
-eg: Her heart was beating fast with excitement
+eg: Our team beat the champions last night in a stunning upset that ended their three-year winning streak and secured our place in the regional finals next month
+eg: Her heart was beating fast with excitement as she walked onto the stage to accept the award, realizing that her childhood dream had finally become a reality
 
 # beg
 
 pho: /beɡ/
 def: To ask someone earnestly or desperately for something
-eg: He begged her to forgive him
-eg: The dog begged for food at the table
+eg: He begged her to forgive him for his thoughtless comment, promising to be more considerate in the future and to think before speaking about sensitive topics
+eg: The dog begged for food at the table during dinner, resting its chin on my knee and staring with those impossibly sad eyes that were impossible to resist
 
 # behave
 
 pho: /bɪˈheɪv/
 def: To act in a particular way
-eg: The children behaved well at the party
-eg: She always behaves professionally at work
+eg: The children behaved well at the party, sharing toys and taking turns with the birthday cake without any of the tantrums their parents had been bracing for
+eg: She always behaves professionally at work, maintaining composure even during stressful situations and treating colleagues with respect regardless of disagreements
 
 # belong
 
 pho: /bɪˈlɔːŋ/
 def: To be the property of or connected to someone
-eg: This book belongs to me
-eg: She felt she didn't belong in that group
+eg: This book belongs to me—see, my name is written on the inside cover, and I've highlighted several passages that were important for my research project
+eg: She felt she didn't belong in that group because everyone else shared inside jokes from years of friendship and she was still the newcomer trying to find her place
 
 # bend
 
 pho: /bend/
 def: To curve or make something curve
-eg: He bent down to pick up the keys
-eg: The road bends sharply to the left
+eg: He bent down to pick up the keys he had dropped, groaning slightly as his back protested the movement after hours of sitting at the computer without stretching
+eg: The road bends sharply to the left just after the bridge, so slow down when you approach that section especially during rain when the pavement becomes slippery
 
 # bet
 
 pho: /bet/
 def: To risk money on the result of an event
-eg: I bet you can't guess what happened
-eg: He bet fifty dollars on the game
+eg: I bet you can't guess what happened at the meeting—the CEO announced she's retiring next month and the board is already interviewing potential successors
+eg: He bet fifty dollars on the game against his friend's recommendation, confident that his team would win because they had won every home game this season
 
 # blame
 
 pho: /bleɪm/
 def: To say or think that someone is responsible for something bad
-eg: Don't blame me for your mistakes
-eg: She blamed the weather for the delay
+eg: Don't blame me for your mistakes when you didn't follow the instructions I gave you and ignored my warnings about the potential consequences of cutting corners
+eg: She blamed the weather for the delay, though privately she admitted that poor planning and underestimating traffic had contributed more to missing the deadline
 
 # bleed
 
 pho: /bliːd/
 def: To lose blood from the body
-eg: His nose was bleeding after the accident
-eg: The cut on her hand was bleeding
+eg: His nose was bleeding after the accident, so the paramedic tilted his head forward and applied pressure to stop the flow before transporting him to the emergency room
+eg: The cut on her hand was bleeding profusely because it had caught on a sharp edge of the broken glass, but the wound turned out to be superficial and healed quickly
 
 # bless
 
 pho: /bles/
 def: To ask God to protect or favor someone
-eg: The priest blessed the congregation
-eg: We were blessed with good weather
+eg: The priest blessed the congregation before the final hymn, making the sign of the cross and invoking divine protection for everyone in the church that morning
+eg: We were blessed with good weather for the outdoor wedding, with clear skies and a gentle breeze that kept guests comfortable throughout the ceremony and reception
 
 # block
 
 pho: /blɑːk/
 def: To prevent movement or progress
-eg: A fallen tree blocked the road
-eg: She blocked his number on her phone
+eg: A fallen tree blocked the road after the storm, forcing commuters to find alternate routes and delaying emergency vehicles trying to reach the affected neighborhoods
+eg: She blocked his number on her phone after he continued to send harassing messages despite her repeated requests for him to stop contacting her and leave her alone
 
 # boast
 
 pho: /boʊst/
 def: To talk with excessive pride about oneself
-eg: He boasted about his promotion
-eg: The town boasts three excellent restaurants
+eg: He boasted about his promotion during lunch, describing his new office and salary in such detail that his colleagues exchanged uncomfortable glances and changed the subject
+eg: The town boasts three excellent restaurants, a charming historic district, and an annual music festival that attracts visitors from across the state every summer
 
 # boost
 
 pho: /buːst/
 def: To increase or improve something
-eg: The campaign boosted sales significantly
-eg: Coffee helps boost your energy in the morning
+eg: The marketing campaign boosted sales significantly during the holiday season, exceeding projections by thirty percent and attracting a younger demographic of customers
+eg: Coffee helps boost your energy in the morning by blocking adenosine receptors in the brain, though the effects diminish with regular consumption and can lead to dependence
 
 # bother
 
 pho: /ˈbɑː.ðər/
 def: To take the trouble to do something
-eg: Don't bother making dinner; I'll order takeout
-eg: Sorry to bother you, but I have a question
+eg: Don't bother making dinner; I'll order takeout from that Thai restaurant you like because I know you've had a long day and deserve a break from cooking
+eg: Sorry to bother you, but I have a question about the report—could you clarify the methodology you used for calculating the customer retention rates in section three?
 
 # bounce
 
 pho: /baʊns/
 def: To move up and down repeatedly after hitting a surface
-eg: The ball bounced off the wall
-eg: The check bounced due to insufficient funds
+eg: The ball bounced off the wall and rolled into the street, but fortunately no cars were coming and I was able to retrieve it before it went into the storm drain
+eg: The check bounced due to insufficient funds in the account, resulting in fees from both the bank and the merchant who had accepted it as payment for the groceries
 
 # bow
 
 pho: /baʊ/
 def: To bend the head or body as a sign of respect
-eg: The actors bowed at the end of the performance
-eg: He bowed to the audience before leaving
+eg: The actors bowed at the end of the performance as the audience erupted in applause, some even rising for a standing ovation that lasted nearly three minutes
+eg: He bowed to the audience before leaving the stage, grateful for their warm reception after months of rehearsals and the nervous energy of opening night
 
 # breed
 

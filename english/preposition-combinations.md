@@ -7,15 +7,15 @@ description: Common adjective + preposition, verb + preposition, and noun + prep
 
 cat: noun + preposition
 def: The ability or right to use or enter something
-eg: Students have access to the library 24 hours a day
-eg: She was denied access to the building without proper ID
+eg: Students have access to the library 24 hours a day during exam periods, with security staff available to ensure safety at night
+eg: She was denied access to the building without proper ID, so she had to wait in the lobby until her colleague came to escort her upstairs
 
 # account for
 
 cat: verb + preposition
 def: To explain or give a reason for something; to constitute or make up
-eg: How do you account for the missing money?
-eg: Tourism accounts for most of the island's income
+eg: How do you account for the missing money from the petty cash fund that was supposed to be reconciled last Friday
+eg: Tourism accounts for most of the island's income, employing nearly eighty percent of the working population during peak season
 
 # afraid of
 
@@ -28,22 +28,22 @@ eg: Many students are afraid of asking questions in case they appear foolish
 
 cat: verb + preposition
 def: To reach a mutual decision or consensus about something
-eg: We finally agreed on a date for the meeting
-eg: The committee couldn't agree on the budget
+eg: We finally agreed on a date for the meeting after checking everyone's calendars and finding a time that worked for all departments
+eg: The committee couldn't agree on the budget because some members wanted to increase spending while others insisted on cutting costs
 
 # agree with
 
 cat: verb + preposition
 def: To share the same opinion as someone; to be suitable for one's health
-eg: I agree with you completely on that point
-eg: Spicy food doesn't agree with my stomach
+eg: I agree with you completely on that point, especially since the data supports your argument more strongly than the alternative proposal
+eg: Spicy food doesn't agree with my stomach, so I always order mild dishes when dining at Indian or Thai restaurants
 
 # aim at
 
 cat: verb + preposition
 def: To direct effort or attention toward a target
-eg: The campaign aims at young voters
-eg: She aimed at the target and fired
+eg: The campaign aims at young voters between eighteen and twenty-five who will be voting in a presidential election for the first time
+eg: She aimed at the target and fired, hitting the bullseye on her first attempt to the surprise of everyone watching
 
 # aim for
 
@@ -56,29 +56,29 @@ eg: The team is aiming for a top-three finish in the national championships
 
 cat: adjective + preposition
 def: Having a physical reaction to a substance
-eg: He's allergic to peanuts and carries an EpiPen
-eg: I'm allergic to most antibiotics
+eg: He's allergic to peanuts and carries an EpiPen everywhere he goes in case of accidental exposure at restaurants or social gatherings
+eg: I'm allergic to most antibiotics, which complicates treatment when I develop bacterial infections that require medication
 
 # amazed at
 
 cat: adjective + preposition
 def: Filled with wonder or surprise at something
-eg: I was amazed at how quickly she learned
-eg: We were amazed at the size of the cathedral
+eg: I was amazed at how quickly she learned the new software, mastering features in one day that took me weeks to understand
+eg: We were amazed at the size of the cathedral, which was much larger than it appeared from the street and could seat thousands of worshippers
 
 # amazed by
 
 cat: adjective + preposition
 def: Filled with wonder or surprise because of something
-eg: The audience was amazed by the magician's tricks
-eg: I'm still amazed by her generosity
+eg: The audience was amazed by the magician's tricks, especially the final illusion where he made an elephant disappear from the stage
+eg: I'm still amazed by her generosity, having donated half of her lottery winnings to charities that support homeless families in our city
 
 # angry about
 
 cat: adjective + preposition
 def: Feeling strong displeasure regarding a situation or event
-eg: She's angry about the way she was treated
-eg: He's still angry about losing the game
+eg: She's angry about the way she was treated during the investigation, feeling that her side of the story was never properly heard or considered
+eg: He's still angry about losing the game because he believes the referees made several bad calls that cost his team the championship
 
 # angry at
 
@@ -98,8 +98,8 @@ eg: The teacher was angry with the class for talking
 
 cat: adjective + preposition
 def: Slightly angry or irritated regarding something
-eg: He's annoyed about the constant noise
-eg: I'm annoyed about having to work on Saturday
+eg: He's annoyed about the constant noise from the construction site next door, which has been going on for weeks and shows no sign of stopping soon
+eg: I'm annoyed about having to work on Saturday when I had already made plans to visit my parents who live three hours away
 
 # annoyed with
 
@@ -112,15 +112,15 @@ eg: He was annoyed with the contractor for failing to finish the work by the agr
 
 cat: noun + preposition
 def: A response or solution to a question or problem
-eg: I don't have an answer to that question yet
-eg: The answer to the riddle was surprisingly simple
+eg: I don't have an answer to that question yet, but I can research it and get back to you before the end of the business day
+eg: The answer to the riddle was surprisingly simple, once we stopped overthinking it and looked at the clues from a different perspective
 
 # anxious about
 
 cat: adjective + preposition
 def: Worried or nervous about something that might happen
-eg: She's anxious about her job interview tomorrow
-eg: He felt anxious about the exam results
+eg: She's anxious about her job interview tomorrow, especially since it's for her dream company and she really wants to make a good impression
+eg: He felt anxious about the exam results because he had studied hard but still worried that he might have misunderstood some of the questions
 
 # apologize for
 
@@ -140,57 +140,57 @@ eg: He apologized to the whole team for the error that had set the project back 
 
 cat: verb + preposition
 def: To make a formal request for something such as a job or permit
-eg: She's applying for a visa to study abroad
-eg: I applied for three jobs last week
+eg: She's applying for a visa to study abroad next semester, having been accepted to a prestigious university in the Netherlands
+eg: I applied for three jobs last week and am waiting to hear back from two of them about scheduling initial screening interviews
 
 # approval of
 
 cat: noun + preposition
 def: Agreement or consent to something
-eg: The project needs the approval of the board
-eg: She nodded in approval of the plan
+eg: The project needs the approval of the board before we can proceed with the next phase of development and hiring additional staff
+eg: She nodded in approval of the plan, though she suggested a few minor modifications to improve efficiency and reduce costs
 
 # approve of
 
 cat: verb + preposition
 def: To have a favorable opinion of something or someone
-eg: My parents don't approve of my career choice
-eg: The committee approved of the proposal
+eg: My parents don't approve of my career choice because they wanted me to become a doctor or lawyer instead of a freelance artist
+eg: The committee approved of the proposal unanimously, impressed by the detailed budget and realistic timeline for completing all phases
 
 # argue about
 
 cat: verb + preposition
 def: To have a disagreement or debate concerning a topic
-eg: They're always arguing about money
-eg: We argued about which movie to see
+eg: They're always arguing about money, particularly about how much to save versus how much they can spend on vacations and entertainment
+eg: We argued about which movie to see, with half the group wanting an action film and the other half preferring a romantic comedy
 
 # argue with
 
 cat: verb + preposition
 def: To disagree or quarrel with someone
-eg: It's useless to argue with him when he's angry
-eg: She argued with the referee about the call
+eg: It's useless to argue with him when he's angry because he says things he doesn't mean and refuses to listen to reason until he calms down
+eg: She argued with the referee about the call, insisting that the ball had been in bounds despite the video evidence showing otherwise
 
 # arrive at
 
 cat: verb + preposition
 def: To reach a place, decision, or conclusion
-eg: We arrived at the station just in time
-eg: After hours of discussion, we arrived at a compromise
+eg: We arrived at the station just in time to catch our train, sprinting through the terminal with seconds to spare before the doors closed
+eg: After hours of discussion, we arrived at a compromise that satisfied both parties and allowed the negotiations to move forward constructively
 
 # arrive in
 
 cat: verb + preposition
 def: To reach a city, country, or large area
-eg: The flight arrives in Paris at noon
-eg: They arrived in the country last week
+eg: The flight arrives in Paris at noon, giving us enough time to check into the hotel and freshen up before our dinner reservations
+eg: They arrived in the country last week and are currently staying in quarantine before beginning their new jobs at the research facility
 
 # ashamed of
 
 cat: adjective + preposition
 def: Feeling shame or embarrassment about something
-eg: He was ashamed of his behavior at the party
-eg: She's ashamed of her poor grades
+eg: He was ashamed of his behavior at the party after drinking too much and making inappropriate comments to several guests who were offended
+eg: She's ashamed of her poor grades this semester and has already started studying harder to improve her performance next term
 
 # ask for
 
@@ -203,50 +203,50 @@ eg: He asked for a raise after demonstrating a consistent improvement in his res
 
 cat: adjective + preposition
 def: Connected or linked with something
-eg: The risks associated with smoking are well known
-eg: She's associated with several charitable organizations
+eg: The risks associated with smoking are well known, yet millions of people continue to smoke despite health warnings and increasing taxes
+eg: She's associated with several charitable organizations, serving on their boards and helping to organize fundraising events throughout the year
 
 # attitude toward
 
 cat: noun + preposition
 def: A way of thinking or feeling about someone or something
-eg: His attitude toward work has improved
-eg: We need to change our attitude toward failure
+eg: His attitude toward work has improved significantly since he started working with a mentor who helped him find meaning in his daily tasks
+eg: We need to change our attitude toward failure, viewing it as a learning opportunity rather than a reason to give up on our goals
 
 # aware of
 
 cat: adjective + preposition
 def: Having knowledge or consciousness of something
-eg: All staff must be made aware of the new data protection policy before next month
-eg: She wasn’t aware of the danger until it was almost too late to take action
+eg: All staff must be made aware of the new data protection policy before next month when it takes effect and becomes mandatory for all departments
+eg: She wasn't aware of the danger until it was almost too late to take action, having walked into the restricted area without reading the warning signs
 
 # bad at
 
 cat: adjective + preposition
 def: Lacking skill or ability in something
-eg: I'm really bad at math
-eg: He's bad at keeping secrets
+eg: I'm really bad at math, which is why I struggled with the statistics course and had to hire a tutor to help me pass the final exam
+eg: He's bad at keeping secrets, often accidentally revealing surprises that friends and family spent weeks planning to keep hidden
 
 # based on
 
 cat: adjective + preposition
 def: Founded on or derived from something
-eg: The movie is based on a true story
-eg: Our decision was based on the available evidence
+eg: The movie is based on a true story that took place in the nineteen sixties, though some details were changed for dramatic effect
+eg: Our decision was based on the available evidence, which strongly suggested that the investment would yield positive returns within two years
 
 # believe in
 
 cat: verb + preposition
 def: To feel sure that something exists or that something is true; to have confidence in
-eg: I believe in working hard to achieve your goals
-eg: She believes in treating everyone with respect
+eg: I believe in working hard to achieve your goals, though I also recognize that luck and timing play important roles in success
+eg: She believes in treating everyone with respect regardless of their position, a value her parents instilled in her from a young age
 
 # belief in
 
 cat: noun + preposition
 def: Trust or confidence in something or someone
-eg: Her belief in herself never wavered
-eg: The team's belief in their coach kept them going
+eg: Her belief in herself never wavered even when others doubted her abilities, and she eventually proved them wrong by achieving her dream
+eg: The team's belief in their coach kept them going through a difficult season, trusting that his strategies would eventually lead to victories
 
 # belong to
 

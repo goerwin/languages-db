@@ -7,36 +7,36 @@ description: Common English nouns with a focus on abstract and intermediate-to-a
 
 pho: /ˈæb.səns/
 def: The state of being away from a place or person; the non-existence of something
-eg: His absence from the meeting was noticed by everyone
-eg: The absence of evidence doesn't mean evidence of absence
+eg: His absence from the meeting was noticed by everyone, especially since he was the one who had requested it in the first place
+eg: The absence of evidence doesn't mean evidence of absence, a principle often cited in scientific research and legal proceedings
 
 # abundance
 
 pho: /əˈbʌn.dəns/
 def: A very large quantity of something; more than enough
-eg: The region has an abundance of natural resources
-eg: There was an abundance of food at the wedding reception
+eg: The region has an abundance of natural resources, including timber, minerals, and fertile agricultural land that supports local farmers
+eg: There was an abundance of food at the wedding reception, with guests taking home leftovers in decorative containers provided by the caterers
 
 # access
 
 pho: /ˈæk.ses/
 def: The means or opportunity to approach or enter a place; the right to use or obtain something
-eg: Students have access to the library 24 hours a day
-eg: The building has wheelchair access
+eg: Students have access to the library 24 hours a day during exam periods, with security staff available to ensure safety at night
+eg: The building has wheelchair access through the main entrance, with automatic doors and an elevator that serves all five floors
 
 # accomplishment
 
 pho: /əˈkʌm.plɪʃ.mənt/
 def: Something that has been achieved successfully; a skill or ability
-eg: Finishing the marathon was a great accomplishment
-eg: She listed her accomplishments on her resume
+eg: Finishing the marathon was a great accomplishment after months of training, especially since she had never considered herself an athlete before
+eg: She listed her accomplishments on her resume, including the successful launch of three products that generated millions in revenue
 
 # accuracy
 
 pho: /ˈæk.jə.rə.si/
 def: The quality of being correct or precise; freedom from error
-eg: The accuracy of the report was questioned
-eg: He checked the accuracy of his calculations
+eg: The accuracy of the report was questioned after several stakeholders noticed discrepancies in the financial projections and market analysis
+eg: He checked the accuracy of his calculations three times before submitting the engineering specifications to the client for approval
 
 # achievement
 
@@ -49,8 +49,8 @@ eg: Landing on the moon remains one of humanity’s most remarkable achievements
 
 pho: /əkˈnɒl.ɪdʒ.mənt/
 def: Recognition of the existence or truth of something; an expression of appreciation
-eg: She nodded in acknowledgment of his help
-eg: The author thanked his editor in the acknowledgments
+eg: She nodded in acknowledgment of his help, mouthing a silent thank you as she walked past his desk with the completed presentation
+eg: The author thanked his editor in the acknowledgments section, crediting her with helping him shape the manuscript into its final form
 
 # addiction
 
@@ -63,120 +63,120 @@ eg: Social media addiction is a growing concern
 
 pho: /əˈdʒʌst.mənt/
 def: A small alteration or movement made to achieve a desired fit or result
-eg: She made some adjustments to her schedule
-eg: The mechanic made an adjustment to the brakes
+eg: She made some adjustments to her schedule after realizing that her morning meetings were conflicting with her children's school drop-off routine
+eg: The mechanic made an adjustment to the brakes, tightening the cables and replacing the worn pads to ensure safe stopping power
 
 # admiration
 
 pho: /ˌæd.məˈreɪ.ʃən/
 def: Respect and warm approval; regard for someone's abilities or qualities
-eg: I have great admiration for her work
-eg: His courage earned him the admiration of his peers
+eg: I have great admiration for her work in renewable energy research, particularly her groundbreaking discoveries in solar cell efficiency
+eg: His courage earned him the admiration of his peers, who nominated him for the national hero award after he rescued three people from the burning building
 
 # advantage
 
 pho: /ədˈvɑːn.tɪdʒ/
 def: A condition or circumstance that puts one in a favorable position
-eg: Her experience gave her an advantage in the interview
-eg: There are advantages to living in the city
+eg: Her experience gave her an advantage in the interview, allowing her to provide specific examples that demonstrated her problem-solving abilities
+eg: There are advantages to living in the city, including access to public transportation, cultural events, and a diverse range of restaurants and shops
 
 # adversity
 
 pho: /ədˈvɜː.sə.ti/
 def: Difficulties or misfortune; a difficult or unpleasant situation
-eg: She overcame great adversity to succeed
-eg: The family faced adversity with courage
+eg: She overcame great adversity to succeed, growing up in poverty and facing discrimination before becoming a respected judge in her community
+eg: The family faced adversity with courage when the father lost his job, working together to reduce expenses and support each other emotionally
 
 # affection
 
 pho: /əˈfek.ʃən/
 def: A gentle feeling of fondness or liking
-eg: He showed affection for his grandchildren
-eg: She had great affection for her childhood home
+eg: He showed affection for his grandchildren by attending every school play and soccer game, always sitting in the front row with his camera ready
+eg: She had great affection for her childhood home, visiting it every year on her birthday to walk through the garden where she used to play
 
 # agenda
 
 pho: /əˈdʒen.də/
 def: A list of items to be discussed at a meeting; a plan of things to be done
-eg: The agenda for the meeting was distributed in advance
-eg: She has a hidden agenda
+eg: The agenda for the meeting was distributed in advance, giving everyone time to prepare their updates and gather relevant documents for discussion
+eg: She has a hidden agenda for supporting the proposal, as it would benefit her department's budget while appearing to help the entire organization
 
 # allegation
 
 pho: /ˌæl.əˈɡeɪ.ʃən/
 def: A claim or assertion that someone has done something illegal or wrong
-eg: The allegations of fraud were investigated
-eg: He denied the allegations against him
+eg: The allegations of fraud were investigated by federal authorities, who subpoenaed financial records and interviewed dozens of current and former employees
+eg: He denied the allegations against him, presenting documentary evidence that proved he had been out of the country when the crime was committed
 
 # alliance
 
 pho: /əˈlaɪ.əns/
 def: A union or association formed for mutual benefit; a relationship based on common interests
-eg: The two countries formed a military alliance
-eg: The alliance between the companies strengthened both
+eg: The two countries formed a military alliance to defend against potential aggression from neighboring states with expansionist territorial ambitions
+eg: The alliance between the companies strengthened both, allowing them to share research costs and access each other's distribution networks globally
 
 # allowance
 
 pho: /əˈlaʊ.əns/
 def: The amount of something permitted; money given regularly to a child
-eg: She gives her son a weekly allowance
-eg: The baggage allowance is 23 kilograms
+eg: She gives her son a weekly allowance of ten dollars, teaching him to budget for toys and save a portion for larger purchases he wants in the future
+eg: The baggage allowance is 23 kilograms for economy class passengers, with additional fees charged for each kilogram over the limit at check-in
 
 # alternative
 
 pho: /ɔːlˈtɜː.nə.tɪv/
 def: One of two or more available possibilities; an option other than the usual
-eg: We need to find an alternative route
-eg: There is no alternative but to wait
+eg: We need to find an alternative route since the main highway is closed for emergency repairs following the multi-vehicle accident this morning
+eg: There is no alternative but to wait for the storm to pass before the rescue helicopters can safely reach the stranded hikers on the mountain
 
 # ambiguity
 
 pho: /ˌæm.bɪˈɡjuː.ə.ti/
 def: The quality of being open to more than one interpretation; inexactness
-eg: The ambiguity in the contract caused problems
-eg: He spoke with deliberate ambiguity
+eg: The ambiguity in the contract caused problems when the two parties interpreted the payment terms differently, leading to months of legal disputes
+eg: He spoke with deliberate ambiguity to avoid committing to a specific position on the controversial issue before the election campaign began
 
 # ambition
 
 pho: /æmˈbɪʃ.ən/
 def: A strong desire to do or achieve something; determination to succeed
-eg: Her ambition drove her to work long hours
-eg: He had the ambition to become CEO
+eg: Her ambition drove her to work long hours while studying for her MBA, sacrificing weekends and social events to achieve her career goals
+eg: He had the ambition to become CEO from a young age, working his way up from an entry-level position through determination and strategic networking
 
 # amendment
 
 pho: /əˈmend.mənt/
 def: A minor change or addition designed to improve a text or piece of legislation
-eg: The constitution was passed with several amendments
-eg: She proposed an amendment to the proposal
+eg: The constitution was passed with several amendments protecting individual rights, including freedom of speech and protection against unreasonable searches
+eg: She proposed an amendment to the proposal that would reduce costs by fifteen percent while maintaining the quality of the delivered services
 
 # amount
 
 pho: /əˈmaʊnt/
 def: A quantity of something; the total number or value
-eg: The amount of rainfall was significant
-eg: She donated a large amount to charity
+eg: The amount of rainfall was significant this season, filling reservoirs to capacity and ending the three-year drought that had affected farmers
+eg: She donated a large amount to charity anonymously, requesting that the organization use the funds wherever they were needed most urgently
 
 # analogy
 
 pho: /əˈnæl.ə.dʒi/
 def: A comparison between two things, typically for the purpose of explanation
-eg: He used an analogy to explain the concept
-eg: The analogy between the brain and a computer is useful
+eg: He used an analogy to explain the concept, comparing the flow of electricity in a circuit to water flowing through pipes of different diameters
+eg: The analogy between the brain and a computer is useful for understanding basic information processing, though it breaks down when considering consciousness
 
 # analysis
 
 pho: /əˈnæl.ə.sɪs/
 def: Detailed examination of the elements or structure of something
-eg: The analysis of the data revealed new patterns
-eg: Her analysis of the situation was insightful
+eg: The analysis of the data revealed new patterns in customer behavior that the marketing team used to develop more targeted advertising campaigns
+eg: Her analysis of the situation was insightful, identifying underlying causes that others had overlooked and proposing practical solutions to address them
 
 # ancestor
 
 pho: /ˈæn.ses.tər/
 def: A person from whom one is descended; a forebear
-eg: His ancestors came from Ireland
-eg: We honor our ancestors at this festival
+eg: His ancestors came from Ireland during the potato famine, arriving in America with nothing and building a new life through hard work and determination
+eg: We honor our ancestors at this festival by preparing traditional foods, singing old songs, and sharing stories that have been passed down through generations
 
 # anger
 
@@ -189,15 +189,15 @@ eg: She felt a sudden surge of anger when she realized she had been deliberately
 
 pho: /ˈæŋ.ɡwɪʃ/
 def: Severe mental or physical pain or suffering
-eg: The family was in anguish over the missing child
-eg: He cried out in anguish
+eg: The family was in anguish over the missing child, organizing search parties and distributing flyers throughout the surrounding communities for weeks
+eg: He cried out in anguish when he learned that his business partner had embezzled millions and fled the country, leaving behind massive debts
 
 # anniversary
 
 pho: /ˌæn.ɪˈvɜː.sər.i/
 def: The date on which an event took place in a previous year; a celebration of such a date
-eg: They celebrated their 25th wedding anniversary
-eg: The company marked its 50th anniversary
+eg: They celebrated their 25th wedding anniversary with a vow renewal ceremony attended by their children, grandchildren, and closest friends from over the years
+eg: The company marked its 50th anniversary by launching a new product line and donating one million dollars to local charities that support education initiatives
 
 # announcement
 

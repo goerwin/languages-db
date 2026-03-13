@@ -35,8 +35,8 @@ eg: She looks young, but she's actually 45 years old
 
 pho: /ˈæf.tɚ.wɚdz/
 def: After an event or time mentioned
-eg: We had dinner and afterwards went to the movies
-eg: She felt much better afterwards
+eg: We had dinner and afterwards went to the movies, discussing the restaurant's amazing pasta dishes throughout the film
+eg: She felt much better afterwards, once the medication had time to work and the fever finally broke
 
 # ahead
 
@@ -70,8 +70,8 @@ eg: He's a teacher and also writes novels
 
 pho: /ˌɔːl.təˈɡeð.ɚ/
 def: Completely; in total; considering everything
-eg: The project was altogether too expensive
-eg: There were twelve people altogether at the party
+eg: The project was altogether too expensive for our small department, requiring budget approval from senior management and multiple rounds of justification
+eg: There were twelve people altogether at the party, including family members, close friends, and a few colleagues who happened to be in town
 
 # always
 
@@ -84,8 +84,8 @@ eg: I will always remember that day
 
 pho: /ˈen.i.wer/
 def: In, at, or to any place
-eg: You can sit anywhere you like
-eg: I can't find my keys anywhere
+eg: You can sit anywhere you like in the lecture hall since it's an open session and there are plenty of empty seats available this afternoon
+eg: I can't find my keys anywhere—I've checked my bag, my coat pockets, the car, and even retraced my steps from this morning
 
 # apparently
 
@@ -105,22 +105,22 @@ eg: I automatically reach for my phone when I wake up
 
 pho: /əˈweɪ/
 def: To or at a distance from a particular place or person
-eg: He walked away without saying goodbye
-eg: The store is five miles away
+eg: He walked away without saying goodbye after the argument, leaving everyone at the dinner table in uncomfortable silence
+eg: The store is five miles away from our house, but there's a bus that runs every twenty minutes so it's easy to get there without a car
 
 # back
 
 pho: /bæk/
 def: In the direction from which someone or something came
-eg: Please come back soon
-eg: She put the book back on the shelf
+eg: Please come back soon—the team isn't the same without you and we could really use your expertise on this project
+eg: She put the book back on the shelf after skimming through it, deciding she would borrow it from the library instead of buying it
 
 # badly
 
 pho: /ˈbæd.li/
 def: In a poor or unsatisfactory way; severely
-eg: The team played badly and lost the game
-eg: She was badly injured in the accident
+eg: The team played badly and lost the game, making unforced errors throughout and failing to capitalize on any of their scoring opportunities
+eg: She was badly injured in the accident, suffering multiple fractures that required surgery and months of physical therapy to recover from
 
 # barely
 
@@ -140,8 +140,8 @@ eg: The two options are basically the same
 
 pho: /ˈbriːf.li/
 def: For a short time; in few words
-eg: She briefly mentioned the problem
-eg: Let me explain briefly what happened
+eg: She briefly mentioned the problem during the morning standup, promising to provide a detailed update after investigating the root cause
+eg: Let me explain briefly what happened before we dive into the technical details and discuss potential solutions for preventing this issue
 
 # carefully
 
@@ -203,22 +203,22 @@ eg: She cares deeply about the environment
 
 pho: /ˈdef.ɪ.nət.li/
 def: Without any doubt; certainly
-eg: I will definitely be there
-eg: That's definitely the right answer
+eg: I will definitely be there for your presentation tomorrow—I've cleared my schedule and I'm looking forward to seeing your work
+eg: That's definitely the right answer according to the textbook, though in practice there might be additional factors to consider
 
 # desperately
 
 pho: /ˈdes.pər.ət.li/
 def: In a way that shows despair or urgency
-eg: She desperately needed help
-eg: He was desperately trying to find a job
+eg: She desperately needed help after her car broke down in the remote area with no cell phone reception and night falling quickly
+eg: He was desperately trying to find a job before his savings ran out, applying to dozens of positions every week and attending every networking event
 
 # downstairs
 
 pho: /ˌdaʊnˈsterz/
 def: On or to a lower floor of a building
-eg: The bathroom is downstairs
-eg: She ran downstairs to answer the door
+eg: The bathroom is downstairs, just past the kitchen and to the left of the staircase that leads to the basement
+eg: She ran downstairs to answer the door when the doorbell rang, nearly tripping over the cat in her hurry to greet the delivery person
 
 # easily
 
@@ -238,64 +238,64 @@ eg: She eagerly accepted the job offer
 
 pho: /ˌelˈswer/
 def: In, at, or to another place
-eg: If they're not here, they must be elsewhere
-eg: We'll have to look elsewhere for answers
+eg: If they're not here at the restaurant, they must be elsewhere—maybe they went to the park or stopped at a friend's house on the way
+eg: We'll have to look elsewhere for answers since the current research doesn't address our specific question about long-term effects
 
 # enough
 
 pho: /ɪˈnʌf/
 def: To the necessary degree; sufficiently
-eg: Is the water warm enough?
-eg: She didn't run fast enough to win
+eg: Is the water warm enough for swimming, or should we wait until the afternoon when the sun has had more time to heat it up?
+eg: She didn't run fast enough to win the race, but she did set a personal best time that she was proud of improving
 
 # entirely
 
 pho: /ɪnˈtaɪər.li/
 def: Completely; fully
-eg: That's an entirely different matter
-eg: I'm not entirely sure what happened
+eg: That's an entirely different matter that requires separate consideration and possibly input from the legal department before we proceed
+eg: I'm not entirely sure what happened during the system outage, but the IT team is investigating and should have answers by tomorrow
 
 # everywhere
 
 pho: /ˈev.ri.wer/
 def: In or to every place
-eg: I've looked everywhere for my keys
-eg: There were flowers everywhere
+eg: I've looked everywhere for my keys—on the counter, in my bag, in the car, even in the refrigerator for some reason
+eg: There were flowers everywhere at the wedding reception, on every table, hanging from the ceiling, and lining the entrance to the ballroom
 
 # eventually
 
 pho: /ɪˈven.tʃu.ə.li/
 def: In the end; after a long time
-eg: We eventually found the right house
-eg: She eventually agreed to help us
+eg: We eventually found the right house after months of searching, viewing dozens of properties, and making several offers that were rejected
+eg: She eventually agreed to help us with the project, but only after we assured her that the workload would be manageable and flexible
 
 # extremely
 
 pho: /ɪkˈstriːm.li/
 def: To a very great degree
-eg: The weather was extremely hot
-eg: I'm extremely grateful for your help
+eg: The weather was extremely hot during the heat wave, with temperatures exceeding forty degrees Celsius for five consecutive days
+eg: I'm extremely grateful for your help with moving last weekend—I couldn't have done it without you and your truck
 
 # fairly
 
 pho: /ˈfer.li/
 def: To a reasonable degree; quite
-eg: The test was fairly difficult
-eg: She's fairly certain about the date
+eg: The test was fairly difficult, with several questions that required applying concepts in ways we hadn't practiced during the review sessions
+eg: She's fairly certain about the date of the meeting, but she's going to double-check the calendar invitation to be absolutely sure
 
 # fast
 
 pho: /fæst/
 def: Quickly; at high speed
-eg: Don't drive so fast
-eg: Time goes by so fast
+eg: Don't drive so fast on these winding mountain roads, especially since it's foggy and visibility is reduced to just a few meters ahead
+eg: Time goes by so fast when you're having fun—the vacation felt like it lasted only a few days instead of the full two weeks
 
 # finally
 
 pho: /ˈfaɪ.nəl.i/
 def: After a long time; at last
-eg: We finally arrived at the hotel
-eg: She finally decided to quit her job
+eg: We finally arrived at the hotel well past midnight, exhausted from the delayed flight and the long drive from the airport
+eg: She finally decided to quit her job after years of feeling unfulfilled and started her own business doing what she truly loved
 
 # firmly
 
@@ -308,15 +308,15 @@ eg: He gripped the railing firmly as the boat rocked back and forth in the rough
 
 pho: /ˈfɔːr.tʃə.nət.li/
 def: By good luck; luckily
-eg: Fortunately, no one was hurt
-eg: Fortunately, we had a backup plan
+eg: Fortunately, no one was hurt in the collision, though both vehicles sustained significant damage and had to be towed away from the intersection
+eg: Fortunately, we had a backup plan when the outdoor venue became unavailable due to the storm forecast for the weekend
 
 # formerly
 
 pho: /ˈfɔːr.mɚ.li/
 def: In the past; previously
-eg: She was formerly the CEO of the company
-eg: The building was formerly a school
+eg: She was formerly the CEO of the company before transitioning to an advisory role and mentoring the new leadership team
+eg: The building was formerly a school that closed in the nineteen nineties, and now it's being converted into affordable housing units
 
 # frankly
 
@@ -329,8 +329,8 @@ eg: She told him frankly that his performance had not met the expectations of th
 
 pho: /ˈfriː.kwənt.li/
 def: Often; many times
-eg: She frequently travels for work
-eg: This problem occurs frequently
+eg: She frequently travels for work, spending at least two weeks every month visiting client sites across different countries and time zones
+eg: This problem occurs frequently when the system is under heavy load, so we've implemented monitoring to detect it before users notice
 
 # gently
 
@@ -350,15 +350,15 @@ eg: It's raining hard outside
 
 pho: /ˈhɑːrd.li/
 def: Almost not; barely
-eg: I could hardly believe my eyes
-eg: We hardly ever see each other anymore
+eg: I could hardly believe my eyes when I walked into the surprise party and saw all my friends from different parts of my life gathered in one room
+eg: We hardly ever see each other anymore since she moved to the other side of the country for that exciting job opportunity
 
 # hardly ever
 
 pho: /ˈhɑːrd.li ˈev.ɚ/
 def: Very rarely; almost never
-eg: He hardly ever eats breakfast
-eg: I hardly ever go to the movies
+eg: He hardly ever eats breakfast because he's always rushing to catch the early train and prefers to have a mid-morning snack at the office
+eg: I hardly ever go to the movies these days since streaming services offer so much content that I can watch at home comfortably
 
 # here
 
@@ -371,8 +371,8 @@ eg: I’ve been here for an hour already and they still haven’t called my name
 
 pho: /ˈɑː.nɪst.li/
 def: In a truthful way; used to emphasize sincerity
-eg: Honestly, I don't know the answer
-eg: She spoke honestly about her feelings
+eg: Honestly, I don't know the answer to your question, but I can find out and get back to you by the end of the day
+eg: She spoke honestly about her feelings during the therapy session, revealing fears and hopes she had never shared with anyone before
 
 # hopefully
 
@@ -399,85 +399,85 @@ eg: She left the office immediately after the call, saying it was a family emerg
 
 pho: /ɪnˈkred.ə.bli/
 def: To a great degree; extremely
-eg: The view was incredibly beautiful
-eg: She's incredibly talented
+eg: The view from the mountaintop was incredibly beautiful, stretching across valleys and lakes that shimmered in the early morning sunlight
+eg: She's incredibly talented at playing the violin, having started lessons at age four and now performing with professional orchestras
 
 # instantly
 
 pho: /ˈɪn.stənt.li/
 def: Immediately; at once
-eg: The app loads instantly
-eg: She recognized him instantly
+eg: The app loads instantly on the new phone, opening in less than a second compared to the five-second wait on my old device
+eg: She recognized him instantly even though it had been twenty years since they last saw each other at their high school graduation
 
 # interestingly
 
 pho: /ˈɪn.trə.stɪŋ.li/
 def: In a way that attracts attention; it is interesting that
-eg: Interestingly, no one noticed the error
-eg: Interestingly enough, they both had the same idea
+eg: Interestingly, no one noticed the error in the financial report until the external auditors pointed it out during their annual review
+eg: Interestingly enough, they both had the same idea for the project title without ever discussing it before the brainstorming session
 
 # ironically
 
 pho: /aɪˈrɑː.nɪ.kəl.i/
 def: In an ironic way; it is ironic that
-eg: Ironically, the fire station burned down
-eg: Ironically, he became a teacher after hating school
+eg: Ironically, the fire station burned down while the firefighters were out responding to a false alarm at the local shopping mall
+eg: Ironically, he became a teacher after hating school as a child, often skipping classes and telling his parents he wanted to drop out
 
 # inside
 
 pho: /ɪnˈsaɪd/
 def: In or into the inner part of something
-eg: Let's go inside, it's cold out
-eg: The keys are inside the drawer
+eg: Let's go inside, it's cold out—the heating is on and we can continue this conversation over a warm cup of tea or coffee
+eg: The keys are inside the drawer where I always keep them, next to the spare change and the flashlight for power outages
 
 # lately
 
 pho: /ˈleɪt.li/
 def: Recently; in the recent past
-eg: I haven't seen him lately
-eg: Have you been exercising lately?
+eg: I haven't seen him lately at the gym, which is unusual because he works out there every morning before heading to the office
+eg: Have you been exercising lately? Your doctor recommended at least thirty minutes of moderate activity five days a week for better health
 
 # literally
 
 pho: /ˈlɪt̬.ɚ.ə.li/
 def: In the literal sense; used for emphasis
-eg: I literally ran all the way here
-eg: The room was literally freezing
+eg: I literally ran all the way here when I realized I was going to be late for the job interview and there was no time to find parking
+eg: The room was literally freezing because the heating system had broken down overnight and the maintenance crew couldn't fix it until Monday
 
 # loosely
 
 pho: /ˈluːs.li/
 def: In a way that is not tight or strict
-eg: Tie it loosely so it's easy to remove
-eg: The term is used loosely in this context
+eg: Tie it loosely so it's easy to remove if the swelling increases, but tight enough to provide support for the injured ankle
+eg: The term is used loosely in this context to describe a broad category of technologies that don't necessarily share common characteristics
 
 # loudly
 
 pho: /ˈlaʊd.li/
 def: In a way that produces much sound
-eg: Please don't speak so loudly
-eg: The music was playing loudly
+eg: Please don't speak so loudly in the library—other people are trying to concentrate on their studies and research projects
+eg: The music was playing loudly enough that the neighbors called the police to complain about the noise after midnight on a weekday
 
 # luckily
 
 pho: /ˈlʌk.ə.li/
 def: By good fortune; fortunately
-eg: Luckily, I had my umbrella
-eg: Luckily, no one was injured
+eg: Luckily, I had my umbrella with me when the sudden downpour started, though I still got soaked from the wind blowing rain sideways
+eg: Luckily, no one was injured in the collision, but both cars sustained significant damage and had to be towed to the repair shop
 
 # meanwhile
 
 pho: /ˈmiːn.waɪl/
 def: In the time between two events; at the same time
-eg: I'll start dinner; meanwhile, you can set the table
-eg: She's at work; meanwhile, I'm at home
+eg: I'll start dinner; meanwhile, you can set the table and pour some water for everyone who will be arriving in about twenty minutes
+eg: She's at work finishing the presentation; meanwhile, I'm at home preparing the children for bed and making sure they do their homework
 
 # naturally
 
 pho: /ˈnætʃ.ɚ.ə.li/
 def: In a natural way; as would be expected
-eg: She smiled naturally for the photo
-eg: Naturally, I was disappointed
+eg: She smiled naturally for the photo without any awkward posing, having spent years in front of cameras as a professional model
+eg: Naturally, I was disappointed when I didn't get the job after three rounds of interviews, but I'm already applying for other opportunities
 
 # nearly
 
@@ -490,29 +490,29 @@ eg: It took nearly two hours to get through security at the airport
 
 pho: /ˌnɪrˈbaɪ/
 def: Not far away; close
-eg: There's a café nearby
-eg: She lives nearby
+eg: There's a café nearby that serves excellent coffee and fresh pastries, just around the corner from the office building
+eg: She lives nearby, only about ten minutes walking distance from the university campus where she's completing her doctoral research
 
 # never
 
 pho: /ˈnev.ɚ/
 def: Not at any time; not ever
-eg: I've never been to Japan
-eg: She never forgets a face
+eg: I've never been to Japan, though it's at the top of my travel bucket list and I've been saving money and studying the language for years
+eg: She never forgets a face, which makes her excellent at her job in human resources where remembering names and details is crucial
 
 # normally
 
 pho: /ˈnɔːr.mə.li/
 def: Usually; in the usual way
-eg: I normally wake up at seven
-eg: The store is normally open until nine
+eg: I normally wake up at seven on weekdays, but on weekends I like to sleep in until nine or ten depending on how tired I am
+eg: The store is normally open until nine in the evening, but during the holiday season they extended their hours to accommodate more shoppers
 
 # nowhere
 
 pho: /ˈnoʊ.wer/
 def: Not in, at, or to any place
-eg: The keys are nowhere to be found
-eg: We're getting nowhere with this discussion
+eg: The keys are nowhere to be found—I've checked every room, every drawer, and even retraced my steps from this morning
+eg: We're getting nowhere with this discussion because neither side is willing to compromise or consider alternative solutions to the problem
 
 # now
 
@@ -525,8 +525,8 @@ eg: She realized now that she should have listened to the warning months earlier
 
 pho: /ˈnaʊ.ə.deɪz/
 def: At the present time; in these times
-eg: Nowadays, everyone has a smartphone
-eg: People travel more nowadays
+eg: Nowadays, everyone has a smartphone that serves as a camera, map, music player, and communication device all in one pocket-sized gadget
+eg: People travel more nowadays than previous generations did, thanks to affordable airlines and the ability to work remotely from anywhere
 
 # obviously
 
@@ -539,15 +539,15 @@ eg: She was obviously upset by the outcome but tried to hide it in front of the 
 
 pho: /əˈkeɪ.ʒən.ə.li/
 def: Sometimes but not often
-eg: I occasionally have coffee in the afternoon
-eg: We see each other occasionally
+eg: I occasionally have coffee in the afternoon when I'm feeling particularly tired, but I try to avoid it after three pm so I can sleep well
+eg: We see each other occasionally for lunch or dinner, usually once every few months when our schedules align and we're both free on the same weekend
 
 # often
 
 pho: /ˈɔː.fən/
 def: Many times; frequently
-eg: I often go for a walk after dinner
-eg: She's often late for meetings
+eg: I often go for a walk after dinner as a way to digest the meal and get some fresh air before settling in for an evening of reading or watching television
+eg: She's often late for meetings because she tends to overestimate how much she can accomplish between appointments and doesn't leave enough buffer time
 
 # outside
 
