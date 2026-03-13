@@ -14,243 +14,243 @@ eg: He felt abandoned by his friends
 
 pho: /ˈeɪ.bəl/
 def: Having the skill, power, or opportunity to do something.
-eg: She was able to finish the race despite the rain
-eg: He’s not able to come to the meeting today
+eg: After months of physical therapy, she was finally able to walk without assistance and returned to work
+eg: Due to a scheduling conflict, he's not able to attend the conference, so his colleague will present instead
 
 # absolute
 
 pho: /ˈæb.sə.luːt/
 def: Complete and total; not limited in any way.
-eg: She has absolute confidence in her team
-eg: The solution requires absolute precision
+eg: The CEO has absolute authority over major business decisions, though she typically seeks input from her executive team first
+eg: Surgical procedures require absolute precision, as even the smallest error could have serious consequences for the patient
 
 # academic
 
 pho: /ˌæk.əˈdem.ɪk/
 def: Related to education, study, or scholarly activity
-eg: She joined the academic community after publishing her research
-eg: He struggled with the academic requirements of the course
+eg: After years of industry experience, she joined the academic community to pursue research in renewable energy technologies
+eg: Many international students struggle with the academic requirements of Western universities, particularly critical thinking and essay writing
 
 # acceptable
 
 pho: /əkˈsep.tə.bəl/
 def: Good enough to be allowed or approved
-eg: The food quality was acceptable, but nothing special
-eg: Your behavior was acceptable under the circumstances
+eg: The food quality at the conference was acceptable, though several attendees commented that the vegetarian options were surprisingly flavorful
+eg: While your behavior was acceptable under the circumstances, the client still expects a formal apology before we can move forward with the contract
 
 # acclaimed
 
 pho: /əˈkleɪmd/
 def: Praised enthusiastically by many people
-eg: The critically acclaimed film won several awards
-eg: She’s an acclaimed author in the mystery genre
+eg: The critically acclaimed film won several awards at international festivals and became a surprise box office success despite its modest budget
+eg: She's an acclaimed author in the mystery genre, with her latest novel being translated into more than thirty languages worldwide
 
 # accomplished
 
 pho: /əˈkɒm.plɪʃt/
 def: Highly skilled or successful at something
-eg: He’s an accomplished pianist
-eg: The accomplished surgeon performed the operation flawlessly
+eg: He's an accomplished pianist who has performed with major orchestras across Europe and released four critically praised albums
+eg: The accomplished surgeon performed the complex operation flawlessly, later mentoring younger doctors through the same procedure
 
 # accurate
 
 pho: /ˈæk.jə.rət/
 def: Correct and free from mistakes
-eg: The measurements were accurate to within a millimeter
-eg: She gave an accurate description of the event
+eg: The laboratory measurements were accurate to within a millimeter, meeting the strict quality standards required for aerospace components
+eg: Witnesses gave an accurate description of the suspect, which helped police identify and locate him within forty-eight hours of the incident
 
 # acidic
 
 pho: /əˈsɪd.ɪk/
 def: Having a sour or sharp taste; containing acid
-eg: Lemon juice is very acidic
-eg: The soil in this region is too acidic for most crops
+eg: Lemon juice is very acidic, which is why it's often used in marinades to tenderize meat before grilling or roasting
+eg: The soil in this region is too acidic for most crops, so farmers must add lime regularly to balance the pH levels for successful harvests
 
 # acrobatic
 
 pho: /ˌæk.rəˈbæt.ɪk/
 def: Involving impressive physical balance or agility
-eg: The gymnast’s acrobatic routine thrilled the crowd
-eg: The cat made an acrobatic leap onto the high shelf
+eg: The gymnast's acrobatic routine thrilled the crowd, earning her the highest score of the competition and a spot on the national team
+eg: The cat made an acrobatic leap from the floor to the top shelf, landing gracefully without knocking over a single decorative item
 
 # active
 
 pho: /ˈæk.tɪv/
 def: Engaging in action or movement; energetic or busy
 def: Currently operating or in use
-eg: She leads an active lifestyle, hiking and cycling most weekends
-eg: The volcano is still active and could erupt at any time
+eg: She leads an active lifestyle, hiking mountain trails and cycling fifty kilometers most weekends to maintain her cardiovascular health
+eg: The volcano is still active and could erupt at any time, so authorities have established evacuation routes for nearby communities
 
 # actual
 
 pho: /ˈæk.tʃu.əl/
 def: Real or existing in fact, not imagined or expected
-eg: The actual cost was higher than we expected
-eg: This is the actual reason for the delay
+eg: The actual cost of renovating the house was nearly thirty percent higher than the initial estimate due to unexpected structural issues
+eg: This is the actual reason for the delay: the supplier failed to deliver critical components, not the weather as we initially reported
 
 # adept
 
 pho: /əˈdept/
 def: Very skilled or proficient at something
-eg: He is adept at solving complex problems
-eg: She became adept with the new software quickly
+eg: He is adept at solving complex problems under pressure, which made him invaluable during the company's recent financial restructuring
+eg: She became adept with the new design software quickly, completing her first project in half the time her colleagues needed
 
 # admirable
 
 pho: /ˈæd.mə.rə.bəl/
 def: Deserving respect or approval
-eg: Her dedication to the project is admirable
-eg: He showed admirable patience under pressure
+eg: Her dedication to the project is admirable, especially considering she worked nights and weekends while caring for her elderly parents
+eg: He showed admirable patience under pressure when the client repeatedly changed requirements just days before the product launch deadline
 
 # admired
 
 pho: /ədˈmaɪrd/
 def: Regarded with respect, approval, or affection
-eg: She is admired by her colleagues
-eg: The admired leader announced his retirement
+eg: She is admired by her colleagues not only for her technical expertise but also for her willingness to mentor junior team members
+eg: The admired leader announced his retirement after thirty years, leaving behind a legacy of innovation and ethical business practices
 
 # adolescent
 
 pho: /ˌæd.əˈles.ənt/
 def: Relating to the period between childhood and adulthood
-eg: Adolescents often seek more independence
-eg: The program is designed for adolescent students
+eg: Adolescents often seek more independence from their parents, which can lead to tension but is essential for developing identity and self-reliance
+eg: The program is designed for adolescent students aged thirteen to eighteen, offering academic support alongside mental health resources and career guidance
 
 # adorable
 
 pho: /əˈdɔː.rə.bəl/
 def: Very attractive or charming in a sweet way
-eg: The puppy looks absolutely adorable
-eg: She gave an adorable smile
+eg: The puppy looks absolutely adorable with its floppy ears and wobbly walk, attracting potential adopters the moment they enter the shelter
+eg: She gave an adorable smile when she received the surprise birthday party, her eyes lighting up as she realized how many friends had come to celebrate
 
 # adored
 
 pho: /əˈdɔːrd/
 def: Loved deeply or intensely
-eg: The singer is adored by her fans
-eg: He was adored by everyone in the community
+eg: The singer is adored by her fans worldwide, with millions streaming her music daily and traveling across continents to attend her concerts
+eg: He was adored by everyone in the community for his decades of volunteer work, especially his Sunday tutoring program for underprivileged children
 
 # advanced
 
 pho: /ədˈvænst/
 def: Highly developed or ahead in progress or knowledge
-eg: This course covers advanced topics
-eg: The hospital uses advanced medical technology
+eg: This course covers advanced topics in machine learning, including neural networks and deep learning algorithms used in artificial intelligence applications
+eg: The hospital uses advanced medical technology for minimally invasive surgeries, reducing recovery time and improving patient outcomes significantly
 
 # adventurous
 
 pho: /ədˈven.tʃə.rəs/
 def: Willing to try new or exciting experiences
-eg: She has an adventurous spirit
-eg: They went on an adventurous trip through the jungle
+eg: She has an adventurous spirit, having skydived in Australia, scuba dived in the Great Barrier Reef, and trekked through the Amazon rainforest
+eg: They went on an adventurous trip through the jungle, navigating dense vegetation, crossing rivers, and discovering waterfalls that weren't on any map
 
 # affectionate
 
 pho: /əˈfek.ʃə.nət/
 def: Showing love, care, or warmth toward others
-eg: She gave her child an affectionate hug
-eg: He is very affectionate with his family
+eg: She gave her child an affectionate hug before his first day of school, whispering words of encouragement that would stay with him throughout the day
+eg: He is very affectionate with his family, always greeting everyone with a warm embrace and never missing an opportunity to express his love verbally
 
 # afraid
 
 pho: /əˈfreɪd/
 def: Feeling fear or worry about something
-eg: She is afraid of flying
-eg: He was afraid that he might fail
+eg: She is afraid of flying after experiencing severe turbulence on a business trip, so she now takes trains for all domestic travel despite the longer journey
+eg: He was afraid that he might fail the bar exam, so he studied eight hours daily for three months, sacrificing social events and weekend activities
 
 # aged
 
 pho: /eɪdʒd/
 def: Having lived for a long time; old
-eg: The aged professor still taught classes well into his eighties
-eg: The building looks aged and worn, its walls cracked from decades of neglect
+eg: The aged professor still taught classes well into his eighties, captivating students with stories from his decades of groundbreaking research in quantum physics
+eg: The building looks aged and worn, its walls cracked from decades of neglect, though preservationists argue it holds significant historical value worth restoring
 
 # aggravating
 
 pho: /ˈæɡ.rə.veɪ.tɪŋ/
 def: Causing annoyance or frustration
-eg: The constant noise was aggravating
-eg: It’s aggravating when plans suddenly change
+eg: The constant noise from the construction site next door was aggravating, making it nearly impossible to concentrate on writing the quarterly financial report
+eg: It's aggravating when plans suddenly change without notice, especially when you've already rearranged your entire schedule and informed everyone involved
 
 # aggressive
 
 pho: /əˈɡres.ɪv/
 def: Ready to attack or behave in a hostile way
 def: Pursuing goals with forceful determination
-eg: The dog became aggressive when a stranger approached the yard
-eg: He took an aggressive approach to negotiations, refusing to compromise on price
+eg: The dog became aggressive when a stranger approached the yard, barking fiercely and baring its teeth until its owner called it back inside
+eg: He took an aggressive approach to negotiations, refusing to compromise on price and ultimately securing a deal that exceeded his company's initial expectations
 
 # agile
 
 pho: /ˈædʒ.aɪl/
 def: Able to move quickly and easily
-eg: The cat is agile and fast
-eg: Agile teams adapt quickly to change
+eg: The cat is remarkably agile, leaping from branch to branch in the old oak tree without hesitation and landing silently on the narrowest limbs
+eg: Agile teams adapt quickly to changing market conditions, adjusting their strategies and priorities based on customer feedback and emerging data trends
 
 # agitated
 
 pho: /ˈædʒ.ɪ.teɪ.tɪd/
 def: Feeling anxious, upset, or restless
-eg: She became agitated during the argument
-eg: The crowd grew increasingly agitated
+eg: She became visibly agitated during the argument, pacing back and forth and struggling to articulate her points as her voice trembled with emotion
+eg: The crowd grew increasingly agitated as the hours passed without any official statement from authorities about the ongoing emergency situation downtown
 
 # agonizing
 
 pho: /ˈæɡ.ə.naɪ.zɪŋ/
 def: Causing extreme physical or emotional pain
-eg: The wait for the results was agonizing
-eg: He suffered agonizing back pain
+eg: The three-week wait for the medical test results was agonizing, with every minor symptom sending her into a spiral of worry and internet searches
+eg: He suffered agonizing back pain after the car accident, requiring multiple surgeries and months of physical therapy before he could return to work
 
 # agreeable
 
 pho: /əˈɡriː.ə.bəl/
 def: Pleasant and easy to like or accept
 def: Willing to agree or cooperate
-eg: The weather was warm and agreeable, perfect for a picnic
-eg: She said she was agreeable to changing the meeting time
+eg: The weather was warm and agreeable throughout the long weekend, perfect for outdoor activities like hiking, cycling, and evening picnics by the lake
+eg: After some discussion about scheduling conflicts, she said she was agreeable to changing the meeting time from Monday morning to Wednesday afternoon
 
 # alarmed
 
 pho: /əˈlɑːrmd/
 def: Feeling frightened or worried that something bad may happen
-eg: She was alarmed by the sudden noise
-eg: The report left investors alarmed
+eg: She was alarmed by the sudden noise coming from the basement, especially since she lived alone and hadn't heard anything unusual before that night
+eg: The quarterly earnings report left investors alarmed, as revenue had declined for three consecutive months and the outlook remained uncertain
 
 # alarming
 
 pho: /əˈlɑːr.mɪŋ/
 def: Causing fear, worry, or concern
-eg: The rise in drug-resistant infections is alarming to public health officials
-eg: The report revealed an alarming increase in homelessness over the past year
+eg: The rise in drug-resistant infections is alarming to public health officials worldwide, prompting calls for stricter antibiotic prescribing practices and new research funding
+eg: The report revealed an alarming increase in homelessness over the past year, with families with children representing the fastest-growing segment of the homeless population
 
 # alert
 
 pho: /əˈlɝːt/
 def: Fully aware and paying close attention
-eg: Stay alert while driving at night
-eg: The guard remained alert
+eg: Stay alert while driving at night, as reduced visibility and tired drivers make highways significantly more dangerous after sunset
+eg: The security guard remained alert throughout the entire shift, noticing suspicious behavior that others might have overlooked during the busy holiday shopping season
 
 # alienated
 
 pho: /ˈeɪ.li.ə.neɪ.tɪd/
 def: Feeling isolated or separated from others
-eg: He felt alienated at his new job
-eg: The policy alienated many supporters
+eg: He felt alienated at his new job because everyone else seemed to have established friendships and inside jokes he wasn't part of during his first months
+eg: The politician's controversial statement on immigration alienated many supporters who had previously voted for him, costing him crucial endorsements before the election
 
 # alive
 
 pho: /əˈlaɪv/
 def: Living; not dead
 def: Full of energy, activity, or excitement
-eg: Rescuers found the hiker alive after three days in the wilderness
-eg: The market comes alive at night, with vendors, music, and street food everywhere
+eg: Rescuers found the hiker alive after three days in the wilderness, dehydrated but conscious, thanks to her training and determination to survive
+eg: The night market comes alive after sunset, with vendors setting up colorful stalls, musicians playing traditional songs, and the aroma of street food filling the air
 
 # all
 
 pho: /ɔːl/
 def: The whole amount or every part of something
-eg: All the seats were taken
-eg: She spent all her money
+eg: All the seats were taken by the time we arrived at the theater, so we had to stand at the back for the entire performance
+eg: She spent all her savings on the down payment for the house, knowing it was a risk but believing the investment would pay off in the long run
 
 # altruistic
 
@@ -277,15 +277,15 @@ eg: The company has ambitious plans to expand into five new markets by next year
 
 pho: /ˈæm.pəl/
 def: More than enough; plentiful
-eg: There is ample time to finish
-eg: The room offers ample space
+eg: There is ample time to finish the project before the deadline, so we can focus on quality rather than rushing through the final revisions
+eg: The conference room offers ample space for fifty attendees, with additional breakout rooms for smaller group discussions and networking sessions
 
 # amused
 
 pho: /əˈmjuːzd/
 def: Finding something funny or entertaining
-eg: She looked amused by the joke
-eg: He was amused at her reaction
+eg: She looked genuinely amused by the children's puppet show, laughing along with the audience and clapping enthusiastically at the finale
+eg: He was visibly amused at her attempt to explain quantum physics using only cooking metaphors, though he appreciated her creative approach
 
 # amusing
 
@@ -298,8 +298,8 @@ eg: He told an amusing anecdote about getting lost on his first day abroad
 
 pho: /ˈæŋ.kɚd/
 def: Firmly fixed or held in place
-eg: The boat was anchored near the shore
-eg: She feels anchored by her routine
+eg: The boat was securely anchored near the shore, though the captain remained on board in case the storm intensified during the night
+eg: She feels anchored by her daily meditation routine, which provides stability and calm even during the most chaotic weeks at work
 
 # ancient
 
@@ -319,23 +319,23 @@ eg: She has such an angelic voice that the entire hall fell silent the moment sh
 
 pho: /ˈæŋ.ɡri/
 def: Feeling strong displeasure or rage
-eg: He was angry about the decision to cancel the project without consulting the team
-eg: She spoke in an angry tone when she realized she had been lied to
+eg: He was angry about the decision to cancel the project without consulting the team, especially after everyone had worked overtime for three consecutive weeks
+eg: She spoke in an angry tone when she realized she had been lied to, her voice trembling as she confronted her colleague about the deliberate misinformation
 
 # anguished
 
 pho: /ˈæŋ.ɡwɪʃt/
 def: Experiencing severe mental or physical pain
-eg: She gave an anguished cry
-eg: He looked anguished after hearing the news
+eg: She gave an anguished cry when she realized her wallet was gone, containing not only money but also irreplaceable family photographs and identification documents
+eg: He looked anguished after hearing the news about his friend's accident, immediately dropping everything to drive to the hospital despite the late hour
 
 # animated
 
 pho: /ˈæn.ə.meɪ.tɪd/
 def: Full of life, energy, or excitement
 def: Produced using animation techniques; not live-action
-eg: She became animated when talking about her research, gesturing enthusiastically
-eg: The film is animated, featuring hand-drawn characters inspired by Japanese folklore
+eg: She became animated when talking about her research on coral reef conservation, gesturing enthusiastically and speaking so quickly that her audience struggled to keep up
+eg: The film is beautifully animated using traditional hand-drawn techniques, featuring characters inspired by Japanese folklore and landscapes based on real locations in Kyoto
 
 # annual
 
@@ -370,22 +370,22 @@ eg: She was anxious to hear the results and checked her phone every few minutes
 
 pho: /ˈen.i/
 def: One or some, no matter which or how many
-eg: Do you have any questions?
-eg: You can choose any option
+eg: Do you have any questions about the new safety procedures before we begin the training exercise? Please ask now rather than waiting until you're in the field
+eg: You can choose any option from the menu, including the vegetarian and gluten-free alternatives that we've added specifically for guests with dietary restrictions
 
 # apprehensive
 
 pho: /ˌæp.rɪˈhen.sɪv/
 def: Feeling anxious or fearful about something
-eg: She felt apprehensive before the interview
-eg: He was apprehensive about moving abroad
+eg: She felt apprehensive before the job interview, worrying that her lack of formal qualifications would disqualify her despite years of relevant industry experience
+eg: He was apprehensive about moving abroad for the assignment, concerned about language barriers and leaving his extended support network of family and longtime friends
 
 # appropriate
 
 pho: /əˈproʊ.pri.ət/
 def: Suitable or proper for a particular situation
-eg: That behavior is not appropriate here
-eg: She chose an appropriate response
+eg: That behavior is not appropriate here, especially during a client presentation where professionalism and attention to detail are absolutely essential for maintaining trust
+eg: She chose an appropriate response to the criticism, acknowledging valid points while firmly defending her team's work against unfounded accusations from the board
 
 # apt
 
@@ -419,15 +419,15 @@ eg: She brewed aromatic tea from dried jasmine flowers she had brought back from
 
 pho: /ɑːrˈtɪs.tɪk/
 def: Creative or related to art
-eg: He has strong artistic talent
-eg: The city is known for its artistic culture
+eg: He has strong artistic talent, demonstrated through his award-winning photography exhibitions and his ability to capture emotion in black-and-white portraits
+eg: The city is known for its artistic culture, with more than thirty galleries, annual film festivals, and street murals that transform ordinary buildings into public masterpieces
 
 # ashamed
 
 pho: /əˈʃeɪmd/
 def: Feeling guilt or embarrassment about something
-eg: She felt ashamed of her behavior
-eg: He was ashamed to admit his mistake
+eg: She felt deeply ashamed of her behavior at the party, realizing the next morning that her comments had been hurtful and insensitive to several friends who were present
+eg: He was ashamed to admit his mistake to the team, but his manager praised him for taking responsibility and implementing safeguards to prevent similar errors in the future
 
 # assured
 
@@ -454,15 +454,15 @@ eg: The school encourages athletic activities by offering coaching in twelve dif
 
 pho: /əˈtætʃt/
 def: Joined or connected to something; emotionally close
-eg: The file is attached to the email
-eg: She is deeply attached to her dog
+eg: The file is attached to the email, but if you have trouble opening it, I can share it through our cloud storage platform instead
+eg: She is deeply attached to her rescue dog, having adopted him as a puppy and nursed him back to health after he was found abandoned on the highway
 
 # attentive
 
 pho: /əˈten.tɪv/
 def: Paying close attention; showing care or consideration toward others
-eg: The waiter was attentive, refilling glasses before anyone had to ask
-eg: She listened in an attentive manner, taking notes throughout the entire lecture
+eg: The waiter was exceptionally attentive throughout our meal, refilling glasses before anyone had to ask and recommending excellent wine pairings for each course
+eg: She listened in an attentive manner during the entire two-hour lecture, taking detailed notes and asking insightful questions that demonstrated her genuine engagement
 
 # attractive
 
@@ -490,8 +490,8 @@ eg: She prefers authentic experiences when she travels, staying with local famil
 
 pho: /ˈɔː.θə.raɪzd/
 def: Officially allowed or approved
-eg: Only authorized personnel may enter
-eg: She is authorized to sign the document
+eg: Only authorized personnel with valid security clearance badges may enter the research facility, and all visitors must be escorted by a staff member at all times
+eg: She is authorized to sign contracts on behalf of the company, but any agreement exceeding one million dollars requires additional approval from the chief financial officer
 
 # automatic
 
@@ -526,15 +526,15 @@ eg: He wasn’t aware of the schedule change and arrived at the old venue an hou
 
 pho: /ˈɑː.səm/
 def: Extremely impressive or inspiring; causing a feeling of awe
-eg: The view of the canyon from the rim was truly awesome
-eg: She did an awesome job pulling the event together on such short notice
+eg: The view of the Grand Canyon from the south rim was truly awesome, leaving our entire family speechless as the sun rose over the layered rock formations
+eg: She did an awesome job coordinating the charity gala on such short notice, securing donations from twenty sponsors and raising more than fifty thousand dollars for children's education
 
 # awful
 
 pho: /ˈɑː.fəl/
 def: Very bad or unpleasant; causing distress
-eg: The weather was awful, with heavy rain and strong winds canceling the outdoor event
-eg: He felt awful after the argument and spent the night wondering how to apologize
+eg: The weather was awful throughout our entire vacation, with heavy rain and strong winds canceling every outdoor activity we had planned for the long weekend
+eg: He felt awful after the heated argument with his wife and spent the night rehearsing apologies, wondering how to repair the trust he had damaged with his careless words
 
 # awkward
 
@@ -554,8 +554,8 @@ eg: She found the prank babyish and walked away rather than encouraging it by la
 
 pho: /bæk/
 def: Located behind or at the rear
-eg: He sat in the back row
-eg: The door is at the back of the house
+eg: He sat in the back row of the lecture hall, which allowed him to slip out early without disturbing others when his child's school called with an emergency
+eg: The door is at the back of the house, accessible through the garden path that winds past the vegetable beds and the old apple tree my grandfather planted
 
 # bad
 
@@ -618,8 +618,8 @@ eg: The book is a beloved classic that has never gone out of print since it was 
 
 pho: /ˌben.əˈfɪʃ.əl/
 def: Producing good or helpful results
-eg: Regular exercise is beneficial to health
-eg: The changes were beneficial for the team
+eg: Regular exercise is beneficial to both physical and mental health, reducing stress hormones while releasing endorphins that improve mood and cognitive function
+eg: The new workflow changes were beneficial for the entire team, cutting meeting time in half and allowing everyone to focus on deep work during their most productive hours
 
 # best
 
