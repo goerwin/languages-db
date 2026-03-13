@@ -7,18 +7,18 @@ description: English linking words and connectors organized by category and leve
 
 cat: additive
 lvl: beg
-eg: I like coffee and tea
-eg: She studied hard and passed the exam with flying colors
-eg: The report covers productivity and cost efficiency
+eg: I like coffee and tea, though I prefer coffee in the morning for the caffeine boost and tea in the evening to relax
+eg: She studied hard and passed the exam with flying colors, earning the highest score in her class of thirty students
+eg: The report covers productivity and cost efficiency, providing detailed recommendations for improving both areas over the next fiscal year
 pos: middle
 
 # also
 
 cat: additive
 lvl: beg
-eg: She also speaks French
-eg: He's a great teacher and also an accomplished author
-eg: The app is free; it also works offline
+eg: She also speaks French fluently, having lived in Paris for five years while working for an international consulting firm
+eg: He's a great teacher and also an accomplished author, with three published novels that have been translated into multiple languages
+eg: The app is free; it also works offline, which is perfect for travelers who don't always have reliable internet access
 pos: flexible
 tip: Usually placed before the main verb
 
@@ -26,27 +26,27 @@ tip: Usually placed before the main verb
 
 cat: additive
 lvl: beg
-eg: I want to come too
-eg: She's an excellent writer, and a brilliant speaker too
-eg: He made mistakes, but he learned from them too
+eg: I want to come too, if there's still space available in the car and you don't mind making one more stop on the way
+eg: She's an excellent writer, and a brilliant speaker too, capable of captivating audiences with both her written words and oral presentations
+eg: He made mistakes, but he learned from them too, documenting each lesson so he wouldn't repeat the same errors in future projects
 pos: end
 
 # as well
 
 cat: additive
 lvl: beg
-eg: He plays guitar as well
-eg: She speaks Italian and German as well
-eg: The price includes breakfast, and dinner as well
+eg: He plays guitar as well as piano, having studied both instruments seriously since he was a child in a musically inclined family
+eg: She speaks Italian and German as well as her native English, skills she developed while working for a multinational corporation in Europe
+eg: The price includes breakfast, and dinner as well, making it an excellent value compared to other hotels in the same price range
 pos: end
 
 # besides
 
 cat: additive
 lvl: beg
-eg: Besides, it's too expensive
-eg: I don't want to go out tonight; besides, I have work to finish
-eg: The location isn’t ideal; besides, the lease terms are unfavorable
+eg: Besides, it's too expensive for our current budget, and we have other priorities that need funding before we can consider this purchase
+eg: I don't want to go out tonight; besides, I have work to finish before tomorrow morning's deadline and I'm already behind schedule
+eg: The location isn't ideal; besides, the lease terms are unfavorable and the landlord has refused to make any of the requested modifications
 pos: start
 subcat: reinforcing
 
@@ -54,9 +54,9 @@ subcat: reinforcing
 
 cat: additive
 lvl: mid
-eg: Moreover, the data supports this conclusion
-eg: The hotel was clean and comfortable; moreover, the staff were incredibly helpful
-eg: The candidate has relevant experience; moreover, she comes with excellent references
+eg: Moreover, the data supports this conclusion, with statistical analysis showing a significant correlation between the two variables across all test groups
+eg: The hotel was clean and comfortable; moreover, the staff were incredibly helpful, going above and beyond to accommodate our special requests
+eg: The candidate has relevant experience; moreover, she comes with excellent references from previous employers who praised her leadership abilities
 pos: start
 subcat: reinforcing
 syn: furthermore
@@ -66,9 +66,9 @@ syn: in addition
 
 cat: additive
 lvl: mid
-eg: Furthermore, we need to consider the costs
-eg: The design was flawed; furthermore, the timeline was completely unrealistic
-eg: She exceeded her targets; furthermore, she mentored two junior colleagues
+eg: Furthermore, we need to consider the costs associated with implementation, including training, maintenance, and potential downtime during the transition period
+eg: The design was flawed; furthermore, the timeline was completely unrealistic given the complexity of the requirements and available resources
+eg: She exceeded her targets; furthermore, she mentored two junior colleagues who both received promotions under her guidance this year
 pos: start
 subcat: reinforcing
 
@@ -86,18 +86,18 @@ subcat: reinforcing
 
 cat: additive
 lvl: mid
-eg: Additionally, there are health benefits
-eg: The program reduces waste; additionally, it cuts operational costs by 20%
-eg: The new policy improves safety; additionally, it simplifies the approval process
+eg: Additionally, there are health benefits to regular exercise, including improved cardiovascular function, better sleep quality, and reduced stress levels
+eg: The program reduces waste; additionally, it cuts operational costs by 20 percent, making it financially attractive as well as environmentally responsible
+eg: The new policy improves safety; additionally, it simplifies the approval process, reducing the time needed to get projects started by several weeks
 pos: start
 
 # on top of that
 
 cat: additive
 lvl: mid
-eg: On top of that, the service was terrible
-eg: The project was over budget; on top of that, it was delivered three weeks late
-eg: She’s dealing with a heavy workload and, on top of that, a difficult commute
+eg: On top of that, the service was terrible, with staff who were rude and unhelpful when we asked for assistance with our room issues
+eg: The project was over budget; on top of that, it was delivered three weeks late, causing the client to consider legal action for breach of contract
+eg: She's dealing with a heavy workload and, on top of that, a difficult commute that takes more than two hours each way during rush hour traffic
 pos: start
 subcat: reinforcing
 
@@ -105,9 +105,9 @@ subcat: reinforcing
 
 cat: additive
 lvl: mid
-eg: What’s more, it’s completely free
-eg: The solution is simple; what’s more, it can be implemented within a week
-eg: The new system is faster; what’s more, it requires almost no maintenance
+eg: What's more, it's completely free for students and educators, making high-quality software accessible to those who might not otherwise afford it
+eg: The solution is simple; what's more, it can be implemented within a week using existing infrastructure without requiring any new hardware purchases
+eg: The new system is faster; what's more, it requires almost no maintenance, reducing the burden on the IT department significantly
 pos: start
 subcat: reinforcing
 
@@ -124,9 +124,9 @@ pos: start
 
 cat: additive
 lvl: mid
-eg: Likewise, the second experiment failed
-eg: The first proposal was rejected; likewise, the revised version met with resistance
-eg: Team A missed the target; likewise, Team B fell short of expectations
+eg: Likewise, the second experiment failed to produce significant results, suggesting that the underlying hypothesis may need to be reconsidered entirely
+eg: The first proposal was rejected; likewise, the revised version met with resistance from stakeholders who had concerns about the implementation costs
+eg: Team A missed the target; likewise, Team B fell short of expectations, indicating that the goals set were perhaps unrealistic for the given timeframe
 pos: start
 subcat: equative
 
@@ -134,9 +134,9 @@ subcat: equative
 
 cat: additive
 lvl: adv
-eg: Coupled with the rising costs, this is concerning
-eg: A lack of experience, coupled with poor planning, led to the project’s failure
-eg: The new data, coupled with previous findings, makes a compelling case for reform
+eg: Coupled with the rising costs, this is concerning for families already struggling to make ends meet on stagnant wages in the current economic climate
+eg: A lack of experience, coupled with poor planning, led to the project's failure, though the team learned valuable lessons for future initiatives
+eg: The new data, coupled with previous findings, makes a compelling case for reform, prompting lawmakers to schedule hearings on the issue next month
 pos: start
 
 # along with
@@ -152,9 +152,9 @@ pos: flexible
 
 cat: additive
 lvl: adv
-eg: The cost was enormous, not to mention the legal implications that followed
-eg: The trip was exhausting, not to mention expensive
-eg: Managing the team was already difficult, not to mention dealing with budget cuts
+eg: The cost was enormous, not to mention the legal implications that followed when regulators discovered the company had violated environmental protection laws
+eg: The trip was exhausting, not to mention expensive, costing nearly three times what we had initially budgeted for transportation and accommodation
+eg: Managing the team was already difficult, not to mention dealing with budget cuts that forced us to freeze hiring and delay critical infrastructure upgrades
 pos: start
 subcat: reinforcing
 
@@ -162,9 +162,9 @@ subcat: reinforcing
 
 cat: contrastive
 lvl: beg
-eg: I want to go, but I’m tired
-eg: The price was high, but the quality was worth it
-eg: She tried her best, but the deadline was simply too tight
+eg: I want to go, but I'm tired after working a double shift yesterday and I need to rest before driving such a long distance
+eg: The price was high, but the quality was worth it, as the product lasted ten years longer than cheaper alternatives we had purchased before
+eg: She tried her best, but the deadline was simply too tight given the scope of work and the unexpected complications that arose during development
 pos: middle
 subcat: antithetic
 
@@ -172,9 +172,9 @@ subcat: antithetic
 
 cat: contrastive
 lvl: beg
-eg: However, the results were different
-eg: The plan seemed solid; however, unexpected delays derailed the timeline
-eg: He studied for weeks; however, he still found the exam challenging
+eg: However, the results were different from what we expected, showing a slight decrease in performance rather than the improvement we had anticipated
+eg: The plan seemed solid; however, unexpected delays derailed the timeline, pushing the launch date back by more than two months from the original schedule
+eg: He studied for weeks; however, he still found the exam challenging, particularly the questions that required applying concepts to unfamiliar scenarios
 pos: start
 subcat: antithetic
 tip: More formal than "but"
@@ -183,9 +183,9 @@ tip: More formal than "but"
 
 cat: contrastive
 lvl: beg
-eg: Although it rained, we went out
-eg: Although the task was complex, she completed it ahead of schedule
-eg: He accepted the offer, although he had reservations about the role
+eg: Although it rained, we went out anyway because we had non-refundable tickets to the outdoor concert we had been looking forward to for months
+eg: Although the task was complex, she completed it ahead of schedule, impressing her supervisor with both the quality and speed of her work
+eg: He accepted the offer, although he had reservations about the role, deciding that the growth opportunities outweighed his initial concerns
 pos: start
 subcat: concessive
 
@@ -213,9 +213,9 @@ subcat: concessive
 
 cat: contrastive
 lvl: beg
-eg: It’s expensive. Still, I want it
-eg: The work was hard. Still, the team never complained
-eg: The evidence was weak. Still, the jury took a long time to decide
+eg: It's expensive. Still, I want it because the features and build quality justify the premium price compared to competing products in this category
+eg: The work was hard. Still, the team never complained, knowing that the project's success could lead to promotions and bonuses for everyone involved
+eg: The evidence was weak. Still, the jury took a long time to decide, carefully weighing each testimony before reaching their final verdict
 pos: start
 subcat: concessive
 
@@ -233,9 +233,9 @@ subcat: antithetic
 
 cat: contrastive
 lvl: mid
-eg: Nevertheless, we must proceed
-eg: The odds were against them; nevertheless, they pushed forward with confidence
-eg: There were serious concerns; nevertheless, the board approved the proposal
+eg: Nevertheless, we must proceed with caution, understanding that any misstep could have serious consequences for the company's reputation and financial stability
+eg: The odds were against them; nevertheless, they pushed forward with confidence, drawing strength from their previous successes against similar challenges
+eg: There were serious concerns; nevertheless, the board approved the proposal, contingent on implementing additional safeguards and monitoring mechanisms
 pos: start
 subcat: concessive
 syn: nonetheless
@@ -245,9 +245,9 @@ syn: however
 
 cat: contrastive
 lvl: mid
-eg: Nonetheless, the project succeeded
-eg: Resources were limited; nonetheless, the team delivered impressive results
-eg: The feedback was mixed; nonetheless, the product launched on schedule
+eg: Nonetheless, the project succeeded in meeting its primary objectives, delivering value to customers despite the challenges encountered along the way
+eg: Resources were limited; nonetheless, the team delivered impressive results, finding creative solutions to work around the constraints they faced
+eg: The feedback was mixed; nonetheless, the product launched on schedule, with the team committed to addressing concerns through regular software updates
 pos: start
 subcat: concessive
 
@@ -255,9 +255,9 @@ subcat: concessive
 
 cat: contrastive
 lvl: mid
-eg: On the other hand, there are benefits
-eg: City life can be stressful; on the other hand, it offers far more opportunities
-eg: The first option is cheaper; on the other hand, it comes with fewer features
+eg: On the other hand, there are benefits to remote work, including reduced commuting time, lower childcare costs, and greater flexibility in scheduling
+eg: City life can be stressful; on the other hand, it offers far more opportunities for career advancement, cultural experiences, and social networking
+eg: The first option is cheaper; on the other hand, it comes with fewer features and a shorter warranty period than the premium alternative
 pos: start
 subcat: antithetic
 
@@ -265,9 +265,9 @@ subcat: antithetic
 
 cat: contrastive
 lvl: mid
-eg: In contrast, the second group improved
-eg: In contrast to last year, profits have increased significantly
-eg: The first half was slow; in contrast, the second half was dynamic and fast-paced
+eg: In contrast, the second group improved significantly after receiving additional training, suggesting that the intervention was effective for that demographic
+eg: In contrast to last year, profits have increased significantly, driven by strong sales in emerging markets and improved operational efficiency
+eg: The first half was slow; in contrast, the second half was dynamic and fast-paced, with both teams scoring multiple goals in an exciting finish
 pos: start
 subcat: antithetic
 
@@ -275,9 +275,9 @@ subcat: antithetic
 
 cat: contrastive
 lvl: mid
-eg: On the contrary, I completely agree
-eg: She wasn’t bored — on the contrary, she found the lecture fascinating
-eg: The news wasn’t bad; on the contrary, it was better than anyone had expected
+eg: On the contrary, I completely agree with your assessment of the situation and believe we should act on your recommendations immediately
+eg: She wasn't bored — on the contrary, she found the lecture fascinating and stayed afterward to ask the professor several thoughtful questions
+eg: The news wasn't bad; on the contrary, it was better than anyone had expected, with the company reporting record earnings for the third quarter
 pos: start
 subcat: antithetic
 tip: Used to deny what was just said

@@ -36,8 +36,8 @@ eg: Inflation has really gotten out of hand this year
 # Hit the sack / Hit the hay
 
 def: To go to bed in order to sleep
-eg: It’s been a long day. I’m going to hit the sack
-eg: We have an early flight tomorrow, so we should hit the hay soon
+eg: It's been a long day and I have to wake up at 5 AM tomorrow, so I'm going to hit the sack now
+eg: We have an early flight tomorrow, so we should hit the hay soon instead of staying up watching another movie
 
 # It's not rocket science
 
@@ -54,8 +54,8 @@ eg: The police officer let him off the hook with just a warning instead of a tic
 # Miss the boat
 
 def: To be too late to take an opportunity
-eg: I wanted to buy tickets for the concert, but I missed the boat; they're sold out
-eg: If you don't apply for the scholarship now, you might miss the boat
+eg: I wanted to buy tickets for the concert, but I missed the boat; they're sold out and now scalpers are charging ten times the original price
+eg: If you don't apply for the scholarship now, you might miss the boat because they only accept applications during the first week of January
 
 # No pain, no gain
 
@@ -66,8 +66,8 @@ eg: Studying for hours is exhausting, but no pain, no gain if you want to pass t
 # On the ball
 
 def: To be quick to understand and react to things; alert and efficient
-eg: Our new assistant is really on the ball; she anticipates problems before they happen
-eg: You need to be on the ball to trade in the stock market
+eg: Our new assistant is really on the ball; she anticipates problems before they happen and always has solutions ready
+eg: You need to be on the ball to trade in the stock market, where prices can change dramatically within seconds based on news
 
 # Pull someone's leg
 
@@ -114,8 +114,8 @@ eg: He lost his keys, and to make matters worse, his phone battery died
 # Under the weather
 
 def: Feeling sick or not well
-eg: I'm feeling a bit under the weather today, so I think I'll stay home
-eg: She missed the party because she was under the weather
+eg: I'm feeling a bit under the weather today with a sore throat and headache, so I think I'll stay home and rest
+eg: She missed the party because she was under the weather, though she was disappointed to miss celebrating her friend's promotion
 
 # We'll cross that bridge when we come to it
 
@@ -144,8 +144,8 @@ eg: The report is three days overdue, but better late than never
 # Break the ice
 
 def: To make people who have not met before feel more relaxed and comfortable
-eg: He told a joke to break the ice at the start of the meeting
-eg: Playing a game is a great way to break the ice at a party
+eg: He told a joke to break the ice at the start of the meeting, which helped everyone relax before diving into the difficult discussion
+eg: Playing a game is a great way to break the ice at a party where many guests don't know each other and might feel awkward initially
 
 # Costs an arm and a leg
 
@@ -294,8 +294,8 @@ eg: Instead of a long introduction, the speaker decided to cut to the chase
 # Face the music
 
 def: To accept responsibility for something you have done
-eg: I broke the vase, so now I have to go home and face the music
-eg: After ignoring his taxes for years, he finally had to face the music
+eg: I broke the vase, so now I have to go home and face the music, even though I know my parents are going to be really upset
+eg: After ignoring his taxes for years, he finally had to face the music when the authorities audited his accounts and found significant unpaid bills
 
 # Go the extra mile
 
@@ -354,8 +354,8 @@ eg: As a rule of thumb, plant your garden after the last frost
 # Sit tight
 
 def: To wait patiently and take no action until you hear otherwise
-eg: Just sit tight, and the doctor will be with you shortly
-eg: We were told to sit tight while they processed our application
+eg: Just sit tight, and the doctor will be with you shortly to discuss the test results and explain the treatment options available
+eg: We were told to sit tight while they processed our application, which took three weeks of anxious waiting before we finally heard back
 
 # Steal someone's thunder
 
@@ -366,20 +366,20 @@ eg: Don't steal the bride's thunder by wearing white to the wedding
 # Take a rain check
 
 def: Used to tell someone that you cannot accept an invitation now, but would like to do so at a later time
-eg: I’m busy tonight, but can I take a rain check?
-eg: He had to take a rain check on the dinner plans due to work
+eg: I'm busy tonight with a work deadline, but can I take a rain check? I'd love to join you for dinner next week when things calm down
+eg: He had to take a rain check on the dinner plans due to work, but he promised to reschedule as soon as his project was submitted
 
 # Take it with a grain of salt
 
 def: To not completely believe something that you are told, because you think it is unlikely to be true
-eg: He tends to exaggerate, so take his stories with a grain of salt
-eg: Read the reviews, but take them with a grain of salt as some are fake
+eg: He tends to exaggerate, so take his stories with a grain of salt, especially when he's talking about his fishing catches or travel adventures
+eg: Read the online reviews, but take them with a grain of salt as some are fake and written by competitors or paid promoters
 
 # The ball is in your court
 
 def: It is up to you to make the next decision or step
-eg: I’ve made my offer; now the ball is in your court
-eg: She sent the email, and now the ball is in his court to reply
+eg: I've made my offer and explained all the terms; now the ball is in your court to decide whether to accept or propose a counteroffer
+eg: She sent the email with all the requested documents, and now the ball is in his court to reply and schedule the interview
 
 # Throw in the towel
 
@@ -390,8 +390,8 @@ eg: Don't throw in the towel just yet; you're almost finished
 # Under the radar
 
 def: Not detected or noticed by people
-eg: He likes to keep his personal life under the radar
-eg: This little restaurant has stayed under the radar, but the food is amazing
+eg: He likes to keep his personal life under the radar, rarely posting on social media and declining most interview requests from magazines
+eg: This little restaurant has stayed under the radar, but the food is amazing and the prices are very reasonable compared to tourist traps
 
 # Up in the air
 

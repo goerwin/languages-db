@@ -10,8 +10,8 @@ eg: I'll back you up if anyone questions your decision
 eg: She backed up her argument with solid evidence
 
 def: To reverse a vehicle or move backward
-eg: Can you back up the car a little? You're too close to the wall
-eg: He backed up to let the other driver pass
+eg: Can you back up the car a little? You're too close to the wall and I'm worried you'll hit the garden fence
+eg: He backed up to let the other driver pass on the narrow mountain road where there was barely room for one vehicle
 
 def: To make a copy of data for safekeeping
 eg: Make sure to back up your files before updating the system
@@ -20,8 +20,8 @@ eg: I lost everything because I didn't back up my computer
 # Blow up
 
 def: To explode or cause to explode
-eg: The fireworks blew up in a spectacular display
-eg: The building blew up after the gas leak was ignited
+eg: The fireworks blew up in a spectacular display of colors that lit up the entire night sky above the harbor
+eg: The building blew up after the gas leak was ignited by a spark from the electrical system in the basement
 
 def: To suddenly become very angry
 eg: She blew up at him when she found out he'd been lying
@@ -52,8 +52,8 @@ eg: They broke up after five years together
 eg: She broke up with him because they wanted different things in life
 
 def: To break into smaller pieces
-eg: Break up the chocolate into small chunks before melting it
-eg: The ice on the lake started to break up in spring
+eg: Break up the chocolate into small chunks before melting it so it heats evenly and doesn't scorch in the bowl
+eg: The ice on the lake started to break up in spring as temperatures rose above freezing during the day
 
 # Bring back
 
@@ -72,8 +72,8 @@ eg: I didn't want to bring up the issue at dinner, but it needed to be discussed
 eg: She brought up a good point during the meeting
 
 def: To raise a child
-eg: She was brought up in a small town in the countryside
-eg: They brought up three children on a modest income
+eg: She was brought up in a small town in the countryside where everyone knew each other and children played outside until dark
+eg: They brought up three children on a modest income, teaching them the value of hard work and education from an early age
 
 # Brush up on
 
@@ -106,14 +106,14 @@ eg: We spent the whole evening catching up on each other's lives
 # Check in
 
 def: To register upon arrival at a hotel, airport, or event
-eg: We need to check in at the hotel before 3 PM
-eg: You can check in for your flight online 24 hours before departure
+eg: We need to check in at the hotel before 3 PM or they might give our room to someone else from the waiting list
+eg: You can check in for your flight online 24 hours before departure and print your boarding pass at home to save time
 
 # Check out
 
 def: To pay and leave a hotel
-eg: We have to check out by 11 AM tomorrow morning
-eg: They checked out of the hotel early to catch their flight
+eg: We have to check out by 11 AM tomorrow morning, but we can leave our luggage with the concierge until our evening flight
+eg: They checked out of the hotel early to catch their flight, skipping breakfast so they could make the 6 AM departure
 
 def: To look at or examine something interesting
 eg: Check out this new restaurant that just opened downtown
@@ -128,8 +128,8 @@ eg: I bought her flowers to try to cheer her up after the disappointment of not 
 # Clean up
 
 def: To make a place tidy and clean
-eg: We need to clean up the kitchen before Mom gets home
-eg: The volunteers helped clean up the park after the festival
+eg: We need to clean up the kitchen before Mom gets home or she'll be upset about the mess from our cooking experiment
+eg: The volunteers helped clean up the park after the festival, collecting bags of trash and recycling materials left behind
 
 # Come across
 
@@ -200,8 +200,8 @@ eg: Can you drop me off at the train station on your way to work?
 eg: I need to drop off a package at the post office
 
 def: To fall asleep, especially unintentionally
-eg: He dropped off on the couch while watching TV
-eg: I was so tired that I dropped off as soon as my head hit the pillow
+eg: He dropped off on the couch while watching TV, waking up two hours later confused and stiff from the awkward position
+eg: I was so tired that I dropped off as soon as my head hit the pillow, sleeping straight through the night without dreaming
 
 # End up
 
@@ -234,8 +234,8 @@ eg: It took me a while, but I finally figured out the solution to the puzzle
 # Fill in
 
 def: To complete a form, document, or blank spaces with information
-eg: Please fill in your name and address on this form
-eg: Fill in the blanks with the correct answers
+eg: Please fill in your name and address on this form before submitting it to the receptionist at the front desk
+eg: Fill in the blanks with the correct answers based on the information provided in the reading passage above
 
 def: To inform someone about something they missed
 eg: Can you fill me in on what happened at the meeting?
