@@ -4,7 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "prebuild": "npx rimraf dist",
+    "prebuild": "rm -rf dist",
     "build": "for lang in src/*/; do mkdir -p dist/$(basename $lang) && cp -R \"$lang/assets/\"* \"dist/$(basename $lang)/\"; done",
     "test": "node scripts/validate.ts && vitest run"
   },
@@ -13,7 +13,6 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^25.3.0",
-    "rimraf": "^6.1.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3",
     "vitest": "^4.0.18"
