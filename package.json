@@ -6,12 +6,16 @@
   "scripts": {
     "prebuild": "rm -rf dist",
     "build": "for lang in src/*/; do mkdir -p dist/$(basename $lang) && cp -R \"$lang/assets/\"* \"dist/$(basename $lang)/\"; done",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write .",
+    "typecheck": "tsc --noEmit",
     "test": "node scripts/validate.ts && vitest run"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@biomejs/biome": "^2.5.3",
     "@types/node": "^25.3.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3",

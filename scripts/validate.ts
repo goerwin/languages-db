@@ -101,5 +101,5 @@ function getPath(itemPath: string) {
     ],
   ] as const
 ).forEach(async ([filePath, validator, args]) =>
-  validator(await fs.readFile(filePath, 'utf-8'), args)
+  validator(await fs.readFile(filePath, 'utf-8'), args),
 );

@@ -3,7 +3,7 @@ title: English Gerunds and Infinitives
 description: When to use gerunds (-ing) and infinitives (to + verb) in English, including verb lists, meaning changes, and common mistakes
 ---
 
-# what is a gerund
+# What is a gerund
 
 form: Verb + -ing (used as a noun)
 
@@ -17,7 +17,7 @@ eg: Her hobby is painting (complement)
 
 tip: Gerunds look like present participles but function as nouns. If you can replace the -ing word with "it" or "that," it's likely a gerund.
 
-# what is an infinitive
+# What is an infinitive
 
 form: To + base verb
 
@@ -31,7 +31,7 @@ eg: It's important to arrive on time (after adjective)
 
 tip: The infinitive can function as a noun, adjective, or adverb depending on its position in the sentence.
 
-# verbs followed by gerund
+# Verbs followed by gerund
 
 admit: He admitted stealing the money. She admitted making a mistake.
 
@@ -95,7 +95,7 @@ tolerate: I won't tolerate being spoken to like that. She can't tolerate waiting
 
 understand: I understand wanting to leave. She understands needing a break.
 
-# verbs followed by infinitive
+# Verbs followed by infinitive
 
 afford: We can't afford to buy a new car. She couldn't afford to miss the meeting.
 
@@ -171,7 +171,7 @@ want: I want to go home. She wants to learn Spanish.
 
 wish: I wish to speak to you. We wish to thank you.
 
-# verbs followed by both (same meaning)
+# Verbs followed by both (same meaning)
 
 form: These verbs can take either gerund or infinitive with no change in meaning
 
@@ -195,7 +195,7 @@ eg: I can't bear listening / I can't bear to listen (both correct)
 
 tip: With "like," "love," "hate," and "prefer," the gerund often suggests a general preference while the infinitive can suggest a specific occasion, but both are commonly used interchangeably.
 
-# verbs followed by both (different meaning)
+# Verbs followed by both (different meaning)
 
 remember + gerund: I remember locking the door (past action — you did it and recall it)
 
@@ -231,7 +231,7 @@ need + infinitive: I need to fix the car (active meaning — I must fix it)
 
 tip: This is one of the most common areas for mistakes. Memorize the difference between "remember" and "forget" with both forms — gerund is past, infinitive is future.
 
-# gerund after prepositions
+# Gerund after prepositions
 
 form: Verb or adjective + preposition + gerund (never infinitive)
 
@@ -263,7 +263,7 @@ eg: They're capable of winning
 
 tip: "To" can be a preposition (interested in, look forward to) or part of the infinitive. When "to" is a preposition, it must be followed by a gerund.
 
-# infinitive of purpose
+# Infinitive of purpose
 
 form: To + base verb (meaning "in order to")
 
@@ -283,7 +283,7 @@ eg: I'm learning English to get a better job
 
 tip: You can often add "in order" before "to" for emphasis: "I went to the store in order to buy milk." The meaning is the same.
 
-# bare infinitive (without "to")
+# Bare infinitive (without "to")
 
 form: Base verb only, no "to"
 
@@ -307,7 +307,7 @@ eg: I would rather stay home (after would rather)
 
 tip: With "make" in passive voice, use the infinitive with "to": "He was made to apologize." With "let" in passive, "be allowed to" is used instead.
 
-# common mistakes
+# Common mistakes
 
 Wrong: I enjoy to read (enjoy takes gerund only)
 

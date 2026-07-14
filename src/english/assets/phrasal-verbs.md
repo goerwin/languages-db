@@ -425,7 +425,7 @@ def: To meet expectations or a standard that has been set
 eg: The sequel didn't live up to the original movie
 eg: She always lives up to her promises
 
-# Log in / Log out
+# Log in / log out
 
 def: To access or exit a computer system, website, or application by entering or ending your credentials
 eg: You need to log in with your username and password
@@ -717,7 +717,7 @@ def: To continue doing something without changing; to follow a plan or decision
 eg: I’m trying to stick to a healthy diet this year, which means resisting office birthday cake
 eg: Despite pressure from investors to expand quickly, the founders stuck to their original plan
 
-# Switch off / Switch on
+# Switch off / switch on
 
 def: To turn off or turn on an electronic device or system
 eg: Don't forget to switch off the lights when you leave
@@ -765,7 +765,7 @@ def: To consider something carefully before making a decision
 eg: She asked for a few days to think over the job offer before giving her final answer
 eg: He thought it over carefully and decided that accepting the compromise was the right move
 
-# Throw away / Throw out
+# Throw away / throw out
 
 def: To discard something; to put something in the trash
 eg: Don't throw away those old clothes—we can donate them

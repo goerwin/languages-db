@@ -1,3 +1,16 @@
+/**
+ * Checks if a title is properly capitalized (only first letter uppercase, rest lowercase).
+ *
+ * @param title - the title to check
+ * @returns true if the title is properly capitalized
+ */
+export function validateTitleCapitalization(title: string): boolean {
+  const first = title.at(0);
+
+  if (typeof first !== 'string') throw new Error('Invalid first letter');
+  return title === first.toUpperCase() + title.slice(1).toLowerCase();
+}
+
 interface Entry {
   title: string;
   [x: string]: string | string[];
@@ -28,7 +41,7 @@ type ValidatorReturn = { frontMatter?: string | undefined; entries: Entry[] };
  */
 export function validateMdEntries(
   mdContent: string,
-  prefixes: readonly EntryPrefix[] = []
+  prefixes: readonly EntryPrefix[] = [],
 ): ValidatorReturn {
   const frontMatterMatch = mdContent.match(/^---\s*([\s\S]*?)\s*---/);
   const frontMatterEndIndex = frontMatterMatch?.[0].length ?? 0;
@@ -53,6 +66,11 @@ export function validateMdEntries(
       if (!title || seenTitles.has(title))
         throw new Error(`Duplicate title header "${title}", at line ${idx}`);
 
+      if (!validateTitleCapitalization(title))
+        throw new Error(
+          `Title "${title}" is not properly capitalized (only first letter uppercase), at line ${idx}`,
+        );
+
       seenTitles.add(title);
 
       // Validate previous title required prefixes
@@ -60,7 +78,7 @@ export function validateMdEntries(
         prefixes.forEach(({ name, required }) => {
           if (required && !currentEntry?.[name]) {
             throw new Error(
-              `Title "${currentEntry?.title}" missing required prefix "${name}" at line ${idx}`
+              `Title "${currentEntry?.title}" missing required prefix "${name}" at line ${idx}`,
             );
           }
         });
@@ -84,13 +102,13 @@ export function validateMdEntries(
 
     if (!config || !prefix || !value)
       throw new Error(
-        `Unknown prefix/value "${prefix}"/"${value}" in title "${currentEntry.title}", at line ${idx}`
+        `Unknown prefix/value "${prefix}"/"${value}" in title "${currentEntry.title}", at line ${idx}`,
       );
 
     if (config.unique) {
       if (currentEntry[prefix])
         throw new Error(
-          `Duplicate unique prefix "${prefix}" in title "${currentEntry.title}", at line ${idx}`
+          `Duplicate unique prefix "${prefix}" in title "${currentEntry.title}", at line ${idx}`,
         );
 
       currentEntry[prefix] = value;
@@ -105,7 +123,7 @@ export function validateMdEntries(
     prefixes.forEach(({ name, required }) => {
       if (required && !currentEntry?.[name])
         throw new Error(
-          `Title "${currentEntry?.title}" missing required prefix "${name}"`
+          `Title "${currentEntry?.title}" missing required prefix "${name}"`,
         );
     });
   }
@@ -123,7 +141,7 @@ export function validateMdEntries(
  */
 export function validateEntries(
   entries: Entry[],
-  prefixes: EntryPrefix[]
+  prefixes: EntryPrefix[],
 ): true {
   const seenTitles = new Set<string>();
 
@@ -146,19 +164,19 @@ export function validateEntries(
           (Array.isArray(value) && value.length === 0))
       )
         throw new Error(
-          `Entry "${entry.title}" missing required prefix "${name}" at idx ${idx}`
+          `Entry "${entry.title}" missing required prefix "${name}" at idx ${idx}`,
         );
 
       // Unique check
       if (unique && Array.isArray(value))
         throw new Error(
-          `Entry "${entry.title}" prefix "${name}" should be unique but is an array at idx ${idx}`
+          `Entry "${entry.title}" prefix "${name}" should be unique but is an array at idx ${idx}`,
         );
 
       // Non-unique must be an array
       if (!unique && value !== undefined && !Array.isArray(value))
         throw new Error(
-          `Entry "${entry.title}" prefix "${name}" should be an array at idx ${idx}`
+          `Entry "${entry.title}" prefix "${name}" should be an array at idx ${idx}`,
         );
     });
 
@@ -167,7 +185,7 @@ export function validateEntries(
       if (key === 'title') return;
       if (!prefixes.some((p) => p.name === key)) {
         throw new Error(
-          `Entry "${entry.title}" contains unknown prefix "${key}"`
+          `Entry "${entry.title}" contains unknown prefix "${key}"`,
         );
       }
     });
@@ -306,12 +324,9 @@ export function validateConnectors(content: string): ValidatorReturn {
 
     // Validate subcategory
     if (subcat) {
-      if (
-        !category.subcategories ||
-        !category.subcategories.includes(subcat as string)
-      )
+      if (!category.subcategories?.includes(subcat as string))
         throw new Error(
-          `Entry "${title}": subcat "${subcat}" not valid for category "${cat}"`
+          `Entry "${title}": subcat "${subcat}" not valid for category "${cat}"`,
         );
     }
   });

@@ -3,7 +3,7 @@ title: English Quantifiers
 description: English quantifiers such as some, any, much, many, few, little, and more, with usage rules for countable and uncountable nouns
 ---
 
-# some
+# Some
 
 use: In affirmative sentences with both countable and uncountable nouns
 eg: I bought some apples at the store
@@ -20,7 +20,7 @@ eg: I need some help with this
 tip: Use "some" instead of "any" in offers and polite requests even though they are questions
 tip: "Some" suggests an unspecified but limited amount
 
-# any
+# Any
 
 use: In questions with both countable and uncountable nouns
 eg: Do you have any milk?
@@ -41,7 +41,7 @@ eg: Any student can answer this question
 tip: "Any" in negatives often pairs with "not" or "never"
 tip: In affirmative "any" emphasizes that the choice is unrestricted
 
-# much
+# Much
 
 use: With uncountable nouns, mainly in questions and negatives
 eg: How much sugar do you need?
@@ -58,7 +58,7 @@ eg: I have so much work to do
 tip: In informal affirmative, prefer "a lot of" instead of "much"
 tip: "Much" is common with abstract nouns like time, money, work, advice
 
-# many
+# Many
 
 use: With countable plural nouns, mainly in questions and negatives
 eg: How many books did you read?
@@ -75,7 +75,7 @@ eg: So many things went wrong
 tip: In informal affirmative, prefer "a lot of" instead of "many"
 tip: "Many a" is a formal/literary form: "Many a student has failed this test"
 
-# a lot of / lots of
+# A lot of / lots of
 
 use: With both countable and uncountable nouns in affirmative sentences
 eg: I have a lot of friends
@@ -92,7 +92,7 @@ eg: I don't have lots of money
 tip: "Lots of" is more informal than "a lot of"
 tip: Both can be written as one word "alot" is incorrect; keep the space
 
-# a few
+# A few
 
 use: With countable nouns to mean a small but positive number
 eg: I have a few minutes to talk
@@ -105,7 +105,7 @@ eg: There are a few good restaurants nearby
 tip: "A few" implies the number is small but satisfactory
 tip: "A few" can be modified: "quite a few" means a fairly large number
 
-# few
+# Few
 
 use: With countable nouns to mean "not many" with negative connotation
 eg: Few people understand quantum physics
@@ -118,7 +118,7 @@ eg: Few of us have seen that movie
 tip: "Few" without "a" has a negative meaning; "a few" is positive
 tip: "The few" means the small number that exist: "the few who survived"
 
-# a little
+# A little
 
 use: With uncountable nouns to mean a small but positive amount
 eg: Add a little salt to the soup
@@ -131,7 +131,7 @@ eg: There's a little hope left
 tip: "A little" implies the amount is small but adequate
 tip: "A little" can modify adjectives: "I'm a little tired"
 
-# little
+# Little
 
 use: With uncountable nouns to mean "not much" with negative connotation
 eg: Little progress was made
@@ -144,7 +144,7 @@ eg: Little of the food was edible
 tip: "Little" without "a" has a negative meaning; "a little" is positive
 tip: "The little" means the small amount that exists: "the little we have"
 
-# enough
+# Enough
 
 use: Before nouns to mean sufficient amount or number
 eg: We have enough food for everyone
@@ -161,7 +161,7 @@ eg: I've had enough of this
 tip: "Enough" comes before the noun but after the adjective
 tip: "Enough of" is used before determiners: "enough of the cake"
 
-# too much / too many
+# Too much / too many
 
 use: Too much with uncountable nouns for excessive amount
 eg: You're drinking too much coffee
@@ -178,7 +178,7 @@ eg: That's too much
 tip: "Too much" = more than needed or wanted; "too many" = more than the right number
 tip: "Much too" + adjective means excessively: "much too expensive"
 
-# plenty of
+# Plenty of
 
 use: With countable and uncountable nouns to mean more than enough
 eg: We have plenty of time
@@ -195,7 +195,7 @@ eg: That's plenty, thanks
 tip: "Plenty of" is always positive; it implies no shortage
 tip: "Plenty" without "of" is used after "there is" or "we have"
 
-# several
+# Several
 
 use: With countable nouns only, meaning more than two but not very many
 eg: I've been there several times
@@ -208,7 +208,7 @@ eg: Several of the guests left early
 tip: "Several" cannot be used with uncountable nouns
 tip: "Several" is more than "a few" but less than "many"
 
-# each
+# Each
 
 use: Referring to every individual one separately, one by one
 eg: Each student received a certificate
@@ -225,7 +225,7 @@ eg: Each of us must try
 tip: "Each" takes a singular verb when it is the subject
 tip: "Each" emphasizes the individual; "every" emphasizes the whole group
 
-# every
+# Every
 
 use: Referring to all members of a group as a whole
 eg: Every student passed the exam
@@ -242,7 +242,7 @@ eg: Every single person voted
 tip: "Every" is used with singular countable nouns
 tip: "Every" emphasizes the group as a whole; "each" emphasizes individuals
 
-# all
+# All
 
 use: Meaning everything or everyone, the whole quantity
 eg: All students must attend
@@ -259,7 +259,7 @@ eg: All the water has evaporated
 tip: "All" can be used with countable and uncountable nouns
 tip: "All" + singular noun can mean "every": "all day" = the whole day
 
-# both
+# Both
 
 use: Referring to two things or people together
 eg: Both parents attended the meeting
@@ -276,7 +276,7 @@ eg: Both the cat and the dog are sleeping
 tip: "Both" always refers to exactly two items
 tip: "Both" takes a plural verb
 
-# either
+# Either
 
 use: Meaning one or the other of two options
 eg: You can sit on either side
@@ -293,7 +293,7 @@ eg: She didn't choose either option
 tip: "Either" is used with singular nouns and singular verb in "either...or" when both subjects are singular
 tip: "Either of" is followed by plural noun but can take singular or plural verb
 
-# neither
+# Neither
 
 use: Meaning not one and not the other of two
 eg: Neither answer is correct
@@ -310,7 +310,7 @@ eg: Neither of them came
 tip: "Neither" takes a singular verb when it is the subject
 tip: "Neither...nor" can take singular or plural verb depending on the closest subject
 
-# no / none
+# No / none
 
 use: No before a noun to mean zero quantity
 eg: There is no milk left
@@ -327,7 +327,7 @@ eg: There are no tickets available
 tip: "No" = "not any"; use "no" before a noun, "none" when the noun is omitted
 tip: "None of" + plural can take singular or plural verb; singular is more formal
 
-# whole
+# Whole
 
 use: Meaning entire or complete, before singular countable nouns
 eg: I ate the whole pizza
@@ -344,7 +344,7 @@ eg: The whole world is watching
 tip: "Whole" comes after "the" or other determiners
 tip: "The whole of" is used before proper nouns or when the noun needs "of": "the whole of London"
 
-# some vs. any
+# Some vs. any
 
 use: Use some in affirmative sentences and in questions when offering or expecting yes
 eg: I need some help
@@ -361,7 +361,7 @@ eg: If you need some help, just ask
 tip: The rule "some in positive, any in negative and questions" has exceptions for offers and requests
 tip: "Any" in affirmatives means "it doesn't matter which"; "some" means an unspecified amount
 
-# much / many vs. a lot of
+# Much / many vs. a lot of
 
 use: Much and many are preferred in questions and negatives
 eg: How much does it cost?
@@ -378,7 +378,7 @@ eg: Many would disagree
 tip: In spoken English, "a lot of" replaces "much" and "many" in affirmatives
 tip: "Much" and "many" are still correct in affirmatives but sound more formal
 
-# a few vs. few / a little vs. little
+# A few vs. few / a little vs. little
 
 use: A few and a little have positive meaning; few and little have negative meaning
 eg: I have a few ideas (positive: some ideas)
@@ -395,7 +395,7 @@ eg: Little hope remains (almost no hope)
 tip: "Few" and "little" without "a" suggest insufficiency or scarcity
 tip: "Very few" and "very little" strengthen the negative meaning
 
-# each vs. every
+# Each vs. every
 
 use: Each emphasizes individual items one by one
 eg: Each person must sign the form
@@ -412,7 +412,7 @@ eg: Every one of the five teams played
 tip: "Each" can be used with "of" and plural pronouns; "every" cannot
 tip: "Every" is used with singular nouns; "each" can emphasize distribution
 
-# all vs. every vs. each
+# All vs. every vs. each
 
 use: All refers to the group as a whole or total quantity
 eg: All students must register
@@ -429,7 +429,7 @@ eg: I gave each child a toy
 tip: "All" + plural noun; "every" and "each" + singular noun
 tip: "All" can mean "the whole of" with uncountable: "all the water"
 
-# common mistakes
+# Common mistakes
 
 use: Wrong quantifier with countable vs uncountable nouns
 eg: Wrong: much people. Right: many people

@@ -33,7 +33,7 @@ def: To become difficult or impossible to control
 eg: The party got out of hand when the neighbors called the police
 eg: Inflation has really gotten out of hand this year
 
-# Hit the sack / Hit the hay
+# Hit the sack / hit the hay
 
 def: To go to bed in order to sleep
 eg: It's been a long day and I have to wake up at 5 AM tomorrow, so I'm going to hit the sack now

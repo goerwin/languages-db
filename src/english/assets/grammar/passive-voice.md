@@ -3,7 +3,7 @@ title: English Passive Voice
 description: How to form and use the passive voice across all tenses and modals, including when to use it, active-to-passive transformations, and common mistakes
 ---
 
-# present simple passive
+# Present simple passive
 
 form: Subject + am/is/are + past participle
 neg: Subject + am/is/are + not + past participle
@@ -24,7 +24,7 @@ passive: The office is cleaned every evening
 tip: Use is for he/she/it and singular nouns, are for they/we/you and plural nouns, am for I
 tip: Don't forget the past participle (V3); "is clean" is wrong, "is cleaned" is correct
 
-# present continuous passive
+# Present continuous passive
 
 form: Subject + am/is/are + being + past participle
 neg: Subject + am/is/are + not + being + past participle
@@ -44,7 +44,7 @@ passive: The house is being painted this week
 tip: Always use "being" between am/is/are and the past participle; "is painted" means present simple, "is being painted" means in progress
 tip: This form is less common than present simple passive; use it only when the action is clearly ongoing
 
-# present perfect passive
+# Present perfect passive
 
 form: Subject + has/have + been + past participle
 neg: Subject + has/have + not + been + past participle
@@ -64,7 +64,7 @@ passive: The work has been completed
 tip: Use has for he/she/it and singular nouns, have for I/we/you/they and plural nouns
 tip: Don't confuse with past simple passive; "has been done" emphasizes the result now, "was done" focuses on when
 
-# past simple passive
+# Past simple passive
 
 form: Subject + was/were + past participle
 neg: Subject + was/were + not + past participle
@@ -84,7 +84,7 @@ passive: The building was constructed in 1920
 tip: Use was for I/he/she/it and singular nouns, were for we/you/they and plural nouns
 tip: Often used with time expressions like yesterday, last week, in 1920
 
-# past continuous passive
+# Past continuous passive
 
 form: Subject + was/were + being + past participle
 neg: Subject + was/were + not + being + past participle
@@ -104,7 +104,7 @@ passive: The car was being repaired when I called
 tip: This form is rare; past simple passive is often used instead when the continuous aspect is not essential
 tip: "Being" must come between was/were and the past participle
 
-# past perfect passive
+# Past perfect passive
 
 form: Subject + had + been + past participle
 neg: Subject + had + not + been + past participle
@@ -124,7 +124,7 @@ passive: The room had been cleaned before the guests arrived
 tip: Use when you need to show one past action happened before another; often used with "before" or "by the time"
 tip: Had is the same for all subjects; do not use "had been being" for past perfect continuous passive (avoid that form)
 
-# future simple passive (will)
+# Future simple passive (will)
 
 form: Subject + will + be + past participle
 neg: Subject + will + not + be + past participle
@@ -144,7 +144,7 @@ passive: The project will be completed next month
 tip: Use "be" not "been" after will; "will be done" is correct, "will been done" is wrong
 tip: Going to passive is also possible: "The project is going to be completed next month"
 
-# future perfect passive
+# Future perfect passive
 
 form: Subject + will + have + been + past participle
 neg: Subject + will + not + have + been + past participle
@@ -164,7 +164,7 @@ passive: The house will have been sold by next summer
 tip: Often used with "by" plus a future time; "by Friday", "by next year"
 tip: This form is formal and less common in everyday speech
 
-# modal verbs in passive
+# Modal verbs in passive
 
 form: Subject + modal + be + past participle (present/future)
 form: Subject + modal + have + been + past participle (past)
@@ -188,7 +188,7 @@ passive: The work can be done by Friday
 tip: After modals use the base form "be" not "been" for present/future; "can be done" not "can been done"
 tip: For past passive with modals use "have been"; "should have been told" not "should be told" when referring to the past
 
-# passive with "get"
+# Passive with "get"
 
 form: Subject + get/gets/got + past participle
 neg: Subject + do/does/did + not + get + past participle
@@ -209,7 +209,7 @@ passive: My bike got stolen last night
 tip: Get is more informal than be; use be-passive in formal or academic writing
 tip: Get-passive is common with verbs like hurt, stolen, broken, damaged, promoted; avoid with formal or technical contexts
 
-# when to use passive voice
+# When to use passive voice
 
 use: When the agent (doer) is unknown
 eg: My wallet was stolen
@@ -230,7 +230,7 @@ eg: It has been suggested that further research is needed
 tip: Passive shifts focus from who does the action to what happens to the object
 tip: In scientific writing passive is standard to keep focus on the process and results
 
-# when NOT to use passive voice
+# When not to use passive voice
 
 use: Intransitive verbs have no passive form; they have no object to become the subject
 eg: She arrived (not "was arrived")
@@ -247,7 +247,7 @@ eg: John wrote this report (not passive, to highlight John)
 tip: Verbs like arrive, sleep, happen, die, exist, occur have no passive
 tip: If "by someone" sounds awkward or unnecessary, use active voice instead
 
-# by + agent
+# By + agent
 
 use: Include "by" when the agent is important, surprising, or needs to be identified
 eg: The play was written by Shakespeare
@@ -262,7 +262,7 @@ eg: Rice is grown in Asia (general, no specific agent)
 tip: "By" comes after the past participle; "was written by" not "was by written"
 tip: With "get" passive, "by" is less common; "got hit by a car" is possible but "got hit" often stands alone
 
-# common mistakes with passive voice
+# Common mistakes with passive voice
 
 use: Wrong past participle
 eg: The work was did (wrong) / The work was done (correct)

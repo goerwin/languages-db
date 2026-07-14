@@ -3,7 +3,7 @@ title: English Relative Clauses
 description: Defining and non-defining relative clauses in English, covering who, whom, which, that, whose, where, when, and pronoun omission rules
 ---
 
-# defining relative clauses
+# Defining relative clauses
 
 form: Noun + relative pronoun + clause (no commas)
 
@@ -23,7 +23,7 @@ eg: The reason why I called was to ask about the meeting
 
 tip: The relative pronoun can often be omitted when it is the object of the clause
 
-# non-defining relative clauses
+# Non-defining relative clauses
 
 form: Noun + comma + relative pronoun + clause + comma (or period)
 
@@ -41,7 +41,7 @@ eg: I'll never forget Christmas 2020, when we couldn't see our family
 
 tip: Never use "that" in non-defining clauses; use who or which. Never omit the relative pronoun.
 
-# who
+# Who
 
 form: who + verb (subject) or who + subject + verb (object)
 
@@ -57,7 +57,7 @@ eg: Sarah, who I've known for years, is getting married (non-defining, object)
 
 tip: In informal English, "who" is often used instead of "whom" even when it is the object
 
-# whom
+# Whom
 
 form: whom + subject + verb (object position)
 
@@ -71,7 +71,7 @@ eg: She is someone for whom I have great respect
 
 tip: In modern spoken English, "who" is commonly used instead of "whom" except after prepositions in formal writing
 
-# which
+# Which
 
 form: which + verb (subject) or which + subject + verb (object)
 
@@ -89,7 +89,7 @@ eg: She said she was busy, which was not true (non-defining, refers to whole cla
 
 tip: When "which" refers to a whole clause, it always appears in non-defining clauses with a comma
 
-# that
+# That
 
 form: that + verb (subject) or that + subject + verb (object)
 
@@ -107,7 +107,7 @@ eg: The first thing that I noticed was the smell (preferred after ordinals)
 
 tip: Never use "that" in non-defining clauses; use who or which instead
 
-# whose
+# Whose
 
 form: whose + noun + verb
 
@@ -123,7 +123,7 @@ eg: The company, whose CEO resigned yesterday, is in crisis
 
 tip: "Whose" can replace "of which" for things: "a house whose roof" = "a house the roof of which"
 
-# where
+# Where
 
 form: where + subject + verb
 
@@ -139,7 +139,7 @@ eg: The office, where I work, is in the city center
 
 tip: "Where" can often be replaced by "in which" or "at which" in more formal contexts
 
-# when
+# When
 
 form: when + subject + verb
 
@@ -155,7 +155,7 @@ eg: 2020, when the pandemic started, was a difficult year
 
 tip: "When" can be replaced by "in which", "on which", or "at which" depending on the preposition needed
 
-# why
+# Why
 
 form: why + subject + verb
 
@@ -171,7 +171,7 @@ eg: The reason that I'm late is the traffic (that is also possible)
 
 tip: "Why" is less common than "that" after "the reason" in informal English
 
-# omitting the relative pronoun
+# Omitting the relative pronoun
 
 form: Noun + clause (no relative pronoun)
 
@@ -189,7 +189,7 @@ eg: The woman who called you is my mother (who = subject, cannot omit)
 
 tip: If you can add a pronoun after the verb (e.g. "I watched it"), the relative pronoun is the object and can be omitted
 
-# prepositions in relative clauses
+# Prepositions in relative clauses
 
 form: Formal: preposition + whom/which; Informal: who/which/that + clause + preposition at end
 
@@ -209,7 +209,7 @@ eg: This is the project that we've been working on (informal)
 
 tip: In informal English, the preposition usually goes at the end of the clause
 
-# common mistakes
+# Common mistakes
 
 form: Correct structure vs incorrect structure
 

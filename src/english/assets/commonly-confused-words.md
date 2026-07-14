@@ -3,7 +3,7 @@ title: English Commonly Confused Words
 description: Pairs and groups of English words that are often mixed up, with clear definitions, examples, and memory tips to tell them apart
 ---
 
-# accept / except
+# Accept / except
 
 ## accept
 
@@ -21,7 +21,7 @@ eg: The store is open every day except Sunday
 
 tip: "Accept" is a verb (to receive). "Except" is a preposition/conjunction (to exclude).
 
-# adapt / adopt
+# Adapt / adopt
 
 ## adapt
 
@@ -39,7 +39,7 @@ eg: They decided to adopt a child from overseas
 
 tip: "Adapt" means to change yourself. "Adopt" means to take something (an idea, a child) as your own.
 
-# advice / advise
+# Advice / advise
 
 ## advice
 
@@ -57,7 +57,7 @@ eg: The doctor advised her to get more rest
 
 tip: "Advice" is a noun (the thing given). "Advise" is a verb (the act of giving it). Same pattern as device/devise.
 
-# affect / effect
+# Affect / effect
 
 ## affect
 
@@ -75,7 +75,7 @@ eg: The new law will take effect next month
 
 tip: "Affect" is usually a verb (to influence). "Effect" is usually a noun (the result). Remember: Affect = Action, Effect = End result.
 
-# all ready / already
+# All ready / already
 
 ## all ready
 
@@ -93,7 +93,7 @@ eg: By the time they arrived, the food was already cold and the guests had gone 
 
 tip: "All ready" = fully prepared (two words). "Already" = by this time (one word, adverb).
 
-# all together / altogether
+# All together / altogether
 
 ## all together
 
@@ -111,7 +111,7 @@ eg: There were twelve people altogether
 
 tip: "All together" = as a group (two words). "Altogether" = entirely or in total (one word).
 
-# allusion / illusion
+# Allusion / illusion
 
 ## allusion
 
@@ -129,7 +129,7 @@ eg: The mirror gives the illusion of more space
 
 tip: "Allusion" = reference (think "allude"). "Illusion" = something that looks real but isn't (think "optical illusion").
 
-# among / between
+# Among / between
 
 ## among
 
@@ -147,7 +147,7 @@ eg: Choose between the red and blue options
 
 tip: "Among" is for three or more. "Between" is for two. (Though "between" is sometimes used for more when relationships are considered individually.)
 
-# assure / ensure / insure
+# Assure / ensure / insure
 
 ## assure
 
@@ -172,7 +172,7 @@ eg: We need to insure the house before the storm
 
 tip: "Assure" = reassure a person. "Ensure" = make sure something happens. "Insure" = protect with insurance (financial).
 
-# bare / bear
+# Bare / bear
 
 ## bare
 
@@ -190,7 +190,7 @@ eg: The bridge cannot bear that much weight
 
 tip: "Bare" = uncovered (like bare feet). "Bear" = carry or endure (or the animal). Remember: bare = bald, bear = carry.
 
-# beside / besides
+# Beside / besides
 
 ## beside
 
@@ -208,7 +208,7 @@ eg: I don't want to go; besides, I'm too tired
 
 tip: "Beside" = next to (physical position). "Besides" = in addition (adds information).
 
-# borrow / lend
+# Borrow / lend
 
 ## borrow
 
@@ -226,7 +226,7 @@ eg: The library lends books to members
 
 tip: You borrow FROM someone. You lend TO someone. The borrower receives; the lender gives.
 
-# breath / breathe
+# Breath / breathe
 
 ## breath
 
@@ -244,7 +244,7 @@ eg: At high altitude, the thin air made it difficult to breathe, and everyone mo
 
 tip: "Breath" is the noun (ends with -th, like "death"). "Breathe" is the verb (has an E, so you can "breathe easily").
 
-# bring / take
+# Bring / take
 
 ## bring
 
@@ -262,7 +262,7 @@ eg: She offered to take the kids to school so her partner could attend the early
 
 tip: "Bring" = toward the speaker (bring it here). "Take" = away from the speaker (take it there).
 
-# capital / capitol
+# Capital / capitol
 
 ## capital
 
@@ -280,7 +280,7 @@ eg: We toured the state capitol building
 
 tip: "Capital" = city, money, or important. "Capitol" = the building (note the -ol ending, like the dome of a capitol building).
 
-# cite / site / sight
+# Cite / site / sight
 
 ## cite
 
@@ -305,7 +305,7 @@ eg: The Grand Canyon is an amazing sight
 
 tip: "Cite" = quote (like citation). "Site" = location (like website). "Sight" = vision (like eyesight).
 
-# complement / compliment
+# Complement / compliment
 
 ## complement
 
@@ -323,7 +323,7 @@ eg: I complimented her on her new dress
 
 tip: "Complement" = completes (both have E). "Compliment" = praise (both have I). Complement completes; compliment is nice.
 
-# conscience / conscious
+# Conscience / conscious
 
 ## conscience
 
@@ -341,7 +341,7 @@ eg: He made a conscious effort to be polite
 
 tip: "Conscience" = your inner moral guide (noun). "Conscious" = aware or awake (adjective).
 
-# council / counsel
+# Council / counsel
 
 ## council
 
@@ -359,7 +359,7 @@ eg: The defendant has the right to legal counsel
 
 tip: "Council" = a group/committee (like city council). "Counsel" = advice or advisor (like legal counsel).
 
-# desert / dessert
+# Desert / dessert
 
 ## desert
 
@@ -377,7 +377,7 @@ eg: I'll have the chocolate cake for dessert
 
 tip: "Desert" has one S (like sand). "Dessert" has two S's (you want seconds of dessert).
 
-# disinterested / uninterested
+# Disinterested / uninterested
 
 ## disinterested
 
@@ -395,7 +395,7 @@ eg: She was completely uninterested in sports
 
 tip: "Disinterested" = impartial (fair, no bias). "Uninterested" = not interested (bored, indifferent).
 
-# elicit / illicit
+# Elicit / illicit
 
 ## elicit
 
@@ -413,7 +413,7 @@ eg: They had an illicit affair
 
 tip: "Elicit" = draw out (verb, like extract). "Illicit" = illegal (adjective, like illicit drugs).
 
-# emigrate / immigrate
+# Emigrate / immigrate
 
 ## emigrate
 
@@ -431,7 +431,7 @@ eg: Many people immigrate in search of better opportunities
 
 tip: "Emigrate" = EXIT your country (E for exit). "Immigrate" = come IN to a new country (I for in).
 
-# empathy / sympathy
+# Empathy / sympathy
 
 ## empathy
 
@@ -449,7 +449,7 @@ eg: I have no sympathy for people who cheat
 
 tip: "Empathy" = feeling WITH someone (understanding their experience). "Sympathy" = feeling FOR someone (compassion from outside).
 
-# envy / jealousy
+# Envy / jealousy
 
 ## envy
 
@@ -467,7 +467,7 @@ eg: She felt jealousy when he talked to other women
 
 tip: "Envy" = wanting what others have. "Jealousy" = fear of losing what you have (often in relationships).
 
-# everyday / every day
+# Everyday / every day
 
 ## everyday
 
@@ -485,7 +485,7 @@ eg: She reads the newspaper every day
 
 tip: "Everyday" = ordinary (one word, adjective). "Every day" = each day (two words, when/how often).
 
-# farther / further
+# Farther / further
 
 ## farther
 
@@ -503,7 +503,7 @@ eg: Do you have any further questions?
 
 tip: "Farther" = physical distance (far). "Further" = metaphorical distance or degree (further discussion, further evidence).
 
-# fewer / less
+# Fewer / less
 
 ## fewer
 
@@ -521,7 +521,7 @@ eg: We have less time than we thought
 
 tip: "Fewer" = count nouns (fewer apples, fewer mistakes). "Less" = mass nouns (less water, less trouble).
 
-# good / well
+# Good / well
 
 ## good
 
@@ -539,7 +539,7 @@ eg: I don't feel well today
 
 tip: "Good" is an adjective (modifies nouns). "Well" is an adverb (modifies verbs). You do something WELL; something IS good.
 
-# hanged / hung
+# Hanged / hung
 
 ## hanged
 
@@ -557,7 +557,7 @@ eg: The laundry was hung out to dry
 
 tip: "Hanged" = executed (people only). "Hung" = suspended (objects). People are hanged; pictures are hung.
 
-# historic / historical
+# Historic / historical
 
 ## historic
 
@@ -575,7 +575,7 @@ eg: We need to consider the historical context
 
 tip: "Historic" = significant, memorable. "Historical" = relating to history (factual, from the past).
 
-# imply / infer
+# Imply / infer
 
 ## imply
 
@@ -593,7 +593,7 @@ eg: What can we infer from these results?
 
 tip: Speakers/writers IMPLY. Listeners/readers INFER. You imply something; I infer it.
 
-# its / it's
+# Its / it's
 
 ## its
 
@@ -611,7 +611,7 @@ eg: It’s been three years since they last saw each other, yet the conversation
 
 tip: "Its" = possessive (like his, hers). "It's" = it is or it has. If you can say "it is," use "it's."
 
-# lay / lie
+# Lay / lie
 
 ## lay
 
@@ -629,7 +629,7 @@ eg: The dog lies on the floor
 
 tip: "Lay" = put something down (lay the book). "Lie" = recline (lie down). Lay takes an object; lie doesn't. Past tense: lay/laid, lie/lay.
 
-# lead / led
+# Lead / led
 
 ## lead
 
@@ -647,7 +647,7 @@ eg: The path led us to a hidden cave
 
 tip: "Lead" (verb) = guide, pronounced /lid/. "Led" = past tense of lead. "Lead" (metal) = /lɛd/, same spelling as led but different meaning.
 
-# loose / lose
+# Loose / lose
 
 ## loose
 
@@ -665,7 +665,7 @@ eg: The team could not afford to lose the final game after coming so far in the 
 
 tip: "Loose" = not tight (loose = loose). "Lose" = misplace or fail (lose the 'o' when you lose something).
 
-# passed / past
+# Passed / past
 
 ## passed
 
@@ -683,7 +683,7 @@ eg: He walked past the store
 
 tip: "Passed" is always a verb (past tense of pass). "Past" is never a verb—it's a noun, adjective, or preposition.
 
-# personal / personnel
+# Personal / personnel
 
 ## personal
 
@@ -701,7 +701,7 @@ eg: The personnel department handles hiring
 
 tip: "Personal" = private, individual (personal belongings). "Personnel" = employees (personnel department = HR).
 
-# precede / proceed
+# Precede / proceed
 
 ## precede
 
@@ -719,7 +719,7 @@ eg: The committee agreed to proceed to the next item on the agenda without furth
 
 tip: "Precede" = come before (pre- = before). "Proceed" = go forward (pro- = forward).
 
-# principal / principle
+# Principal / principle
 
 ## principal
 
@@ -737,7 +737,7 @@ eg: The principle of equality is important
 
 tip: "Principal" = main or school head (your "pal" the principal). "Principle" = rule or belief (ends in -le like rule).
 
-# raise / rise
+# Raise / rise
 
 ## raise
 
@@ -755,7 +755,7 @@ eg: Prices continue to rise
 
 tip: "Raise" takes an object (raise something). "Rise" does not (something rises). You raise your hand; the sun rises.
 
-# sensible / sensitive
+# Sensible / sensitive
 
 ## sensible
 
@@ -773,7 +773,7 @@ eg: His skin is sensitive to sunlight
 
 tip: "Sensible" = practical, wise. "Sensitive" = easily affected, delicate. A sensible person makes good choices; a sensitive person feels deeply.
 
-# stationary / stationery
+# Stationary / stationery
 
 ## stationary
 
@@ -791,7 +791,7 @@ eg: The office supplies include pens and stationery
 
 tip: "Stationary" = staying in place (a for anchor). "Stationery" = paper for writing (e for envelope).
 
-# than / then
+# Than / then
 
 ## than
 
@@ -809,7 +809,7 @@ eg: First mix the ingredients, then bake
 
 tip: "Than" = comparison (bigger than, rather than). "Then" = time or sequence (and then, back then).
 
-# their / there / they're
+# Their / there / they're
 
 ## their
 
@@ -834,7 +834,7 @@ eg: I think they're late
 
 tip: "Their" = possessive (their car). "There" = place (over there) or existence (there is). "They're" = they are.
 
-# to / too / two
+# To / too / two
 
 ## to
 
@@ -859,7 +859,7 @@ eg: We'll meet in two hours
 
 tip: "To" = direction or infinitive. "Too" = also or excessively (has an extra O). "Two" = the number 2 (has a W for two).
 
-# weather / whether
+# Weather / whether
 
 ## weather
 
@@ -877,7 +877,7 @@ eg: It depends on whether she agrees
 
 tip: "Weather" = rain, sun, temperature. "Whether" = if, expressing alternatives. Weather has "wea" (we experience it).
 
-# who / whom
+# Who / whom
 
 ## who
 
@@ -895,7 +895,7 @@ eg: The woman whom you met is my sister
 
 tip: "Who" = subject (who did it?). "Whom" = object (to whom? by whom?). If you'd use "he/she," use "who"; if "him/her," use "whom."
 
-# who's / whose
+# Who's / whose
 
 ## who's
 
@@ -913,7 +913,7 @@ eg: The author whose book won the prize
 
 tip: "Who's" = who is or who has. "Whose" = belonging to whom. If you can say "who is," use "who's."
 
-# your / you're
+# Your / you're
 
 ## your
 

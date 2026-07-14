@@ -3,7 +3,7 @@ title: English Comparatives and Superlatives
 description: How to form and use comparatives and superlatives in English, covering regular and irregular forms, modifiers, and common structures
 ---
 
-# forming comparatives
+# Forming comparatives
 
 form: Short adjectives (1 syllable): adjective + -er + than
 form: Long adjectives (2+ syllables): more + adjective + than
@@ -23,7 +23,7 @@ tip: One-syllable adjectives always take -er. Never use "more" with them
 tip: For two-syllable adjectives not ending in -y, use "more" (more honest, more careful)
 tip: CVC rule applies when the final consonant is preceded by a single vowel: big, hot, fat, thin, sad
 
-# forming superlatives
+# Forming superlatives
 
 form: Short adjectives (1 syllable): the + adjective + -est
 form: Long adjectives (2+ syllables): the most + adjective
@@ -43,7 +43,7 @@ tip: Always use "the" before superlatives when they modify a noun
 tip: Superlatives often appear with "in" (in the class) or "of" (of all)
 tip: Never use "most" with -est forms (not "the most biggest")
 
-# irregular comparatives and superlatives
+# Irregular comparatives and superlatives
 
 form: good → better → best
 form: bad → worse → worst
@@ -69,7 +69,7 @@ tip: "Farther" and "further" are both correct for distance; "further" is also us
 tip: "Elder" and "eldest" are used mainly for family members; "older" and "oldest" for everything else
 tip: Memorize irregular forms as they cannot be predicted from the base adjective
 
-# less and least
+# Less and least
 
 form: less + adjective + than (for comparatives)
 form: the least + adjective (for superlatives)
@@ -86,7 +86,7 @@ tip: Use "less" with uncountable nouns (less water, less time) and "fewer" with 
 tip: "Less" + adjective is the opposite of "more" + adjective
 tip: "The least" can sound formal; in casual speech people often use "the ... -est" with negative adjectives (the cheapest, the simplest)
 
-# as...as
+# As...as
 
 form: as + adjective + as (equality)
 form: not as + adjective + as (inequality)
@@ -105,7 +105,7 @@ tip: "Not as...as" means the same as "less...than" but is more common in spoken 
 tip: "Just as" adds emphasis to the equality
 tip: For multiples, the structure is: number + as + adjective + as (twice as big, half as expensive)
 
-# comparative structures
+# Comparative structures
 
 form: the + comparative..., the + comparative (parallel increase or decrease)
 form: more and more + adjective (gradual increase)
@@ -124,7 +124,7 @@ tip: Both clauses use the comparative form; the first clause is often a conditio
 tip: "More and more" and "-er and -er" suggest ongoing change
 tip: "The...the" structure does not use "than"
 
-# superlative structures
+# Superlative structures
 
 form: one of the + superlative + plural noun
 form: the second/third + superlative (+ noun)
@@ -142,7 +142,7 @@ tip: "One of the" is always followed by a plural noun (one of the best players, 
 tip: Use "the second/third" + superlative for ranking (the second largest, the third oldest)
 tip: The verb agrees with the subject: "One of the best players is..." (singular)
 
-# modifiers with comparatives
+# Modifiers with comparatives
 
 form: much/far/a lot + comparative (strong difference)
 form: a little/slightly/a bit + comparative (small difference)
@@ -161,7 +161,7 @@ tip: "Much" and "far" make the difference stronger; "a little" and "slightly" ma
 tip: "Even" suggests going beyond an already high level
 tip: Never use "very" with comparatives (not "very taller"); use "much" or "far" instead
 
-# modifiers with superlatives
+# Modifiers with superlatives
 
 form: by far + superlative
 form: easily + superlative
@@ -179,7 +179,7 @@ tip: "By far" emphasizes a large gap between the superlative and everything else
 tip: "Easily" suggests there is no doubt about the ranking
 tip: "The very" adds emotional emphasis; it is somewhat formal
 
-# comparing with nouns
+# Comparing with nouns
 
 form: more/fewer + countable noun + than
 form: more/less + uncountable noun + than
@@ -200,7 +200,7 @@ tip: Use "fewer" with countable nouns (fewer people, fewer mistakes); "less" wit
 tip: "The most" can work with both countable and uncountable nouns
 tip: "The fewest" is less common than "the least" but is correct for countable nouns
 
-# comparing with adverbs
+# Comparing with adverbs
 
 form: more + adverb + than (long adverbs)
 form: adverb + -er + than (short adverbs: fast, hard, late, early)
@@ -221,7 +221,7 @@ tip: Most adverbs form comparatives with "more" (more slowly, more carefully)
 tip: Short adverbs like fast, hard, late, early add -er (faster, harder, later, earlier)
 tip: "Well" and "badly" are irregular: better, worse
 
-# common mistakes
+# Common mistakes
 
 form: Wrong: more bigger, more taller, more faster
 form: Correct: bigger, taller, faster (no "more" with -er)
