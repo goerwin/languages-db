@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "prebuild": "rm -rf dist",
-    "build": "for lang in src/*/; do mkdir -p dist/$(basename $lang) && cp -R \"$lang/assets/\"* \"dist/$(basename $lang)/\"; done",
+    "build": "bash scripts/build.sh",
     "lint": "biome check .",
     "lint:fix": "biome check --write .",
     "typecheck": "tsc --noEmit",
