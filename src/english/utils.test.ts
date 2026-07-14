@@ -31,8 +31,10 @@ describe('validateTitleCapitalization', () => {
     expect(validateTitleCapitalization('BITE THE BULLET')).toBe(false);
   });
 
-  it('returns false for empty string', () => {
-    expect(validateTitleCapitalization('')).toBe(false);
+  it('throws for empty string', () => {
+    expect(() => validateTitleCapitalization('')).toThrow(
+      /Invalid first letter/,
+    );
   });
 });
 
