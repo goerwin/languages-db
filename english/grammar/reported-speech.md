@@ -149,49 +149,49 @@ form: Different verbs take different patterns: verb + that clause, verb + object
 
 use: Choose the right reporting verb and pattern for the meaning
 
-eg: say: She said (that) she was leaving. (say + that clause)
+eg: Say: She said (that) she was leaving. (say + that clause)
 
-eg: tell: He told me (that) he would come. (tell + object + that clause)
+eg: Tell: He told me (that) he would come. (tell + object + that clause)
 
-eg: ask: She asked if I could help. / She asked me to help. (ask + if/whether or ask + object + to-infinitive)
+eg: Ask: She asked if I could help. / She asked me to help. (ask + if/whether or ask + object + to-infinitive)
 
-eg: advise: He advised me to see a doctor. (advise + object + to-infinitive)
+eg: Advise: He advised me to see a doctor. (advise + object + to-infinitive)
 
-eg: warn: She warned me not to go there. (warn + object + (not) to-infinitive)
+eg: Warn: She warned me not to go there. (warn + object + (not) to-infinitive)
 
-eg: suggest: He suggested going early. / He suggested that we go early. (suggest + gerund or that clause)
+eg: Suggest: He suggested going early. / He suggested that we go early. (suggest + gerund or that clause)
 
-eg: offer: She offered to help me. (offer + to-infinitive)
+eg: Offer: She offered to help me. (offer + to-infinitive)
 
-eg: promise: He promised to call. (promise + to-infinitive)
+eg: Promise: He promised to call. (promise + to-infinitive)
 
-eg: refuse: She refused to answer. (refuse + to-infinitive)
+eg: Refuse: She refused to answer. (refuse + to-infinitive)
 
-eg: deny: He denied taking the money. (deny + gerund)
+eg: Deny: He denied taking the money. (deny + gerund)
 
-eg: admit: She admitted making a mistake. (admit + gerund)
+eg: Admit: She admitted making a mistake. (admit + gerund)
 
-eg: explain: He explained that he had been delayed. (explain + that clause)
+eg: Explain: He explained that he had been delayed. (explain + that clause)
 
-eg: complain: She complained that the service was slow. (complain + that clause)
+eg: Complain: She complained that the service was slow. (complain + that clause)
 
-eg: insist: He insisted that he was right. (insist + that clause)
+eg: Insist: He insisted that he was right. (insist + that clause)
 
-eg: remind: She reminded me to buy milk. (remind + object + to-infinitive)
+eg: Remind: She reminded me to buy milk. (remind + object + to-infinitive)
 
-eg: encourage: He encouraged me to apply. (encourage + object + to-infinitive)
+eg: Encourage: He encouraged me to apply. (encourage + object + to-infinitive)
 
-eg: beg: She begged me not to leave. (beg + object + (not) to-infinitive)
+eg: Beg: She begged me not to leave. (beg + object + (not) to-infinitive)
 
-eg: demand: He demanded to see the manager. (demand + to-infinitive)
+eg: Demand: He demanded to see the manager. (demand + to-infinitive)
 
-eg: recommend: She recommended visiting the museum. (recommend + gerund)
+eg: Recommend: She recommended visiting the museum. (recommend + gerund)
 
-eg: claim: He claimed that he had been elsewhere. (claim + that clause)
+eg: Claim: He claimed that he had been elsewhere. (claim + that clause)
 
-eg: agree: She agreed to help. (agree + to-infinitive)
+eg: Agree: She agreed to help. (agree + to-infinitive)
 
-eg: announce: They announced that the flight was delayed. (announce + that clause)
+eg: Announce: They announced that the flight was delayed. (announce + that clause)
 
 tip: Learn which pattern each verb takes. "Say" never takes an object before "that." "Tell" always needs an object.
 
