@@ -3,6 +3,7 @@ import { describe, expect, it } from 'vitest';
 import {
   validateConnectors,
   validateEntries,
+  validateExampleCapitalization,
   validateMdEntries,
   validateTitleCapitalization,
 } from './utils.ts';
@@ -213,6 +214,37 @@ describe('validateEntries', () => {
         ],
       ),
     ).toThrow(/contains unknown prefix "nope"/);
+  });
+});
+
+describe('validateExampleCapitalization', () => {
+  it('returns true for examples starting with a capital letter', () => {
+    expect(
+      validateExampleCapitalization('The house was abandoned after the storm'),
+    ).toBe(true);
+    expect(
+      validateExampleCapitalization('She goes to the gym every morning'),
+    ).toBe(true);
+    expect(
+      validateExampleCapitalization(
+        'Wrong: She asked where did I live. Correct: She asked where I lived.',
+      ),
+    ).toBe(true);
+  });
+
+  it('returns false for examples starting with a lowercase letter', () => {
+    expect(
+      validateExampleCapitalization('say: She said (that) she was leaving.'),
+    ).toBe(false);
+    expect(validateExampleCapitalization('the house was abandoned')).toBe(
+      false,
+    );
+  });
+
+  it('throws for empty string', () => {
+    expect(() => validateExampleCapitalization('')).toThrow(
+      /Invalid first letter/,
+    );
   });
 });
 

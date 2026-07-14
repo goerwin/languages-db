@@ -1,9 +1,30 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { validateConnectors, validateMdEntries } from '../src/english/utils.ts';
+import {
+  validateConnectors,
+  validateExampleCapitalization,
+  validateMdEntries,
+} from '../src/english/utils.ts';
 
 function getPath(itemPath: string) {
   return path.resolve(import.meta.dirname, '../src/', itemPath);
+}
+
+function validateExamples(
+  entries: { title: string; [x: string]: string | string[] }[],
+) {
+  for (const entry of entries) {
+    const examples = entry.eg;
+    if (Array.isArray(examples)) {
+      for (const example of examples) {
+        if (!validateExampleCapitalization(example)) {
+          throw new Error(
+            `Example in "${entry.title}" does not start with a capital letter: "${example}"`,
+          );
+        }
+      }
+    }
+  }
 }
 
 (
@@ -100,6 +121,7 @@ function getPath(itemPath: string) {
       ],
     ],
   ] as const
-).forEach(async ([filePath, validator, args]) =>
-  validator(await fs.readFile(filePath, 'utf-8'), args),
-);
+).forEach(async ([filePath, validator, args]) => {
+  const { entries } = validator(await fs.readFile(filePath, 'utf-8'), args);
+  validateExamples(entries);
+});

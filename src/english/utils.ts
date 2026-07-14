@@ -11,6 +11,19 @@ export function validateTitleCapitalization(title: string): boolean {
   return title === first.toUpperCase() + title.slice(1).toLowerCase();
 }
 
+/**
+ * Checks if an example sentence starts with a capital letter.
+ *
+ * @param example - the example sentence to check
+ * @returns true if the example starts with a capital letter
+ */
+export function validateExampleCapitalization(example: string): boolean {
+  const first = example.at(0);
+
+  if (typeof first !== 'string') throw new Error('Invalid first letter');
+  return first === first.toUpperCase();
+}
+
 interface Entry {
   title: string;
   [x: string]: string | string[];
