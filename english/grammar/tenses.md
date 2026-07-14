@@ -3,7 +3,7 @@ title: English Tenses
 description: All 12 English tenses plus "going to" future, with structures, usage rules, examples, and time markers for each
 ---
 
-# present simple
+# Present simple
 
 form: Subject + base verb (+ -s/-es for he/she/it)
 neg: Subject + do/does + not + base verb
@@ -29,7 +29,7 @@ tip: Add -s or -es to the verb for he/she/it (works, goes, watches)
 tip: Use "do/does" for questions and negatives, not the main verb
 tip: Common time markers: always, usually, often, sometimes, rarely, never, every day/week/month
 
-# present continuous
+# Present continuous
 
 form: Subject + am/is/are + verb-ing
 neg: Subject + am/is/are + not + verb-ing
@@ -55,7 +55,7 @@ tip: Use present continuous for actions in progress, not present simple
 tip: Stative verbs (know, believe, want, like) usually don't use continuous forms
 tip: Common time markers: now, at the moment, right now, currently, this week/month
 
-# present perfect
+# Present perfect
 
 form: Subject + have/has + past participle
 neg: Subject + have/has + not + past participle
@@ -81,7 +81,7 @@ tip: Use "have been" not "have gone" when the person has returned (I have been t
 tip: Use "for" with duration and "since" with a starting point
 tip: Common time markers: just, already, yet, ever, never, since, for, so far, recently
 
-# present perfect continuous
+# Present perfect continuous
 
 form: Subject + have/has + been + verb-ing
 neg: Subject + have/has + not + been + verb-ing
@@ -107,7 +107,7 @@ tip: Often interchangeable with present perfect, but continuous emphasizes durat
 tip: Stative verbs (know, believe, love) are not used in continuous form
 tip: Common time markers: for, since, all day/week, how long, lately, recently
 
-# past simple
+# Past simple
 
 form: Subject + past tense verb (regular: -ed / irregular: varies)
 neg: Subject + did + not + base verb
@@ -133,7 +133,7 @@ tip: Use past simple when the time is stated or clearly implied
 tip: Irregular verbs have unique past forms (go-went, see-saw, write-wrote)
 tip: Common time markers: yesterday, last week/month/year, ago, in 2020, when I was young
 
-# past continuous
+# Past continuous
 
 form: Subject + was/were + verb-ing
 neg: Subject + was/were + not + verb-ing
@@ -159,7 +159,7 @@ tip: Use past continuous for the longer action, past simple for the shorter inte
 tip: "While" often introduces past continuous; "when" can introduce either tense
 tip: Common time markers: at that moment, at 5 PM, when, while, all day yesterday
 
-# past perfect
+# Past perfect
 
 form: Subject + had + past participle
 neg: Subject + had + not + past participle
@@ -185,7 +185,7 @@ tip: Past perfect shows the earlier of two past actions
 tip: Often used with "before," "after," "by the time," "already," "never"
 tip: Common time markers: before, after, by the time, already, never, just, when
 
-# past perfect continuous
+# Past perfect continuous
 
 form: Subject + had + been + verb-ing
 neg: Subject + had + not + been + verb-ing
@@ -211,7 +211,7 @@ tip: Emphasizes duration and continuity before another past event
 tip: Often interchangeable with past perfect, but continuous stresses the ongoing process
 tip: Common time markers: for, since, how long, before, when, all day/week
 
-# future simple (will)
+# Future simple (will)
 
 form: Subject + will + base verb
 neg: Subject + will + not + base verb
@@ -237,7 +237,7 @@ tip: Use "will" for instant decisions, not for plans made before
 tip: "Will" is often used with: I think, I'm sure, I expect, probably, perhaps
 tip: Common time markers: tomorrow, next week/month/year, in the future, soon, later
 
-# future continuous
+# Future continuous
 
 form: Subject + will + be + verb-ing
 neg: Subject + will + not + be + verb-ing
@@ -263,7 +263,7 @@ tip: Emphasizes that an action will be in progress, not just that it will happen
 tip: Often used for arrangements that are already fixed
 tip: Common time markers: at this time tomorrow, at 5 PM, next week, in an hour
 
-# future perfect
+# Future perfect
 
 form: Subject + will + have + past participle
 neg: Subject + will + not + have + past participle
@@ -289,7 +289,7 @@ tip: Always use "by" or "by the time" to indicate the deadline
 tip: The action is viewed as complete from a future viewpoint
 tip: Common time markers: by, by the time, by then, before, in a year
 
-# future perfect continuous
+# Future perfect continuous
 
 form: Subject + will + have + been + verb-ing
 neg: Subject + will + not + have + been + verb-ing
@@ -315,7 +315,7 @@ tip: Emphasizes the duration of an action up to a future point
 tip: Often used with "for" to show how long
 tip: Common time markers: by, by the time, for, when, by then, in + time period
 
-# going to (future)
+# Going to (future)
 
 form: Subject + am/is/are + going to + base verb
 neg: Subject + am/is/are + not + going to + base verb

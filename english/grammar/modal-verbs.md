@@ -3,7 +3,7 @@ title: English Modal Verbs
 description: All English modal verbs with their meanings, structures, and usage, including comparisons between similar modals
 ---
 
-# can
+# Can
 
 form: Subject + can + base verb
 neg: Subject + cannot (can't) + base verb
@@ -25,7 +25,7 @@ tip: "Can" has no infinitive form — use "be able to" instead (e.g., "I want to
 tip: "Can" doesn't change form for he/she/it — never say "he cans"
 tip: Use "can't" for inability and also to say something is impossible: "That can't be true"
 
-# could
+# Could
 
 form: Subject + could + base verb
 neg: Subject + could not (couldn't) + base verb
@@ -51,7 +51,7 @@ tip: "Could" is softer and more polite than "can" for requests — "Could you he
 tip: For past ability in a specific situation, use "was/were able to" instead: "I was able to fix it" (not "I could fix it" when referring to one occasion)
 tip: "Could have + past participle" expresses missed opportunity: "I could have been a doctor"
 
-# may
+# May
 
 form: Subject + may + base verb
 neg: Subject + may not + base verb
@@ -69,7 +69,7 @@ tip: "May" is more formal than "can" for permission — use "may" in formal writ
 tip: "May not" for permission means "are not allowed"; for possibility use "might not" to avoid ambiguity
 tip: "May" can express wishes: "May you have a long and happy life"
 
-# might
+# Might
 
 form: Subject + might + base verb
 neg: Subject + might not (mightn't) + base verb
@@ -87,7 +87,7 @@ tip: "Might" suggests lower probability than "may" — "It may rain" (50%) vs "I
 tip: "Might" is common in spoken English for possibility; "may" sounds more formal
 tip: "Might have + past participle" for past possibility: "He might have left already"
 
-# must
+# Must
 
 form: Subject + must + base verb
 neg: Subject + must not (mustn't) + base verb
@@ -105,7 +105,7 @@ tip: "Must" has no past form — use "had to" for past obligation: "I had to lea
 tip: "Must" expresses internal obligation (you feel it); "have to" expresses external obligation (rules, others)
 tip: For strong negative deduction use "can't": "He can't be at home — his car isn't there"
 
-# must not
+# Must not
 
 form: Subject + must not (mustn't) + base verb
 neg: Subject + must not (mustn't) + base verb
@@ -119,7 +119,7 @@ tip: "Mustn't" means "it is prohibited" — you are not allowed to do it
 tip: "Mustn't" and "don't have to" are completely different — "don't have to" means "no obligation" (you can if you want)
 tip: For past prohibition use "wasn't/weren't allowed to" — "must" has no past form
 
-# shall
+# Shall
 
 form: Subject + shall + base verb
 neg: Subject + shall not (shan't) + base verb
@@ -141,7 +141,7 @@ tip: "Shall" is much more common in British than American English
 tip: For offers, "Shall I...?" is more formal than "Do you want me to...?"
 tip: In American English, "will" or "should" often replaces "shall"
 
-# should
+# Should
 
 form: Subject + should + base verb
 neg: Subject + should not (shouldn't) + base verb
@@ -163,7 +163,7 @@ tip: "Should" is softer than "must" — it suggests good idea, not strict requir
 tip: "Should have + past participle" expresses regret: "I should have studied harder"
 tip: In conditional sentences, "should" can replace "if": "Should you need help, call me"
 
-# ought to
+# Ought to
 
 form: Subject + ought to + base verb
 neg: Subject + ought not to (oughtn't to) + base verb
@@ -181,7 +181,7 @@ tip: "Ought to" is interchangeable with "should" but sounds slightly more formal
 tip: "Ought to" always takes "to" before the verb — never "ought go"
 tip: In negative, "oughtn't to" is correct but "shouldn't" is more common in speech
 
-# will
+# Will
 
 form: Subject + will + base verb
 neg: Subject + will not (won't) + base verb
@@ -211,7 +211,7 @@ tip: "Will" is used for spontaneous decisions; "going to" for planned intentions
 tip: "Won't" can express refusal: "The door won't open"
 tip: In formal writing, "shall" is sometimes used with "I" and "we" for future
 
-# would
+# Would
 
 form: Subject + would + base verb
 neg: Subject + would not (wouldn't) + base verb
@@ -237,7 +237,7 @@ tip: "Would" is the past form of "will" in reported speech: "He said he would co
 tip: "Would like" is more polite than "want": "I would like a ticket" vs "I want a ticket"
 tip: "Would" for past habits is interchangeable with "used to" for repeated actions
 
-# need
+# Need
 
 form (modal): Subject + need + base verb (mainly in negatives and questions)
 neg: Subject + need not (needn't) + base verb
@@ -263,7 +263,7 @@ tip: As a modal, "need" is mainly used in "needn't" and "Need I...?" — America
 tip: "Needn't have + past participle" means you did something unnecessarily: "You needn't have cooked — I already ate"
 tip: "Didn't need to" means it wasn't necessary (whether you did it or not)
 
-# had better
+# Had better
 
 form: Subject + had better + base verb
 neg: Subject + had better not + base verb
@@ -277,7 +277,7 @@ tip: "Had better" implies a negative consequence if you don't follow the advice
 tip: Despite "had," it refers to present/future, not past — "You'd better go" means "you should go now"
 tip: "Had better" is stronger than "should" — use for urgent advice or warnings
 
-# can vs. could vs. be able to
+# Can vs. could vs. be able to
 
 use: When to use each for ability
 eg: Present ability: "I can swim" / "I am able to swim" (can is more natural)
@@ -290,7 +290,7 @@ tip: Use "can" for present ability when possible — it's shorter and more commo
 tip: Use "be able to" when you need tenses "can" doesn't have — future, infinitive, perfect forms
 tip: For past single events where someone succeeded, "managed to" or "was able to" — "could" suggests general ability only
 
-# must vs. have to vs. need to
+# Must vs. have to vs. need to
 
 use: Obligation differences — internal vs external, strength
 eg: Internal obligation (you feel it): "I must exercise more"
@@ -303,7 +303,7 @@ tip: "Must" and "have to" are often interchangeable for affirmative obligation, 
 tip: "Mustn't" = prohibited; "don't have to" = not required (you can if you want) — these are opposites!
 tip: "Have to" has all tense forms; "must" has no past — use "had to" for past obligation
 
-# should vs. ought to vs. had better
+# Should vs. ought to vs. had better
 
 use: Degrees of advice and strength
 eg: Mild advice: "You should try the soup" (good idea)
@@ -314,7 +314,7 @@ tip: "Should" and "ought to" are nearly identical — "ought to" sounds slightly
 tip: "Had better" implies bad consequences — use when the stakes are higher
 tip: "Had better" is not used for general advice, only specific situations with implied threat
 
-# may vs. might vs. could (possibility)
+# May vs. might vs. could (possibility)
 
 use: Degrees of certainty for possibility
 eg: More likely (formal): "It may rain tomorrow" (perhaps 50%)

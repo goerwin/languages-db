@@ -3,7 +3,7 @@ title: English Articles
 description: Rules for using a, an, the, and zero article in English, with usage explanations, examples, and common mistakes
 ---
 
-# a
+# A
 
 form: a + singular countable noun (starting with a consonant sound)
 
@@ -33,7 +33,7 @@ eg: She is such a talented musician
 tip: Use "a" before consonant SOUNDS (not just consonant letters): a university (/juː/), a European
 tip: Never use "a/an" with plural or uncountable nouns
 
-# an
+# An
 
 form: an + singular countable noun (starting with a vowel sound)
 
@@ -57,7 +57,7 @@ tip: Use "an" before vowel SOUNDS: an hour (silent h), an honest person, an MBA 
 tip: Use "a" before consonant SOUNDS even with vowel letters: a university (/juː/), a European (/jʊər/), a one-way street (/wʌn/)
 tip: The choice depends on SOUND not spelling: an FBI agent (eff-bee-eye), a UFO (you-eff-oh)
 
-# the
+# The
 
 form: the + singular or plural noun, countable or uncountable
 
@@ -110,7 +110,7 @@ eg: The young often disagree with the old
 tip: Do not use "the" with most country names: Japan, France, Brazil (exceptions: the USA, the UK, the Netherlands)
 tip: Do not use "the" with lakes or single mountains: Lake Superior, Mount Fuji
 
-# zero article (no article)
+# Zero article (no article)
 
 form: No article before the noun
 
@@ -167,7 +167,7 @@ eg: He was sent to prison for five years
 tip: Compare "go to school" (as a student) vs "go to the school" (the building, perhaps to pick up a child)
 tip: "in hospital" (British) / "in the hospital" (American) can differ; "in prison" = incarcerated vs "in the prison" = the building
 
-# a / an vs. the — comparison
+# A / an vs. the — comparison
 
 use: "a/an" = any one, first mention, unspecified; "the" = specific one, known, definite
 eg: I need a doctor (any doctor will do)
@@ -189,7 +189,7 @@ use: Jobs with "a/an" vs unique roles with "the"
 eg: She is a president of a company (one of many company presidents)
 eg: She is the president of the company (the one and only)
 
-# common mistakes with articles
+# Common mistakes with articles
 
 use: Missing "a/an" before singular countable nouns
 eg: Wrong: I have dog. Correct: I have a dog

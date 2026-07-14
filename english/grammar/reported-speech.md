@@ -3,7 +3,7 @@ title: English Reported Speech
 description: How to report what someone said in English, covering tense changes, pronoun shifts, time/place adjustments, questions, commands, and reporting verbs
 ---
 
-# statements
+# Statements
 
 form: Subject + said/told + (that) + clause with tense shift
 
@@ -15,7 +15,7 @@ eg: Direct: "We are leaving." → Reported: They told us (that) they were leavin
 
 tip: Use "said" without an object. Use "told" with an object (told me, told us). "That" is optional and often omitted in spoken English.
 
-# tense changes
+# Tense changes
 
 form: Shift the verb tense back in time when reporting past speech
 
@@ -39,7 +39,7 @@ eg: Direct: "I must leave now." → Reported: He said (that) he had to leave the
 
 tip: Past perfect stays past perfect. There is no further backshift.
 
-# pronoun changes
+# Pronoun changes
 
 form: Change pronouns to match the perspective of the person reporting
 
@@ -57,7 +57,7 @@ eg: Direct: "Our flight leaves tomorrow." → Reported: They said (that) their f
 
 tip: The pronoun changes depend on who said what and who is reporting. "I" becomes he/she (the original speaker). "You" becomes I/he/she (the person addressed).
 
-# time and place changes
+# Time and place changes
 
 form: Shift time and place expressions to match the reporting context
 
@@ -85,7 +85,7 @@ eg: Direct: "I am leaving next week." → Reported: He said (that) he was leavin
 
 tip: These changes are not always necessary if the time/place is still the same when reporting.
 
-# questions
+# Questions
 
 form: Yes/No: Subject + asked + if/whether + subject + verb (no inversion). Wh-: Subject + asked + wh-word + subject + verb (no inversion)
 
@@ -107,7 +107,7 @@ eg: Direct: "Who is that?" → Reported: She asked who that was. (Wh- question)
 
 tip: Never use inversion in reported questions. Wrong: She asked where did I live. Correct: She asked where I lived.
 
-# commands and requests
+# Commands and requests
 
 form: told/asked + object + (not) + to-infinitive
 
@@ -125,7 +125,7 @@ eg: Direct: "Wait for me." → Reported: He told us to wait for him.
 
 tip: Negative commands use "not to" before the infinitive. "Told" implies a stronger instruction than "asked."
 
-# suggestions and advice
+# Suggestions and advice
 
 form: suggested + gerund / suggested (that) + subject + verb / advised + object + to-infinitive
 
@@ -143,7 +143,7 @@ eg: Direct: "How about having lunch?" → Reported: She suggested having lunch.
 
 tip: "Suggest" can take a gerund or "that" + base form. "Advise" takes "to" + infinitive with an object.
 
-# reporting verbs
+# Reporting verbs
 
 form: Different verbs take different patterns: verb + that clause, verb + object + to-infinitive, verb + gerund, etc.
 
@@ -195,7 +195,7 @@ eg: announce: They announced that the flight was delayed. (announce + that claus
 
 tip: Learn which pattern each verb takes. "Say" never takes an object before "that." "Tell" always needs an object.
 
-# when NOT to change tense
+# When not to change tense
 
 form: Keep the original tense when the situation is still true, when reporting immediately, or when the clause is already past perfect
 
@@ -213,7 +213,7 @@ eg: Direct: "Paris is the capital of France." → Reported: He said (that) Paris
 
 tip: When in doubt, backshifting is usually safe. Not backshifting can suggest the information is still current.
 
-# common mistakes
+# Common mistakes
 
 form: Avoid these errors when using reported speech
 

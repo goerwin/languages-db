@@ -3,7 +3,7 @@ title: English Conditionals
 description: All English conditional types from zero to third, including mixed conditionals, unless, and wish/if only structures
 ---
 
-# zero conditional
+# Zero conditional
 
 form: If + present simple, present simple
 neg: If + subject + do/does + not + base verb, subject + do/does + not + base verb
@@ -28,7 +28,7 @@ tip: You can replace "if" with "when" in zero conditionals without changing the 
 tip: Both clauses use the present simple tense
 tip: The if-clause and the main clause can be swapped: "Water boils if you heat it to 100°C"
 
-# first conditional
+# First conditional
 
 form: If + present simple, will + base verb
 neg: If + subject + do/does + not + base verb, subject + will + not + base verb
@@ -53,7 +53,7 @@ tip: "Will" can be replaced with other modals: can, may, might, should, must (e.
 tip: The if-clause can use present continuous for plans: If you're coming to the party, let me know
 tip: Avoid using "will" in the if-clause — "If you will come" is wrong; use "If you come" instead
 
-# second conditional
+# Second conditional
 
 form: If + past simple, would + base verb
 neg: If + subject + did + not + base verb, subject + would + not + base verb
@@ -78,7 +78,7 @@ tip: Use "were" instead of "was" for all persons in formal English: If I were yo
 tip: "Was" is acceptable in informal spoken English: If he was here, he'd help
 tip: Second conditional expresses low probability — the speaker doesn't expect the condition to happen
 
-# third conditional
+# Third conditional
 
 form: If + past perfect, would have + past participle
 neg: If + subject + had + not + past participle, subject + would + not + have + past participle
@@ -103,7 +103,7 @@ tip: The condition and result both refer to the past — neither can be changed
 tip: Common mistake: using "would have" in the if-clause — wrong: "If I would have known"; correct: "If I had known"
 tip: Third conditional often expresses regret, relief, or criticism about past events
 
-# mixed conditional: third + second
+# Mixed conditional: third + second
 
 form: If + past perfect, would + base verb
 neg: If + subject + had + not + past participle, subject + would + not + base verb
@@ -128,7 +128,7 @@ tip: The if-clause describes an unreal past; the main clause describes an unreal
 tip: This structure connects a past hypothetical with a present hypothetical result
 tip: Often used to express "if things had been different in the past, things would be different now"
 
-# mixed conditional: second + third
+# Mixed conditional: second + third
 
 form: If + past simple, would have + past participle
 neg: If + subject + did + not + base verb, subject + would + not + have + past participle
@@ -153,7 +153,7 @@ tip: This structure is less common than third + second mixed conditional
 tip: The if-clause describes a present unreal state; the main clause describes a past unreal result
 tip: Often implies "because of who/what you are (now), this past outcome would have been different"
 
-# unless
+# Unless
 
 form: Unless + condition, result (equivalent to "if...not")
 neg: Unless + subject + verb (positive), subject + negative verb
@@ -178,7 +178,7 @@ tip: Common mistake: double negative — wrong: "Unless you don't go" (redundant
 tip: "Unless" cannot replace "if" when the meaning is "if...not" in the result — "I'll be surprised if he doesn't come" (not "unless he comes" — different meaning)
 tip: After "unless" use present tense for future meaning: Unless it rains tomorrow (not "unless it will rain")
 
-# wish and if only
+# Wish and if only
 
 form: Wish / If only + past simple (for present wishes)
 neg: Wish / If only + subject + did + not + base verb

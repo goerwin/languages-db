@@ -3,7 +3,7 @@ title: English Connectors
 description: English linking words and connectors organized by category and level, used to join ideas and create cohesive sentences
 ---
 
-# and
+# And
 
 cat: additive
 lvl: beg
@@ -12,7 +12,7 @@ eg: She studied hard and passed the exam with flying colors, earning the highest
 eg: The report covers productivity and cost efficiency, providing detailed recommendations for improving both areas over the next fiscal year
 pos: middle
 
-# also
+# Also
 
 cat: additive
 lvl: beg
@@ -22,7 +22,7 @@ eg: The app is free; it also works offline, which is perfect for travelers who d
 pos: flexible
 tip: Usually placed before the main verb
 
-# too
+# Too
 
 cat: additive
 lvl: beg
@@ -31,7 +31,7 @@ eg: She's an excellent writer, and a brilliant speaker too, capable of captivati
 eg: He made mistakes, but he learned from them too, documenting each lesson so he wouldn't repeat the same errors in future projects
 pos: end
 
-# as well
+# As well
 
 cat: additive
 lvl: beg
@@ -40,7 +40,7 @@ eg: She speaks Italian and German as well as her native English, skills she deve
 eg: The price includes breakfast, and dinner as well, making it an excellent value compared to other hotels in the same price range
 pos: end
 
-# besides
+# Besides
 
 cat: additive
 lvl: beg
@@ -50,7 +50,7 @@ eg: The location isn't ideal; besides, the lease terms are unfavorable and the l
 pos: start
 subcat: reinforcing
 
-# moreover
+# Moreover
 
 cat: additive
 lvl: mid
@@ -62,7 +62,7 @@ subcat: reinforcing
 syn: furthermore
 syn: in addition
 
-# furthermore
+# Furthermore
 
 cat: additive
 lvl: mid
@@ -72,7 +72,7 @@ eg: She exceeded her targets; furthermore, she mentored two junior colleagues wh
 pos: start
 subcat: reinforcing
 
-# in addition
+# In addition
 
 cat: additive
 lvl: mid
@@ -82,7 +82,7 @@ eg: The course covers grammar; in addition, it includes pronunciation practice
 pos: start
 subcat: reinforcing
 
-# additionally
+# Additionally
 
 cat: additive
 lvl: mid
@@ -91,7 +91,7 @@ eg: The program reduces waste; additionally, it cuts operational costs by 20 per
 eg: The new policy improves safety; additionally, it simplifies the approval process, reducing the time needed to get projects started by several weeks
 pos: start
 
-# on top of that
+# On top of that
 
 cat: additive
 lvl: mid
@@ -101,7 +101,7 @@ eg: She's dealing with a heavy workload and, on top of that, a difficult commute
 pos: start
 subcat: reinforcing
 
-# what's more
+# What's more
 
 cat: additive
 lvl: mid
@@ -111,7 +111,7 @@ eg: The new system is faster; what's more, it requires almost no maintenance, re
 pos: start
 subcat: reinforcing
 
-# not only...but also
+# Not only...but also
 
 cat: additive
 lvl: mid
@@ -120,7 +120,7 @@ eg: Not only did they win the match, but they also broke the league record
 eg: The policy not only reduces costs but also improves employee satisfaction
 pos: start
 
-# likewise (additive)
+# Likewise (additive)
 
 cat: additive
 lvl: mid
@@ -130,7 +130,7 @@ eg: Team A missed the target; likewise, Team B fell short of expectations, indic
 pos: start
 subcat: equative
 
-# coupled with
+# Coupled with
 
 cat: additive
 lvl: adv
@@ -139,7 +139,7 @@ eg: A lack of experience, coupled with poor planning, led to the project's failu
 eg: The new data, coupled with previous findings, makes a compelling case for reform, prompting lawmakers to schedule hearings on the issue next month
 pos: start
 
-# along with
+# Along with
 
 cat: additive
 lvl: adv
@@ -148,7 +148,7 @@ eg: He packed his laptop along with all the documents needed for the presentatio
 eg: Along with strong sales, the company reported record customer satisfaction scores
 pos: flexible
 
-# not to mention
+# Not to mention
 
 cat: additive
 lvl: adv
@@ -158,7 +158,7 @@ eg: Managing the team was already difficult, not to mention dealing with budget 
 pos: start
 subcat: reinforcing
 
-# but
+# But
 
 cat: contrastive
 lvl: beg
@@ -168,7 +168,7 @@ eg: She tried her best, but the deadline was simply too tight given the scope of
 pos: middle
 subcat: antithetic
 
-# however
+# However
 
 cat: contrastive
 lvl: beg
@@ -179,7 +179,7 @@ pos: start
 subcat: antithetic
 tip: More formal than "but"
 
-# although
+# Although
 
 cat: contrastive
 lvl: beg
@@ -189,7 +189,7 @@ eg: He accepted the offer, although he had reservations about the role, deciding
 pos: start
 subcat: concessive
 
-# though
+# Though
 
 cat: contrastive
 lvl: beg
@@ -199,7 +199,7 @@ eg: She agreed, though reluctantly, to take on the extra responsibility
 pos: flexible
 subcat: concessive
 
-# even though
+# Even though
 
 cat: contrastive
 lvl: beg
@@ -209,7 +209,7 @@ eg: Even though the budget was tight, they delivered an impressive result
 pos: start
 subcat: concessive
 
-# still
+# Still
 
 cat: contrastive
 lvl: beg
@@ -219,7 +219,7 @@ eg: The evidence was weak. Still, the jury took a long time to decide, carefully
 pos: start
 subcat: concessive
 
-# yet
+# Yet
 
 cat: contrastive
 lvl: beg
@@ -229,7 +229,7 @@ eg: The design is minimal yet highly functional for everyday use
 pos: middle
 subcat: antithetic
 
-# nevertheless
+# Nevertheless
 
 cat: contrastive
 lvl: mid
@@ -241,7 +241,7 @@ subcat: concessive
 syn: nonetheless
 syn: however
 
-# nonetheless
+# Nonetheless
 
 cat: contrastive
 lvl: mid
@@ -251,7 +251,7 @@ eg: The feedback was mixed; nonetheless, the product launched on schedule, with 
 pos: start
 subcat: concessive
 
-# on the other hand
+# On the other hand
 
 cat: contrastive
 lvl: mid
@@ -261,7 +261,7 @@ eg: The first option is cheaper; on the other hand, it comes with fewer features
 pos: start
 subcat: antithetic
 
-# in contrast
+# In contrast
 
 cat: contrastive
 lvl: mid
@@ -271,7 +271,7 @@ eg: The first half was slow; in contrast, the second half was dynamic and fast-p
 pos: start
 subcat: antithetic
 
-# on the contrary
+# On the contrary
 
 cat: contrastive
 lvl: mid
@@ -282,7 +282,7 @@ pos: start
 subcat: antithetic
 tip: Used to deny what was just said
 
-# whereas
+# Whereas
 
 cat: contrastive
 lvl: mid
@@ -292,7 +292,7 @@ eg: Urban areas tend to grow rapidly, whereas rural populations often decline
 pos: middle
 subcat: antithetic
 
-# while (contrastive)
+# While (contrastive)
 
 cat: contrastive
 lvl: mid
@@ -302,7 +302,7 @@ eg: While sales improved in Europe, they declined sharply in Asia
 pos: start
 subcat: concessive
 
-# despite
+# Despite
 
 cat: contrastive
 lvl: mid
@@ -312,7 +312,7 @@ eg: The event was a success, despite a last-minute change of venue
 pos: start
 subcat: concessive
 
-# in spite of
+# In spite of
 
 cat: contrastive
 lvl: mid
@@ -322,7 +322,7 @@ eg: He kept working, in spite of the constant interruptions throughout the day
 pos: start
 subcat: concessive
 
-# rather
+# Rather
 
 cat: contrastive
 lvl: mid
@@ -332,7 +332,7 @@ eg: The issue isn’t the cost, but rather the lack of transparency
 pos: middle
 subcat: replacive
 
-# instead
+# Instead
 
 cat: contrastive
 lvl: mid
@@ -342,7 +342,7 @@ eg: Instead of complaining, she focused on finding a practical solution
 pos: start
 subcat: replacive
 
-# alternatively
+# Alternatively
 
 cat: contrastive
 lvl: mid
@@ -352,7 +352,7 @@ eg: We could reduce costs by cutting staff; alternatively, we could renegotiate 
 pos: start
 subcat: replacive
 
-# conversely
+# Conversely
 
 cat: contrastive
 lvl: adv
@@ -362,7 +362,7 @@ eg: Some people thrive under pressure; conversely, others need calm to perform w
 pos: start
 subcat: antithetic
 
-# notwithstanding
+# Notwithstanding
 
 cat: contrastive
 lvl: adv
@@ -372,7 +372,7 @@ eg: His qualifications were strong; notwithstanding, the committee had reservati
 pos: start
 subcat: concessive
 
-# be that as it may
+# Be that as it may
 
 cat: contrastive
 lvl: adv
@@ -382,7 +382,7 @@ eg: Her intentions were good; be that as it may, the outcome was still damaging
 pos: start
 subcat: concessive
 
-# having said that
+# Having said that
 
 cat: contrastive
 lvl: adv
@@ -392,7 +392,7 @@ eg: The salary offer was below expectations; having said that, the other benefit
 pos: start
 subcat: concessive
 
-# that said
+# That said
 
 cat: contrastive
 lvl: adv
@@ -402,7 +402,7 @@ eg: She’s inexperienced; that said, her enthusiasm and drive are hard to match
 pos: start
 subcat: concessive
 
-# all the same
+# All the same
 
 cat: contrastive
 lvl: adv
@@ -412,7 +412,7 @@ eg: The odds weren’t great; all the same, she decided to give it her best shot
 pos: start
 subcat: concessive
 
-# even so
+# Even so
 
 cat: contrastive
 lvl: adv
@@ -422,7 +422,7 @@ eg: She had been warned; even so, she was still unprepared for the news
 pos: start
 subcat: concessive
 
-# because
+# Because
 
 cat: consequential
 lvl: beg
@@ -432,7 +432,7 @@ eg: The project was delayed because several key suppliers failed to deliver on t
 pos: middle
 subcat: causative
 
-# since
+# Since
 
 cat: consequential
 lvl: beg
@@ -442,7 +442,7 @@ eg: Since she joined the team, the overall performance has improved significantl
 pos: start
 subcat: causative
 
-# as
+# As
 
 cat: consequential
 lvl: beg
@@ -452,7 +452,7 @@ eg: As she had more experience, she was asked to lead the negotiations
 pos: start
 subcat: causative
 
-# so (consequential)
+# So (consequential)
 
 cat: consequential
 lvl: beg
@@ -462,7 +462,7 @@ eg: He wasn’t feeling well, so he decided to work from home that day
 pos: middle
 subcat: resultive
 
-# therefore
+# Therefore
 
 cat: consequential
 lvl: beg
@@ -474,7 +474,7 @@ subcat: resultive
 syn: thus
 syn: hence
 
-# if
+# If
 
 cat: consequential
 lvl: beg
@@ -484,7 +484,7 @@ eg: If the results confirm our hypothesis, we’ll proceed to the next phase
 pos: start
 subcat: conditional
 
-# unless
+# Unless
 
 cat: consequential
 lvl: beg
@@ -494,7 +494,7 @@ eg: The project won’t succeed unless everyone commits fully to the timeline
 pos: start
 subcat: conditional
 
-# thus
+# Thus
 
 cat: consequential
 lvl: mid
@@ -504,7 +504,7 @@ eg: She had prepared thoroughly; thus, the interview went smoothly
 pos: start
 subcat: resultive
 
-# hence
+# Hence
 
 cat: consequential
 lvl: mid
@@ -514,7 +514,7 @@ eg: He left without saying goodbye; hence the awkwardness at the next team meeti
 pos: start
 subcat: resultive
 
-# consequently
+# Consequently
 
 cat: consequential
 lvl: mid
@@ -524,7 +524,7 @@ eg: She missed the training; consequently, she wasn’t prepared for the new sys
 pos: start
 subcat: resultive
 
-# as a result
+# As a result
 
 cat: consequential
 lvl: mid
@@ -534,7 +534,7 @@ eg: Fuel prices increased sharply; as a result, many airlines raised their ticke
 pos: start
 subcat: resultive
 
-# because of
+# Because of
 
 cat: consequential
 lvl: mid
@@ -544,7 +544,7 @@ eg: The merger was approved largely because of the strong financial projections
 pos: start
 subcat: causative
 
-# due to
+# Due to
 
 cat: consequential
 lvl: mid
@@ -554,7 +554,7 @@ eg: The factory closed temporarily due to a power outage affecting the whole dis
 pos: start
 subcat: causative
 
-# owing to
+# Owing to
 
 cat: consequential
 lvl: mid
@@ -564,7 +564,7 @@ eg: The event was a success, owing to months of careful planning by the entire t
 pos: start
 subcat: causative
 
-# for this reason
+# For this reason
 
 cat: consequential
 lvl: mid
@@ -574,7 +574,7 @@ eg: Communication had broken down; for this reason, a mediator was brought in
 pos: start
 subcat: resultive
 
-# that's why
+# That's why
 
 cat: consequential
 lvl: mid
@@ -584,7 +584,7 @@ eg: The system has been unreliable for months — that’s why we’re switching
 pos: start
 subcat: resultive
 
-# provided that
+# Provided that
 
 cat: consequential
 lvl: mid
@@ -594,7 +594,7 @@ eg: Provided that the weather holds, the launch event will go ahead as planned
 pos: start
 subcat: conditional
 
-# as long as
+# As long as
 
 cat: consequential
 lvl: mid
@@ -604,7 +604,7 @@ eg: You can work from home as long as you’re available during core hours
 pos: start
 subcat: conditional
 
-# otherwise
+# Otherwise
 
 cat: consequential
 lvl: mid
@@ -614,7 +614,7 @@ eg: Review the contract carefully; otherwise, you might miss something important
 pos: start
 subcat: conditional
 
-# in case
+# In case
 
 cat: consequential
 lvl: mid
@@ -624,7 +624,7 @@ eg: He kept the receipt in case he needed to return the item later
 pos: middle
 subcat: conditional
 
-# accordingly
+# Accordingly
 
 cat: consequential
 lvl: adv
@@ -634,7 +634,7 @@ eg: New regulations came into force; accordingly, all procedures were updated
 pos: start
 subcat: resultive
 
-# thereby
+# Thereby
 
 cat: consequential
 lvl: adv
@@ -644,7 +644,7 @@ eg: The new software automates the report, thereby freeing up hours of manual wo
 pos: middle
 subcat: resultive
 
-# given that
+# Given that
 
 cat: consequential
 lvl: adv
@@ -654,7 +654,7 @@ eg: Given that both teams are equally qualified, the decision comes down to cult
 pos: start
 subcat: causative
 
-# seeing that
+# Seeing that
 
 cat: consequential
 lvl: adv
@@ -664,7 +664,7 @@ eg: Seeing that the deadline is tomorrow, we need to finalize the document tonig
 pos: start
 subcat: causative
 
-# supposing
+# Supposing
 
 cat: consequential
 lvl: adv
@@ -674,7 +674,7 @@ eg: Supposing the funding comes through, how quickly could the project get start
 pos: start
 subcat: conditional
 
-# assuming that
+# Assuming that
 
 cat: consequential
 lvl: adv
@@ -684,7 +684,7 @@ eg: Assuming that costs remain stable, we can afford to hire two more people
 pos: start
 subcat: conditional
 
-# first
+# First
 
 cat: sequential
 lvl: beg
@@ -694,7 +694,7 @@ eg: First, the researchers identified the problem; then they designed an experim
 pos: start
 subcat: ordering
 
-# second
+# Second
 
 cat: sequential
 lvl: beg
@@ -704,7 +704,7 @@ eg: First, a brief overview of the topic; second, a detailed case study
 pos: start
 subcat: ordering
 
-# third
+# Third
 
 cat: sequential
 lvl: beg
@@ -714,7 +714,7 @@ eg: The speech had three parts: first an introduction, second the argument, thir
 pos: start
 subcat: ordering
 
-# then
+# Then
 
 cat: sequential
 lvl: beg
@@ -724,7 +724,7 @@ eg: She finished the report, then sent it to her manager for approval
 pos: start
 subcat: ordering
 
-# next
+# Next
 
 cat: sequential
 lvl: beg
@@ -734,7 +734,7 @@ eg: First, save the document; next, attach it to the email before sending
 pos: start
 subcat: ordering
 
-# finally (sequential)
+# Finally (sequential)
 
 cat: sequential
 lvl: beg
@@ -744,7 +744,7 @@ eg: We reviewed all the options; finally, the committee chose the third proposal
 pos: start
 subcat: ordering
 
-# lastly
+# Lastly
 
 cat: sequential
 lvl: beg
@@ -754,7 +754,7 @@ eg: The presentation covered three areas; lastly, future recommendations were ou
 pos: start
 subcat: ordering
 
-# before
+# Before
 
 cat: sequential
 lvl: beg
@@ -764,7 +764,7 @@ eg: Before signing any contract, make sure you understand all the terms
 pos: start
 subcat: timing
 
-# after
+# After
 
 cat: sequential
 lvl: beg
@@ -774,7 +774,7 @@ eg: He felt much more confident after practicing the speech several times
 pos: start
 subcat: timing
 
-# when
+# When
 
 cat: sequential
 lvl: beg
@@ -784,7 +784,7 @@ eg: Call me when you arrive so I know you got there safely
 pos: start
 subcat: timing
 
-# while (sequential)
+# While (sequential)
 
 cat: sequential
 lvl: beg
@@ -794,7 +794,7 @@ eg: She took notes while the presenter explained the new system
 pos: start
 subcat: timing
 
-# during
+# During
 
 cat: sequential
 lvl: beg
@@ -804,7 +804,7 @@ eg: There were several interruptions during the presentation that disrupted the 
 pos: start
 subcat: timing
 
-# to begin with
+# To begin with
 
 cat: sequential
 lvl: mid
@@ -814,7 +814,7 @@ eg: To begin with, we need to agree on a clear set of objectives before moving f
 pos: start
 subcat: ordering
 
-# first of all
+# First of all
 
 cat: sequential
 lvl: mid
@@ -824,7 +824,7 @@ eg: First of all, we need to confirm the budget before committing to a venue
 pos: start
 subcat: ordering
 
-# to start with
+# To start with
 
 cat: sequential
 lvl: mid
@@ -834,7 +834,7 @@ eg: There were several issues: to start with, the timeline was far too optimisti
 pos: start
 subcat: ordering
 
-# subsequently
+# Subsequently
 
 cat: sequential
 lvl: mid
@@ -844,7 +844,7 @@ eg: An investigation was launched; subsequently, three officials resigned from t
 pos: start
 subcat: timing
 
-# meanwhile
+# Meanwhile
 
 cat: sequential
 lvl: mid
@@ -854,7 +854,7 @@ eg: The negotiations continued for months; meanwhile, production came to a compl
 pos: start
 subcat: timing
 
-# in the meantime
+# In the meantime
 
 cat: sequential
 lvl: mid
@@ -864,7 +864,7 @@ eg: The investigation is ongoing; in the meantime, normal operations will contin
 pos: start
 subcat: timing
 
-# previously
+# Previously
 
 cat: sequential
 lvl: mid
@@ -874,7 +874,7 @@ eg: As previously mentioned, the deadline for submissions is the end of this mon
 pos: start
 subcat: timing
 
-# at the same time
+# At the same time
 
 cat: sequential
 lvl: mid
@@ -884,7 +884,7 @@ eg: We need to cut costs; at the same time, we can’t compromise on quality
 pos: start
 subcat: timing
 
-# as soon as
+# As soon as
 
 cat: sequential
 lvl: mid
@@ -894,7 +894,7 @@ eg: She called her family as soon as the plane landed to let them know she’d a
 pos: start
 subcat: timing
 
-# once
+# Once
 
 cat: sequential
 lvl: mid
@@ -904,7 +904,7 @@ eg: Things moved quickly once everyone agreed on the final design
 pos: start
 subcat: timing
 
-# by the way
+# By the way
 
 cat: sequential
 lvl: mid
@@ -915,7 +915,7 @@ pos: start
 subcat: transitional
 tip: Used to introduce a side topic
 
-# incidentally
+# Incidentally
 
 cat: sequential
 lvl: mid
@@ -925,7 +925,7 @@ eg: Incidentally, the author we were just discussing will be speaking at next we
 pos: start
 subcat: transitional
 
-# speaking of which
+# Speaking of which
 
 cat: sequential
 lvl: mid
@@ -935,7 +935,7 @@ eg: Speaking of which, I think we should revisit the budget before making a fina
 pos: start
 subcat: transitional
 
-# henceforth
+# Henceforth
 
 cat: sequential
 lvl: adv
@@ -945,7 +945,7 @@ eg: The two countries signed the agreement; henceforth, trade tariffs would no l
 pos: start
 subcat: timing
 
-# thereafter
+# Thereafter
 
 cat: sequential
 lvl: adv
@@ -955,7 +955,7 @@ eg: She graduated in the spring and thereafter moved to a different city for wor
 pos: start
 subcat: timing
 
-# forthwith
+# Forthwith
 
 cat: sequential
 lvl: adv
@@ -966,7 +966,7 @@ pos: end
 subcat: timing
 tip: Very formal, means "immediately"
 
-# in due course
+# In due course
 
 cat: sequential
 lvl: adv
@@ -976,7 +976,7 @@ eg: In due course, the full report will be shared with all stakeholders
 pos: start
 subcat: timing
 
-# prior to
+# Prior to
 
 cat: sequential
 lvl: adv
@@ -986,7 +986,7 @@ eg: All documents must be submitted prior to the closing date of the application
 pos: start
 subcat: timing
 
-# actually
+# Actually
 
 cat: clarification
 lvl: beg
@@ -996,7 +996,7 @@ eg: He’s not from Spain — actually, he grew up in Argentina
 pos: start
 subcat: corroborative
 
-# really
+# Really
 
 cat: clarification
 lvl: beg
@@ -1006,7 +1006,7 @@ eg: It’s a really challenging course, but it’s worth every hour of effort
 pos: flexible
 subcat: emphasizing
 
-# of course
+# Of course
 
 cat: clarification
 lvl: beg
@@ -1016,7 +1016,7 @@ eg: He worked hard; of course, that alone doesn’t guarantee success
 pos: start
 subcat: emphasizing
 
-# in fact
+# In fact
 
 cat: clarification
 lvl: mid
@@ -1028,7 +1028,7 @@ subcat: emphasizing
 syn: actually
 syn: as a matter of fact
 
-# indeed
+# Indeed
 
 cat: clarification
 lvl: mid
@@ -1038,7 +1038,7 @@ eg: It was indeed a difficult decision, but one she has never regretted
 pos: start
 subcat: corroborative
 
-# certainly
+# Certainly
 
 cat: clarification
 lvl: mid
@@ -1048,7 +1048,7 @@ eg: Certainly, the company has made progress; whether it’s enough remains to b
 pos: start
 subcat: emphasizing
 
-# clearly
+# Clearly
 
 cat: clarification
 lvl: mid
@@ -1058,7 +1058,7 @@ eg: She was clearly nervous, but she delivered the speech with remarkable compos
 pos: start
 subcat: emphasizing
 
-# obviously
+# Obviously
 
 cat: clarification
 lvl: mid
@@ -1068,7 +1068,7 @@ eg: He was obviously talented, but he lacked the discipline to develop his skill
 pos: start
 subcat: emphasizing
 
-# especially
+# Especially
 
 cat: clarification
 lvl: mid
@@ -1078,7 +1078,7 @@ eg: The new policy benefits everyone, especially those who rely on public transp
 pos: middle
 subcat: emphasizing
 
-# particularly
+# Particularly
 
 cat: clarification
 lvl: mid
@@ -1088,7 +1088,7 @@ eg: She found the practical sessions particularly useful for applying what she�
 pos: middle
 subcat: emphasizing
 
-# above all
+# Above all
 
 cat: clarification
 lvl: mid
@@ -1098,7 +1098,7 @@ eg: Above all, the organization values integrity in every aspect of its work
 pos: start
 subcat: emphasizing
 
-# most importantly
+# Most importantly
 
 cat: clarification
 lvl: mid
@@ -1108,7 +1108,7 @@ eg: The plan is cost-effective and practical; most importantly, it can be implem
 pos: start
 subcat: emphasizing
 
-# generally
+# Generally
 
 cat: clarification
 lvl: mid
@@ -1118,7 +1118,7 @@ eg: Children generally respond better when instructions are clear and consistent
 pos: start
 subcat: generalization
 
-# usually
+# Usually
 
 cat: clarification
 lvl: mid
@@ -1128,7 +1128,7 @@ eg: Usually, the first session is the hardest; it gets easier as you go on
 pos: start
 subcat: generalization
 
-# typically
+# Typically
 
 cat: clarification
 lvl: mid
@@ -1138,7 +1138,7 @@ eg: Typically, candidates with three years of experience are considered for the 
 pos: start
 subcat: generalization
 
-# as a rule
+# As a rule
 
 cat: clarification
 lvl: mid
@@ -1148,7 +1148,7 @@ eg: As a rule, the earlier you book, the better the prices tend to be
 pos: start
 subcat: generalization
 
-# mainly
+# Mainly
 
 cat: clarification
 lvl: mid
@@ -1158,7 +1158,7 @@ eg: She joined the project mainly to gain experience in a new area
 pos: start
 subcat: emphasizing
 
-# undoubtedly
+# Undoubtedly
 
 cat: clarification
 lvl: adv
@@ -1168,7 +1168,7 @@ eg: The new policy will undoubtedly face resistance from some parts of the indus
 pos: start
 subcat: emphasizing
 
-# unquestionably
+# Unquestionably
 
 cat: clarification
 lvl: adv
@@ -1178,7 +1178,7 @@ eg: Her commitment to the cause is unquestionably genuine and long-standing
 pos: start
 subcat: emphasizing
 
-# without a doubt
+# Without a doubt
 
 cat: clarification
 lvl: adv
@@ -1188,7 +1188,7 @@ eg: He is, without a doubt, the most experienced candidate in the entire selecti
 pos: start
 subcat: emphasizing
 
-# needless to say
+# Needless to say
 
 cat: clarification
 lvl: adv
@@ -1198,7 +1198,7 @@ eg: She passed the test with the highest mark; needless to say, her family was d
 pos: start
 subcat: corroborative
 
-# it goes without saying
+# It goes without saying
 
 cat: clarification
 lvl: adv
@@ -1208,7 +1208,7 @@ eg: It goes without saying that honesty is a fundamental requirement for the rol
 pos: start
 subcat: corroborative
 
-# as a matter of fact
+# As a matter of fact
 
 cat: clarification
 lvl: adv
@@ -1218,7 +1218,7 @@ eg: He’s not new to this — as a matter of fact, he’s been doing it for ove
 pos: start
 subcat: corroborative
 
-# broadly speaking
+# Broadly speaking
 
 cat: clarification
 lvl: adv
@@ -1228,7 +1228,7 @@ eg: The economy, broadly speaking, has recovered, though some sectors still lag 
 pos: start
 subcat: generalization
 
-# by and large
+# By and large
 
 cat: clarification
 lvl: adv
@@ -1238,7 +1238,7 @@ eg: The reviews have been positive by and large, with only a few minor criticism
 pos: start
 subcat: generalization
 
-# on the whole
+# On the whole
 
 cat: clarification
 lvl: adv
@@ -1248,7 +1248,7 @@ eg: On the whole, the feedback was encouraging, despite a few areas that need im
 pos: start
 subcat: generalization
 
-# like (comparison)
+# Like (comparison)
 
 cat: comparison
 lvl: beg
@@ -1257,7 +1257,7 @@ eg: He reacted to the news like everyone else — with complete disbelief
 eg: Like her sister, she has a natural talent for languages
 pos: flexible
 
-# similar to
+# Similar to
 
 cat: comparison
 lvl: beg
@@ -1266,7 +1266,7 @@ eg: The new design is similar to the original but with a sleeker finish
 eg: Her approach is similar to that of her predecessor, though more data-driven
 pos: start
 
-# the same as
+# The same as
 
 cat: comparison
 lvl: beg
@@ -1275,7 +1275,7 @@ eg: The process is essentially the same as what we used in the previous project
 eg: His results were nearly the same as those recorded six months ago
 pos: middle
 
-# similarly
+# Similarly
 
 cat: comparison
 lvl: mid
@@ -1286,7 +1286,7 @@ pos: start
 syn: likewise
 syn: in the same way
 
-# likewise (comparison)
+# Likewise (comparison)
 
 cat: comparison
 lvl: mid
@@ -1295,7 +1295,7 @@ eg: The first solution had drawbacks; likewise, the alternative comes with trade
 eg: He prepared thoroughly for the presentation; his co-presenter did likewise
 pos: start
 
-# in the same way
+# In the same way
 
 cat: comparison
 lvl: mid
@@ -1304,7 +1304,7 @@ eg: In the same way that exercise builds strength, regular practice builds skill
 eg: The body adapts to physical stress; in the same way, the mind adapts to mental challenges
 pos: start
 
-# just as
+# Just as
 
 cat: comparison
 lvl: mid
@@ -1313,7 +1313,7 @@ eg: Just as the first model predicted, temperatures rose significantly over the 
 eg: Just as important as the result is the process that leads to it
 pos: start
 
-# equally
+# Equally
 
 cat: comparison
 lvl: mid
@@ -1322,7 +1322,7 @@ eg: Quality is important; equally, the speed of delivery matters to our clients
 eg: Both candidates were equally qualified, making the final decision extremely difficult
 pos: start
 
-# compared to
+# Compared to
 
 cat: comparison
 lvl: mid
@@ -1331,7 +1331,7 @@ eg: Compared to other regions, the north showed the strongest economic growth
 eg: His performance this semester, compared to last, shows a remarkable improvement
 pos: start
 
-# in comparison
+# In comparison
 
 cat: comparison
 lvl: mid
@@ -1340,7 +1340,7 @@ eg: In comparison to the original estimate, the final cost was 30% higher
 eg: The new version is far more intuitive; in comparison, the old one feels clunky
 pos: start
 
-# correspondingly
+# Correspondingly
 
 cat: comparison
 lvl: adv
@@ -1349,7 +1349,7 @@ eg: As investment in training increased, productivity correspondingly rose
 eg: Costs fell; correspondingly, profit margins widened across all product lines
 pos: start
 
-# by the same token
+# By the same token
 
 cat: comparison
 lvl: adv
@@ -1358,7 +1358,7 @@ eg: If we expect honesty from others, by the same token, we must be honest ourse
 eg: We value efficiency; by the same token, we should not sacrifice quality for speed
 pos: start
 
-# along the same lines
+# Along the same lines
 
 cat: comparison
 lvl: adv
@@ -1367,7 +1367,7 @@ eg: Along the same lines, the second study reached a very similar conclusion
 eg: His argument was along the same lines as the previous speaker, but more detailed
 pos: start
 
-# in like manner
+# In like manner
 
 cat: comparison
 lvl: adv
@@ -1377,7 +1377,7 @@ eg: In like manner, each chapter builds carefully on the ideas introduced before
 pos: start
 tip: Formal/literary usage
 
-# for example
+# For example
 
 cat: apposition
 lvl: beg
@@ -1387,7 +1387,7 @@ eg: She has developed several useful skills; for example, data analysis and proj
 pos: start
 subcat: exemplification
 
-# like (apposition)
+# Like (apposition)
 
 cat: apposition
 lvl: beg
@@ -1397,7 +1397,7 @@ eg: He enjoys outdoor activities like hiking, cycling, and kayaking
 pos: middle
 subcat: exemplification
 
-# such as
+# Such as
 
 cat: apposition
 lvl: beg
@@ -1417,7 +1417,7 @@ eg: The job is demanding — I mean, you’re expected to be available around th
 pos: start
 subcat: restatement
 
-# for instance
+# For instance
 
 cat: apposition
 lvl: mid
@@ -1427,7 +1427,7 @@ eg: The regulations vary by region; for instance, the rules in Scotland differ f
 pos: start
 subcat: exemplification
 
-# namely
+# Namely
 
 cat: apposition
 lvl: mid
@@ -1437,7 +1437,7 @@ eg: One person was responsible for the failure, namely the project manager
 pos: middle
 subcat: exemplification
 
-# including
+# Including
 
 cat: apposition
 lvl: mid
@@ -1447,7 +1447,7 @@ eg: Several team members, including the manager, raised concerns about the timel
 pos: middle
 subcat: exemplification
 
-# in other words
+# In other words
 
 cat: apposition
 lvl: mid
@@ -1459,7 +1459,7 @@ subcat: restatement
 syn: that is to say
 syn: i.e.
 
-# that is
+# That is
 
 cat: apposition
 lvl: mid
@@ -1469,7 +1469,7 @@ eg: The process requires a specific tool, that is, a torque wrench
 pos: middle
 subcat: restatement
 
-# that is to say
+# That is to say
 
 cat: apposition
 lvl: mid
@@ -1479,7 +1479,7 @@ eg: The contract is null and void; that is to say, neither party is bound by its
 pos: start
 subcat: restatement
 
-# meaning
+# Meaning
 
 cat: apposition
 lvl: mid
@@ -1489,7 +1489,7 @@ eg: Both projects were approved, meaning the team will need to work on them simu
 pos: middle
 subcat: restatement
 
-# specifically
+# Specifically
 
 cat: apposition
 lvl: mid
@@ -1499,7 +1499,7 @@ eg: The study focused on one group, specifically adults between the ages of 30 a
 pos: start
 subcat: exemplification
 
-# to illustrate
+# To illustrate
 
 cat: apposition
 lvl: adv
@@ -1509,7 +1509,7 @@ eg: To illustrate, the graph shows how output doubled when the new system was in
 pos: start
 subcat: exemplification
 
-# to put it differently
+# To put it differently
 
 cat: apposition
 lvl: adv
@@ -1519,7 +1519,7 @@ eg: He’s no longer engaged in the work; to put it differently, he’s checked 
 pos: start
 subcat: restatement
 
-# to put it simply
+# To put it simply
 
 cat: apposition
 lvl: adv
@@ -1529,7 +1529,7 @@ eg: The algorithm finds patterns in the data; to put it simply, it learns from e
 pos: start
 subcat: restatement
 
-# to put it another way
+# To put it another way
 
 cat: apposition
 lvl: adv
@@ -1539,7 +1539,7 @@ eg: Trust is fragile; to put it another way, it takes years to build and seconds
 pos: start
 subcat: restatement
 
-# viz.
+# Viz.
 
 cat: apposition
 lvl: adv
@@ -1550,7 +1550,7 @@ pos: middle
 subcat: exemplification
 tip: Abbreviation of Latin "videlicet" meaning "namely"
 
-# i.e.
+# I.e.
 
 cat: apposition
 lvl: adv
@@ -1561,7 +1561,7 @@ pos: middle
 subcat: restatement
 tip: Latin for "id est" (that is)
 
-# e.g.
+# E.g.
 
 cat: apposition
 lvl: adv
@@ -1572,7 +1572,7 @@ pos: middle
 subcat: exemplification
 tip: Latin for "exempli gratia" (for example)
 
-# so (summative)
+# So (summative)
 
 cat: summative
 lvl: beg
@@ -1581,7 +1581,7 @@ eg: So, to recap, we have three main options to consider before Thursday’s dea
 eg: So, after reviewing all the evidence, we concluded that further investigation is needed
 pos: start
 
-# finally (summative)
+# Finally (summative)
 
 cat: summative
 lvl: beg
@@ -1590,7 +1590,7 @@ eg: Finally, it’s worth noting that the results may vary in different contexts
 eg: After months of negotiations, the two sides finally reached a compromise
 pos: start
 
-# in conclusion
+# In conclusion
 
 cat: summative
 lvl: mid
@@ -1601,7 +1601,7 @@ pos: start
 syn: to conclude
 syn: to sum up
 
-# to conclude
+# To conclude
 
 cat: summative
 lvl: mid
@@ -1610,7 +1610,7 @@ eg: To conclude, I would like to thank each person who contributed to this study
 eg: To conclude, the findings suggest that early intervention is both effective and cost-efficient
 pos: start
 
-# to sum up
+# To sum up
 
 cat: summative
 lvl: mid
@@ -1619,7 +1619,7 @@ eg: To sum up, the new approach is faster, cheaper, and easier to scale
 eg: To sum up, while progress has been made, significant challenges remain
 pos: start
 
-# in summary
+# In summary
 
 cat: summative
 lvl: mid
@@ -1628,7 +1628,7 @@ eg: In summary, the program has exceeded expectations in all three key areas
 eg: In summary, the report highlights the need for greater investment in infrastructure
 pos: start
 
-# overall
+# Overall
 
 cat: summative
 lvl: mid
@@ -1637,7 +1637,7 @@ eg: Overall, the reforms have had a positive effect on both staff and clients
 eg: The project had setbacks, but overall, it delivered strong and measurable results
 pos: start
 
-# all in all
+# All in all
 
 cat: summative
 lvl: mid
@@ -1646,7 +1646,7 @@ eg: All in all, the event was a great success despite the last-minute changes
 eg: All in all, the course was one of the most valuable things she had done in years
 pos: start
 
-# in short
+# In short
 
 cat: summative
 lvl: mid
@@ -1655,7 +1655,7 @@ eg: In short, the strategy isn’t working and needs to be completely revised
 eg: In short, the research confirms what practitioners have known for decades
 pos: start
 
-# basically
+# Basically
 
 cat: summative
 lvl: mid
@@ -1664,7 +1664,7 @@ eg: Basically, the new model works in the same way, just with fewer steps
 eg: Basically, if you don’t put in the effort, you won’t get the results
 pos: start
 
-# essentially
+# Essentially
 
 cat: summative
 lvl: mid
@@ -1673,7 +1673,7 @@ eg: Essentially, what the client wants is a simpler and more reliable system
 eg: The two approaches are essentially identical, though the second takes less time
 pos: start
 
-# after all
+# After all
 
 cat: summative
 lvl: mid
@@ -1682,7 +1682,7 @@ eg: He deserves recognition; after all, he’s been with the company for twenty 
 eg: We shouldn’t be surprised — after all, the warning signs were there all along
 pos: start
 
-# to summarize
+# To summarize
 
 cat: summative
 lvl: adv
@@ -1691,7 +1691,7 @@ eg: To summarize, the benefits outweigh the risks by a considerable margin
 eg: To summarize the main argument: early action now prevents far greater costs later
 pos: start
 
-# in brief
+# In brief
 
 cat: summative
 lvl: adv
@@ -1700,7 +1700,7 @@ eg: In brief, the proposal addresses all three of the committee’s concerns
 eg: In brief, we need to act quickly or risk losing our competitive advantage
 pos: start
 
-# to recap
+# To recap
 
 cat: summative
 lvl: adv
@@ -1709,7 +1709,7 @@ eg: To recap, the first two steps must be completed before the third can begin
 eg: Let me recap the key decisions made during today’s session before we close
 pos: start
 
-# ultimately
+# Ultimately
 
 cat: summative
 lvl: adv
@@ -1718,7 +1718,7 @@ eg: Ultimately, what matters most is whether the solution works for the end user
 eg: The negotiations were complex; ultimately, both sides agreed to a fair compromise
 pos: start
 
-# at the end of the day
+# At the end of the day
 
 cat: summative
 lvl: adv
@@ -1727,7 +1727,7 @@ eg: We may disagree on methods; at the end of the day, we all want the same outc
 eg: At the end of the day, it’s the effort you put in that determines where you end up
 pos: start
 
-# in the final analysis
+# In the final analysis
 
 cat: summative
 lvl: adv
@@ -1736,7 +1736,7 @@ eg: In the final analysis, the most important factor was the commitment of the t
 eg: In the final analysis, the project failed not because of budget but because of poor communication
 pos: start
 
-# taking everything into account
+# Taking everything into account
 
 cat: summative
 lvl: adv
@@ -1745,7 +1745,7 @@ eg: Taking everything into account, the costs outweigh the benefits at this poin
 eg: Taking everything into account, she decided that accepting the offer was the right move
 pos: start
 
-# all things considered
+# All things considered
 
 cat: summative
 lvl: adv
@@ -1754,7 +1754,7 @@ eg: All things considered, the launch went remarkably smoothly for a project of 
 eg: All things considered, staying in the current role makes more sense than making a move
 pos: start
 
-# on balance
+# On balance
 
 cat: summative
 lvl: adv
