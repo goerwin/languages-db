@@ -611,14 +611,6 @@ eg: We treat all clients equally. In the same way, we expect equal treatment
 eg: In the same way that we improved sales, we can improve customer service
 pos: start, middle
 
-# Inasmuch as
-
-cat: cause
-def: Used to introduce a reason or to the extent that; formal
-eg: Inasmuch as the data is incomplete, we cannot draw conclusions
-eg: I'll help inasmuch as I am able
-pos: start, middle
-
 # Indeed
 
 cat: emphasis
@@ -835,14 +827,6 @@ eg: Overall, the campaign was a success
 eg: Overall, I'm satisfied with the progress
 pos: start, middle
 
-# Owing to
-
-cat: cause
-def: Used to indicate the reason for something; formal
-eg: Owing to unforeseen circumstances, the deadline has been extended
-eg: The delay was owing to technical issues
-pos: start, middle
-
 # Personally speaking
 
 cat: opinion
@@ -925,10 +909,11 @@ pos: middle
 
 # So much so that
 
-cat: result
-def: Used to emphasize the extent of a result or consequence
+cat: emphasis
+def: Used to emphasize how strongly or to what degree something is true; intensifies the result that follows
 eg: She was exhausted, so much so that she fell asleep at her desk
-eg: The demand was high, so much so that we sold out in hours
+eg: The demand was high, so much so that we sold out within hours
+eg: He avoided the topic, so much so that nobody mentioned it all evening
 pos: middle
 
 # Specifically
@@ -1239,8 +1224,8 @@ pos: middle
 
 cat: purpose
 def: Used to state the purpose or plan behind an action
-eg: We met with the aim of resolving the dispute
-eg: He joined the company with the intention of staying long-term
+eg: She called with the intention of rescheduling the meeting
+eg: He joined the company with the intention of staying for the long term
 pos: middle
 
 # With a view to

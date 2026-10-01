@@ -7509,13 +7509,6 @@ def: Widely accepted level or norm
 eg: Following standard procedure seemed time-consuming in the moment but prevented the kind of errors that created much larger problems later
 eg: The equipment was designed to standard measurements and could be fitted into any cabinet built to the same specification
 
-# Starchy
-
-pho: /ˈstɑːr.tʃi/
-def: Containing or resembling starch; stiff or formal
-eg: Starchy potatoes were better mashed than roasted, whereas waxy varieties were the opposite — crisp outside, firm inside
-eg: His starchy demeanor in the boardroom softened noticeably once the formal part of the meeting was over
-
 # Stark
 
 pho: /stɑːrk/

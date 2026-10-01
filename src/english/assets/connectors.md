@@ -415,7 +415,7 @@ subcat: concessive
 # Even so
 
 cat: contrastive
-lvl: adv
+lvl: mid
 eg: Even so, I have my doubts
 eg: The evidence was compelling; even so, the jury remained undecided
 eg: She had been warned; even so, she was still unprepared for the news
@@ -554,16 +554,6 @@ eg: The factory closed temporarily due to a power outage affecting the whole dis
 pos: start
 subcat: causative
 
-# Owing to
-
-cat: consequential
-lvl: mid
-eg: Owing to your help, we succeeded
-eg: Owing to a lack of funding, several key research projects were put on hold
-eg: The event was a success, owing to months of careful planning by the entire team
-pos: start
-subcat: causative
-
 # For this reason
 
 cat: consequential
@@ -627,7 +617,7 @@ subcat: conditional
 # Accordingly
 
 cat: consequential
-lvl: adv
+lvl: mid
 eg: Accordingly, we adjusted our strategy
 eg: The client changed the brief; accordingly, the team revised the timeline
 eg: New regulations came into force; accordingly, all procedures were updated
@@ -935,16 +925,6 @@ eg: Speaking of which, I think we should revisit the budget before making a fina
 pos: start
 subcat: transitional
 
-# Henceforth
-
-cat: sequential
-lvl: adv
-eg: Henceforth, this rule will apply
-eg: Henceforth, all requests must be submitted in writing and approved in advance
-eg: The two countries signed the agreement; henceforth, trade tariffs would no longer apply
-pos: start
-subcat: timing
-
 # Thereafter
 
 cat: sequential
@@ -954,17 +934,6 @@ eg: The law was passed in June; thereafter, companies had six months to comply
 eg: She graduated in the spring and thereafter moved to a different city for work
 pos: start
 subcat: timing
-
-# Forthwith
-
-cat: sequential
-lvl: adv
-eg: The changes take effect forthwith
-eg: The board voted to suspend the executive director forthwith
-eg: All unauthorized access to the system must cease forthwith
-pos: end
-subcat: timing
-tip: Very formal, means "immediately"
 
 # In due course
 
@@ -1353,7 +1322,7 @@ pos: start
 
 cat: comparison
 lvl: adv
-eg: By the same token, we should also reconsider X
+eg: By the same token, we should also reconsider the hiring timeline
 eg: If we expect honesty from others, by the same token, we must be honest ourselves
 eg: We value efficiency; by the same token, we should not sacrifice quality for speed
 pos: start
@@ -1366,16 +1335,6 @@ eg: Along the same lines, consider this
 eg: Along the same lines, the second study reached a very similar conclusion
 eg: His argument was along the same lines as the previous speaker, but more detailed
 pos: start
-
-# In like manner
-
-cat: comparison
-lvl: adv
-eg: In like manner, the process continues
-eg: The second experiment was conducted in like manner to the first
-eg: In like manner, each chapter builds carefully on the ideas introduced before it
-pos: start
-tip: Formal/literary usage
 
 # For example
 
@@ -1420,7 +1379,7 @@ subcat: restatement
 # For instance
 
 cat: apposition
-lvl: mid
+lvl: beg
 eg: For instance, look at this chart
 eg: There are many low-cost ways to improve wellbeing; for instance, regular walks help a great deal
 eg: The regulations vary by region; for instance, the rules in Scotland differ from those in England
@@ -1538,17 +1497,6 @@ eg: The system isn’t working; to put it another way, we need to start from scr
 eg: Trust is fragile; to put it another way, it takes years to build and seconds to destroy
 pos: start
 subcat: restatement
-
-# Viz.
-
-cat: apposition
-lvl: adv
-eg: The three branches, viz. executive, legislative, judicial
-eg: The study had two main limitations, viz. the small sample size and the short duration
-eg: The company operates in three sectors, viz. retail, logistics, and technology
-pos: middle
-subcat: exemplification
-tip: Abbreviation of Latin "videlicet" meaning "namely"
 
 # I.e.
 
@@ -1694,7 +1642,7 @@ pos: start
 # In brief
 
 cat: summative
-lvl: adv
+lvl: mid
 eg: In brief, the plan failed
 eg: In brief, the proposal addresses all three of the committee’s concerns
 eg: In brief, we need to act quickly or risk losing our competitive advantage
