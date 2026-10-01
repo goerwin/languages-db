@@ -430,6 +430,14 @@ def: In or into the inner part of something
 eg: Let's go inside, it's cold out—the heating is on and we can continue this conversation over a warm cup of tea or coffee
 eg: The keys are inside the drawer where I always keep them, next to the spare change and the flashlight for power outages
 
+# Kind of
+
+pho: /ˈkaɪnd əv/
+def: Somewhat; a little; used to soften a statement or sound less certain
+eg: It's kind of cold in here, isn't it?
+eg: I kind of thought you'd already seen the message
+eg: We were kind of hoping for a different outcome
+
 # Lately
 
 pho: /ˈleɪt.li/
@@ -682,6 +690,14 @@ def: To a certain degree; somewhat
 eg: It's rather cold today
 eg: I'd rather stay home tonight
 
+# Realistically
+
+pho: /ˌriː.əˈlɪs.tɪ.kəl.i/
+def: In a way that considers what is actually possible; used to soften a statement
+eg: Realistically, we won't finish before the deadline
+eg: That price is realistically out of reach for most people
+eg: Realistically speaking, the plan needs more time than we allowed
+
 # Really
 
 pho: /ˈriː.ə.li/
@@ -793,6 +809,14 @@ pho: /ˈsʌm.wer/
 def: In, at, or to an unspecified or unknown place
 eg: I left my keys somewhere in the house
 eg: Let's go somewhere nice for dinner
+
+# Sort of
+
+pho: /ˈsɔːt əv/
+def: Somewhat; a little; a more common alternative to "kind of"
+eg: I'm sort of tired but not ready to stop yet
+eg: That's sort of what I was thinking
+eg: The food was sort of bland, honestly
 
 # Soon
 

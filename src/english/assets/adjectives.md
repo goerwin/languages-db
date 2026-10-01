@@ -6338,13 +6338,6 @@ def: Unconventional or peculiar
 eg: She has a quirky personality that catches people off guard at first but becomes one of the things they most appreciate
 eg: His quirky habits included writing all his notes on index cards and refusing to use any technology after eight in the evening
 
-# Quixotic
-
-pho: /kwɪkˈsɑː.tɪk/
-def: Unrealistic and impractical
-eg: A quixotic plan to cycle across three deserts in a single summer drew attention partly for its ambition and partly for its obvious risks
-eg: His quixotic dreams of changing the entire industry from within were charming, but no one expected him to actually try
-
 # Quizzical
 
 pho: /ˈkwɪz.ɪ.kəl/
@@ -6750,13 +6743,6 @@ pho: /sɑːrˈkæs.tɪk/
 def: Using irony to mock or convey contempt
 eg: She made a sarcastic remark about the timing that was funny enough to defuse the tension in the room
 eg: He sounded sarcastic even when he was being genuine, a habit that had cost him several misunderstandings over the years
-
-# Sardonic
-
-pho: /sɑːrˈdɑː.nɪk/
-def: Grimly mocking or cynical
-eg: A sardonic smile crossed his face when the results were announced, as if he had expected exactly this outcome
-eg: Her sardonic humor took some getting used to, but once you understood it, her observations were usually spot on
 
 # Satisfied
 
@@ -7480,13 +7466,6 @@ pho: /ˈsteɪ.bəl/
 def: Firm, steady, and not likely to change or collapse
 eg: They had a stable relationship built on years of trust and open communication
 eg: After weeks of treatment, the patient’s condition was described as stable
-
-# Staid
-
-pho: /steɪd/
-def: Serious, respectable, and unadventurous
-eg: He had a staid personality that made him excellent at his job but difficult to include at social events where energy was expected
-eg: Staid behavior at the party was eventually seen as a statement in itself — a refusal to join in that said something
 
 # Stained
 

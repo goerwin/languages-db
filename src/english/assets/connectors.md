@@ -12,6 +12,17 @@ eg: She studied hard and passed the exam with flying colors, earning the highest
 eg: The report covers productivity and cost efficiency, providing detailed recommendations for improving both areas over the next fiscal year
 pos: middle
 
+# Plus
+
+cat: additive
+lvl: beg
+eg: The room is fully booked, plus the kitchen hasn't been cleaned
+eg: She's an excellent engineer, plus she communicates really well with the team
+eg: Add the tax at checkout, plus a small service charge
+pos: start
+subcat: reinforcing
+tip: Common in speech; marks written "plus" (as a word, not the "+" symbol)
+
 # Also
 
 cat: additive
@@ -614,6 +625,17 @@ eg: He kept the receipt in case he needed to return the item later
 pos: middle
 subcat: conditional
 
+# Now that
+
+cat: consequential
+lvl: beg
+eg: Now that you're back, we can start the meeting
+eg: Now that we know the cause, the fix should be straightforward
+eg: Now that the deadline has passed, there's nothing more we can do
+pos: start
+subcat: conditional
+tip: The present-tense equivalent of "now that" contrasts with past conditions
+
 # Accordingly
 
 cat: consequential
@@ -891,6 +913,27 @@ lvl: mid
 eg: Once you finish, call me
 eg: Once the data has been verified, we can present the findings to the client
 eg: Things moved quickly once everyone agreed on the final design
+pos: start
+subcat: timing
+
+# Anyway
+
+cat: sequential
+lvl: beg
+eg: Anyway, I thought I'd check in before the weekend
+eg: Anyway, the results were what they were, so we moved on
+eg: Anyway, it's not worth arguing about now
+pos: start
+subcat: transitional
+tip: Very common in speech; used to return to the main point or dismiss something
+
+# By the time
+
+cat: sequential
+lvl: mid
+eg: By the time we arrived, the meeting had already started
+eg: By the time you finish this, I'll have finished mine
+eg: By the time she realized what had happened, the damage was done
 pos: start
 subcat: timing
 
