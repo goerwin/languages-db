@@ -6338,13 +6338,6 @@ def: Unconventional or peculiar
 eg: She has a quirky personality that catches people off guard at first but becomes one of the things they most appreciate
 eg: His quirky habits included writing all his notes on index cards and refusing to use any technology after eight in the evening
 
-# Quixotic
-
-pho: /kwɪkˈsɑː.tɪk/
-def: Unrealistic and impractical
-eg: A quixotic plan to cycle across three deserts in a single summer drew attention partly for its ambition and partly for its obvious risks
-eg: His quixotic dreams of changing the entire industry from within were charming, but no one expected him to actually try
-
 # Quizzical
 
 pho: /ˈkwɪz.ɪ.kəl/
@@ -6503,8 +6496,10 @@ eg: He looked genuinely remorseful when the full extent of what he had done was 
 
 pho: /rɪˈmoʊt/
 def: Far away or distant
+def: Done or taking place away from a central workplace, usually using the internet
 eg: Remote villages in the highland region remained without electricity for months after the storm damaged the main lines
 eg: The remote control for the television had been missing for three weeks and was eventually found behind the radiator
+eg: He accepted a remote position with a software company
 
 # Repentant
 
@@ -6750,13 +6745,6 @@ pho: /sɑːrˈkæs.tɪk/
 def: Using irony to mock or convey contempt
 eg: She made a sarcastic remark about the timing that was funny enough to defuse the tension in the room
 eg: He sounded sarcastic even when he was being genuine, a habit that had cost him several misunderstandings over the years
-
-# Sardonic
-
-pho: /sɑːrˈdɑː.nɪk/
-def: Grimly mocking or cynical
-eg: A sardonic smile crossed his face when the results were announced, as if he had expected exactly this outcome
-eg: Her sardonic humor took some getting used to, but once you understood it, her observations were usually spot on
 
 # Satisfied
 
@@ -7205,8 +7193,10 @@ eg: Small steps in the right direction are worth more than grand gestures that n
 
 pho: /smɑːrt/
 def: Intelligent or stylish
+def: Of a device, connected to the internet and able to automate or respond to commands
 eg: A smart student doesn’t just know the answers — she also knows which questions to ask and when to stop and listen
 eg: She looked incredibly smart in her outfit — a well-tailored jacket, clean lines, and nothing that didn’t belong
+eg: The smart thermostat adjusts the temperature automatically
 
 # Smoggy
 
@@ -7481,13 +7471,6 @@ def: Firm, steady, and not likely to change or collapse
 eg: They had a stable relationship built on years of trust and open communication
 eg: After weeks of treatment, the patient’s condition was described as stable
 
-# Staid
-
-pho: /steɪd/
-def: Serious, respectable, and unadventurous
-eg: He had a staid personality that made him excellent at his job but difficult to include at social events where energy was expected
-eg: Staid behavior at the party was eventually seen as a statement in itself — a refusal to join in that said something
-
 # Stained
 
 pho: /steɪnd/
@@ -7508,13 +7491,6 @@ pho: /ˈstæn.dɚd/
 def: Widely accepted level or norm
 eg: Following standard procedure seemed time-consuming in the moment but prevented the kind of errors that created much larger problems later
 eg: The equipment was designed to standard measurements and could be fitted into any cabinet built to the same specification
-
-# Starchy
-
-pho: /ˈstɑːr.tʃi/
-def: Containing or resembling starch; stiff or formal
-eg: Starchy potatoes were better mashed than roasted, whereas waxy varieties were the opposite — crisp outside, firm inside
-eg: His starchy demeanor in the boardroom softened noticeably once the formal part of the meeting was over
 
 # Stark
 
@@ -7781,6 +7757,12 @@ pho: /səˈspɪʃ.əs/
 def: Inclined to suspect; doubtful
 eg: A suspicious package left unattended in the lobby prompted an evacuation and a call to the specialist disposal team
 eg: Suspicious behavior from two accounts prompted the fraud team to freeze both until the identity could be verified
+
+# Sustainable
+
+pho: /səˈsteɪnəbəl/
+def: Able to continue long-term without exhausting resources or causing serious environmental harm
+eg: The city is investing in more sustainable public transportation
 
 # Svelte
 
@@ -8777,6 +8759,12 @@ pho: /ˈvaɪ.ə.lət/
 def: A bluish-purple color; a type of flower
 eg: Violet petals from the wisteria covered the garden path every May and were swept into drifts along the walls
 eg: She wore a violet dress to the opening that was eye-catching without being the kind of thing that needed a comment
+
+# Viral
+
+pho: /ˈvaɪrəl/
+def: Spreading rapidly online, especially content shared by many people
+eg: Her cooking video went viral overnight
 
 # Virtual
 

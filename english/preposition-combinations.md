@@ -1494,7 +1494,7 @@ def: Ready to deal with something
 eg: Are you prepared for the exam?
 eg: We weren't prepared for the news
 
-# Prevent from
+# Prevent someone from
 
 cat: verb + preposition
 def: To stop someone from doing something

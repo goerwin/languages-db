@@ -258,6 +258,12 @@ def: To risk money on the result of an event
 eg: I bet you can't guess what happened at the meeting—the CEO announced she's retiring next month and the board is already interviewing potential successors
 eg: He bet fifty dollars on the game against his friend's recommendation, confident that his team would win because they had won every home game this season
 
+# Binge-watch
+
+pho: /ˈbɪndʒˌwɑtʃ/
+def: To watch several episodes of a show in one sitting or over a short period
+eg: We binge-watched the whole series over the weekend
+
 # Blame
 
 pho: /bleɪm/
@@ -376,6 +382,12 @@ pho: /ˈkæp.tʃər/
 def: To take someone as a prisoner or take control of something
 eg: The army captured the city
 eg: The photograph captured the beauty of the sunset
+
+# Catfish
+
+pho: /ˈkætˌfɪʃ/
+def: To deceive someone online by using a false identity, especially in dating
+eg: She realized someone had catfished her
 
 # Celebrate
 
@@ -952,6 +964,12 @@ def: To have control over something
 eg: The team dominated the game
 eg: The mountain dominates the skyline
 
+# Doomscroll
+
+pho: /ˈdumˌskroʊl/
+def: To spend a long time reading negative or distressing news online
+eg: He doomscrolled through the news instead of going to bed
+
 # Donate
 
 pho: /ˈdoʊ.neɪt/
@@ -1296,6 +1314,12 @@ pho: /foʊld/
 def: To bend something so one part lies on another
 eg: She folded the letter and put it in the envelope
 eg: The company folded after two years
+
+# Follow
+
+pho: /ˈfɑloʊ/
+def: To subscribe to a person's or organization's online account so its posts appear in your feed
+eg: I followed the museum's account for event updates
 
 # Forbid
 
@@ -1697,6 +1721,14 @@ def: To give something to someone for a period of time
 eg: Can you lend me some money?
 eg: The bank lends to small businesses
 
+# Like
+
+pho: /laɪk/
+def: To enjoy or approve of something
+def: To react positively to a post or other online content, usually by clicking or tapping a symbol
+eg: I like this song
+eg: She liked the photo but did not leave a comment
+
 # Limit
 
 pho: /ˈlɪm.ɪt/
@@ -2004,6 +2036,12 @@ pho: /pəˈzes/
 def: To have or own something
 eg: She possesses great talent
 eg: The document possesses legal validity
+
+# Post
+
+pho: /poʊst/
+def: To publish text, an image, or a video on a website or social media platform
+eg: She posted a photo from the concert
 
 # Postpone
 
@@ -2392,6 +2430,12 @@ def: To refuse to accept or oppose something
 eg: She resisted the temptation
 eg: The army resisted the attack
 
+# Reskill
+
+pho: /ˌriːˈskɪl/
+def: To learn new skills for a different job or type of work
+eg: She decided to reskill for a career in data analysis
+
 # Resolve
 
 pho: /rɪˈzɑːlv/
@@ -2552,6 +2596,12 @@ pho: /ˈset.əl/
 def: To reach an agreement or end a dispute
 eg: They settled their differences
 eg: She settled in Boston after college
+
+# Share
+
+pho: /ʃɛr/
+def: To give part of something to others; to post or send online content so other people can see it
+eg: He shared the article with his coworkers
 
 # Shelter
 
@@ -2967,12 +3017,24 @@ def: To join together
 eg: The two rival parties united behind a single candidate to oppose the incumbent
 eg: The tragedy united the nation in grief and solidarity in a way that few events had before
 
+# Unplug
+
+pho: /ˌʌnˈplʌɡ/
+def: To disconnect a device from electricity; to take a break from digital devices or online activity
+eg: She unplugged for the weekend and left her phone at home
+
 # Update
 
 pho: /ʌpˈdeɪt/
 def: To make something more modern or accurate
 eg: Please update your contact information
 eg: The software was updated last week
+
+# Upskill
+
+pho: /ˌʌpˈskɪl/
+def: To learn additional skills to improve at a job or qualify for more advanced work
+eg: The company paid for a course to help its staff upskill
 
 # Urge
 
