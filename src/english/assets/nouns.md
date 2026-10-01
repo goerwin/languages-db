@@ -101,6 +101,24 @@ def: A list of items to be discussed at a meeting; a plan of things to be done
 eg: The agenda for the meeting was distributed in advance, giving everyone time to prepare their updates and gather relevant documents for discussion
 eg: She has a hidden agenda for supporting the proposal, as it would benefit her department's budget while appearing to help the entire organization
 
+# AI hallucination
+
+pho: /ˌeɪ ˈaɪ həˌluːsəˈneɪʃən/
+def: An AI-generated answer that sounds confident but is false or unsupported
+eg: The chatbot produced an AI hallucination and invented a source
+
+# AI prompt
+
+pho: /ˌeɪ ˈaɪ prɑmpt/
+def: Instructions or context entered into an AI tool to guide the response it generates
+eg: She rewrote the AI prompt to get a more useful summary
+
+# Algorithm
+
+pho: /ˈæl.ɡəˌrɪð.əm/
+def: A set of steps or rules a computer follows to solve a problem or make a decision
+eg: The app uses an algorithm to recommend videos
+
 # Allegation
 
 pho: /ˌæl.əˈɡeɪ.ʃən/
@@ -504,8 +522,10 @@ eg: The government issued bonds to raise funds
 
 pho: /ˈbaʊn.dər.i/
 def: A line that marks the limits of an area; a limit of a subject or sphere
+def: A personal limit someone sets to protect their time, privacy, or well-being
 eg: The river forms the boundary between the two countries
 eg: We need to set clear boundaries
+eg: He set a boundary by asking coworkers not to contact him after work
 
 # Breakthrough
 
@@ -549,6 +569,12 @@ def: A system of government or organization with many rules and procedures
 eg: The bureaucracy slowed down the process
 eg: We had to navigate through layers of bureaucracy
 
+# Burnout
+
+pho: /ˈbɜrnˌaʊt/
+def: Extreme physical or emotional exhaustion caused by prolonged stress, often related to work or caregiving
+eg: She took time off to recover from burnout
+
 # Capability
 
 pho: /ˌkeɪ.pəˈbɪl.ə.ti/
@@ -577,6 +603,12 @@ def: Something that precipitates an event or change; a substance that speeds up 
 eg: The scandal was a catalyst for reform
 eg: Technology acted as a catalyst for growth
 
+# Catfishing
+
+pho: /ˈkætˌfɪʃɪŋ/
+def: Using a false identity online to deceive someone, especially in a romantic context
+eg: She realized the dating profile was part of a catfishing scam
+
 # Caution
 
 pho: /ˈkɔː.ʃən/
@@ -597,6 +629,12 @@ pho: /ˈkeɪ.ɒs/
 def: Complete disorder and confusion
 eg: The office descended into chaos
 eg: Economic chaos followed the revolution
+
+# Chatbot
+
+pho: /ˈtʃætˌbɑt/
+def: A computer program that responds to messages in a conversation, often using AI
+eg: I asked the airline's chatbot to change my flight
 
 # Characteristic
 
@@ -660,6 +698,12 @@ pho: /ˈkləʊ.ʒər/
 def: The act of closing something; a feeling of resolution
 eg: The closure of the factory affected the town
 eg: She needed closure after the breakup
+
+# Cloud
+
+pho: /klaʊd/
+def: Internet-based servers and services used to store data or run software
+eg: Back up your photos to the cloud
 
 # Coalition
 
@@ -1011,6 +1055,12 @@ def: The expression of disapproval; the analysis of merits and faults
 eg: He faced criticism for his decision
 eg: Literary criticism has evolved
 
+# Crypto
+
+pho: /ˈkrɪptoʊ/
+def: Informal short name for cryptocurrency or crypto assets
+eg: She started learning about crypto before investing
+
 # Curiosity
 
 pho: /ˌkjʊə.riˈɒs.ə.ti/
@@ -1059,6 +1109,12 @@ pho: /ˌded.ɪˈkeɪ.ʃən/
 def: The quality of being dedicated; the act of dedicating something
 eg: Her dedication to the cause is admirable
 eg: The dedication ceremony was held yesterday
+
+# Deepfake
+
+pho: /ˈdipˌfeɪk/
+def: A realistic but false image, audio clip, or video created or altered with AI
+eg: The news report showed how a deepfake video could mislead viewers
 
 # Deficiency
 
@@ -1248,6 +1304,12 @@ pho: /dəʊˈneɪ.ʃən/
 def: Something given voluntarily to a cause or fund
 eg: She made a donation to charity
 eg: Blood donations save lives
+
+# Doomscrolling
+
+pho: /ˈdumˌskroʊlɪŋ/
+def: The habit of spending a long time reading negative or distressing news online
+eg: He noticed he was doomscrolling instead of going to bed
 
 # Doubt
 
@@ -1613,6 +1675,12 @@ def: The state of being possible to do easily
 eg: We need to assess the feasibility of the plan
 eg: The feasibility study was positive
 
+# Feed
+
+pho: /fid/
+def: A continuously updated list of posts or other content on a website or social media app
+eg: She checked her feed during the break
+
 # Fellowship
 
 pho: /ˈfel.əʊ.ʃɪp/
@@ -1633,6 +1701,12 @@ pho: /ˌflʌk.tʃuˈeɪ.ʃən/
 def: An irregular rising and falling in number or amount
 eg: There have been fluctuations in the stock market
 eg: Price fluctuations make planning difficult
+
+# FOMO
+
+pho: /ˈfoʊmoʊ/
+def: Informal abbreviation for "fear of missing out": worry that you might miss an enjoyable or important experience
+eg: He went to the party because he had FOMO
 
 # Forecast
 
@@ -1725,6 +1799,18 @@ def: A break or hole in something; a difference
 eg: There's a gap in the fence
 eg: The gap between rich and poor is widening
 
+# Gaslighting
+
+pho: /ˈɡæsˌlaɪtɪŋ/
+def: A pattern of manipulating someone into doubting their own memory, perception, or judgment
+eg: The article explained how gaslighting can affect a person's confidence
+
+# Generative AI
+
+pho: /ˈdʒɛnərətɪv ˌeɪ ˈaɪ/
+def: Artificial intelligence that generates new text, images, audio, or other content from a user's instructions
+eg: The design team used generative AI to create early ideas for the campaign
+
 # Generosity
 
 pho: /ˌdʒen.əˈrɒs.ə.ti/
@@ -1738,6 +1824,12 @@ pho: /ˈdʒes.tʃər/
 def: A movement of the body or limbs; an action expressing feeling
 eg: He made a gesture of apology
 eg: The donation was a generous gesture
+
+# Ghosting
+
+pho: /ˈɡoʊstɪŋ/
+def: Suddenly ending communication with someone without explanation, especially in dating or hiring
+eg: After two dates, he stopped replying and she called it ghosting
 
 # Governance
 
@@ -1759,6 +1851,12 @@ pho: /ˈɡræv.ə.ti/
 def: The force that attracts objects toward the center of the earth; seriousness
 eg: The gravity of the situation was clear
 eg: He understood the gravity of his mistake
+
+# Greenwashing
+
+pho: /ˈɡrinˌwɑʃɪŋ/
+def: Making a product or organization appear more environmentally friendly than it really is
+eg: The report accused the company of greenwashing its products
 
 # Grievance
 
@@ -1976,6 +2074,12 @@ pho: /ˈɪn.flu.əns/
 def: The capacity to have an effect on someone or something
 eg: She has a positive influence on others
 eg: His father had a strong influence on him
+
+# Influencer
+
+pho: /ˈɪnfluənsər/
+def: A person who can affect an audience's opinions or buying choices, especially through social media
+eg: The brand hired an influencer to review its new headphones
 
 # Infrastructure
 
@@ -2438,6 +2542,12 @@ pho: /ˈmaɪl.stəʊn/
 def: An action or event marking a significant change or stage
 eg: Graduation was a major milestone
 eg: The project reached a milestone
+
+# Mindfulness
+
+pho: /ˈmaɪndfəlnəs/
+def: The practice of paying deliberate attention to the present moment without judgment
+eg: He uses mindfulness exercises to manage stress
 
 # Minority
 
@@ -2943,6 +3053,12 @@ def: A high degree of competence or skill
 eg: She has achieved proficiency in Spanish
 eg: Technical proficiency is required
 
+# Profile
+
+pho: /ˈproʊfaɪl/
+def: A page or account that presents information about a person or organization on a website or app
+eg: He updated his profile with a new photo
+
 # Prohibition
 
 pho: /ˌprəʊ.ɪˈbɪʃ.ən/
@@ -2998,6 +3114,12 @@ pho: /pəˈsjuːt/
 def: The action of pursuing someone or something
 eg: The pursuit of happiness
 eg: They were in pursuit of the suspect
+
+# QR code
+
+pho: /ˌkjuːˈɑr koʊd/
+def: A square pattern that a phone camera can scan to open information or complete an action
+eg: Scan the QR code to see the menu
 
 # Rationale
 
@@ -3405,6 +3527,12 @@ def: A plan of action designed to achieve a goal
 eg: We need a new marketing strategy — the current approach is not reaching younger audiences effectively
 eg: The military strategy was so successful that it became a case study in tactical innovation
 
+# Streaming
+
+pho: /ˈstrimɪŋ/
+def: The delivery or playback of audio or video over the internet without first downloading the whole file
+eg: We use streaming to watch movies at home
+
 # Structure
 
 pho: /ˈstrʌk.tʃər/
@@ -3418,6 +3546,12 @@ pho: /ˈsʌb.stəns/
 def: A particular kind of matter; the real physical matter
 eg: The unknown substance was identified in the laboratory as a highly concentrated industrial solvent
 eg: After further investigation, there was found to be no substance whatsoever to the allegations
+
+# Subscription
+
+pho: /səbˈskrɪpʃən/
+def: A recurring payment that gives access to a service or product for a set period
+eg: I canceled a music subscription I no longer use
 
 # Succession
 
@@ -3454,6 +3588,12 @@ def: Feelings of pity and sorrow for someone else's misfortune
 eg: She expressed her heartfelt sympathy to the bereaved family with a handwritten note and flowers
 eg: We have enormous sympathy for the victims of the disaster and are doing everything we can to help
 
+# Tablet
+
+pho: /ˈtæblət/
+def: A small portable computer with a touchscreen, typically larger than a phone and without a physical keyboard
+eg: She reads books on her tablet while traveling
+
 # Tactic
 
 pho: /ˈtæk.tɪk/
@@ -3481,6 +3621,12 @@ pho: /ˈten.jər/
 def: The conditions under which land or buildings are held; the period of holding a position
 eg: She was granted tenure
 eg: His tenure as CEO was successful
+
+# Thread
+
+pho: /θrɛd/
+def: A series of connected online messages or posts about one topic
+eg: He answered the question in a thread on the forum
 
 # Threshold
 
@@ -3698,6 +3844,12 @@ pho: /welθ/
 def: An abundance of valuable possessions
 eg: The distribution of wealth
 eg: She accumulated great wealth
+
+# Wearable
+
+pho: /ˈwɛrəbəl/
+def: A small electronic device designed to be worn on the body and collect or display information
+eg: The wearable tracks his daily steps and heart rate
 
 # Welfare
 

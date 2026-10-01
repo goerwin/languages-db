@@ -6496,8 +6496,10 @@ eg: He looked genuinely remorseful when the full extent of what he had done was 
 
 pho: /rɪˈmoʊt/
 def: Far away or distant
+def: Done or taking place away from a central workplace, usually using the internet
 eg: Remote villages in the highland region remained without electricity for months after the storm damaged the main lines
 eg: The remote control for the television had been missing for three weeks and was eventually found behind the radiator
+eg: He accepted a remote position with a software company
 
 # Repentant
 
@@ -7191,8 +7193,10 @@ eg: Small steps in the right direction are worth more than grand gestures that n
 
 pho: /smɑːrt/
 def: Intelligent or stylish
+def: Of a device, connected to the internet and able to automate or respond to commands
 eg: A smart student doesn’t just know the answers — she also knows which questions to ask and when to stop and listen
 eg: She looked incredibly smart in her outfit — a well-tailored jacket, clean lines, and nothing that didn’t belong
+eg: The smart thermostat adjusts the temperature automatically
 
 # Smoggy
 
@@ -7753,6 +7757,12 @@ pho: /səˈspɪʃ.əs/
 def: Inclined to suspect; doubtful
 eg: A suspicious package left unattended in the lobby prompted an evacuation and a call to the specialist disposal team
 eg: Suspicious behavior from two accounts prompted the fraud team to freeze both until the identity could be verified
+
+# Sustainable
+
+pho: /səˈsteɪnəbəl/
+def: Able to continue long-term without exhausting resources or causing serious environmental harm
+eg: The city is investing in more sustainable public transportation
 
 # Svelte
 
@@ -8749,6 +8759,12 @@ pho: /ˈvaɪ.ə.lət/
 def: A bluish-purple color; a type of flower
 eg: Violet petals from the wisteria covered the garden path every May and were swept into drifts along the walls
 eg: She wore a violet dress to the opening that was eye-catching without being the kind of thing that needed a comment
+
+# Viral
+
+pho: /ˈvaɪrəl/
+def: Spreading rapidly online, especially content shared by many people
+eg: Her cooking video went viral overnight
 
 # Virtual
 

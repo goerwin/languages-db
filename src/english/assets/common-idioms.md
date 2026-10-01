@@ -33,6 +33,11 @@ def: To become difficult or impossible to control
 eg: The party got out of hand when the neighbors called the police
 eg: Inflation has really gotten out of hand this year
 
+# Green flag
+
+def: A positive sign that someone or something is trustworthy, healthy, or a good choice, especially in dating
+eg: Respecting other people's boundaries is a green flag in a relationship
+
 # Hit the sack / hit the hay
 
 def: To go to bed in order to sleep
@@ -74,6 +79,11 @@ eg: You need to be on the ball to trade in the stock market, where prices can ch
 def: To tease someone or try to make them believe something that is not true as a joke
 eg: I didn't really win the lottery. I was just pulling your leg
 eg: Don't take him seriously; he's probably just pulling your leg
+
+# Red flag
+
+def: A warning sign that someone or something may be unsafe, unhealthy, or unreliable
+eg: Repeatedly ignoring her boundaries was a red flag
 
 # Speak of the devil
 
@@ -387,6 +397,11 @@ def: To quit or give up
 eg: After hours of trying to fix the engine, he finally threw in the towel
 eg: Don't throw in the towel just yet; you're almost finished
 
+# Touch grass
+
+def: Informal online expression telling someone to step away from the internet and reconnect with everyday life
+eg: After spending all weekend arguing online, he was told to touch grass
+
 # Under the radar
 
 def: Not detected or noticed by people
@@ -398,6 +413,11 @@ eg: This little restaurant has stayed under the radar, but the food is amazing a
 def: Uncertain or not yet decided
 eg: Our vacation plans are still up in the air until we get time off work
 eg: The future of the project is up in the air right now
+
+# Vibe check
+
+def: An informal way to check the mood or general feeling of a person or situation
+eg: I sent the group chat a quick vibe check before making plans
 
 # Better for it
 

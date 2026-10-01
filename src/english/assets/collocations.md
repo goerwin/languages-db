@@ -63,6 +63,11 @@ def: A wide, noticeable smile
 eg: He greeted us with a broad smile
 eg: The news brought a broad smile to her face
 
+# Carbon footprint
+
+def: The total greenhouse-gas emissions caused directly or indirectly by a person, product, or organization
+eg: They chose the train to reduce their carbon footprint
+
 # Catch a bus
 
 def: To board a bus, especially one that is about to leave
@@ -164,6 +169,11 @@ eg: She's still coming to terms with the diagnosis
 def: To actually happen as hoped or dreamed
 eg: Her dream of becoming a doctor came true
 eg: The prophecy came true centuries later
+
+# Contactless payment
+
+def: A way to pay by tapping a bank card or device near a payment terminal
+eg: I used contactless payment to buy my coffee
 
 # Deep breath
 
@@ -441,6 +451,11 @@ def: To understand the main idea
 eg: I get the point—we need to work harder
 eg: Do you get the point I'm trying to make?
 
+# Gig economy
+
+def: A labor market based on short-term jobs and freelance work, often arranged through digital platforms
+eg: Many drivers find work through gig economy platforms
+
 # Have a chat
 
 def: To have an informal conversation
@@ -632,6 +647,11 @@ eg: Parents cannot be held responsible for everything their children do
 def: To stop breathing temporarily; to wait anxiously
 eg: Hold your breath and dive under the water
 eg: We're holding our breath for the test results
+
+# Hybrid work
+
+def: A work arrangement that combines time at a workplace with remote work
+eg: Her company lets employees choose a hybrid work schedule
 
 # Keep a diary
 
@@ -897,6 +917,16 @@ def: Completely fair or sensible
 eg: That's a perfectly reasonable request
 eg: The price seems perfectly reasonable
 
+# Quiet quitting
+
+def: Doing the work required by a job without taking on extra tasks beyond one's role, often to protect personal time
+eg: The phrase describes setting limits at work, not literally resigning
+
+# Remote work
+
+def: Work done away from a central office, often from home using digital tools
+eg: The company allows remote work three days a week
+
 # Run a bath
 
 def: To fill a bathtub with water
@@ -939,6 +969,11 @@ def: To use up all of something
 eg: We've run out of milk
 eg: The car ran out of gas on the highway
 
+# Self-care
+
+def: Activities a person does to protect their physical or emotional well-being
+eg: For her, self-care means getting enough sleep and taking regular walks
+
 # Seriously consider
 
 def: To think carefully and seriously about something
@@ -962,6 +997,16 @@ eg: The patient is seriously ill but stable
 def: Having significant physical harm
 eg: Several people were seriously injured in the crash
 eg: The seriously injured were taken to the hospital first
+
+# Side hustle
+
+def: Work done in addition to a person's main job, often to earn extra money
+eg: She started a side hustle designing websites
+
+# Smart home
+
+def: A home with internet-connected devices that can be monitored or controlled remotely
+eg: Their smart home adjusts the lights and temperature automatically
 
 # Strong accent
 
@@ -1142,3 +1187,8 @@ eg: The film is widely regarded as a classic
 def: Used by many people or in many places
 eg: English is widely used as a business language
 eg: This software is widely used in the industry
+
+# Work from home
+
+def: To do one's job from home rather than commuting to an office, usually using internet-based tools
+eg: I work from home on Fridays

@@ -1,14 +1,62 @@
+const commonTitleAcronyms = new Set([
+  'AI',
+  'CEO',
+  'DM',
+  'EU',
+  'FAQ',
+  'FOMO',
+  'GPS',
+  'QR',
+  'SMS',
+  'TV',
+  'UK',
+  'URL',
+  'US',
+  'USA',
+  'WFH',
+]);
+
 /**
- * Checks if a title is properly capitalized (only first letter uppercase, rest lowercase).
+ * Checks for sentence-case titles while preserving common uppercase acronyms.
  *
  * @param title - the title to check
  * @returns true if the title is properly capitalized
  */
 export function validateTitleCapitalization(title: string): boolean {
-  const first = title.at(0);
+  if (!title) throw new Error('Invalid first letter');
 
-  if (typeof first !== 'string') throw new Error('Invalid first letter');
-  return title === first.toUpperCase() + title.slice(1).toLowerCase();
+  const matchesSentenceCase = (value: string) => {
+    let firstWord = true;
+    const expected = value.replace(/[A-Za-z]+/g, (word) => {
+      if (commonTitleAcronyms.has(word)) {
+        firstWord = false;
+        return word;
+      }
+
+      const lower = word.toLowerCase();
+      const normalized = firstWord
+        ? lower[0]?.toUpperCase() + lower.slice(1)
+        : lower;
+      firstWord = false;
+      return normalized;
+    });
+
+    return value === expected;
+  };
+
+  const quotedPhrases = [...title.matchAll(/"([^"]+)"/g)];
+  if (quotedPhrases.length > 0) {
+    if (quotedPhrases.some(([, phrase]) => phrase !== phrase?.toLowerCase()))
+      return false;
+
+    const unquotedText = title.replace(/"[^"]+"/g, '');
+    return (
+      matchesSentenceCase(unquotedText) ||
+      (title.startsWith('"') && unquotedText === unquotedText.toLowerCase())
+    );
+  }
+
+  return matchesSentenceCase(title);
 }
 
 /**
@@ -55,6 +103,7 @@ type ValidatorReturn = { frontMatter?: string | undefined; entries: Entry[] };
 export function validateMdEntries(
   mdContent: string,
   prefixes: readonly EntryPrefix[] = [],
+  opts: { allowExtraPrefixes?: boolean } = {},
 ): ValidatorReturn {
   const frontMatterMatch = mdContent.match(/^---\s*([\s\S]*?)\s*---/);
   const frontMatterEndIndex = frontMatterMatch?.[0].length ?? 0;
@@ -70,18 +119,21 @@ export function validateMdEntries(
     const line = rawLine.trim();
     if (!line) continue;
 
-    // Header line
-    const header = line.match(/^# (.+\S)$/);
+    // Header line (allow single-char titles like "# A")
+    const header = line.match(/^# (.+)$/);
+    if (header && !header[1]?.trim()) {
+      throw new Error(`Empty title header at line ${idx}`);
+    }
 
     if (header) {
-      const title = header[1];
+      const title = header[1]?.trim();
 
       if (!title || seenTitles.has(title))
         throw new Error(`Duplicate title header "${title}", at line ${idx}`);
 
       if (!validateTitleCapitalization(title))
         throw new Error(
-          `Title "${title}" is not properly capitalized (only first letter uppercase), at line ${idx}`,
+          `Title "${title}" is not properly capitalized (sentence case), at line ${idx}`,
         );
 
       seenTitles.add(title);
@@ -105,18 +157,29 @@ export function validateMdEntries(
       throw new Error(`Line before any header: "${line}", at line ${idx}`);
 
     // Prefixed content line
-    const match = line.match(/^(\w+): (.+)$/);
+    const match = line.match(
+      opts.allowExtraPrefixes ? /^([^:]+): (.+)$/ : /^(\w+): (.+)$/,
+    );
     if (!match)
       throw new Error(`Invalid line format: "${line}", at line ${idx}`);
 
-    const [, prefix, value] = match;
+    const [, rawPrefix, value] = match;
+    const prefix = rawPrefix?.trim();
 
     const config = prefixes.find((p) => p.name === prefix);
 
-    if (!config || !prefix || !value)
+    if (!config || !prefix || !value) {
+      if (opts.allowExtraPrefixes && prefix && value) {
+        // Collect unknown prefixes (e.g. verb-list lines like "admit: ...")
+        // as non-unique arrays so grammar files with verb lists validate.
+        if (!currentEntry[prefix]) currentEntry[prefix] = [];
+        (currentEntry[prefix] as string[]).push(value);
+        continue;
+      }
       throw new Error(
         `Unknown prefix/value "${prefix}"/"${value}" in title "${currentEntry.title}", at line ${idx}`,
       );
+    }
 
     if (config.unique) {
       if (currentEntry[prefix])
@@ -343,6 +406,124 @@ export function validateConnectors(content: string): ValidatorReturn {
         );
     }
   });
+
+  return { frontMatter, entries };
+}
+
+/**
+ * Validates grammar/*.md files. Core schema per # entry:
+ * form/neg/q/use/eg/tip/rule, plus verb-list lines (e.g. "admit: ...",
+ * "remember + gerund: ...") and Wrong:/Correct: mistake examples.
+ * Each entry needs at least one rule-like (use/form/rule) and one
+ * example-like (eg/Wrong/Correct/verb-list).
+ */
+export function validateGrammar(content: string): ValidatorReturn {
+  const { frontMatter, entries } = validateMdEntries(
+    content,
+    [
+      { name: 'form', unique: false },
+      { name: 'form (modal)', unique: false },
+      { name: 'form (regular)', unique: false },
+      { name: 'neg', unique: false },
+      { name: 'q', unique: false },
+      { name: 'use', unique: false },
+      { name: 'eg', unique: false },
+      { name: 'tip', unique: false },
+      { name: 'rule', unique: false },
+      { name: 'Wrong', unique: false },
+      { name: 'Correct', unique: false },
+      { name: 'active', unique: false },
+      { name: 'passive', unique: false },
+    ],
+    { allowExtraPrefixes: true },
+  );
+
+  const verbListSections = new Set([
+    'Verbs followed by gerund',
+    'Verbs followed by infinitive',
+    'Verbs followed by both (different meaning)',
+  ]);
+
+  for (const entry of entries) {
+    const extraKeys = Object.keys(entry).filter(
+      (key) =>
+        ![
+          'title',
+          'form',
+          'form (modal)',
+          'form (regular)',
+          'neg',
+          'q',
+          'use',
+          'eg',
+          'tip',
+          'rule',
+          'Wrong',
+          'Correct',
+          'active',
+          'passive',
+        ].includes(key),
+    );
+    const isVerbListSection = verbListSections.has(entry.title);
+
+    for (const key of extraKeys) {
+      if (
+        !isVerbListSection ||
+        !/^[A-Za-z]+(?:['’][A-Za-z]+)?(?: [A-Za-z]+)*(?: \+ (?:gerund|infinitive))?$/.test(
+          key,
+        )
+      ) {
+        throw new Error(
+          `Entry "${entry.title}" contains unknown grammar prefix "${key}"`,
+        );
+      }
+    }
+
+    const isMistakeSection =
+      entry.title === 'Common mistakes' ||
+      entry.title.startsWith('Common mistakes with ');
+    const hasRuleLike =
+      entry.use !== undefined ||
+      entry.form !== undefined ||
+      entry['form (modal)'] !== undefined ||
+      entry['form (regular)'] !== undefined ||
+      entry.rule !== undefined ||
+      entry.Wrong !== undefined ||
+      entry.Correct !== undefined ||
+      isVerbListSection ||
+      isMistakeSection;
+    const knownExample =
+      entry.eg !== undefined ||
+      entry.Wrong !== undefined ||
+      entry.Correct !== undefined ||
+      entry.active !== undefined ||
+      entry.passive !== undefined;
+    const hasExampleLike = knownExample || extraKeys.length > 0;
+
+    if (!hasRuleLike)
+      throw new Error(
+        `Entry "${entry.title}": missing rule-like prefix (need use:/form:/rule:)`,
+      );
+    if (!hasExampleLike)
+      throw new Error(
+        `Entry "${entry.title}": missing example (need eg:/Wrong:/Correct:/verb-list:)`,
+      );
+
+    // Where strict use:/eg: pairing is used, each use needs an example.
+    const useCount = Array.isArray(entry.use) ? entry.use.length : 0;
+    const egCount = Array.isArray(entry.eg) ? entry.eg.length : 0;
+    if (
+      useCount > 0 &&
+      extraKeys.length === 0 &&
+      !entry.Wrong &&
+      !entry.Correct
+    ) {
+      if (egCount < useCount)
+        throw new Error(
+          `Entry "${entry.title}": has ${useCount} use: but only ${egCount} eg: (each use needs an example)`,
+        );
+    }
+  }
 
   return { frontMatter, entries };
 }

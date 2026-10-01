@@ -3,6 +3,7 @@ import path from 'node:path';
 import {
   validateConnectors,
   validateExampleCapitalization,
+  validateGrammar,
   validateMdEntries,
 } from '../src/english/utils.ts';
 
@@ -27,101 +28,102 @@ function validateExamples(
   }
 }
 
-(
-  [
-    [
-      getPath('english/assets/adjectives.md'),
-      validateMdEntries,
-      [
-        { name: 'def', unique: false, required: true },
-        { name: 'pho', unique: true, required: true },
-        { name: 'eg', unique: false, required: true },
-      ],
-    ],
-    [
-      getPath('english/assets/adverbs.md'),
-      validateMdEntries,
-      [
-        { name: 'def', unique: false, required: true },
-        { name: 'pho', unique: true, required: true },
-        { name: 'eg', unique: false, required: true },
-      ],
-    ],
-    [
-      getPath('english/assets/collocations.md'),
-      validateMdEntries,
-      [
-        { name: 'def', unique: false, required: true },
-        { name: 'eg', unique: false, required: true },
-      ],
-    ],
-    [
-      getPath('english/assets/common-idioms.md'),
-      validateMdEntries,
-      [
-        { name: 'def', unique: false, required: true },
-        { name: 'eg', unique: false, required: true },
-      ],
-    ],
-    // TODO: This requires a better handling
-    // [
-    //   getPath('english/assets/commonly-confused-words.md'),
-    //   validateMdEntries,
-    //   [
-    //     { name: 'def', unique: false, required: true },
-    //     { name: 'pho', unique: true, required: true },
-    //     { name: 'eg', unique: false, required: true },
-    //   ],
-    // ],
-    [getPath('english/assets/connectors.md'), validateConnectors],
-    [
-      getPath('english/assets/nouns.md'),
-      validateMdEntries,
-      [
-        { name: 'def', unique: false, required: true },
-        { name: 'pho', unique: true, required: true },
-        { name: 'eg', unique: false, required: true },
-      ],
-    ],
+const grammarDirectory = getPath('english/assets/grammar');
+const grammarValidations = (await fs.readdir(grammarDirectory))
+  .filter((fileName) => fileName.endsWith('.md'))
+  .map(
+    (fileName) =>
+      [path.join(grammarDirectory, fileName), validateGrammar] as const,
+  );
 
+const validations = [
+  [
+    getPath('english/assets/adjectives.md'),
+    validateMdEntries,
     [
-      getPath('english/assets/phrasal-verbs.md'),
-      validateMdEntries,
-      [
-        { name: 'def', unique: false, required: true },
-        { name: 'eg', unique: false, required: true },
-      ],
+      { name: 'def', unique: false, required: true },
+      { name: 'pho', unique: true, required: true },
+      { name: 'eg', unique: false, required: true },
     ],
+  ],
+  [
+    getPath('english/assets/adverbs.md'),
+    validateMdEntries,
     [
-      getPath('english/assets/preposition-combinations.md'),
-      validateMdEntries,
-      [
-        { name: 'def', unique: false, required: true },
-        { name: 'cat', unique: true, required: true },
-        { name: 'eg', unique: false, required: true },
-      ],
+      { name: 'def', unique: false, required: true },
+      { name: 'pho', unique: true, required: true },
+      { name: 'eg', unique: false, required: true },
     ],
+  ],
+  [
+    getPath('english/assets/collocations.md'),
+    validateMdEntries,
     [
-      getPath('english/assets/transition-words.md'),
-      validateMdEntries,
-      [
-        { name: 'def', unique: false, required: true },
-        { name: 'cat', unique: true, required: true },
-        { name: 'eg', unique: false, required: true },
-        { name: 'pos', unique: true, required: true },
-      ],
+      { name: 'def', unique: false, required: true },
+      { name: 'eg', unique: false, required: true },
     ],
+  ],
+  [
+    getPath('english/assets/common-idioms.md'),
+    validateMdEntries,
     [
-      getPath('english/assets/verbs.md'),
-      validateMdEntries,
-      [
-        { name: 'def', unique: false, required: true },
-        { name: 'pho', unique: true, required: true },
-        { name: 'eg', unique: false, required: true },
-      ],
+      { name: 'def', unique: false, required: true },
+      { name: 'eg', unique: false, required: true },
     ],
-  ] as const
-).forEach(async ([filePath, validator, args]) => {
-  const { entries } = validator(await fs.readFile(filePath, 'utf-8'), args);
-  validateExamples(entries);
-});
+  ],
+  [getPath('english/assets/connectors.md'), validateConnectors],
+  [
+    getPath('english/assets/nouns.md'),
+    validateMdEntries,
+    [
+      { name: 'def', unique: false, required: true },
+      { name: 'pho', unique: true, required: true },
+      { name: 'eg', unique: false, required: true },
+    ],
+  ],
+
+  [
+    getPath('english/assets/phrasal-verbs.md'),
+    validateMdEntries,
+    [
+      { name: 'def', unique: false, required: true },
+      { name: 'eg', unique: false, required: true },
+    ],
+  ],
+  [
+    getPath('english/assets/preposition-combinations.md'),
+    validateMdEntries,
+    [
+      { name: 'def', unique: false, required: true },
+      { name: 'cat', unique: true, required: true },
+      { name: 'eg', unique: false, required: true },
+    ],
+  ],
+  [
+    getPath('english/assets/transition-words.md'),
+    validateMdEntries,
+    [
+      { name: 'def', unique: false, required: true },
+      { name: 'cat', unique: true, required: true },
+      { name: 'eg', unique: false, required: true },
+      { name: 'pos', unique: true, required: true },
+    ],
+  ],
+  [
+    getPath('english/assets/verbs.md'),
+    validateMdEntries,
+    [
+      { name: 'def', unique: false, required: true },
+      { name: 'pho', unique: true, required: true },
+      { name: 'eg', unique: false, required: true },
+    ],
+  ],
+  ...grammarValidations,
+] as const;
+
+await Promise.all(
+  validations.map(async ([filePath, validator, args]) => {
+    const { entries } = validator(await fs.readFile(filePath, 'utf-8'), args);
+    validateExamples(entries);
+  }),
+);
