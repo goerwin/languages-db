@@ -52,6 +52,13 @@ def: Highly skilled or successful at something
 eg: He's an accomplished pianist who has performed with major orchestras across Europe and released four critically praised albums
 eg: The accomplished surgeon performed the complex operation flawlessly, later mentoring younger doctors through the same procedure
 
+# Accountable
+
+pho: /əˈkaʊn.tə.bəl/
+def: Required or expected to explain decisions and accept responsibility for the results
+eg: Each project lead is accountable for the deadline, even when several teams share the work
+eg: The board asked the director to be more accountable after the budget overran by nearly a third
+
 # Accurate
 
 pho: /ˈæk.jə.rət/
@@ -151,6 +158,13 @@ def: Showing love, care, or warmth toward others
 eg: She gave her child an affectionate hug before his first day of school, whispering words of encouragement that would stay with him throughout the day
 eg: He is very affectionate with his family, always greeting everyone with a warm embrace and never missing an opportunity to express his love verbally
 
+# Affordable
+
+pho: /əˈfɔːr.də.bəl/
+def: Cheap enough for someone to be able to pay for
+eg: They found an affordable apartment near the train line after three months of searching
+eg: The clinic offers affordable checkups so patients are not forced to skip routine care
+
 # Afraid
 
 pho: /əˈfreɪd/
@@ -237,6 +251,13 @@ def: Feeling isolated or separated from others
 eg: He felt alienated at his new job because everyone else seemed to have established friendships and inside jokes he wasn't part of during his first months
 eg: The politician's controversial statement on immigration alienated many supporters who had previously voted for him, costing him crucial endorsements before the election
 
+# Aligned
+
+pho: /əˈlaɪnd/
+def: In agreement, or arranged so that parts work toward the same goal
+eg: The two teams were finally aligned on the launch date after the planning meeting
+eg: Her proposal was aligned with the company strategy, which made it easier to get approval
+
 # Alive
 
 pho: /əˈlaɪv/
@@ -321,13 +342,6 @@ pho: /ˈæŋ.ɡri/
 def: Feeling strong displeasure or rage
 eg: He was angry about the decision to cancel the project without consulting the team, especially after everyone had worked overtime for three consecutive weeks
 eg: She spoke in an angry tone when she realized she had been lied to, her voice trembling as she confronted her colleague about the deliberate misinformation
-
-# Anguished
-
-pho: /ˈæŋ.ɡwɪʃt/
-def: Experiencing severe mental or physical pain
-eg: She gave an anguished cry when she realized her wallet was gone, containing not only money but also irreplaceable family photographs and identification documents
-eg: He looked anguished after hearing the news about his friend's accident, immediately dropping everything to drive to the hospital despite the late hour
 
 # Animated
 
@@ -501,12 +515,12 @@ def: Done without conscious thought; instinctive
 eg: The factory uses automatic assembly lines that require minimal supervision
 eg: His response was automatic — he apologized before he even understood what had happened
 
-# Avaricious
+# Available
 
-pho: /ˌæv.əˈrɪʃ.əs/
-def: Having an extreme desire for wealth or gain, even at the expense of others
-eg: The avaricious landlord raised rents far beyond what tenants could afford
-eg: His avaricious behavior eventually alienated even his closest business partners
+pho: /əˈveɪ.lə.bəl/
+def: Free to be used, obtained, or spoken to
+eg: The manager is available for questions every afternoon between two and four
+eg: Those tickets are only available online, and the cheaper seats sold out by noon
 
 # Average
 
@@ -634,13 +648,6 @@ pho: /ˈbet̬.ɚ/
 def: Of higher quality or more desirable than another
 eg: This solution is better than the previous one
 eg: He feels better today
-
-# Bewitched
-
-pho: /bɪˈwɪtʃt/
-def: Filled with delight or fascination, as if under a spell
-eg: The audience was bewitched by her performance
-eg: He felt bewitched by the beautiful scenery
 
 # Big
 
@@ -804,13 +811,6 @@ pho: /ˈbaʊn.si/
 def: Full of energy; able to bounce
 eg: The ball was so bouncy that it flew off the court whenever the children hit it even slightly too hard
 eg: She walked with a bouncy step that matched her mood — clearly something very good had happened
-
-# Bountiful
-
-pho: /ˈbaʊn.tɪ.fəl/
-def: Large in quantity; plentiful
-eg: The harvest was bountiful that year, with enough surplus for the community to donate to several regional food banks
-eg: They enjoyed a bountiful meal that covered the entire table, with dish after dish brought out from the kitchen
 
 # Bowed
 
@@ -1191,6 +1191,13 @@ def: Having a low temperature or lacking warmth or emotion
 eg: It’s cold outside
 eg: She gave him a cold look
 
+# Collaborative
+
+pho: /kəˈlæb.ər.ə.tɪv/
+def: Involving people working together
+eg: The report was a collaborative effort between the design team and the engineers
+eg: She prefers a collaborative style and asks the group for ideas before making a decision
+
 # Colorful
 
 pho: /ˈkʌl.ɚ.fəl/
@@ -1205,13 +1212,6 @@ pho: /ˈkʌl.ɚ.ləs/
 def: Having no color; dull and without interest or personality
 eg: The painting looked colorless compared to the vivid works hanging beside it
 eg: His voice sounded colorless and flat, as if he were reading from a script
-
-# Colossal
-
-pho: /kəˈlɑː.səl/
-def: Extremely large or impressive in size or scale
-eg: The statue was colossal, towering over the plaza at nearly thirty meters
-eg: They faced a colossal challenge trying to rebuild the city after the earthquake
 
 # Comfortable
 
@@ -1240,6 +1240,13 @@ pho: /ˈkɑːm.pə.tənt/
 def: Having the ability or skills to do something well; capable and adequate
 eg: She’s a competent manager who handles conflicts without letting things escalate
 eg: He proved himself competent under pressure during the system outage
+
+# Competitive
+
+pho: /kəmˈpet.ə.tɪv/
+def: As good as or better than others, or strongly wanting to win
+eg: Their price is competitive, but the longer warranty is what convinced most buyers
+eg: He is competitive in meetings and dislikes leaving a negotiation without a clear win
 
 # Complete
 
@@ -1270,6 +1277,13 @@ def: Calm and in control of one’s emotions, especially under pressure
 eg: She stayed composed during the speech even after the microphone cut out
 eg: He appeared composed at the press conference despite the scandal breaking that morning
 
+# Comprehensive
+
+pho: /ˌkɑːm.prɪˈhen.sɪv/
+def: Including everything that is needed or relevant
+eg: The handbook is a comprehensive guide to the hiring process, from the first interview to the first day
+eg: They ordered a comprehensive review after the same error appeared in three different reports
+
 # Concerned
 
 pho: /kənˈsɝːnd/
@@ -1284,6 +1298,13 @@ def: Based on real facts; specific and not vague or theoretical
 def: Made of concrete (the building material)
 eg: We need concrete evidence before making any accusations
 eg: The architect chose exposed concrete walls to give the building an industrial feel
+
+# Confidential
+
+pho: /ˌkɑːn.fɪˈden.ʃəl/
+def: Meant to be kept private
+eg: Please keep this discussion confidential until the announcement goes out on Friday
+eg: Salary details are confidential, so the spreadsheet is shared only with the finance team
 
 # Confused
 
@@ -1306,6 +1327,13 @@ def: Thoughtful of other people’s feelings and needs
 eg: It was considerate of her to call ahead and let them know she’d be late
 eg: He’s always considerate at work, making sure his decisions don’t burden his colleagues
 
+# Consistent
+
+pho: /kənˈsɪs.tənt/
+def: Always happening or behaving in the same way, or in agreement with something else
+eg: Her results have been consistent for six months, which is why the client renewed the contract
+eg: The new figures are not consistent with the forecast we sent last week
+
 # Constant
 
 pho: /ˈkɑːn.stənt/
@@ -1313,12 +1341,26 @@ def: Continuing without change or interruption; persistent
 eg: The noise from the construction was constant, making it hard to concentrate
 eg: She needs constant support from her team to manage the demanding workload
 
+# Constructive
+
+pho: /kənˈstrʌk.tɪv/
+def: Useful and intended to help something improve
+eg: She gave constructive feedback on the draft and marked the three paragraphs that needed clearer examples
+eg: The meeting stayed constructive even when people disagreed about the budget
+
 # Content
 
 pho: /kənˈtent/
 def: Satisfied and at ease
 eg: He felt genuinely content with his life — not because everything was perfect, but because what mattered most was in place
 eg: She seems content where she is and has turned down several offers that would have meant relocating
+
+# Convenient
+
+pho: /kənˈviː.ni.ənt/
+def: Fitting well with someone's needs or plans, and easy to use or reach
+eg: The later train is more convenient because she can drop the kids off first
+eg: Paying by phone is convenient, though some smaller shops still accept only cash
 
 # Conventional
 
@@ -1370,6 +1412,13 @@ def: (Of data or a file) damaged and no longer usable
 eg: The official was corrupt, accepting bribes to award contracts to unqualified companies
 eg: The hard drive was corrupt, making it impossible to recover years of saved data
 
+# Cost-effective
+
+pho: /ˌkɑːst.ɪˈfek.tɪv/
+def: Producing a good result without costing too much
+eg: Repairing the old machines was more cost-effective than replacing all of them this year
+eg: A shorter pilot is the most cost-effective way to test the idea before a full launch
+
 # Costly
 
 pho: /ˈkɔːst.li/
@@ -1418,6 +1467,13 @@ pho: /kriˈeɪ.tɪv/
 def: Able to produce original ideas
 eg: He’s a creative designer who transforms even the most uninspiring briefs into visually striking campaigns
 eg: The team found a creative solution that reduced costs while actually improving the final product
+
+# Credible
+
+pho: /ˈkred.ə.bəl/
+def: Believable, or deserving trust
+eg: The witness gave a credible account that matched the security footage
+eg: Without independent data, the claim did not sound credible to the review panel
 
 # Creepy
 
@@ -1552,13 +1608,6 @@ pho: /ˈdeɪn.dʒɚ.əs/
 def: Likely to cause harm or injury
 eg: That road is dangerous at night
 eg: It’s dangerous to swim here
-
-# Dapper
-
-pho: /ˈdæp.ɚ/
-def: Neat and stylish in appearance
-eg: He looks dapper in that suit
-eg: A dapper gentleman entered the room
 
 # Daring
 
@@ -1702,13 +1751,6 @@ def: Happening later than planned
 eg: The flight was delayed by four hours due to a technical fault discovered during the pre-departure safety check
 eg: The delayed response caused confusion among the teams, who had been waiting for instructions before proceeding
 
-# Delectable
-
-pho: /dɪˈlek.tə.bəl/
-def: Extremely pleasing, especially in taste
-eg: The dessert was delectable — a warm chocolate tart with salted caramel ice cream that everyone at the table ordered twice
-eg: They served a delectable three-course meal that was perfectly paired with wines selected from the estate’s own cellar
-
 # Delicious
 
 pho: /dɪˈlɪʃ.əs/
@@ -1722,13 +1764,6 @@ pho: /dɪˈlaɪt.fəl/
 def: Giving great pleasure
 eg: The weather was delightful — warm but breezy, perfect conditions for a long walk along the coastal path
 eg: It was a delightful surprise to find a handwritten note from her old professor tucked inside the secondhand book
-
-# Delirious
-
-pho: /dɪˈlɪr.i.əs/
-def: In a state of extreme excitement or confusion
-eg: He was delirious with joy
-eg: The fever left her delirious
 
 # Demanding
 
@@ -1863,6 +1898,20 @@ def: Not clean; soiled
 eg: His shoes were filthy after the walk through the muddy fields, leaving prints on every clean surface he crossed
 eg: The room looked dirty and neglected — dusty shelves, overflowing bins, and a carpet stained in several places
 
+# Disappointed
+
+pho: /ˌdɪs.əˈpɔɪn.tɪd/
+def: Unhappy because something was not as good as expected
+eg: She was disappointed with the first draft and asked for a clearer recommendation
+eg: Customers were disappointed when the delivery slipped from Tuesday to the following Monday
+
+# Disappointing
+
+pho: /ˌdɪs.əˈpɔɪn.tɪŋ/
+def: Not as good as expected
+eg: Sales were disappointing in the first quarter, mainly because two large orders were delayed
+eg: The ending of the film was disappointing after such a strong first hour
+
 # Disastrous
 
 pho: /dɪˈzæs.trəs/
@@ -1953,13 +2002,6 @@ pho: /ˈdoʊ.pi/
 def: Silly or slow to understand
 eg: He had a dopey grin
 eg: That was a dopey mistake
-
-# Doting
-
-pho: /ˈdoʊ.t̬ɪŋ/
-def: Showing excessive love or affection
-eg: She’s a doting parent who attends every school play, every recital, and every sports day without exception
-eg: He gave her a doting look across the dinner table, as if he still couldn’t believe how lucky he was
 
 # Double
 
@@ -2102,6 +2144,20 @@ def: Having received a good level of formal education; knowledgeable and informe
 eg: She’s well educated in economics but admits she knows little about medicine
 eg: An educated guess is better than no guess at all, but you should still verify the facts
 
+# Effective
+
+pho: /ɪˈfek.tɪv/
+def: Producing the result that was intended
+eg: A short checklist was more effective than a long policy document that nobody read
+eg: The new reminder emails have been effective, and missed appointments have dropped by half
+
+# Efficient
+
+pho: /ɪˈfɪʃ.ənt/
+def: Working well without wasting time, money, or energy
+eg: The updated process is more efficient and cut the weekly report from two hours to twenty minutes
+eg: She is efficient under pressure and still sends a clear summary before the end of the day
+
 # Elaborate
 
 pho: /ɪˈlæb.ɚ.ət/
@@ -2151,6 +2207,13 @@ def: Basic or simple
 eg: These are elementary concepts that every first-year student should understand before progressing to advanced material
 eg: It’s elementary arithmetic — just addition and subtraction — but the instructions manage to make it sound far more complicated
 
+# Eligible
+
+pho: /ˈel.ɪ.dʒə.bəl/
+def: Having the right to do or receive something because the conditions are met
+eg: Only employees who have been with the company for a year are eligible for the training grant
+eg: He checked whether the family was eligible for the housing support before they applied
+
 # Elliptical
 
 pho: /ɪˈlɪp.tɪ.kəl/
@@ -2165,21 +2228,6 @@ def: Feeling ashamed or awkward
 eg: She felt deeply embarrassed by the mistake and apologized several times, even though no one had actually noticed
 eg: He looked embarrassed when his name appeared on the wrong slide during the live company-wide presentation
 
-# Embellished
-
-pho: /ɪmˈbel.ɪʃt/
-def: Decorated or made more attractive with added details
-def: (Of a story) made more interesting by adding exaggerated or invented details
-eg: The wedding dress was embellished with hand-sewn pearls and gold thread
-eg: His embellished account of the accident made it sound far more dramatic than it really was
-
-# Eminent
-
-pho: /ˈem.ɪ.nənt/
-def: Well-known and respected
-eg: She’s an eminent scientist whose research on climate modeling has directly shaped government policy in several countries
-eg: He is eminent in his field, regularly invited to speak at international conferences and cited in hundreds of academic papers
-
 # Emotional
 
 pho: /ɪˈmoʊ.ʃə.nəl/
@@ -2193,20 +2241,6 @@ pho: /ˈemp.ti/
 def: Containing nothing
 eg: The bottle was completely empty before they had even reached the halfway point of the hike, which became a problem
 eg: The room felt empty and hollow after all the furniture had been removed, as if the life had gone out of it
-
-# Enchanted
-
-pho: /ɪnˈtʃæn.tɪd/
-def: Filled with delight, wonder, or a sense of magic
-eg: The children were enchanted by the puppet show, watching wide-eyed from start to finish
-eg: She felt enchanted by the music, completely losing track of time
-
-# Enchanting
-
-pho: /ɪnˈtʃæn.tɪŋ/
-def: Delightfully charming
-eg: The garden is enchanting in spring, full of wildflowers, butterflies, and the constant sound of running water
-eg: He has an enchanting smile that makes everyone in range feel as though they’ve just been paid a quiet compliment
 
 # Energetic
 
@@ -2228,13 +2262,6 @@ pho: /ɪˈnɔːr.məs/
 def: Extremely large
 eg: They live in an enormous house with twelve rooms, three staircases, and a garden that takes over an hour to walk around
 eg: The task required enormous effort from every member of the team, many of whom worked through weekends to meet the deadline
-
-# Enraged
-
-pho: /ɪnˈreɪdʒd/
-def: Filled with extreme anger
-eg: He was enraged by the decision to restructure without consultation and sent a heated email that he later deeply regretted
-eg: The crowd grew enraged when the announcement was made and police had to form a line to maintain order
 
 # Entire
 
@@ -2271,26 +2298,12 @@ def: Absolutely necessary
 eg: Sleep is essential for both physical and mental health — most adults need at least seven hours to function well
 eg: It’s essential to plan ahead when managing a project with multiple teams working across different time zones
 
-# Esteemed
-
-pho: /ɪˈstiːmd/
-def: Highly respected and admired
-eg: She’s an esteemed professor whose textbook is used in universities worldwide
-eg: He’s an esteemed member of the community, known for decades of charitable work
-
 # Ethical
 
 pho: /ˈeθ.ɪ.kəl/
 def: Morally right or acceptable
 eg: They follow strict ethical guidelines when conducting research, ensuring participants give fully informed consent at every stage
 eg: Choosing to disclose the conflict of interest was an ethical decision that many people in her position would have avoided
-
-# Euphoric
-
-pho: /juːˈfɔːr.ɪk/
-def: Feeling intense happiness or excitement
-eg: She felt euphoric after the win, telling every journalist who approached her that she still couldn’t quite believe it
-eg: The crowd was euphoric when the result was confirmed, embracing strangers and singing in the streets for hours
 
 # Even
 
@@ -2327,13 +2340,6 @@ pho: /ˈiː.vəl/
 def: Morally wrong or harmful
 eg: The villain is portrayed as genuinely evil, motivated not by circumstance but by a calculated desire to cause suffering
 eg: What he did was widely condemned as an evil act — deliberate, premeditated, and causing harm to dozens of innocent people
-
-# Exalted
-
-pho: /ɪɡˈzɔːl.t̬ɪd/
-def: Highly honored or joyful
-eg: He felt exalted by the praise from his mentor, whose opinion he had deeply admired since his very first year in the field
-eg: She holds an exalted position in the organization, with the final say on all major strategic and editorial decisions
 
 # Excellent
 
@@ -2589,6 +2595,13 @@ def: Without fear; brave
 eg: She’s a fearless leader who walks straight into difficult situations while others are still debating what to do
 eg: He took a fearless approach to the negotiations, making demands that most people in his position would never dare to voice
 
+# Feasible
+
+pho: /ˈfiː.zə.bəl/
+def: Possible and practical to do
+eg: Launching in June is feasible if the legal review finishes by the end of this month
+eg: The engineer said a full rebuild was not feasible within the current budget
+
 # Feisty
 
 pho: /ˈfaɪ.sti/
@@ -2729,6 +2742,13 @@ def: Perfect; without defects
 eg: Her performance was absolutely flawless — not a single missed note, awkward pause, or misplaced step throughout the entire set
 eg: The diamond looks flawless to the naked eye, though a magnifying glass reveals a tiny inclusion near the edge
 
+# Flexible
+
+pho: /ˈflek.sə.bəl/
+def: Able to change when the situation changes
+eg: The schedule is flexible, so the interview can move to Thursday if Wednesday is difficult
+eg: They need someone flexible who can cover both the morning shift and the occasional evening
+
 # Flickering
 
 pho: /ˈflɪk.ɚ.ɪŋ/
@@ -2826,13 +2846,6 @@ pho: /ˈfɔːr.məl/
 def: Proper, official, or traditional
 eg: It’s a formal event, so she wore a tailored suit and made sure to arrive exactly on time
 eg: He used formal language throughout the letter, keeping his tone measured and avoiding any hint of emotion
-
-# Forsaken
-
-pho: /fɚˈseɪ.kən/
-def: Completely abandoned or left behind; without support or care
-eg: They stumbled upon a forsaken village, its buildings crumbling and overgrown
-eg: He felt forsaken after none of his supposed friends came to his defense
 
 # Forthright
 
@@ -2932,13 +2945,6 @@ def: Extremely cold; unfriendly
 eg: The weather is frigid this week, with overnight temperatures dropping well below zero and black ice on the roads
 eg: She gave him a frigid response — a single word and no eye contact — that made it clear she had not forgiven him
 
-# Frilly
-
-pho: /ˈfrɪl.i/
-def: Decorated with ruffles or lace
-eg: She wore a frilly dress with layers of white lace that bounced as she walked down the garden path
-eg: The curtains look frilly and old-fashioned, a relic from the previous owner that the new tenants plan to replace
-
 # Frivolous
 
 pho: /ˈfrɪv.ə.ləs/
@@ -2989,6 +2995,20 @@ def: Producing good results
 eg: The meeting was surprisingly fruitful — three issues were resolved, two new ideas were proposed, and everyone left motivated
 eg: They had a fruitful discussion that laid the groundwork for a partnership neither side had expected to agree on
 
+# Frustrated
+
+pho: /ˈfrʌs.treɪ.tɪd/
+def: Feeling annoyed because you cannot do or get what you want
+eg: He grew frustrated after the form rejected his application for the third time
+eg: She was frustrated that the decision kept being postponed from one meeting to the next
+
+# Frustrating
+
+pho: /ˈfrʌs.treɪ.tɪŋ/
+def: Making you feel annoyed because progress is blocked
+eg: It is frustrating to wait two weeks for an answer that could have been sent the same day
+eg: The slow login is the most frustrating part of an otherwise simple tool
+
 # Full
 
 pho: /fʊl/
@@ -3030,13 +3050,6 @@ pho: /ˈfʌz.i/
 def: Blurry or unclear; soft-textured
 eg: The image looks fuzzy because the camera was slightly out of focus when the shot was taken
 eg: He wore a fuzzy sweater that looked cozy but shed tiny fibers all over every dark surface it touched
-
-# Gargantuan
-
-pho: /ɡɑːrˈɡæn.tʃu.ən/
-def: Enormously large; far bigger than expected
-eg: Clearing the backlog of emails was a gargantuan task that took the whole day
-eg: The statue is gargantuan — visitors look like insects standing at its base
 
 # Gaseous
 
@@ -3137,13 +3150,6 @@ pho: /ˈɡliː.mɪŋ/
 def: Shining brightly
 eg: The floor was gleaming after the cleaners had been through — not a scuff mark or dust particle in sight
 eg: She smiled with gleaming eyes, the kind of expression that suggests she knows something the rest of the room doesn’t
-
-# Gleeful
-
-pho: /ˈɡliː.fəl/
-def: Full of joy or delight
-eg: The children were gleeful when they saw the snow outside, pressing their faces against the window and demanding to go out immediately
-eg: A gleeful laugh escaped him before he could stop it, which made it obvious he already knew the outcome
 
 # Glistening
 
@@ -3321,26 +3327,12 @@ def: Holding your attention completely; exciting and hard to stop reading or wat
 eg: The novel is a gripping thriller that kept me reading until two in the morning
 eg: The match was so gripping that none of the spectators moved from their seats
 
-# Grizzled
-
-pho: /ˈɡrɪz.əld/
-def: Having gray or white hair
-eg: A grizzled veteran sat at the bar, nursing a drink and telling stories to anyone willing to listen
-eg: His beard looked grizzled and unkempt, as if he’d spent the past two weeks camping without a razor
-
 # Gross
 
 pho: /ɡroʊs/
 def: Unpleasant or excessive
 eg: That smell coming from the fridge is absolutely gross — something has been in there far too long
 eg: Saying she never listens is a gross exaggeration — she just processes things differently and tends to respond later
-
-# Grotesque
-
-pho: /ɡroʊˈtesk/
-def: Extremely ugly or distorted
-eg: A grotesque statue guarded the entrance to the cemetery, its features twisted and weathered beyond recognition
-eg: The scene was grotesque — a combination of violence and chaos that left the investigators shaken for days
 
 # Grouchy
 
@@ -3384,13 +3376,6 @@ pho: /ˈɡrʌb.i/
 def: Dirty or untidy
 eg: Grubby hands had left marks all over the glass door, a sure sign the children had been through recently
 eg: He wore a grubby shirt that should have gone in the wash three days ago, but he had run out of clean ones
-
-# Gruesome
-
-pho: /ˈɡruː.səm/
-def: Extremely unpleasant or horrifying
-eg: The aftermath of the crash was a gruesome sight that the first responders found deeply disturbing
-eg: The movie had gruesome scenes that weren’t necessary for the story and seemed included purely for shock value
 
 # Grumpy
 
@@ -3850,13 +3835,6 @@ def: Unable to read or write
 eg: Many adults were once illiterate in regions where schools were unavailable or attendance wasn’t enforced
 eg: He was functionally illiterate, able to recognize some common signs but unable to read or understand a full sentence
 
-# Illustrious
-
-pho: /ɪˈlʌs.tri.əs/
-def: Highly distinguished or famous
-eg: She had an illustrious career spanning four decades, with her name attached to some of the most important cases in the field
-eg: She comes from an illustrious family with three generations of distinguished public service and academic achievement
-
 # Imaginary
 
 pho: /ɪˈmædʒ.ə.ner.i/
@@ -3928,20 +3906,6 @@ def: Having faults, mistakes, or missing elements; not fully complete or correct
 eg: It’s an imperfect solution, but it’s the best we can do given the time constraints
 eg: The data was imperfect — several key fields were missing or inconsistent
 
-# Imperturbable
-
-pho: /ˌɪm.pɚˈtɝː.bə.bəl/
-def: Unable to be disturbed or upset; remaining completely calm under pressure
-eg: She remained imperturbable even as the situation spiraled, issuing clear instructions without raising her voice
-eg: His imperturbable demeanor during the crisis impressed everyone who worked with him
-
-# Impish
-
-pho: /ˈɪm.pɪʃ/
-def: Playfully mischievous
-eg: An impish grin spread across his face when he realized no one had noticed what he had done
-eg: The child gave an impish look before hiding the toy behind her back and pretending she had no idea where it had gone
-
 # Impolite
 
 pho: /ˌɪm.pəˈlaɪt/
@@ -4005,6 +3969,13 @@ def: Present from birth; natural
 eg: Whether musical talent is inborn or learned through early exposure is a debate that researchers continue to explore
 eg: She has an inborn ability to calm anxious situations, almost as if she can sense tension before it becomes visible
 
+# Inclusive
+
+pho: /ɪnˈkluː.sɪv/
+def: Including a wide range of people, or including everything mentioned
+eg: The workshop was designed to be inclusive, with materials in plain language and captions on every video
+eg: The price is inclusive of tax and delivery, so there is nothing extra to pay at checkout
+
 # Incomparable
 
 pho: /ɪnˈkɑːm.pə.rə.bəl/
@@ -4047,12 +4018,12 @@ def: Impossible to remove or forget
 eg: The experience left an indelible mark on the region — a generation grew up defined by what happened that summer
 eg: That farewell concert left an indelible memory in everyone who was there and still comes up in conversation decades later
 
-# Indolent
+# Independent
 
-pho: /ˈɪn.də.lənt/
-def: Lazy or avoiding activity
-eg: An indolent attitude toward revision led to poor results that could easily have been avoided with more effort
-eg: He became indolent over time as the job grew repetitive and offered no new challenges or recognition
+pho: /ˌɪn.dɪˈpen.dənt/
+def: Not controlled by or depending on someone else
+eg: They hired an independent reviewer so the findings would not be shaped by the project team
+eg: She is independent in her work and rarely needs a manager to break the task into steps
 
 # Inexperienced
 
@@ -4109,6 +4080,13 @@ pho: /ˈɪn.ə.sənt/
 def: Not guilty or naive
 eg: An innocent child shouldn’t have to grow up in an environment defined by conflict and fear
 eg: She’s innocent of the crime and has cooperated fully with the investigation to prove it
+
+# Innovative
+
+pho: /ˈɪn.ə.veɪ.tɪv/
+def: Introducing new ideas or methods
+eg: The most innovative part of the product is the way it explains errors in ordinary language
+eg: An innovative school in the district lets students spend one afternoon a week on a project they choose
 
 # Insecure
 
@@ -4194,19 +4172,19 @@ def: Involving or relating to more than one country
 eg: She took an international flight connecting through three different airports
 eg: The conflict strained international relations between the two neighboring nations
 
-# Intrepid
-
-pho: /ɪnˈtrep.ɪd/
-def: Fearless and adventurous
-eg: An intrepid explorer, he spent four months crossing the continent on foot with no fixed route and minimal supplies
-eg: She’s intrepid in her travels, choosing places that most tourists skip and conditions most people would find too challenging
-
 # Ironclad
 
 pho: /ˈaɪ.ɚn.klæd/
 def: Extremely strong or secure
 eg: She wanted an ironclad guarantee in writing before she agreed to any part of the deal
 eg: Ironclad rules apply to the use of proprietary data, and any breach is treated as grounds for immediate dismissal
+
+# Irrelevant
+
+pho: /ɪˈrel.ə.vənt/
+def: Not related to what is being discussed or decided
+eg: His previous job title was irrelevant because the role required a skill he had never used
+eg: Please leave out irrelevant detail so the summary stays under one page
 
 # Irresponsible
 
@@ -4285,13 +4263,6 @@ def: Happy, cheerful, and full of good humor
 eg: His jolly laugh was so infectious that even grumpy colleagues couldn’t help smiling
 eg: Despite the cold weather, the group was jolly, singing songs around the fire all evening
 
-# Jovial
-
-pho: /ˈdʒoʊ.vi.əl/
-def: Friendly, cheerful, and good-humored; making others feel welcome and at ease
-eg: The jovial host made sure every guest had a drink and someone to talk to
-eg: His jovial nature made him the first person anyone called when they needed cheering up
-
 # Joyful
 
 pho: /ˈdʒɔɪ.fəl/
@@ -4305,13 +4276,6 @@ pho: /ˈdʒɔɪ.əs/
 def: Full of joy and causing happiness; exuberantly cheerful
 eg: The wedding was a joyous celebration that lasted well into the night
 eg: The news was joyous — after years of waiting, they had finally been approved to adopt
-
-# Jubilant
-
-pho: /ˈdʒuː.bə.lənt/
-def: Feeling great joy, especially because of success
-eg: The team was jubilant after winning the final and ran a lap of the pitch to applause from every corner of the stadium
-eg: Jubilant cheers filled the room when the last of the obstacles was finally cleared and approval was confirmed
 
 # Judicious
 
@@ -4354,13 +4318,6 @@ pho: /ˈdʒuː.və.naɪl/
 def: Relating to young people; immature
 eg: Juvenile behavior in the workplace doesn’t disappear with age — some people never lose the habit of putting others down for a laugh
 eg: He has a juvenile sense of humor that he tones down in professional settings but lets run free among close friends
-
-# Kaleidoscopic
-
-pho: /kəˌlaɪ.dəˈskɑː.pɪk/
-def: Having complex, shifting patterns or colors
-eg: A kaleidoscopic display of lights danced across the ceiling as the mirror ball turned slowly above the dance floor
-eg: The city offered kaleidoscopic scenes at every turn — old mosques beside modern towers, street food next to fine dining
 
 # Keen
 
@@ -4658,13 +4615,6 @@ def: Extremely angry; furious to the point of losing composure
 eg: She was livid about the delay — the package had been sitting at the warehouse for two weeks
 eg: His livid reaction to the news scared everyone in the room into silence
 
-# Loathsome
-
-pho: /ˈloʊð.səm/
-def: Causing intense dislike or disgust; deeply offensive
-eg: The documentary exposed the loathsome conditions workers were forced to endure
-eg: His loathsome behavior at the dinner table made it impossible to enjoy the meal
-
 # Lone
 
 pho: /loʊn/
@@ -4772,26 +4722,12 @@ def: Moving in a slow, heavy, and awkward manner
 eg: The old truck made a lumbering turn into the narrow lane, barely fitting between the walls
 eg: The bear made lumbering steps toward the river, not in any hurry at all
 
-# Luminous
-
-pho: /ˈluː.mə.nəs/
-def: Giving off light; glowing
-eg: Luminous stars filled the sky above the desert, more visible than most people ever get to see from a city
-eg: A luminous display of bioluminescent plankton lit the waves at night, making the beach glow with every footstep
-
 # Lumpy
 
 pho: /ˈlʌm.pi/
 def: Having lumps; uneven in shape or texture
 eg: The mashed potatoes were lumpy because she hadn’t taken the time to boil them long enough before mashing
 eg: The road through the old quarter was lumpy and uneven, forcing drivers to slow to a crawl to avoid damaging their tyres
-
-# Lustrous
-
-pho: /ˈlʌs.trəs/
-def: Shiny; having a gentle glow
-eg: She had lustrous hair that fell past her shoulders and caught the light whenever she moved
-eg: The auctioneer held up a lustrous pearl necklace and described it as the finest lot of the evening
 
 # Luxurious
 
@@ -4842,12 +4778,12 @@ def: Relating to the sex that typically produces sperm
 eg: A male lion rested under a tree at the edge of the grassland, barely moving despite the activity around it
 eg: Male and female athletes now compete in many of the same events, though separate categories still exist in most disciplines
 
-# Mammoth
+# Mandatory
 
-pho: /ˈmæm.əθ/
-def: Extremely large; of very great size or difficulty
-eg: Rebuilding the entire database was a mammoth task that took the team six months
-eg: Mammoth crowds lined the streets for hours waiting to catch a glimpse of the parade
+pho: /ˈmæn.dəˌtɔːr.i/
+def: Required by a rule or law
+eg: Safety training is mandatory for every new employee before they enter the warehouse
+eg: The form marks three fields as mandatory, and the rest can be left blank
 
 # Married
 
@@ -4890,13 +4826,6 @@ pho: /ˈmiː.ɡɚ/
 def: Small in amount; insufficient
 eg: She lived on a meager salary that barely covered rent, food, and transport — nothing left over for savings or emergencies
 eg: The project team worked with meager resources for the first year, improvising constantly until the second round of funding arrived
-
-# Mealy
-
-pho: /ˈmiː.li/
-def: Soft and dry in an unpleasant way
-eg: She avoided mealy apples, insisting that the best ones should be crisp enough to make a sound when you bite into them
-eg: The potato had a mealy texture that made it unsuitable for the salad, where a firm, waxy variety would have worked better
 
 # Mean
 
@@ -5044,13 +4973,6 @@ pho: /ˈmɪz.ɚ.ə.bəl/
 def: Very unhappy or uncomfortable
 eg: The weather was miserable for the entire long weekend — grey, wet, and cold enough to cancel all the outdoor plans
 eg: He felt miserable all day after the argument and struggled to concentrate on anything else
-
-# Miserly
-
-pho: /ˈmaɪ.zɚ.li/
-def: Unwilling to spend money; stingy
-eg: The miserly old man refused to heat the house above thirteen degrees and wore a coat indoors all winter
-eg: His miserly habits meant he had saved a significant sum by the time he retired, though he rarely allowed himself to enjoy it
 
 # Misguided
 
@@ -5537,6 +5459,13 @@ def: Outdated or traditional
 eg: Her old-fashioned values around hospitality meant that no guest ever left her home without being offered food, tea, and a proper seat
 eg: He used an old-fashioned rotary phone in his study as a quirky decorative piece, though he never used it for actual calls
 
+# Ongoing
+
+pho: /ˈɑːnˌɡoʊ.ɪŋ/
+def: Continuing, and not finished yet
+eg: There is an ongoing investigation, so the company cannot comment on the details
+eg: Support after the launch is an ongoing cost, not a one-time fee
+
 # Only
 
 pho: /ˈoʊn.li/
@@ -5564,13 +5493,6 @@ pho: /ˌɑːp.təˈmɪs.tɪk/
 def: Expecting good outcomes; having a positive view of the future
 eg: Despite the setbacks, she maintained an optimistic outlook and kept pushing the team forward
 eg: He’s optimistic about the negotiations, believing both sides want a resolution
-
-# Opulent
-
-pho: /ˈɑː.pjə.lənt/
-def: Rich, luxurious, or lavish
-eg: An opulent mansion stood at the end of a long private drive, surrounded by formal gardens and a fountain visible from the road
-eg: Opulent decorations filled the hall for the gala — crystal chandeliers, floral arrangements, and silk-covered chairs
 
 # Orange
 
@@ -5606,13 +5528,6 @@ pho: /əˈrɪdʒ.ən.əl/
 def: New, fresh, or not copied
 eg: It was a genuinely original idea that no one in the room had encountered before in any form
 eg: The original painting was destroyed in the fire, leaving only reproductions and black-and-white photographs behind
-
-# Ornate
-
-pho: /ɔːrˈneɪt/
-def: Highly decorated
-eg: The painting was set in an ornate frame of gilded wood that had been crafted by hand in the seventeenth century
-eg: The ornate architecture of the old city hall stood in striking contrast to the plain concrete towers built around it
 
 # Ornery
 
@@ -5718,13 +5633,6 @@ pho: /peɪl/
 def: Light in color or lacking brightness
 eg: Her pale skin made her look as though she hadn’t slept in days, which turned out to be accurate
 eg: A pale blue sky stretched above the rooftops on the clearest morning they had had in weeks
-
-# Paltry
-
-pho: /ˈpɔːl.tri/
-def: Very small or insignificant
-eg: The settlement offered a paltry sum that bore no relation to the damage that had actually been caused
-eg: Paltry efforts to address the problem early on led to a much more expensive and disruptive intervention later
 
 # Parallel
 
@@ -5887,13 +5795,6 @@ def: Simple or not decorated
 eg: She dressed in plain clothing that drew no attention, practical rather than stylish, bought to last rather than impress
 eg: The plain truth was that the project had been mismanaged from the start and everyone in the room already knew it
 
-# Plaintive
-
-pho: /ˈpleɪn.tɪv/
-def: Expressing sadness or longing
-eg: A plaintive cry came from somewhere in the long grass near the fence, soft enough that she almost missed it
-eg: He spoke in a plaintive tone that made it hard not to feel at least some sympathy, even for those who disagreed with him
-
 # Plastic
 
 pho: /ˈplæs.tɪk/
@@ -6000,13 +5901,6 @@ def: Liked by many people
 eg: The song became popular almost immediately after it was posted online, reaching a million streams within a week
 eg: Popular opinion shifted quickly once the full story emerged, and sympathy moved from the corporation to the whistleblower
 
-# Portly
-
-pho: /ˈpɔːrt.li/
-def: Short and fat in a pleasant way
-eg: A portly gentleman in a pinstriped suit sat at the end of the bar, nursing a whisky and reading a broadsheet newspaper
-eg: His portly appearance belied the surprising speed he showed on the squash court, where he rarely lost
-
 # Posh
 
 pho: /pɑːʃ/
@@ -6063,6 +5957,13 @@ pho: /ˈpreʃ.əs/
 def: Very valuable or loved
 eg: Precious memories of that summer stayed with her for decades — the kind you return to without trying
 eg: A precious stone of unusual clarity was found embedded in the rock face during the routine excavation
+
+# Preliminary
+
+pho: /prɪˈlɪm.əˌner.i/
+def: Coming before the final version, and still open to change
+eg: These are preliminary results, and the final report will include the remaining sites
+eg: A preliminary budget was enough to start the discussion, even though several numbers were estimates
 
 # Present
 
@@ -6141,6 +6042,13 @@ def: Of outstanding quality or worth winning; outstanding among others of its ki
 eg: The farmer raised a prize bull that won every regional competition
 eg: The critic called it a prize performance, better than anything the actor had done before
 
+# Proactive
+
+pho: /ˌproʊˈæk.tɪv/
+def: Acting early to deal with a problem before it grows
+eg: A proactive check of the invoices caught the duplicate payment before it went out
+eg: She is proactive with clients and writes to them before they have to ask for an update
+
 # Probable
 
 pho: /ˈprɑː.bə.bəl/
@@ -6155,19 +6063,19 @@ def: Producing a lot or useful results
 eg: It had been a productive day — three meetings that actually led to decisions and a report finished two days ahead of schedule
 eg: The productive discussions between the two departments led to a shared workplan that benefited both teams
 
+# Professional
+
+pho: /prəˈfeʃ.ən.əl/
+def: Related to a job requiring training, or showing the skill and manner expected at work
+eg: He stayed professional during the disagreement and kept the conversation on the facts
+eg: The association offers professional development courses for people moving into management
+
 # Profitable
 
 pho: /ˈprɑː.fɪ.t̬ə.bəl/
 def: Yielding financial gain or benefit
 eg: The business became profitable in its third year, earlier than most people in the industry had thought likely
 eg: The venture turned out to be profitable beyond what the initial projections had suggested, even under conservative assumptions
-
-# Profuse
-
-pho: /prəˈfuːs/
-def: Abundant or plentiful
-eg: He offered profuse apologies for the error, but the damage to the relationship had already been done
-eg: Profuse rainfall over three consecutive days caused rivers to overflow across the lower part of the valley
 
 # Proper
 
@@ -6232,13 +6140,6 @@ def: Aggressively trying to get what one wants; overbearing or overly persistent
 eg: The pushy salesperson followed them around the store and wouldn’t take no for an answer
 eg: He came across as pushy in the negotiation, making demands before understanding the other side’s position
 
-# Putrid
-
-pho: /ˈpjuː.trɪd/
-def: Rotten or foul-smelling
-eg: Putrid garbage had been left on the pavement for days after the collection was missed during the holiday period
-eg: A putrid smell hit them as they opened the basement door, suggesting something had died in there some time ago
-
 # Puzzled
 
 pho: /ˈpʌz.əld/
@@ -6287,13 +6188,6 @@ pho: /ˈkwiː.zi/
 def: Feeling nauseated or uneasy
 eg: She felt queasy after the ride and sat quietly on a bench for a few minutes before attempting to walk back to the car
 eg: A queasy stomach had kept her from eating anything since the previous evening, which only made things worse
-
-# Querulous
-
-pho: /ˈkwer.ə.ləs/
-def: Complaining in a petulant manner
-eg: A querulous child sat by the door, complaining loudly about having to wait while her parents finished the paperwork
-eg: His querulous remarks during the presentation annoyed the speakers and distracted the rest of the audience
 
 # Questionable
 
@@ -6464,6 +6358,13 @@ def: Occurring at fixed intervals or normal
 eg: Regular exercise at least three times a week became non-negotiable for her after the health scare two years ago
 eg: A regular customer at the bakery every Saturday, she always ordered the same thing and always left a generous tip
 
+# Relevant
+
+pho: /ˈrel.ə.vənt/
+def: Closely connected to the subject being discussed
+eg: Please bring the relevant documents, especially the signed contract and the latest invoice
+eg: Experience in a classroom is relevant even if the job itself is not in a school
+
 # Reliable
 
 pho: /rɪˈlaɪ.ə.bəl/
@@ -6500,13 +6401,6 @@ def: Done or taking place away from a central workplace, usually using the inter
 eg: Remote villages in the highland region remained without electricity for months after the storm damaged the main lines
 eg: The remote control for the television had been missing for three weeks and was eventually found behind the radiator
 eg: He accepted a remote position with a software company
-
-# Repentant
-
-pho: /rɪˈpen.tənt/
-def: Feeling sincere regret or sorrow for wrongdoing; expressing remorse
-eg: The repentant sinner made a public confession and asked the community for forgiveness
-eg: She was genuinely repentant about the harm her words had caused and reached out to apologize
 
 # Repulsive
 
@@ -6901,13 +6795,6 @@ def: Significant in degree or importance
 eg: They had a serious discussion about whether to move abroad
 eg: The damage from the flood was more serious than anyone had initially estimated
 
-# Serpentine
-
-pho: /ˈsɝː.pən.taɪn/
-def: Winding or twisting like a snake
-eg: A serpentine road wound through the mountain, doubling back on itself so many times that the journey took twice as long as the map suggested
-eg: The dancer’s serpentine movements seemed boneless and effortless, drawing every eye in the room
-
 # Several
 
 pho: /ˈsev.ɚ.əl/
@@ -7240,13 +7127,6 @@ def: Doing things secretly or slyly
 eg: He pulled a sneaky trick during the game that technically wasn’t against the rules but felt very much like it should be
 eg: Sneaky behavior in the workplace rarely stays hidden for long — people notice patterns, even if they say nothing immediately
 
-# Sniveling
-
-pho: /ˈsnɪv.əl.ɪŋ/
-def: Whining, crying weakly, or making complaints in a self-pitying way
-eg: The sniveling child refused to eat dinner and kept crying until his parents gave in
-eg: He offered sniveling excuses for why the deadline was missed instead of taking responsibility
-
 # Snoopy
 
 pho: /ˈsnuː.pi/
@@ -7394,13 +7274,6 @@ def: Flavored with spice; piquant
 eg: Spicy food had been something she avoided for years before discovering that the heat became genuinely enjoyable with time
 eg: The spicy sauce served with the main course turned out to be far hotter than the menu description had suggested
 
-# Spiffy
-
-pho: /ˈspɪf.i/
-def: Stylish, neat, or attractive
-eg: He arrived in a spiffy suit that looked brand new despite being almost fifteen years old and carefully maintained
-eg: Spiffy shoes and a pressed collar made him look more polished than most people managed on an ordinary Monday
-
 # Spirited
 
 pho: /ˈspɪr.ɪ.tɪd/
@@ -7435,13 +7308,6 @@ pho: /ˈspɑː.tɪd/
 def: Marked with spots
 eg: She bought a spotted coat that managed to look both playful and professional depending on what she wore it with
 eg: A spotted dog bounded across the garden, scattering birds in every direction before skidding to a halt by the fence
-
-# Spry
-
-pho: /spraɪ/
-def: Active, nimble, and energetic, especially for someone elderly
-eg: The spry eighty-year-old walked three miles every morning and still tended his garden
-eg: She was surprisingly spry for her age, dancing well into the evening at the celebration
 
 # Square
 
@@ -7569,6 +7435,20 @@ def: Unusual or surprising
 eg: A strange noise coming from the boiler turned out to be a loose component that had been rattling for weeks without being noticed
 eg: Strange behavior from the system alerted the engineer that something was wrong before any formal error message appeared
 
+# Strategic
+
+pho: /strəˈtiː.dʒɪk/
+def: Done as part of a long-term plan to reach an important goal
+eg: Closing the smaller office was a strategic decision, not a reaction to one bad month
+eg: They held a strategic planning session to decide which products to support next year
+
+# Stressed
+
+pho: /strest/
+def: So worried or busy that it is hard to relax
+eg: She felt stressed before the presentation and went through the slides one last time
+eg: The team is stressed because three deadlines landed in the same week
+
 # Strict
 
 pho: /strɪkt/
@@ -7617,13 +7497,6 @@ pho: /ˈstʌn.ɪŋ/
 def: Extremely impressive or attractive
 eg: A stunning view from the top of the hill revealed the whole coastline, with the harbor glittering far below
 eg: Her stunning performance earned a rare five-star review from a critic who hadn’t awarded one in over three years
-
-# Stupendous
-
-pho: /stuːˈpen.dəs/
-def: Extremely great; enormous
-eg: Finishing the marathon in under three hours was a stupendous achievement for someone who had only started running eighteen months earlier
-eg: What looked like stupendous luck on the surface was actually the result of years of preparation and positioning
 
 # Stupid
 
@@ -7904,6 +7777,13 @@ def: Stretched tight or nervous
 eg: A tense situation in the boardroom eased slightly when the senior partner stepped out to take a call
 eg: Her muscles felt tense from sitting hunched over the desk for six hours without standing up once
 
+# Tentative
+
+pho: /ˈten.tə.tɪv/
+def: Not certain or agreed yet
+eg: We have a tentative date of March 12, but it depends on the venue confirming
+eg: His answer was tentative because he had not seen the latest numbers
+
 # Tepid
 
 pho: /ˈtɛp.ɪd/
@@ -8114,6 +7994,13 @@ pho: /treɪnd/
 def: Having received systematic instruction or preparation for a specific role or activity
 eg: A trained nurse responded to the emergency before the ambulance arrived
 eg: The team was well-trained and handled the crisis without any signs of panic
+
+# Transparent
+
+pho: /trænsˈper.ənt/
+def: Open and easy to understand, with nothing important hidden
+eg: The company promised a more transparent pricing page that shows every fee before checkout
+eg: A transparent process matters here, because staff need to see how the decision was made
 
 # Traumatic
 
@@ -8578,6 +8465,13 @@ def: Relating to a city or town
 eg: Urban areas tend to offer more employment options, but the cost of living often makes those options harder to sustain
 eg: An urban lifestyle suited some people perfectly and drained others of the quiet they needed to function well
 
+# Urgent
+
+pho: /ˈɜːr.dʒənt/
+def: Needing immediate action
+eg: Please mark the email urgent only if the client is waiting on an answer today
+eg: The leak was urgent enough that maintenance came out the same afternoon
+
 # Usable
 
 pho: /ˈjuː.zə.bəl/
@@ -8655,13 +8549,6 @@ def: Worth a lot; useful or important
 eg: Valuable advice from someone who had been through the same process six months earlier saved her weeks of trial and error
 eg: Her painting, which had sold at auction for almost nothing thirty years ago, was now considered extremely valuable
 
-# Vapid
-
-pho: /ˈvæp.ɪd/
-def: Offering nothing stimulating or interesting; dull
-eg: The lecture was long and vapid, offering nothing the audience hadn’t already read in the summary notes provided
-eg: He found the conversation vapid and excused himself halfway through on the pretext of needing a refill
-
 # Variable
 
 pho: /ˈver.i.ə.bəl/
@@ -8683,13 +8570,6 @@ def: Smooth and soft like velvet
 eg: The fabric had a velvety softness that made it feel far more expensive than the price had suggested
 eg: The cake had a velvety texture that held together perfectly when cut and melted in the mouth on the first bite
 
-# Venerated
-
-pho: /ˈvɛn.ə.reɪ.tɪd/
-def: Respected or admired greatly
-eg: A venerated leader who had guided the organization through two crises was asked to return in an advisory capacity
-eg: The professor was venerated by former students who credited her with changing how they thought about the subject
-
 # Vengeful
 
 pho: /ˈvɛn.dʒfəl/
@@ -8703,6 +8583,13 @@ pho: /ˈvɛr.ɪ.fɪ.ə.bəl/
 def: Able to be proven true or accurate
 eg: The claim was verifiable through publicly available shipping records that anyone could access with the right reference number
 eg: Verifiable evidence was required for the case to proceed, and the legal team spent weeks gathering documents to meet that standard
+
+# Viable
+
+pho: /ˈvaɪ.ə.bəl/
+def: Capable of working successfully
+eg: The second option is the only viable plan if the grant does not come through
+eg: A shop on that street is viable only if rent stays at the current rate
 
 # Vibrant
 
@@ -8738,13 +8625,6 @@ pho: /ˈvɪɡ.ɚ.əs/
 def: Strong, healthy, and full of energy
 eg: Vigorous exercise four mornings a week had become the structure around which the rest of her routine was organized
 eg: He gave a vigorous performance that showed no sign of the injury he had been carrying for the previous two weeks
-
-# Villainous
-
-pho: /ˈvɪl.ən.əs/
-def: Wicked or evil
-eg: The villainous character in the play was written with enough complexity that the audience wasn’t entirely sure they hated him
-eg: Villainous schemes uncovered by the investigation spanned three years and involved a network of shell companies
 
 # Violent
 
@@ -8808,26 +8688,19 @@ def: Producing strong, clear images in the mind; bright
 eg: Vivid colors in the market stalls — oranges, yellows, deep reds — made the photographs practically vibrate on screen
 eg: He gave such a vivid description of the scene that several people said they felt as though they had been there
 
-# Voluminous
+# Voluntary
 
-pho: /voʊˈluː.mə.nəs/
-def: Large in volume, size, or quantity
-eg: A voluminous book on the subject turned out to be mostly padding, with the core argument fitting comfortably in a chapter
-eg: She wore a voluminous gown that swept the floor and required three people to arrange before the photographs were taken
+pho: /ˈvɑː.lənˌter.i/
+def: Done by choice, not because of a requirement
+eg: Attendance at the Friday session is voluntary, though most of the team still comes
+eg: The extra contribution is voluntary and will not affect anyone's pay
 
-# Wan
+# Vulnerable
 
-pho: /wɑːn/
-def: Pale, weak, or sickly in appearance
-eg: He looked wan and hollow-eyed after the illness, as if a week in bed had taken more out of him than it had put back
-eg: Her wan smile at the end of the shift showed exhaustion that she had been trying to hide all afternoon
-
-# Warlike
-
-pho: /ˈwɔːr.laɪk/
-def: Aggressive or ready to fight
-eg: A warlike nation that had spent centuries in conflict found peace difficult to sustain once it finally arrived
-eg: He had a warlike attitude during negotiations that made every discussion feel like a contest someone had to win
+pho: /ˈvʌl.nər.ə.bəl/
+def: Easy to harm, or exposed to risk
+eg: Older residents were the most vulnerable when the power stayed off overnight
+eg: The system is vulnerable to that kind of error until the patch is installed
 
 # Warm
 
@@ -8913,33 +8786,12 @@ def: Feeling tired or exhausted
 eg: A weary traveler at the end of the queue was visibly relieved when told the flight had been rerouted rather than cancelled
 eg: She gave a weary sigh after the long day that said everything about how close she was to her limit
 
-# Webbed
-
-pho: /wɛbd/
-def: Having connected skin between fingers or toes
-eg: Ducks have webbed feet that allow them to paddle efficiently without sinking into soft mud at the water’s edge
-eg: Webbed swimming gloves are sometimes used by competitive swimmers to increase resistance and strengthen arm muscles
-
-# Wee
-
-pho: /wiː/
-def: Very small; little
-eg: A wee baby slept in the crib under a soft blanket while the family quietly celebrated in the next room
-eg: She had just a wee cup of coffee, saying she was trying to cut down without cutting it out entirely
-
 # Weekly
 
 pho: /ˈwiː.kli/
 def: Happening every week
 eg: Weekly meetings that had run for three hours were reduced to forty-five minutes once a clear agenda was required in advance
 eg: He reads the weekly newspaper on Sunday mornings, one of the few habits that had survived every other change in his routine
-
-# Weepy
-
-pho: /ˈwiː.pi/
-def: Inclined to cry; tearful
-eg: The film made her feel weepy from the third scene onward, which she hadn’t expected from something billed as a comedy
-eg: He became weepy during the sad scene in a way that surprised him and that he tried unsuccessfully to hide
 
 # Weighty
 
@@ -9137,20 +8989,6 @@ def: Characterized by strong winds
 eg: A windy day at the beach turned the afternoon into an adventure of flying bags and sand-covered food
 eg: The hilltop was extremely windy even in calm conditions, and in autumn it became practically impassable
 
-# Winged
-
-pho: /wɪŋd/
-def: Having wings or wing-like extensions
-eg: Winged insects like bees and butterflies are essential pollinators and their decline has significant implications for food supply
-eg: A winged horse appears in several mythological traditions as a symbol of inspiration and the freedom of the creative mind
-
-# Wiry
-
-pho: /ˈwaɪr.i/
-def: Thin, tough, and strong; resembling wire
-eg: A wiry athlete who weighed less than most of her competitors made up for it in speed and sheer tenacity over long distances
-eg: The dog was small but wiry, and when it decided to run toward something, there was no holding it back
-
 # Wise
 
 pho: /waɪz/
@@ -9172,13 +9010,6 @@ def: Shaky or unsteady
 eg: A wobbly table at the corner of the restaurant had been reported three times but was still waiting for the folded napkin remedy
 eg: She felt wobbly after standing for four hours at the exhibition and was relieved to find an empty chair in the last room
 
-# Woeful
-
-pho: /ˈwoʊ.fəl/
-def: Very bad or full of sorrow
-eg: A woeful mistake in the planning phase had set the whole project back by six weeks and cost considerably more to fix
-eg: His expression was genuinely woeful after hearing the news, and no one in the room tried to minimize what he was feeling
-
 # Wonderful
 
 pho: /ˈwʌn.dɚ.fəl/
@@ -9192,13 +9023,6 @@ pho: /ˈwʊd.ən/
 def: Made of wood; stiff or unnatural in movement
 eg: A wooden chair that had been painted five different colors over its long life was stripped back and refinished for the exhibition
 eg: His speech sounded wooden and rehearsed in a way that made it difficult to feel any connection to what he was saying
-
-# Woozy
-
-pho: /ˈwuː.zi/
-def: Feeling dizzy, weak, or unsteady
-eg: She felt woozy after the fairground ride and sat on the nearest bench with her eyes closed for several minutes
-eg: He became woozy from the heat on the crowded platform and was relieved when someone offered him a seat on the train
 
 # Wordy
 
@@ -9270,20 +9094,6 @@ def: Deserving attention, respect, or effort
 eg: A worthy cause that had been struggling for funding for years finally received the backing it needed to scale up properly
 eg: She is worthy of recognition for her work, which had continued quietly and without complaint for over a decade
 
-# Wrathful
-
-pho: /ˈræθ.fəl/
-def: Full of intense anger
-eg: A wrathful king whose court had grown accustomed to fear made the kingdom stable but deeply unhappy
-eg: He was wrathful at the betrayal in a way that was controlled but unmistakable, and the room went very quiet
-
-# Wretched
-
-pho: /ˈrɛtʃ.ɪd/
-def: Extremely bad, unpleasant, or miserable
-eg: Wretched living conditions in the building had been documented and reported before the inspection finally forced a response
-eg: She felt genuinely wretched after hearing the news, not just sad but hollowed out in a way that lasted several days
-
 # Writhing
 
 pho: /ˈraɪ.ðɪŋ/
@@ -9354,13 +9164,6 @@ pho: /ˈjʌm.i/
 def: Delicious or tasty
 eg: The cake was declared genuinely yummy by every child at the table, which the baker took as higher praise than any adult review
 eg: He found the chocolate bar so yummy that he ate it before even reaching the end of the street
-
-# Zany
-
-pho: /ˈzeɪ.ni/
-def: Amusingly unconventional or eccentric
-eg: A zany comedian who seemed to be making it up as he went along had the audience crying with laughter within ten minutes
-eg: The movie had a zany plot that never tried to be anything other than ridiculous, which was exactly its charm
 
 # Zealous
 

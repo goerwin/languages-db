@@ -31,6 +31,13 @@ def: Something that has been achieved successfully; a skill or ability
 eg: Finishing the marathon was a great accomplishment after months of training, especially since she had never considered herself an athlete before
 eg: She listed her accomplishments on her resume, including the successful launch of three products that generated millions in revenue
 
+# Accountability
+
+pho: /əˌkaʊn.təˈbɪl.ə.ti/
+def: The fact of being responsible for decisions and expected to explain them
+eg: Clear accountability stopped the same task from being left with nobody in charge
+eg: The report called for more accountability from officials who approved the spending
+
 # Accuracy
 
 pho: /ˈæk.jə.rə.si/
@@ -119,6 +126,13 @@ pho: /ˈæl.ɡəˌrɪð.əm/
 def: A set of steps or rules a computer follows to solve a problem or make a decision
 eg: The app uses an algorithm to recommend videos
 
+# Alignment
+
+pho: /əˈlaɪn.mənt/
+def: Agreement, or the state of working toward the same goal
+eg: There is still no alignment between sales and support on what the customer was promised
+eg: The workshop was meant to create alignment before the teams started building
+
 # Allegation
 
 pho: /ˌæl.əˈɡeɪ.ʃən/
@@ -202,13 +216,6 @@ pho: /ˈæŋ.ɡər/
 def: A strong feeling of displeasure or hostility
 eg: He could not hide his anger when the decision was reversed without any explanation
 eg: She felt a sudden surge of anger when she realized she had been deliberately misled
-
-# Anguish
-
-pho: /ˈæŋ.ɡwɪʃ/
-def: Severe mental or physical pain or suffering
-eg: The family was in anguish over the missing child, organizing search parties and distributing flyers throughout the surrounding communities for weeks
-eg: He cried out in anguish when he learned that his business partner had embezzled millions and fled the country, leaving behind massive debts
 
 # Anniversary
 
@@ -497,13 +504,6 @@ def: Inclination or prejudice for or against one person or group
 eg: The judge was accused of bias
 eg: We need to eliminate bias from the hiring process
 
-# Bliss
-
-pho: /blɪs/
-def: Perfect happiness; great joy
-eg: Lying in the hammock by the lake on a quiet afternoon was pure bliss
-eg: They spent their honeymoon in marital bliss, away from the stresses of everyday life
-
 # Blueprint
 
 pho: /ˈbluː.prɪnt/
@@ -517,6 +517,13 @@ pho: /bɒnd/
 def: A connection or relationship; a certificate of debt issued by a government or company
 eg: They formed a strong bond during the trip
 eg: The government issued bonds to raise funds
+
+# Bottleneck
+
+pho: /ˈbɒt.əl.nek/
+def: A point where progress slows because too much work must pass through one place
+eg: Legal review became the bottleneck, and every other team was waiting on that one approval
+eg: Hiring one more editor removed the bottleneck that had delayed the newsletter for weeks
 
 # Boundary
 
@@ -1137,6 +1144,13 @@ def: A statement of the exact meaning of a word; the degree of clarity
 eg: Look up the definition in the dictionary
 eg: The image lacks definition
 
+# Deliverable
+
+pho: /dɪˈlɪv.ər.ə.bəl/
+def: Something that must be produced as the result of a project or piece of work
+eg: The main deliverable for this phase is a written plan, not a finished product
+eg: Each deliverable has an owner and a date so nothing is left unnamed
+
 # Democracy
 
 pho: /dɪˈmɒk.rə.si/
@@ -1430,13 +1444,6 @@ def: The state of being equal in terms of rights, status, or opportunity
 eg: Civil rights movements around the world have fought for equality before the law for all people
 eg: Gender equality in the workplace means equal pay and equal opportunities for advancement
 
-# Equilibrium
-
-pho: /ˌek.wɪˈlɪb.ri.əm/
-def: A state of balance; a calm state of mind
-eg: The market reached equilibrium
-eg: She struggled to maintain her equilibrium
-
 # Era
 
 pho: /ˈɪə.rə/
@@ -1681,6 +1688,13 @@ pho: /fid/
 def: A continuously updated list of posts or other content on a website or social media app
 eg: She checked her feed during the break
 
+# Feedback
+
+pho: /ˈfiːd.bæk/
+def: Comments about how well someone did, or about how something could be better
+eg: She asked for feedback on the draft before sending it to the client
+eg: Customer feedback showed that people liked the product but could not find the settings page
+
 # Fellowship
 
 pho: /ˈfel.əʊ.ʃɪp/
@@ -1784,13 +1798,6 @@ pho: /ˈfʌŋk.ʃən/
 def: An activity or purpose; a formal social event
 eg: The function of the heart is to pump blood
 eg: We attended a formal function
-
-# Fury
-
-pho: /ˈfjʊə.ri/
-def: Wild or violent anger
-eg: She was filled with fury
-eg: The storm struck with fury
 
 # Gap
 
@@ -2899,13 +2906,6 @@ def: The study of the fundamental nature of knowledge; a theory or attitude
 eg: She studied philosophy at university
 eg: His philosophy of life is simple
 
-# Plight
-
-pho: /plaɪt/
-def: A dangerous or difficult situation
-eg: The plight of the refugees moved many
-eg: We must address their plight
-
 # Policy
 
 pho: /ˈpɒl.ə.si/
@@ -3127,13 +3127,6 @@ pho: /ˌræʃ.əˈnɑːl/
 def: A set of reasons for a course of action
 eg: She took time to explain the rationale behind the restructuring to ease the team’s concerns
 eg: The rationale for the decision was sound, but the timing was widely criticized
-
-# Realm
-
-pho: /relm/
-def: A kingdom; a field or domain
-eg: The idea may seem unusual, but it’s not beyond the realm of possibility
-eg: Discoveries in the realm of science have transformed how we understand the universe
 
 # Rebellion
 
@@ -3471,13 +3464,6 @@ def: Unity or agreement of feeling or action
 eg: We stand in solidarity with them
 eg: Worker solidarity was strong
 
-# Solitude
-
-pho: /ˈsɒl.ɪ.tjuːd/
-def: The state of being alone
-eg: She enjoys solitude
-eg: The solitude of the mountains
-
 # Sophistication
 
 pho: /səˌfɪs.tɪˈkeɪ.ʃən/
@@ -3498,6 +3484,13 @@ pho: /stəˈbɪl.ə.ti/
 def: The state of being stable
 eg: Political stability is essential for attracting foreign investment and sustained economic growth
 eg: The stability of the economy depends on sound fiscal policy and public confidence in institutions
+
+# Stakeholder
+
+pho: /ˈsteɪkˌhəʊl.də/
+def: A person or group that is affected by a decision or has an interest in its result
+eg: Every stakeholder received the same update so nobody was working from an old version
+eg: Residents are stakeholders in the building plan, along with the city and the developer
 
 # Standard
 
@@ -3635,12 +3628,26 @@ def: A point of entry; the magnitude that must be exceeded
 eg: She stood on the threshold
 eg: The pain threshold varies
 
+# Timeline
+
+pho: /ˈtaɪm.laɪn/
+def: A plan of when the parts of a project will happen
+eg: The timeline slipped by two weeks after the supplier missed the first shipment
+eg: Please add the review dates to the timeline so the client can see what happens next
+
 # Tolerance
 
 pho: /ˈtɒl.ər.əns/
 def: The ability to endure something; willingness to accept others
 eg: Religious tolerance is important
 eg: She has a low tolerance for pain
+
+# Trade-off
+
+pho: /ˈtreɪd.ɒf/
+def: A balance in which choosing one advantage means giving up another
+eg: The trade-off is clear: a lower price means a longer wait for delivery
+eg: There is always a trade-off between adding features and keeping the product simple
 
 # Tradition
 
@@ -3872,16 +3879,16 @@ def: The people engaged in or available for work
 eg: The workforce has grown by fifteen percent since the company expanded into three new markets
 eg: A skilled and well-motivated workforce is one of the most valuable assets any organization can have
 
+# Workload
+
+pho: /ˈwɜːk.ləʊd/
+def: The amount of work a person or team is expected to do
+eg: Her workload doubled in April, when two colleagues left and their projects stayed with her
+eg: The manager moved one client to another team to bring the workload back to a reasonable level
+
 # Yield
 
 pho: /jiːld/
 def: The amount produced; the income from an investment
 eg: This year’s yield from the harvest was lower than expected due to the prolonged drought
 eg: Bond yields have fallen sharply as investors moved money into safer assets amid market uncertainty
-
-# Zeal
-
-pho: /ziːl/
-def: Great energy or enthusiasm
-eg: She approached the task with zeal
-eg: His zeal for the cause was infectious

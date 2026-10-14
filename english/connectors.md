@@ -373,26 +373,6 @@ eg: Some people thrive under pressure; conversely, others need calm to perform w
 pos: start
 subcat: antithetic
 
-# Notwithstanding
-
-cat: contrastive
-lvl: adv
-eg: Notwithstanding the risks, we proceeded
-eg: Notwithstanding the lack of funding, the researchers completed the study
-eg: His qualifications were strong; notwithstanding, the committee had reservations
-pos: start
-subcat: concessive
-
-# Be that as it may
-
-cat: contrastive
-lvl: adv
-eg: Be that as it may, we need a solution
-eg: Be that as it may, the work still needs to be done by Friday
-eg: Her intentions were good; be that as it may, the outcome was still damaging
-pos: start
-subcat: concessive
-
 # Having said that
 
 cat: contrastive
@@ -968,16 +948,6 @@ eg: Speaking of which, I think we should revisit the budget before making a fina
 pos: start
 subcat: transitional
 
-# Thereafter
-
-cat: sequential
-lvl: adv
-eg: Thereafter, everything changed
-eg: The law was passed in June; thereafter, companies had six months to comply
-eg: She graduated in the spring and thereafter moved to a different city for work
-pos: start
-subcat: timing
-
 # In due course
 
 cat: sequential
@@ -1180,16 +1150,6 @@ eg: The new policy will undoubtedly face resistance from some parts of the indus
 pos: start
 subcat: emphasizing
 
-# Unquestionably
-
-cat: clarification
-lvl: adv
-eg: Unquestionably, she’s talented
-eg: It is unquestionably the most ambitious project the team has ever undertaken
-eg: Her commitment to the cause is unquestionably genuine and long-standing
-pos: start
-subcat: emphasizing
-
 # Without a doubt
 
 cat: clarification
@@ -1350,24 +1310,6 @@ lvl: mid
 eg: In comparison, the old system was slow
 eg: In comparison to the original estimate, the final cost was 30% higher
 eg: The new version is far more intuitive; in comparison, the old one feels clunky
-pos: start
-
-# Correspondingly
-
-cat: comparison
-lvl: adv
-eg: Correspondingly, the results improved
-eg: As investment in training increased, productivity correspondingly rose
-eg: Costs fell; correspondingly, profit margins widened across all product lines
-pos: start
-
-# By the same token
-
-cat: comparison
-lvl: adv
-eg: By the same token, we should also reconsider the hiring timeline
-eg: If we expect honesty from others, by the same token, we must be honest ourselves
-eg: We value efficiency; by the same token, we should not sacrifice quality for speed
 pos: start
 
 # Along the same lines
@@ -1716,15 +1658,6 @@ lvl: adv
 eg: At the end of the day, results matter
 eg: We may disagree on methods; at the end of the day, we all want the same outcome
 eg: At the end of the day, it’s the effort you put in that determines where you end up
-pos: start
-
-# In the final analysis
-
-cat: summative
-lvl: adv
-eg: In the final analysis, we succeeded
-eg: In the final analysis, the most important factor was the commitment of the team
-eg: In the final analysis, the project failed not because of budget but because of poor communication
 pos: start
 
 # Taking everything into account

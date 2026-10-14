@@ -171,14 +171,6 @@ eg: At this point, we need to make a decision
 eg: At this point in the presentation, I'd like to take questions
 pos: start, middle
 
-# Be that as it may
-
-cat: concession
-def: Used to acknowledge a point but then introduce a contrasting or more important consideration
-eg: The costs are high. Be that as it may, we have no alternative
-eg: Be that as it may, I still believe we should try
-pos: start, middle
-
 # Because of this
 
 cat: cause
@@ -217,14 +209,6 @@ cat: contrast
 def: Used to introduce a comparison that shows difference
 eg: Last year we had record profits. By contrast, this year has been difficult
 eg: The north is industrial. By contrast, the south is mainly agricultural
-pos: start, middle
-
-# By the same token
-
-cat: comparison
-def: Used to introduce a similar point or apply the same logic
-eg: If we trust him with the budget, by the same token we should trust him with hiring
-eg: She's great at sales. By the same token, she excels at negotiation
 pos: start, middle
 
 # Clearly
@@ -435,14 +419,6 @@ eg: In a nutshell, we need to cut costs and increase revenue
 eg: The situation, in a nutshell, is that we're running out of time
 pos: start, middle
 
-# In a similar fashion
-
-cat: comparison
-def: Used to indicate that something is done in the same way as something else
-eg: The European division performed well. In a similar fashion, the Asian branch exceeded targets
-eg: We handled the first case carefully; we'll proceed in a similar fashion
-pos: start, middle
-
 # In addition to
 
 cat: addition
@@ -569,14 +545,6 @@ cat: condition
 def: Used to introduce a hypothetical situation and its consequences
 eg: In the event that the deal falls through, we have a backup plan
 eg: In the event that you can't attend, please let us know
-pos: start, middle
-
-# In the final analysis
-
-cat: conclusion
-def: Used to introduce the ultimate conclusion after thorough consideration
-eg: In the final analysis, it's a question of trust
-eg: In the final analysis, the benefits outweigh the costs
 pos: start, middle
 
 # In the first place
@@ -1100,14 +1068,6 @@ eg: To put it simply, we're running out of money
 eg: To put it simply, the more you practice, the better you get
 pos: start, middle
 
-# To say nothing of
-
-cat: addition
-def: Used to add another point that is even more significant
-eg: The cost is high, to say nothing of the time required
-eg: He lacks experience, to say nothing of the necessary qualifications
-pos: middle
-
 # To start with
 
 cat: sequence
@@ -1138,14 +1098,6 @@ cat: condition
 def: Used to introduce an exception or condition that would change the outcome
 eg: We'll proceed unless we hear otherwise
 eg: Unless something changes, we'll miss the deadline
-pos: start, middle
-
-# Undeniably
-
-cat: emphasis
-def: Used to emphasize that something cannot be denied
-eg: Undeniably, the project was a success
-eg: The impact was undeniably positive
 pos: start, middle
 
 # Unlike
@@ -1226,14 +1178,6 @@ cat: purpose
 def: Used to state the purpose or plan behind an action
 eg: She called with the intention of rescheduling the meeting
 eg: He joined the company with the intention of staying for the long term
-pos: middle
-
-# With a view to
-
-cat: purpose
-def: Used to state the purpose or goal; formal
-eg: We're restructuring with a view to improving efficiency
-eg: The changes were made with a view to reducing costs
 pos: middle
 
 # Without a doubt
