@@ -3,6 +3,30 @@ title: English Common Collocations
 description: Natural word combinations that frequently occur together in English, covering verb + noun, adjective + noun, and adverb + adjective pairings
 ---
 
+# Action item
+
+def: A specific task that someone must do, usually agreed in a meeting
+eg: The only action item from today is for Priya to send the revised budget by Thursday
+eg: He ends every meeting by reading the action items so each one has a name and a date
+
+# Best practice
+
+def: A way of doing something that is widely accepted as effective
+eg: Sharing the notes after the meeting is best practice, even when the discussion felt informal
+eg: The guide collects best practice from teams that have already launched this kind of project
+
+# Big picture
+
+def: The situation as a whole, rather than the small details
+eg: The details can wait until we agree on the big picture
+eg: She is good at the big picture, but someone else needs to track the individual tasks
+
+# Bottom line
+
+def: The final result, especially the profit or the most important point
+eg: The bottom line is that we cannot launch until the security review is finished
+eg: Lower costs improved the bottom line, even though sales stayed about the same
+
 # Break a habit
 
 def: To stop doing something that you do regularly, especially something bad
@@ -27,12 +51,6 @@ def: A very strong feeling of disappointment
 eg: Losing the match was a bitter disappointment for the team
 eg: The cancellation of the concert was a bitter disappointment to fans
 
-# Bitter enemy
-
-def: Someone you strongly dislike or oppose
-eg: The two politicians were bitter enemies for decades
-eg: He considered his former business partner a bitter enemy
-
 # Bitter experience
 
 def: A painful or unpleasant experience that teaches a lesson
@@ -50,12 +68,6 @@ eg: It's strange to see owls in broad daylight
 def: A wide variety or selection
 eg: The store offers a broad range of products
 eg: She has a broad range of interests
-
-# Broad shoulders
-
-def: Wide shoulders; also used figuratively to mean ability to handle responsibility
-eg: He has broad shoulders from years of swimming
-eg: She has broad shoulders and can handle the pressure
 
 # Broad smile
 
@@ -199,12 +211,6 @@ def: Serious difficulty or danger
 eg: The company is in deep trouble financially
 eg: He got himself into deep trouble with the law
 
-# Deep voice
-
-def: A low-pitched voice
-eg: He has a deep voice that carries across the room
-eg: The narrator's deep voice was perfect for the documentary
-
 # Deeply affected
 
 def: Strongly influenced or impacted emotionally
@@ -306,6 +312,18 @@ eg: She does volunteer work at the hospital
 def: To try as hard as you can
 eg: Just do your best and that's all anyone can ask
 eg: The team did their best but still lost the game
+
+# Due diligence
+
+def: A careful check of facts and risks before a decision, especially a business decision
+eg: The buyer spent three weeks on due diligence before signing the contract
+eg: Due diligence includes checking the accounts, the contracts, and any open legal claims
+
+# Follow up
+
+def: To contact someone again about something that was already discussed
+eg: I will follow up with the client on Monday if we have not heard back
+eg: Please follow up on the unpaid invoice before it becomes a larger problem
 
 # Fully aware
 
@@ -653,6 +671,12 @@ eg: We're holding our breath for the test results
 def: A work arrangement that combines time at a workplace with remote work
 eg: Her company lets employees choose a hybrid work schedule
 
+# In the loop
+
+def: Informed and included in the latest news about something
+eg: Keep the legal team in the loop if the customer asks to change the contract
+eg: She felt out of the loop because the decision was made while she was on leave
+
 # Keep a diary
 
 def: To write regularly in a personal journal
@@ -844,6 +868,18 @@ eg: I’ll make sure he gets the message before the end of the business day
 def: To earn enough money to support oneself
 eg: He makes a living as a freelance writer
 eg: It's hard to make a living in the arts
+
+# On the same page
+
+def: In agreement about the facts or the plan
+eg: Let us make sure we are on the same page before we talk to the client
+eg: The two managers were not on the same page about who was supposed to approve the hire
+
+# Pain point
+
+def: A specific problem that causes difficulty for a customer or a team
+eg: The main pain point is the time it takes to get a simple question answered
+eg: Interviews with users uncovered one pain point that the survey had missed
 
 # Pay a compliment
 
@@ -1157,6 +1193,12 @@ eg: Building trust with a client takes time, but it’s worth the investment in 
 def: To do something one after another in sequence
 eg: The children took turns on the swing
 eg: We'll take turns driving on the road trip
+
+# Touch base
+
+def: To make brief contact with someone in order to share an update or check progress
+eg: Can we touch base tomorrow morning before the client call
+eg: She touched base with each new hire at the end of their first week
 
 # Widely available
 

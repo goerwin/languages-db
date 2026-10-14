@@ -1301,13 +1301,6 @@ def: To stay on the surface of a liquid
 eg: Wood floats on water
 eg: Balloons floated in the sky
 
-# Flourish
-
-pho: /ˈflɜːr.ɪʃ/
-def: To grow or develop successfully
-eg: The business flourished under new management
-eg: Arts and culture flourished in the city
-
 # Fold
 
 pho: /foʊld/
@@ -1454,13 +1447,6 @@ pho: /ˈhɑːr.vɪst/
 def: To gather crops when they are ready
 eg: Farmers harvest wheat in summer
 eg: They harvested a record crop this year
-
-# Hasten
-
-pho: /ˈheɪ.sən/
-def: To make something happen sooner
-eg: The news hastened his decision
-eg: We must hasten our departure
 
 # Heal
 
@@ -1862,13 +1848,6 @@ def: To suggest someone for a position or honor
 eg: She was nominated for an award
 eg: He nominated his colleague for the committee
 
-# Nourish
-
-pho: /ˈnɜːr.ɪʃ/
-def: To provide food for growth and health
-eg: A balanced diet nourishes the body
-eg: She nourished hopes of success
-
 # Nurture
 
 pho: /ˈnɜːr.tʃər/
@@ -2133,13 +2112,6 @@ pho: /prəˈpoʊz/
 def: To suggest a plan or idea
 eg: He proposed a new strategy
 eg: She proposed to him last night
-
-# Prosper
-
-pho: /ˈprɑː.spər/
-def: To be successful and grow
-eg: The business prospered after the new manager restructured the sales team and opened two new locations
-eg: The region prospered under decades of peace, with literacy rates and living standards rising steadily
 
 # Protect
 
@@ -2974,13 +2946,6 @@ pho: /ˈtrɪɡ.ər/
 def: To cause something to happen
 eg: The incident triggered an investigation
 eg: Stress can trigger headaches
-
-# Triumph
-
-pho: /ˈtraɪ.ʌmf/
-def: To achieve a great victory
-eg: The team triumphed in the final
-eg: Good triumphed over evil
 
 # Undergo
 

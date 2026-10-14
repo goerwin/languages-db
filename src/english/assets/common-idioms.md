@@ -397,11 +397,6 @@ def: To quit or give up
 eg: After hours of trying to fix the engine, he finally threw in the towel
 eg: Don't throw in the towel just yet; you're almost finished
 
-# Touch grass
-
-def: Informal online expression telling someone to step away from the internet and reconnect with everyday life
-eg: After spending all weekend arguing online, he was told to touch grass
-
 # Under the radar
 
 def: Not detected or noticed by people
@@ -413,11 +408,6 @@ eg: This little restaurant has stayed under the radar, but the food is amazing a
 def: Uncertain or not yet decided
 eg: Our vacation plans are still up in the air until we get time off work
 eg: The future of the project is up in the air right now
-
-# Vibe check
-
-def: An informal way to check the mood or general feeling of a person or situation
-eg: I sent the group chat a quick vibe check before making plans
 
 # Better for it
 
