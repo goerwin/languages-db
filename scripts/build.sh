@@ -1,8 +1,7 @@
 #!/bin/bash
+set -euo pipefail
 cd "$(dirname "$0")/.."
 
-for lang in src/*/; do
-  name=$(basename "$lang")
-  mkdir -p "dist/$name"
-  cp -R "$lang/assets/"* "dist/$name/"
-done
+mkdir -p dist
+cp -R content/. dist/
+find dist -name '.DS_Store' -delete

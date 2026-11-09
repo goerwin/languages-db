@@ -1,0 +1,365 @@
+{
+  "scenes": [
+    {
+      "id": "lunch-break",
+      "title": "Lunch break",
+      "summary": "Tell a coworker what you had for lunch.",
+      "partner": {
+        "name": "Maya",
+        "role": "Coworker",
+        "avatar": "👩🏽‍💼"
+      },
+      "turns": [
+        {
+          "id": "had-roast-chicken",
+          "message": "Hey! What did you have for lunch? 🍽️",
+          "hint": "You had roast chicken.",
+          "reply": "I had roast chicken for lunch.",
+          "wrongReplies": [
+            "I took roast chicken in the lunch.",
+            "I ate a roast chicken lunching."
+          ],
+          "note": "Use “had” to say what you ate or drank."
+        },
+        {
+          "id": "chicken-breast",
+          "message": "Nice! A whole chicken or just one part?",
+          "hint": "Just the white meat.",
+          "reply": "Just the chicken breast.",
+          "wrongReplies": [
+            "Just the chicken chest.",
+            "Just the chicken white part."
+          ],
+          "note": "A chicken breast is the lean white-meat cut from a chicken."
+        },
+        {
+          "id": "side-salad",
+          "message": "Did it come with anything?",
+          "hint": "A small salad served with the main dish.",
+          "reply": "It came with a side salad.",
+          "wrongReplies": [
+            "It came with salad at the side of it.",
+            "It came with a lateral salad."
+          ],
+          "note": "A side salad is a small salad served alongside the main dish."
+        },
+        {
+          "id": "rice-pilaf",
+          "message": "Any rice?",
+          "hint": "Rice cooked with broth and seasonings.",
+          "reply": "Yeah, some rice pilaf.",
+          "wrongReplies": [
+            "Yeah, some rice with broth style.",
+            "Yeah, some seasoned rice soup."
+          ],
+          "note": "Rice pilaf is rice cooked with broth and often aromatics or seasonings."
+        },
+        {
+          "id": "mango-juice",
+          "message": "Sounds healthy 😄 What did you drink?",
+          "hint": "You chose mango juice.",
+          "reply": "I had mango juice.",
+          "wrongReplies": [
+            "I took a mango juice.",
+            "I drank a juice of mangoes."
+          ],
+          "note": "Use “had” for a drink you chose with a meal, too."
+        }
+      ],
+      "closing": "Okay, now I’m hungry again 😂 See you at the meeting!"
+    },
+    {
+      "id": "new-restaurant",
+      "title": "The new restaurant",
+      "summary": "Say how a meal tasted and recommend the place.",
+      "partner": {
+        "name": "Maya",
+        "role": "Coworker",
+        "avatar": "👩🏽‍💼"
+      },
+      "turns": [
+        {
+          "id": "really-good",
+          "message": "So, how was that new restaurant?",
+          "hint": "You enjoyed it.",
+          "reply": "It was really good.",
+          "wrongReplies": [
+            "It was very deliciously.",
+            "It was with good flavor."
+          ],
+          "note": "A simple, natural way to say you enjoyed something."
+        },
+        {
+          "id": "ground-beef",
+          "message": "What did you order?",
+          "hint": "Tacos with finely chopped beef.",
+          "reply": "I had tacos with ground beef.",
+          "wrongReplies": [
+            "I had tacos with floor beef.",
+            "I had tacos with beef powder."
+          ],
+          "note": "In American English, “ground beef” is beef minced into small pieces."
+        },
+        {
+          "id": "a-little-spicy",
+          "message": "I heard their food is really hot 🌶️",
+          "hint": "It had a bit of heat, but not too much.",
+          "reply": "It was a little spicy.",
+          "wrongReplies": ["It was small spicy.", "It had few of spicy."],
+          "note": "“A little” softens an adjective and means “somewhat.”"
+        },
+        {
+          "id": "sweet-and-savory",
+          "message": "And the sauce?",
+          "hint": "It was both sugary and salty.",
+          "reply": "It was sweet and savory.",
+          "wrongReplies": [
+            "It was sweet and salty flavorly.",
+            "It was sugar and meat taste."
+          ],
+          "note": "“Savory” describes a rich, salty flavor rather than a sweet one."
+        },
+        {
+          "id": "favorite-dish",
+          "message": "What was the best thing you had?",
+          "hint": "The tacos.",
+          "reply": "The tacos were my favorite.",
+          "wrongReplies": [
+            "The tacos were the most like for me.",
+            "I liked tacos in a favorite way."
+          ],
+          "note": "Use “favorite” to name the thing you liked most."
+        },
+        {
+          "id": "try-it-sometime",
+          "message": "Hmm, maybe I should go.",
+          "hint": "Recommend it in a casual way.",
+          "reply": "You should try it sometime.",
+          "wrongReplies": [
+            "You must test it some time.",
+            "You should taste it one day sometime."
+          ],
+          "note": "A casual recommendation for something the other person might enjoy."
+        }
+      ],
+      "closing": "Okay, it’s on my list. Thanks! 🙌"
+    },
+    {
+      "id": "cooking-class",
+      "title": "Cooking class",
+      "summary": "Name the ways beef is cooked.",
+      "partner": {
+        "name": "Marco",
+        "role": "Cooking teacher",
+        "avatar": "👨🏻‍🍳"
+      },
+      "turns": [
+        {
+          "id": "fried-beef",
+          "message": "First dish! We cook the beef in hot oil until it’s brown. What do we call it?",
+          "hint": "It’s cooked in hot oil.",
+          "reply": "It’s fried beef.",
+          "wrongReplies": ["It’s beef frying.", "It’s beef cooked in the fry."],
+          "note": "“Fried” describes food cooked in hot oil or fat."
+        },
+        {
+          "id": "thin-cut-steak",
+          "message": "Now look at this slice. It’s very thin. What kind of steak is it?",
+          "hint": "A thin slice of beef.",
+          "reply": "It’s a thin-cut steak.",
+          "wrongReplies": [
+            "It’s a steak cut in thinly.",
+            "It’s a small thickness of beef."
+          ],
+          "note": "A thin-cut steak is a thin slice of beef prepared as a steak."
+        },
+        {
+          "id": "pan-fried-beef",
+          "message": "We cook it in a skillet with just a little oil. How do we describe that?",
+          "hint": "A pan and a small amount of oil.",
+          "reply": "It’s pan-fried in a little oil.",
+          "wrongReplies": [
+            "It’s pan-cooked by fryingly.",
+            "It’s fried inside the pan oil."
+          ],
+          "note": "“Pan-fried” means cooked in a pan with a small amount of oil or fat."
+        },
+        {
+          "id": "stewed-beef",
+          "message": "Last dish: beef chunks cooked slowly in liquid for two hours. How was it prepared?",
+          "hint": "Cooked slowly in liquid until soft.",
+          "reply": "It was stewed in a rich sauce.",
+          "wrongReplies": [
+            "It was swimming on a sauce.",
+            "It was cooked in a stewly way."
+          ],
+          "note": "“Stewed” describes food cooked slowly in liquid."
+        }
+      ],
+      "closing": "Excellent work, everyone! Time to eat 🍴"
+    },
+    {
+      "id": "backyard-barbecue",
+      "title": "Backyard barbecue",
+      "summary": "Describe grilled and smoked food from a cookout.",
+      "partner": {
+        "name": "Jake",
+        "role": "Neighbor",
+        "avatar": "🧔🏻"
+      },
+      "turns": [
+        {
+          "id": "grilled-steak",
+          "message": "Saw your photos from Saturday! What did you guys eat?",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1611171711791-b34fa42e9fc2?auto=format&fit=crop&w=800&q=80",
+            "alt": "Grilled steak served with roasted vegetables."
+          },
+          "hint": "Steak cooked on an outdoor grill.",
+          "reply": "We had grilled steak for dinner.",
+          "wrongReplies": [
+            "We had steak grilledly for dinner.",
+            "We had steak from the outdoor oven bars."
+          ],
+          "note": "“Grilled” describes food cooked on a grill over direct heat."
+        },
+        {
+          "id": "smoked-ribs",
+          "message": "And these? They look amazing 🤤",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1679711246825-1f2bd51b16d0?auto=format&fit=crop&w=800&q=80",
+            "alt": "A rack of ribs cooking on a barbecue grill."
+          },
+          "hint": "Ribs cooked slowly in wood smoke.",
+          "reply": "We had smoked ribs.",
+          "wrongReplies": [
+            "We had ribs with smoking.",
+            "We had smoky ribs porks."
+          ],
+          "note": "“Smoked” describes meat cooked slowly in wood smoke for flavor."
+        },
+        {
+          "id": "ribs-smoked-low-and-slow",
+          "message": "How long did they take?",
+          "hint": "Low heat for a long time.",
+          "reply": "Hours! They were smoked low and slow.",
+          "wrongReplies": [
+            "Hours! They were smoked lowly and slowly.",
+            "Hours! They were smoked with a low speed."
+          ],
+          "note": "“Low and slow” is a casual way to describe barbecue cooked at low heat for a long time."
+        },
+        {
+          "id": "fork-tender-beef",
+          "message": "Did you make anything else?",
+          "hint": "Beef so soft you could cut it with a fork.",
+          "reply": "Some slow-cooked beef. It was fork-tender.",
+          "wrongReplies": [
+            "Some slow-cooked beef. It was tender by a fork.",
+            "Some slow-cooked beef. The fork became soft."
+          ],
+          "note": "“Fork-tender” describes food soft enough to cut with a fork."
+        },
+        {
+          "id": "braised-beef",
+          "message": "How do you get beef that soft without a smoker?",
+          "hint": "Brown it, then cook it slowly with a little liquid.",
+          "reply": "You braise it until it’s tender.",
+          "wrongReplies": [
+            "You braisedly make it tender.",
+            "You boil it quickly until it’s tender."
+          ],
+          "note": "“Braise” means to brown meat first, then cook it slowly with a small amount of liquid."
+        }
+      ],
+      "closing": "Next time, invite me! 😄 I’ll bring dessert."
+    },
+    {
+      "id": "comfort-food",
+      "title": "Comfort food",
+      "summary": "Talk about soups, stews, and creamy pasta.",
+      "partner": {
+        "name": "Sofia",
+        "role": "Friend",
+        "avatar": "👩🏻"
+      },
+      "turns": [
+        {
+          "id": "beef-rib-soup",
+          "message": "It’s so cold today 🥶 What did you have for lunch?",
+          "hint": "A bowl of soup made with beef ribs.",
+          "reply": "I had a bowl of beef rib soup.",
+          "wrongReplies": [
+            "I had a soup of ribs beef.",
+            "I took beef ribs in a liquid bowl."
+          ],
+          "note": "This plainly describes a soup made with beef ribs."
+        },
+        {
+          "id": "savory-broth",
+          "message": "Yum. Was it good?",
+          "hint": "The liquid had a deep, salty, satisfying flavor.",
+          "reply": "The broth was rich and savory.",
+          "wrongReplies": [
+            "The soup water was big and salty flavor.",
+            "The broth was savoryly richful."
+          ],
+          "note": "“Broth” is the flavorful liquid in a soup."
+        },
+        {
+          "id": "hearty-meat-stew",
+          "message": "I made this last night. Guess what it is!",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1608500218987-0f2b3be34b47?auto=format&fit=crop&w=800&q=80",
+            "alt": "A bowl of beef stew with chunks of meat and vegetables."
+          },
+          "hint": "Meat and vegetables in a thick, filling dish.",
+          "reply": "A hearty meat-and-vegetable stew?",
+          "wrongReplies": [
+            "A strong meat vegetables souping?",
+            "A stew with very much heart?"
+          ],
+          "note": "“Hearty” describes a filling, substantial meal."
+        },
+        {
+          "id": "fettuccine-alfredo",
+          "message": "Yes! Tomorrow I’m making this. Do you know what it’s called?",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1768668053140-f589ed4bef31?auto=format&fit=crop&w=800&q=80",
+            "alt": "A plate of creamy fettuccine Alfredo topped with parsley."
+          },
+          "hint": "Flat ribbon pasta with a creamy sauce.",
+          "reply": "That’s fettuccine Alfredo.",
+          "wrongReplies": [
+            "That’s Alfredo fettuccine pasta sauce.",
+            "That’s flat noodles with the Alfredo on."
+          ],
+          "note": "Fettuccine is a flat, ribbon-shaped pasta often served with Alfredo sauce."
+        },
+        {
+          "id": "pasta-alfredo-sauce",
+          "message": "What if I forget the name of the pasta?",
+          "hint": "Describe it in a general way.",
+          "reply": "Just say pasta with Alfredo sauce.",
+          "wrongReplies": [
+            "Just say pasta with the sauce Alfredo.",
+            "Just say noodles and Alfredo in separate."
+          ],
+          "note": "Use a general description when you don’t know the exact pasta shape."
+        },
+        {
+          "id": "creamy-alfredo-sauce",
+          "message": "And how would you describe the sauce?",
+          "hint": "Smooth, full of flavor, and made with cream.",
+          "reply": "It’s creamy and rich.",
+          "wrongReplies": [
+            "It’s cream and richness.",
+            "It’s smoothly creamful."
+          ],
+          "note": "“Creamy” describes a smooth texture. “Rich” describes a full, buttery flavor."
+        }
+      ],
+      "closing": "Come over tomorrow, then! 🍝"
+    }
+  ]
+}

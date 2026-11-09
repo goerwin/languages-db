@@ -1,12 +1,11 @@
 import { describe, expect, it } from 'vitest';
 
 import {
-  validateConnectors,
-  validateEntries,
   validateExampleCapitalization,
+  validateExamples,
   validateMdEntries,
   validateTitleCapitalization,
-} from './utils.ts';
+} from './markdown.ts';
 
 describe('validateTitleCapitalization', () => {
   it('returns true for properly capitalized titles', () => {
@@ -30,6 +29,17 @@ describe('validateTitleCapitalization', () => {
   it('returns false for all uppercase titles', () => {
     expect(validateTitleCapitalization('ABANDON')).toBe(false);
     expect(validateTitleCapitalization('BITE THE BULLET')).toBe(false);
+  });
+
+  it('keeps the given acronyms uppercase', () => {
+    expect(validateTitleCapitalization('AI tools')).toBe(false);
+    expect(validateTitleCapitalization('AI tools', new Set(['AI']))).toBe(true);
+  });
+
+  it('handles accented letters', () => {
+    expect(validateTitleCapitalization('Cálido')).toBe(true);
+    expect(validateTitleCapitalization('Ñandú')).toBe(true);
+    expect(validateTitleCapitalization('CÁLIDO')).toBe(false);
   });
 
   it('throws for empty string', () => {
@@ -149,74 +159,6 @@ lvl: beg
   });
 });
 
-describe('validateEntries', () => {
-  it('accepts valid entries', () => {
-    const result = validateEntries(
-      [
-        { title: 'One', lvl: 'beg', eg: ['x'] },
-        { title: 'Two', lvl: 'mid', eg: ['y', 'z'] },
-      ],
-      [
-        { name: 'lvl', unique: true, required: true },
-        { name: 'eg', unique: false, required: true },
-      ],
-    );
-
-    expect(result).toBe(true);
-  });
-
-  it('throws for duplicate titles', () => {
-    expect(() =>
-      validateEntries(
-        [
-          { title: 'One', lvl: 'beg', eg: ['x'] },
-          { title: 'One', lvl: 'mid', eg: ['y'] },
-        ],
-        [
-          { name: 'lvl', unique: true, required: true },
-          { name: 'eg', unique: false, required: true },
-        ],
-      ),
-    ).toThrow(/Duplicate title "One"/);
-  });
-
-  it('throws when unique field is an array', () => {
-    expect(() =>
-      validateEntries(
-        [{ title: 'One', lvl: ['beg'], eg: ['x'] }],
-        [
-          { name: 'lvl', unique: true, required: true },
-          { name: 'eg', unique: false, required: true },
-        ],
-      ),
-    ).toThrow(/prefix "lvl" should be unique but is an array/);
-  });
-
-  it('throws when non-unique field is not an array', () => {
-    expect(() =>
-      validateEntries(
-        [{ title: 'One', lvl: 'beg', eg: 'x' }],
-        [
-          { name: 'lvl', unique: true, required: true },
-          { name: 'eg', unique: false, required: true },
-        ],
-      ),
-    ).toThrow(/prefix "eg" should be an array/);
-  });
-
-  it('throws for unknown entry keys', () => {
-    expect(() =>
-      validateEntries(
-        [{ title: 'One', lvl: 'beg', eg: ['x'], nope: 'bad' }],
-        [
-          { name: 'lvl', unique: true, required: true },
-          { name: 'eg', unique: false, required: true },
-        ],
-      ),
-    ).toThrow(/contains unknown prefix "nope"/);
-  });
-});
-
 describe('validateExampleCapitalization', () => {
   it('returns true for examples starting with a capital letter', () => {
     expect(
@@ -241,6 +183,17 @@ describe('validateExampleCapitalization', () => {
     );
   });
 
+  it('skips opening punctuation', () => {
+    expect(validateExampleCapitalization('¿Dónde está la estación?')).toBe(
+      true,
+    );
+    expect(validateExampleCapitalization('¡Qué sorpresa!')).toBe(true);
+    expect(validateExampleCapitalization('¿dónde está la estación?')).toBe(
+      false,
+    );
+    expect(validateExampleCapitalization('"hello," she said')).toBe(false);
+  });
+
   it('throws for empty string', () => {
     expect(() => validateExampleCapitalization('')).toThrow(
       /Invalid first letter/,
@@ -248,82 +201,14 @@ describe('validateExampleCapitalization', () => {
   });
 });
 
-describe('validateConnectors', () => {
-  it('accepts valid connector markdown', () => {
-    const input = `---
-title: Connectors
----
-
-# However
-cat: contrastive
-subcat: concessive
-lvl: beg
-pos: start
-eg: However, this works.
-syn: nonetheless
-tip: Formal tone
-`;
-
-    const result = validateConnectors(input);
-
-    expect(result.frontMatter).toContain('title: Connectors');
-    expect(result.entries[0]).toMatchObject({
-      title: 'However',
-      cat: 'contrastive',
-      subcat: 'concessive',
-      lvl: 'beg',
-      pos: 'start',
-      tip: 'Formal tone',
-      syn: ['nonetheless'],
-    });
+describe('validateExamples', () => {
+  it('throws for a lowercase example', () => {
+    expect(() =>
+      validateExamples([{ title: 'Calm', eg: ['Stay calm', 'keep going'] }]),
+    ).toThrow(/Example in "Calm" does not start with a capital letter/);
   });
 
-  it('throws for invalid level', () => {
-    const input = `# Xx
-cat: additive
-lvl: expert
-pos: start
-eg: example
-`;
-
-    expect(() => validateConnectors(input)).toThrow(/invalid lvl "expert"/);
-  });
-
-  it('throws for invalid position', () => {
-    const input = `# Xx
-cat: additive
-lvl: beg
-pos: anywhere
-eg: example
-`;
-
-    expect(() => validateConnectors(input)).toThrow(/invalid pos "anywhere"/);
-  });
-
-  it('throws for unknown category', () => {
-    const input = `# Xx
-cat: invalid
-lvl: beg
-pos: start
-eg: example
-`;
-
-    expect(() => validateConnectors(input)).toThrow(
-      /unknown category "invalid"/,
-    );
-  });
-
-  it('throws for subcategory outside category', () => {
-    const input = `# Xx
-cat: comparison
-subcat: concessive
-lvl: beg
-pos: start
-eg: example
-`;
-
-    expect(() => validateConnectors(input)).toThrow(
-      /subcat "concessive" not valid for category "comparison"/,
-    );
+  it('accepts entries without examples', () => {
+    expect(() => validateExamples([{ title: 'Calm' }])).not.toThrow();
   });
 });

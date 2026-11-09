@@ -1,11 +1,13 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { validateTitleCapitalization } from '../src/english/utils.ts';
-
-const assetsDir = path.resolve(import.meta.dirname, '../src/english/assets');
-const grammarDir = path.join(assetsDir, 'grammar');
+import { languageRules } from './languages/index.ts';
+import { contentDirectory, listMarkdownFiles } from './lib/files.ts';
+import { validateTitleCapitalization } from './lib/markdown.ts';
 
 async function fixFile(filePath: string) {
+  const relativePath = path.relative(contentDirectory, filePath);
+  const language = relativePath.split(path.sep)[0] ?? '';
+  const acronyms = languageRules[language]?.titleAcronyms;
   const content = await fs.readFile(filePath, 'utf-8');
   const lines = content.split('\n');
   let changed = false;
@@ -17,13 +19,11 @@ async function fixFile(filePath: string) {
 
       if (typeof title !== 'string') throw new Error('Invalid title');
 
-      if (!validateTitleCapitalization(title)) {
+      if (!validateTitleCapitalization(title, acronyms)) {
         const fixed = title[0]?.toUpperCase() + title.slice(1).toLowerCase();
         lines[i] = `# ${fixed}`;
         changed = true;
-        console.log(
-          `Fixed: "${title}" -> "${fixed}" in ${path.relative(assetsDir, filePath)}`,
-        );
+        console.log(`Fixed: "${title}" -> "${fixed}" in ${relativePath}`);
       }
     }
   }
@@ -33,16 +33,7 @@ async function fixFile(filePath: string) {
   }
 }
 
-const files = [
-  ...(await fs.readdir(assetsDir))
-    .filter((f) => f.endsWith('.md'))
-    .map((f) => path.join(assetsDir, f)),
-  ...(await fs.readdir(grammarDir))
-    .filter((f) => f.endsWith('.md'))
-    .map((f) => path.join(grammarDir, f)),
-];
-
-for (const file of files) {
+for (const file of await listMarkdownFiles()) {
   await fixFile(file);
 }
 

@@ -1,0 +1,208 @@
+{
+  "scenes": [
+    {
+      "id": "come-on-in",
+      "title": "Come on in",
+      "summary": "Show a friend around your living room.",
+      "partner": {
+        "name": "Priya",
+        "role": "Friend",
+        "avatar": "👩🏾"
+      },
+      "turns": [
+        {
+          "id": "couch-or-sofa",
+          "message": "Your place is so cozy! Where can I sit?",
+          "hint": "The long, comfortable seat.",
+          "reply": "You can sit on the couch.",
+          "wrongReplies": [
+            "You can seat in the sofa.",
+            "You can sit over the chair-long."
+          ],
+          "note": "A couch (or sofa) is a long, comfortable seat for several people."
+        },
+        {
+          "id": "coffee-table",
+          "message": "Where can I put my drink?",
+          "hint": "The low table in front of the couch.",
+          "reply": "On the coffee table.",
+          "wrongReplies": [
+            "On the table for coffee only.",
+            "On the short living table."
+          ],
+          "note": "A coffee table is a low table in front of a sofa."
+        },
+        {
+          "id": "throw-pillows",
+          "message": "I love these little cushions!",
+          "hint": "Small, soft decorative cushions.",
+          "reply": "Thanks! They’re throw pillows.",
+          "wrongReplies": [
+            "Thanks! They’re pillows to throw away.",
+            "Thanks! They’re cushion throws."
+          ],
+          "note": "Throw pillows are small decorative cushions for a couch or bed."
+        },
+        {
+          "id": "end-table",
+          "message": "What do you call that little table next to the couch?",
+          "hint": "It’s beside the arm of the couch.",
+          "reply": "It’s an end table.",
+          "wrongReplies": [
+            "It’s an ending table.",
+            "It’s the table at the final."
+          ],
+          "note": "An end table is a small table beside a sofa or chair."
+        },
+        {
+          "id": "open-layout",
+          "message": "The kitchen and living room feel like one big space.",
+          "hint": "There are no walls between them.",
+          "reply": "Yeah, it has an open layout.",
+          "wrongReplies": [
+            "Yeah, it has a layout opened.",
+            "Yeah, it has open plan of rooms."
+          ],
+          "note": "An open layout has connected rooms without many walls."
+        }
+      ],
+      "closing": "I love it. You have to show me the rest! 🏡"
+    },
+    {
+      "id": "staying-over",
+      "title": "Staying over",
+      "summary": "Help a guest get comfortable in the bedroom.",
+      "partner": {
+        "name": "Leo",
+        "role": "Cousin",
+        "avatar": "🧑🏻"
+      },
+      "turns": [
+        {
+          "id": "dresser",
+          "message": "Thanks for letting me stay! Where can I put my clothes?",
+          "hint": "The furniture with drawers.",
+          "reply": "You can put them in the dresser.",
+          "wrongReplies": [
+            "You can put them on the clothing drawer furniture.",
+            "You can leave them inside the dress."
+          ],
+          "note": "A dresser is a low piece of furniture with drawers for clothes."
+        },
+        {
+          "id": "nightstand",
+          "message": "Is there somewhere for my phone by the bed?",
+          "hint": "The small table right next to the bed.",
+          "reply": "There’s a nightstand by the bed.",
+          "wrongReplies": [
+            "There’s the night table of sleep.",
+            "A small table is near to bed."
+          ],
+          "note": "A nightstand is a small table beside a bed."
+        },
+        {
+          "id": "bedside-lamp",
+          "message": "I like to read before I sleep 📖",
+          "hint": "There’s a small light on that table.",
+          "reply": "There’s a lamp on the nightstand.",
+          "wrongReplies": [
+            "There’s a light in the sleeping table.",
+            "A lamp is above the night stand bed."
+          ],
+          "note": "A lamp gives light. You can say it’s “on” the nightstand."
+        },
+        {
+          "id": "extra-blanket",
+          "message": "I might get cold tonight.",
+          "hint": "There’s another blanket in the closet.",
+          "reply": "There’s an extra blanket in the closet.",
+          "wrongReplies": [
+            "There’s one blanket more in the cupboard.",
+            "The closet has an additionally blanket."
+          ],
+          "note": "“Extra” means additional."
+        },
+        {
+          "id": "walk-in-closet",
+          "message": "Whoa, this closet is huge!",
+          "hint": "It’s big enough to step inside.",
+          "reply": "Yeah, it’s a walk-in closet.",
+          "wrongReplies": [
+            "Yeah, it’s a closet that you walk on.",
+            "Yeah, it’s a closet for walking."
+          ],
+          "note": "A walk-in closet is big enough to enter and move around in."
+        }
+      ],
+      "closing": "This is better than a hotel 😄 Good night!"
+    },
+    {
+      "id": "settling-in",
+      "title": "Settling in",
+      "summary": "Talk about moving in and setting up your home.",
+      "partner": {
+        "name": "Maya",
+        "role": "Coworker",
+        "avatar": "👩🏽‍💼"
+      },
+      "turns": [
+        {
+          "id": "still-unpacking",
+          "message": "How’s the new apartment? All settled?",
+          "hint": "There are still boxes everywhere.",
+          "reply": "Not yet. I’m still unpacking.",
+          "wrongReplies": [
+            "Not yet. I still unpacking the things.",
+            "Not yet. I am opening my packages still."
+          ],
+          "note": "“Unpacking” is taking things out of boxes after a move or trip."
+        },
+        {
+          "id": "furniture-delivered",
+          "message": "Did your new couch arrive?",
+          "hint": "It arrived this morning.",
+          "reply": "Yes, it was delivered this morning.",
+          "wrongReplies": [
+            "Yes, it was delivery in the morning.",
+            "Yes, they bringed it this morning."
+          ],
+          "note": "“Delivered” means brought to your home by a delivery service."
+        },
+        {
+          "id": "put-together-shelf",
+          "message": "What did you do last night?",
+          "hint": "You assembled a bookcase yourself.",
+          "reply": "I put the bookshelf together.",
+          "wrongReplies": [
+            "I built the bookshelf together.",
+            "I joined all the bookshelf."
+          ],
+          "note": "“Put together” means to build something from separate parts."
+        },
+        {
+          "id": "shelves",
+          "message": "Where are you keeping your plants?",
+          "hint": "You attached boards to the wall.",
+          "reply": "I put up some shelves.",
+          "wrongReplies": [
+            "I put some shelves uping.",
+            "I raised some shelf boards on wall."
+          ],
+          "note": "“Put up” means to attach something to a wall."
+        },
+        {
+          "id": "area-rug",
+          "message": "Does the living room feel cozy yet?",
+          "hint": "You put a big decorative rug on the floor.",
+          "reply": "Yeah, we got a new area rug.",
+          "wrongReplies": [
+            "Yeah, we bought a carpet for one area only.",
+            "Yeah, we got a rug of the area."
+          ],
+          "note": "An area rug covers part of a floor, unlike wall-to-wall carpet."
+        }
+      ],
+      "closing": "Sounds amazing. Housewarming party soon? 🎉"
+    }
+  ]
+}

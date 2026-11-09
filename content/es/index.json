@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "modules": [
+    {
+      "id": "wordDefinition",
+      "vocabulary": ["adjective"]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "adjective",
+      "name": "Adjectives",
+      "icon": "text.book.closed",
+      "file": "vocabulary/adjectives.md"
+    }
+  ]
+}

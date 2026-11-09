@@ -1,129 +1,85 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import {
-  validateConnectors,
-  validateExampleCapitalization,
-  validateGrammar,
-  validateMdEntries,
-} from '../src/english/utils.ts';
+import { languageRules } from './languages/index.ts';
+import { validateConversationFile } from './lib/conversations.ts';
+import { contentDirectory, listFiles } from './lib/files.ts';
+import { validateLanguageIndex, validateLanguageList } from './lib/indexes.ts';
+import { expectUniqueIDs } from './lib/json.ts';
+import { validateExamples } from './lib/markdown.ts';
 
-function getPath(itemPath: string) {
-  return path.resolve(import.meta.dirname, '../src/', itemPath);
+async function readText(relativePath: string) {
+  return fs.readFile(path.join(contentDirectory, relativePath), 'utf-8');
 }
 
-function validateExamples(
-  entries: { title: string; [x: string]: string | string[] }[],
-) {
-  for (const entry of entries) {
-    const examples = entry.eg;
-    if (Array.isArray(examples)) {
-      for (const example of examples) {
-        if (!validateExampleCapitalization(example)) {
-          throw new Error(
-            `Example in "${entry.title}" does not start with a capital letter: "${example}"`,
-          );
-        }
-      }
-    }
+async function readJSON(relativePath: string): Promise<unknown> {
+  return JSON.parse(await readText(relativePath));
+}
+
+async function withContext<T>(where: string, run: () => Promise<T>) {
+  try {
+    return await run();
+  } catch (error) {
+    throw new Error(`${where}: ${(error as Error).message}`, { cause: error });
   }
 }
 
-const grammarDirectory = getPath('english/assets/grammar');
-const grammarValidations = (await fs.readdir(grammarDirectory))
-  .filter((fileName) => fileName.endsWith('.md'))
-  .map(
-    (fileName) =>
-      [path.join(grammarDirectory, fileName), validateGrammar] as const,
+async function validateLanguage(id: string) {
+  const rules = languageRules[id];
+  if (!rules)
+    throw new Error(`Language "${id}" has no rules in scripts/languages`);
+
+  const files = await listFiles(path.join(contentDirectory, id));
+  const index = validateLanguageIndex(
+    await readJSON(`${id}/index.json`),
+    `${id}/index.json`,
   );
 
-const validations = [
-  [
-    getPath('english/assets/adjectives.md'),
-    validateMdEntries,
-    [
-      { name: 'def', unique: false, required: true },
-      { name: 'pho', unique: true, required: true },
-      { name: 'eg', unique: false, required: true },
-    ],
-  ],
-  [
-    getPath('english/assets/adverbs.md'),
-    validateMdEntries,
-    [
-      { name: 'def', unique: false, required: true },
-      { name: 'pho', unique: true, required: true },
-      { name: 'eg', unique: false, required: true },
-    ],
-  ],
-  [
-    getPath('english/assets/collocations.md'),
-    validateMdEntries,
-    [
-      { name: 'def', unique: false, required: true },
-      { name: 'eg', unique: false, required: true },
-    ],
-  ],
-  [
-    getPath('english/assets/common-idioms.md'),
-    validateMdEntries,
-    [
-      { name: 'def', unique: false, required: true },
-      { name: 'eg', unique: false, required: true },
-    ],
-  ],
-  [getPath('english/assets/connectors.md'), validateConnectors],
-  [
-    getPath('english/assets/nouns.md'),
-    validateMdEntries,
-    [
-      { name: 'def', unique: false, required: true },
-      { name: 'pho', unique: true, required: true },
-      { name: 'eg', unique: false, required: true },
-    ],
-  ],
+  for (const item of [...index.vocabulary, ...index.conversations]) {
+    if (!files.includes(item.file))
+      throw new Error(`${id}/index.json: "${item.file}" doesn't exist`);
+  }
 
-  [
-    getPath('english/assets/phrasal-verbs.md'),
-    validateMdEntries,
-    [
-      { name: 'def', unique: false, required: true },
-      { name: 'eg', unique: false, required: true },
-    ],
-  ],
-  [
-    getPath('english/assets/preposition-combinations.md'),
-    validateMdEntries,
-    [
-      { name: 'def', unique: false, required: true },
-      { name: 'cat', unique: true, required: true },
-      { name: 'eg', unique: false, required: true },
-    ],
-  ],
-  [
-    getPath('english/assets/transition-words.md'),
-    validateMdEntries,
-    [
-      { name: 'def', unique: false, required: true },
-      { name: 'cat', unique: true, required: true },
-      { name: 'eg', unique: false, required: true },
-      { name: 'pos', unique: true, required: true },
-    ],
-  ],
-  [
-    getPath('english/assets/verbs.md'),
-    validateMdEntries,
-    [
-      { name: 'def', unique: false, required: true },
-      { name: 'pho', unique: true, required: true },
-      { name: 'eg', unique: false, required: true },
-    ],
-  ],
-  ...grammarValidations,
-] as const;
+  const sceneIDs: string[] = [];
 
-await Promise.all(
-  validations.map(async ([filePath, validator, args]) => {
-    const { entries } = validator(await fs.readFile(filePath, 'utf-8'), args);
-    validateExamples(entries);
-  }),
-);
+  for (const file of files) {
+    if (file === 'index.json') continue;
+    const where = `${id}/${file}`;
+
+    if (file.endsWith('.md')) {
+      if (rules.unvalidatedFiles?.has(file)) continue;
+
+      const validator = rules.markdownValidator(file);
+      if (!validator)
+        throw new Error(`${where}: no validator in scripts/languages/${id}.ts`);
+
+      await withContext(where, async () => {
+        validateExamples(validator(await readText(where)).entries);
+      });
+    } else if (file.startsWith('conversations/') && file.endsWith('.json')) {
+      sceneIDs.push(...validateConversationFile(await readJSON(where), where));
+    } else {
+      throw new Error(`${where}: unexpected file`);
+    }
+  }
+
+  expectUniqueIDs(sceneIDs, `${id} conversation scenes`);
+  return files.length;
+}
+
+const languages = validateLanguageList(await readJSON('index.json'));
+const folders = (await fs.readdir(contentDirectory, { withFileTypes: true }))
+  .filter((entry) => entry.isDirectory())
+  .map((entry) => entry.name);
+
+for (const folder of folders) {
+  if (!languages.some((language) => language.id === folder))
+    throw new Error(`content/${folder} isn't listed in content/index.json`);
+}
+
+for (const language of languages) {
+  if (!folders.includes(language.id))
+    throw new Error(`content/${language.id} doesn't exist`);
+
+  const fileCount = await validateLanguage(language.id);
+  console.log(`✓ ${language.id}: ${fileCount} files`);
+}

@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "modules": [
+    {
+      "id": "wordDefinition",
+      "vocabulary": [
+        "adjective",
+        "adverb",
+        "verb",
+        "noun",
+        "collocation",
+        "phrasalVerb",
+        "prepositionCombination",
+        "transitionWord",
+        "idiom"
+      ]
+    },
+    {
+      "id": "everydayChats",
+      "conversations": [
+        "food-meals",
+        "eating-out",
+        "at-home",
+        "work-small-talk"
+      ]
+    },
+    {
+      "id": "sentenceBuilder",
+      "vocabulary": [
+        "adjective",
+        "adverb",
+        "verb",
+        "noun",
+        "collocation",
+        "phrasalVerb",
+        "prepositionCombination",
+        "transitionWord",
+        "idiom"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "adjective",
+      "name": "Adjectives",
+      "icon": "text.book.closed",
+      "file": "vocabulary/adjectives.md"
+    },
+    {
+      "id": "adverb",
+      "name": "Adverbs",
+      "icon": "speedometer",
+      "file": "vocabulary/adverbs.md"
+    },
+    {
+      "id": "verb",
+      "name": "Verbs",
+      "icon": "bolt.horizontal.circle",
+      "file": "vocabulary/verbs.md"
+    },
+    {
+      "id": "noun",
+      "name": "Nouns",
+      "icon": "square.text.square",
+      "file": "vocabulary/nouns.md"
+    },
+    {
+      "id": "collocation",
+      "name": "Collocations",
+      "icon": "link",
+      "file": "vocabulary/collocations.md"
+    },
+    {
+      "id": "phrasalVerb",
+      "name": "Phrasal Verbs",
+      "icon": "arrow.triangle.branch",
+      "file": "vocabulary/phrasal-verbs.md"
+    },
+    {
+      "id": "prepositionCombination",
+      "name": "Preposition Combinations",
+      "icon": "rectangle.and.text.magnifyingglass",
+      "file": "vocabulary/preposition-combinations.md"
+    },
+    {
+      "id": "transitionWord",
+      "name": "Transition Words",
+      "icon": "arrow.left.arrow.right",
+      "file": "vocabulary/transition-words.md"
+    },
+    {
+      "id": "idiom",
+      "name": "Common Idioms",
+      "icon": "quote.bubble.fill",
+      "file": "vocabulary/common-idioms.md"
+    }
+  ],
+  "conversations": [
+    {
+      "id": "food-meals",
+      "name": "Food & Meals",
+      "icon": "fork.knife",
+      "file": "conversations/food-meals.json"
+    },
+    {
+      "id": "eating-out",
+      "name": "Eating Out",
+      "icon": "cup.and.saucer.fill",
+      "file": "conversations/eating-out.json"
+    },
+    {
+      "id": "at-home",
+      "name": "At Home",
+      "icon": "sofa.fill",
+      "file": "conversations/at-home.json"
+    },
+    {
+      "id": "work-small-talk",
+      "name": "Small Talk at Work",
+      "icon": "bubble.left.and.bubble.right.fill",
+      "file": "conversations/work-small-talk.json"
+    }
+  ]
+}

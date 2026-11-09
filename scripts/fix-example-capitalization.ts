@@ -1,9 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { validateExampleCapitalization } from '../src/english/utils.ts';
-
-const assetsDir = path.resolve(import.meta.dirname, '../src/english/assets');
-const grammarDir = path.join(assetsDir, 'grammar');
+import { contentDirectory, listMarkdownFiles } from './lib/files.ts';
+import { validateExampleCapitalization } from './lib/markdown.ts';
 
 async function fixFile(filePath: string) {
   const content = await fs.readFile(filePath, 'utf-8');
@@ -18,12 +16,13 @@ async function fixFile(filePath: string) {
       const example = match[1] as string;
 
       if (!validateExampleCapitalization(example)) {
-        const first = example[0] as string;
-        const fixed = first.toUpperCase() + example.slice(1);
+        const fixed = example.replace(/\p{Ll}/u, (letter) =>
+          letter.toUpperCase(),
+        );
         lines[i] = `eg: ${fixed}`;
         changed = true;
         console.log(
-          `Fixed: "${example}" -> "${fixed}" in ${path.relative(assetsDir, filePath)}`,
+          `Fixed: "${example}" -> "${fixed}" in ${path.relative(contentDirectory, filePath)}`,
         );
       }
     }
@@ -34,16 +33,7 @@ async function fixFile(filePath: string) {
   }
 }
 
-const files = [
-  ...(await fs.readdir(assetsDir))
-    .filter((f) => f.endsWith('.md'))
-    .map((f) => path.join(assetsDir, f)),
-  ...(await fs.readdir(grammarDir))
-    .filter((f) => f.endsWith('.md'))
-    .map((f) => path.join(grammarDir, f)),
-];
-
-for (const file of files) {
+for (const file of await listMarkdownFiles()) {
   await fixFile(file);
 }
 
