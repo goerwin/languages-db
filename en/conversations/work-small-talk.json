@@ -1,0 +1,205 @@
+{
+  "scenes": [
+    {
+      "id": "monday-catch-up",
+      "title": "Monday catch-up",
+      "summary": "Share what you did over the weekend and on a trip.",
+      "partner": {
+        "name": "Chris",
+        "role": "Teammate",
+        "avatar": "👨🏻‍💻"
+      },
+      "turns": [
+        {
+          "id": "went-hiking",
+          "message": "Morning! How was your weekend?",
+          "hint": "On Saturday you walked mountain trails.",
+          "reply": "Good! I went hiking on Saturday.",
+          "wrongReplies": [
+            "Good! I did a hike walking in Saturday.",
+            "Good! I walked mountain for hobby."
+          ],
+          "note": "“Went hiking” means you walked outdoors on trails for fun."
+        },
+        {
+          "id": "catch-up-on-sleep",
+          "message": "Nice! And Sunday?",
+          "hint": "You slept a lot after a busy week.",
+          "reply": "I caught up on sleep.",
+          "wrongReplies": [
+            "I reached the sleep again.",
+            "I completed my sleeping."
+          ],
+          "note": "“Catch up on sleep” means to sleep extra after not getting enough."
+        },
+        {
+          "id": "stayed-downtown",
+          "message": "Weren’t you in Chicago last month? Where did you stay?",
+          "hint": "In the center of the city.",
+          "reply": "We stayed downtown.",
+          "wrongReplies": [
+            "We stayed in the down city.",
+            "We slept in the centerly."
+          ],
+          "note": "“Downtown” is the central business and shopping area of a city."
+        },
+        {
+          "id": "tried-local-food",
+          "message": "What did you eat there?",
+          "hint": "Food the area is known for.",
+          "reply": "We tried some local food.",
+          "wrongReplies": [
+            "We tested foods of the location.",
+            "We proved the typical food."
+          ],
+          "note": "“Local food” is food typical of the area you’re visiting."
+        },
+        {
+          "id": "flight-delayed",
+          "message": "How was the trip back?",
+          "hint": "Your plane left later than planned.",
+          "reply": "Our flight was delayed.",
+          "wrongReplies": [
+            "Our flight delayed itself.",
+            "The airplane was late delayed."
+          ],
+          "note": "A delayed flight leaves or arrives later than planned."
+        }
+      ],
+      "closing": "Ugh, I hate that. Well, welcome back! 👋"
+    },
+    {
+      "id": "busy-day",
+      "title": "Busy day",
+      "summary": "Chat about your morning and plan a quick lunch.",
+      "partner": {
+        "name": "Chris",
+        "role": "Teammate",
+        "avatar": "👨🏻‍💻"
+      },
+      "turns": [
+        {
+          "id": "busy-morning",
+          "message": "Hey, how’s your morning going?",
+          "hint": "You’ve had a lot to do.",
+          "reply": "It’s been a pretty busy morning.",
+          "wrongReplies": [
+            "It has passed a morning very occupied.",
+            "My morning is with much work."
+          ],
+          "note": "“Pretty” here means “fairly” and sounds conversational."
+        },
+        {
+          "id": "traffic-was-bad",
+          "message": "Same here. And I was late because of the roads 🚗 You?",
+          "hint": "Your drive in was slow too.",
+          "reply": "Traffic was pretty bad.",
+          "wrongReplies": [
+            "The traffic was very badly.",
+            "There were bad traffics."
+          ],
+          "note": "A casual way to say the roads were crowded and slow."
+        },
+        {
+          "id": "working-from-home",
+          "message": "Are you coming in tomorrow?",
+          "hint": "You’ll work at home instead.",
+          "reply": "I’m working from home tomorrow.",
+          "wrongReplies": [
+            "I will work of the house tomorrow.",
+            "Tomorrow I work in my home place."
+          ],
+          "note": "“Work from home” means doing your job from your home."
+        },
+        {
+          "id": "grab-a-bite",
+          "message": "Okay! I’m starving, by the way.",
+          "hint": "Suggest getting something quick to eat.",
+          "reply": "Want to grab a bite?",
+          "wrongReplies": [
+            "Do you want to take one bite?",
+            "Would you like to catch a food?"
+          ],
+          "note": "A casual way to suggest getting a quick meal together."
+        },
+        {
+          "id": "sounds-good",
+          "message": "Sure! The taco place at noon?",
+          "hint": "You like the idea.",
+          "reply": "That sounds good.",
+          "wrongReplies": ["That listens good.", "That sounds me well."],
+          "note": "A natural way to agree with a suggestion."
+        }
+      ],
+      "closing": "Perfect, see you at noon! 🌮"
+    },
+    {
+      "id": "weekend-plans",
+      "title": "Weekend plans",
+      "summary": "Make casual plans to hang out.",
+      "partner": {
+        "name": "Dani",
+        "role": "Coworker",
+        "avatar": "👩🏼‍🦰"
+      },
+      "turns": [
+        {
+          "id": "free-this-weekend",
+          "message": "Finally Friday! 🎉",
+          "hint": "Ask about their plans for this weekend.",
+          "reply": "Are you doing anything this weekend?",
+          "wrongReplies": [
+            "Do you make something in this weekend?",
+            "Are you occupied with any thing?"
+          ],
+          "note": "A friendly way to ask if someone has plans."
+        },
+        {
+          "id": "hang-out",
+          "message": "Not really. Just relaxing.",
+          "hint": "Suggest spending some casual time together.",
+          "reply": "Do you want to hang out sometime?",
+          "wrongReplies": [
+            "Do you want to suspend somewhere?",
+            "Do you want to stay hanging?"
+          ],
+          "note": "“Hang out” means to spend relaxed time together."
+        },
+        {
+          "id": "meet-up",
+          "message": "I’d love that! Saturday?",
+          "hint": "Ask where to see each other.",
+          "reply": "Sure! Where should we meet up?",
+          "wrongReplies": [
+            "Sure! Where we ought to encounter up?",
+            "Sure! Where should we make meeting?"
+          ],
+          "note": "“Meet up” means to get together at a place you agree on."
+        },
+        {
+          "id": "swing-by",
+          "message": "Oh, and I still have your book. When can you get it?",
+          "hint": "You’ll stop at their place for a moment on your way home.",
+          "reply": "I can swing by after work.",
+          "wrongReplies": [
+            "I can move in circles after work.",
+            "I can pass swinging after the job."
+          ],
+          "note": "“Swing by” means to visit somewhere quickly and casually."
+        },
+        {
+          "id": "let-you-know",
+          "message": "Great! Text me what time works for Saturday.",
+          "hint": "You’re not sure yet, but you’ll tell them later.",
+          "reply": "I’ll let you know.",
+          "wrongReplies": [
+            "I will allow you to know it.",
+            "I let you knowing later."
+          ],
+          "note": "Means you’ll tell someone later, once you know."
+        }
+      ],
+      "closing": "Sounds good. Have a great weekend! ☀️"
+    }
+  ]
+}

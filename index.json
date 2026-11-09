@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "languages": [
+    {
+      "id": "en",
+      "name": "English",
+      "nativeName": "English",
+      "speechLocale": "en-US"
+    },
+    {
+      "id": "es",
+      "name": "Spanish",
+      "nativeName": "Español",
+      "speechLocale": "es-MX"
+    }
+  ]
+}

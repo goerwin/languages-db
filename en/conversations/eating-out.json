@@ -1,0 +1,131 @@
+{
+  "scenes": [
+    {
+      "id": "table-for-two",
+      "title": "Table for two",
+      "summary": "Order a meal, ask for changes, and pay.",
+      "partner": {
+        "name": "Alex",
+        "role": "Server",
+        "avatar": "🤵🏻"
+      },
+      "turns": [
+        {
+          "id": "look-at-menu",
+          "message": "Hi there! Are you ready to order?",
+          "hint": "You need a bit more time.",
+          "reply": "Could I have another minute?",
+          "wrongReplies": [
+            "Can you give me one more minute time?",
+            "I need a minute more, please me."
+          ],
+          "note": "A polite, natural way to ask for more time."
+        },
+        {
+          "id": "recommendation",
+          "message": "Sure, no rush. Any questions about the menu?",
+          "hint": "Ask for a suggestion.",
+          "reply": "What do you recommend?",
+          "wrongReplies": ["What you recommend me?", "Which food you advice?"],
+          "note": "Ask for someone’s suggestion about what to order."
+        },
+        {
+          "id": "order-entree",
+          "message": "The grilled salmon is really popular tonight.",
+          "hint": "Order the salmon.",
+          "reply": "I’ll have the grilled salmon.",
+          "wrongReplies": [
+            "I will take the grilled salmon for me.",
+            "Give to me the grilled salmon."
+          ],
+          "note": "“I’ll have…” is a common way to order food."
+        },
+        {
+          "id": "no-onions",
+          "message": "Great choice! It comes with a red onion salsa.",
+          "hint": "You don’t want onions.",
+          "reply": "Could I get it without onions?",
+          "wrongReplies": [
+            "Can you remove me the onions?",
+            "I want it no onions inside."
+          ],
+          "note": "A polite way to ask for an ingredient to be left out."
+        },
+        {
+          "id": "check-please",
+          "message": "How was everything? Can I get you anything else?",
+          "hint": "You’re ready to pay.",
+          "reply": "Could we get the check, please?",
+          "wrongReplies": [
+            "Can we have the account paper?",
+            "Bring us the money thing."
+          ],
+          "note": "In the US, “the check” is the bill at a restaurant."
+        }
+      ],
+      "closing": "Here you go. Thanks for coming in! 😊"
+    },
+    {
+      "id": "coffee-run",
+      "title": "Coffee run",
+      "summary": "Order coffee and breakfast at a café.",
+      "partner": {
+        "name": "Sam",
+        "role": "Barista",
+        "avatar": "🧑🏾"
+      },
+      "turns": [
+        {
+          "id": "coffee-to-go",
+          "message": "Morning! What can I get you?",
+          "hint": "A coffee you’ll take with you.",
+          "reply": "Can I get a coffee to go?",
+          "wrongReplies": [
+            "Can I get a coffee for going?",
+            "Can I take coffee out to go away?"
+          ],
+          "note": "“To go” means you will take the food or drink away."
+        },
+        {
+          "id": "oat-milk",
+          "message": "Sure! Any milk in that?",
+          "hint": "You want oat milk.",
+          "reply": "Could you make that with oat milk?",
+          "wrongReplies": [
+            "Can you put the oats milk on it?",
+            "Make it with milk from oats, can?"
+          ],
+          "note": "Use “with” to say which milk or ingredient you want."
+        },
+        {
+          "id": "breakfast-sandwich",
+          "message": "Anything to eat? Our egg and cheese rolls just came out.",
+          "hint": "Eggs and cheese inside a roll.",
+          "reply": "I’ll get a breakfast sandwich.",
+          "wrongReplies": [
+            "I’ll take a sandwich of breakfast.",
+            "I’ll buy bread with morning food."
+          ],
+          "note": "A breakfast sandwich usually has egg and other fillings in bread."
+        },
+        {
+          "id": "scrambled-eggs",
+          "message": "How do you like your eggs?",
+          "hint": "Eggs stirred while they cook.",
+          "reply": "Scrambled, please.",
+          "wrongReplies": ["Scrambling, please.", "In cooked pieces, please."],
+          "note": "“Scrambled” describes eggs stirred while cooking."
+        },
+        {
+          "id": "coffee-strong",
+          "message": "Here you go! How’s the coffee?",
+          "hint": "It’s stronger than you expected.",
+          "reply": "It’s pretty strong!",
+          "wrongReplies": ["It has a big force!", "It’s very powerful taste!"],
+          "note": "“Pretty” can mean “fairly” or “quite” in casual speech."
+        }
+      ],
+      "closing": "Haha, that’ll wake you up ☕ Have a good one!"
+    }
+  ]
+}
